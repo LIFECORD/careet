@@ -53,3 +53,12 @@ dateSelector = "span.news-time"
 dateFormat = "yyyy.MM.dd"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[dictionary]
+title = "Careet ─ Contents ─ MZ 용어 사전"
+url = "https://www.careet.net/Dictionary"
+entrySelector = "div.footnote-cont-box ul li"
+titleSelector = "em.footnote-key.fw700"
+linkSelector = "a.h-light.fw700"
+contentSelector = "p.text"
+waitUntil = "networkidle"
