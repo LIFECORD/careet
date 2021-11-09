@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 09 Nov 2021 15:53:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 인친, 트친, 블친 다 소환하는 이벤트가 있다고?]]></title>
+            <link>https://www.careet.net/539</link>
+            <guid>https://www.careet.net/539</guid>
+            <pubDate>Tue, 09 Nov 2021 15:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[영업 비밀 다 털어봤습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4bac41c6-3780-4fac-970c-55a9235126be_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대 사이에서 난리 난 삼성전자 ‘외계인 납치설’ 들어보셨어요?]]></title>
+            <link>https://www.careet.net/532</link>
+            <guid>https://www.careet.net/532</guid>
+            <pubDate>Tue, 09 Nov 2021 15:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 폰꾸족들이 갤럭시 Z 플립3를 사는 이유]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/674cb77c-dfca-4ccf-8621-2ba51f9c7c05_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[메타버스 세계관 이렇게 활용하세요! 국민은행 광고 700만 뷰의 비결은?]]></title>
+            <link>https://www.careet.net/527</link>
+            <guid>https://www.careet.net/527</guid>
+            <pubDate>Tue, 09 Nov 2021 15:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[세계관에 진심인 MZ세대는 이런 광고에 반응합니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/e71616b2-88cf-4aec-9303-0347dd29e7c1_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이제는 광고에도 할매니얼 트렌드가 대세라고?!]]></title>
+            <link>https://www.careet.net/519</link>
+            <guid>https://www.careet.net/519</guid>
+            <pubDate>Tue, 09 Nov 2021 15:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[MZ세대 관심 싹쓸이하는 신제품 마케팅이란 이런 것!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/55614ea3-b246-4654-9b67-83ea02a5e5ff_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ 입맛에 딱 맞는 패러디, 이벤트, 콜라보의 비밀!]]></title>
+            <link>https://www.careet.net/514</link>
+            <guid>https://www.careet.net/514</guid>
+            <pubDate>Tue, 09 Nov 2021 15:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 농심이 ‘열일한다’고 칭찬받는 3가지 이유 분석해드림]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/3512504c-cdbd-43b4-afcf-142de6ef7671_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[틱톡에서 흥하는 브랜드 챌린지 비법, ‘바밤바송’에 있다!]]></title>
+            <link>https://www.careet.net/507</link>
+            <guid>https://www.careet.net/507</guid>
+            <pubDate>Tue, 09 Nov 2021 15:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[‘바밤바송’을 보면 흥하는 CM송 법칙이 보인다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/11c15cdf-3c82-4892-83c7-d8b38d679c0a_770x426.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
