@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 17:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 05:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국관광공사가 Z세대에 칭찬받는 공기업으로 꼽히는 이유]]></title>
+            <link>https://www.careet.net/553</link>
+            <guid>https://www.careet.net/553</guid>
+            <pubDate>Mon, 15 Nov 2021 05:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[국내외 Z세대가 열광한 공기업의 레트로 활용법]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/33764514-e7ea-480a-aa84-ef800ef96e08_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 인친, 트친, 블친 다 소환하는 이벤트가 있다고?]]></title>
             <link>https://www.careet.net/539</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 09 Nov 2021 15:53:07 GMT</pubDate>
             <content:encoded><![CDATA[요즘 농심이 ‘열일한다’고 칭찬받는 3가지 이유 분석해드림]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/3512504c-cdbd-43b4-afcf-142de6ef7671_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡에서 흥하는 브랜드 챌린지 비법, ‘바밤바송’에 있다!]]></title>
-            <link>https://www.careet.net/507</link>
-            <guid>https://www.careet.net/507</guid>
-            <pubDate>Tue, 09 Nov 2021 15:53:07 GMT</pubDate>
-            <content:encoded><![CDATA[‘바밤바송’을 보면 흥하는 CM송 법칙이 보인다!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/11c15cdf-3c82-4892-83c7-d8b38d679c0a_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
