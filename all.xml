@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Combined feed</title>
+        <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 05:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 17:41:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[해외 Z세대는 영수증으로 플리를 공유한다고? 당근마켓 대신 '이것' 씀! (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[공식에서 정리해드립니다, 2022 트렌드 능력고사 풀이]]></title>
+            <link>https://www.careet.net/563</link>
+            <guid>https://www.careet.net/563</guid>
+            <pubDate>Tue, 23 Nov 2021 17:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[트능 정답 찾으시는 분?! 여기서 풀이 보고 가세요.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/cc61cbe8-5a9b-4166-a398-c63e5db3f0b8_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[해외 Z세대는 영수증으로 플리를 공유한다고? 당근마켓 대신 '이것' 씀!]]></title>
             <link>https://www.careet.net/558</link>
             <guid>https://www.careet.net/558</guid>
             <pubDate>Tue, 23 Nov 2021 05:36:08 GMT</pubDate>
@@ -16,7 +24,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/fca6044c-720a-41b0-a07f-4f88d84b877c_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[올드한 브랜드 이미지 → 1020이 좋아하는 이미지로 탈바꿈하는 법 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[올드한 브랜드 이미지 → 1020이 좋아하는 이미지로 탈바꿈하는 법]]></title>
             <link>https://www.careet.net/560</link>
             <guid>https://www.careet.net/560</guid>
             <pubDate>Mon, 22 Nov 2021 05:36:22 GMT</pubDate>
@@ -24,7 +32,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/ef633530-aa66-4264-951f-9216d2cac375_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[버킷리스트를 보면 트렌드가 보인다! 수능 끝난 고3 근황.txt (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[버킷리스트를 보면 트렌드가 보인다! 수능 끝난 고3 근황.txt]]></title>
             <link>https://www.careet.net/559</link>
             <guid>https://www.careet.net/559</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -32,14 +40,14 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4fa01ac4-0823-4b43-91df-d96dabed06b0_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Z세대가 갑자기 SNS에서 ‘문익점’을 외치고 있는 이유는? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[Z세대가 갑자기 SNS에서 ‘문익점’을 외치고 있는 이유는?]]></title>
             <link>https://www.careet.net/557</link>
             <guid>https://www.careet.net/557</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/562303ae-4571-4b5d-be6c-eb4aeb0c1604_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[나 대신 인형 여행보내는 상품에 1020 예약이 폭주한 이유 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[나 대신 인형 여행보내는 상품에 1020 예약이 폭주한 이유]]></title>
             <link>https://www.careet.net/555</link>
             <guid>https://www.careet.net/555</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -47,7 +55,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/17547afc-a9d3-4eb0-ab67-a999cefd9d77_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[2022년 굿즈 만들려면 ‘별다꾸’부터 알고 가셔야 합니다 (feat. 총정리) (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[2022년 굿즈 만들려면 ‘별다꾸’부터 알고 가셔야 합니다 (feat. 총정리)]]></title>
             <link>https://www.careet.net/556</link>
             <guid>https://www.careet.net/556</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -55,7 +63,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/0f9cdb3c-4917-46a4-b1d4-be52ce73db33_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[요즘 힙한 브랜드는 다 ‘플리 마케팅’ 한다며? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[요즘 힙한 브랜드는 다 ‘플리 마케팅’ 한다며?]]></title>
             <link>https://www.careet.net/554</link>
             <guid>https://www.careet.net/554</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -63,7 +71,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/7cd79fc8-57a2-46e6-b8c7-f599ea21813a_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한국관광공사가 Z세대에 칭찬받는 공기업으로 꼽히는 이유 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[한국관광공사가 Z세대에 칭찬받는 공기업으로 꼽히는 이유]]></title>
             <link>https://www.careet.net/553</link>
             <guid>https://www.careet.net/553</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -71,7 +79,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/33764514-e7ea-480a-aa84-ef800ef96e08_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[당장 써먹는 짤줍] ○○ : △△할게 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[[당장 써먹는 짤줍] ○○ : △△할게]]></title>
             <link>https://www.careet.net/552</link>
             <guid>https://www.careet.net/552</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -79,7 +87,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/72b3c987-e57e-4ce7-a6b8-e9e881c11c2f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Z세대 인스타그램이 ‘이것’으로 도배됐다고? 이주의 떡상 아이템 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[Z세대 인스타그램이 ‘이것’으로 도배됐다고? 이주의 떡상 아이템]]></title>
             <link>https://www.careet.net/551</link>
             <guid>https://www.careet.net/551</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -87,7 +95,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/631a2d38-9c83-4659-8a95-7fd7485650db_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Z세대와 제페토 핫플 투어 다녀왔습니다 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[Z세대와 제페토 핫플 투어 다녀왔습니다]]></title>
             <link>https://www.careet.net/547</link>
             <guid>https://www.careet.net/547</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -95,7 +103,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/e2748624-3221-49d0-aba8-9476e143ac30_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[성공하는 오프라인 공간의 비밀! ‘OO의 방 콘셉트’ (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[성공하는 오프라인 공간의 비밀! ‘OO의 방 콘셉트’]]></title>
             <link>https://www.careet.net/543</link>
             <guid>https://www.careet.net/543</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -103,7 +111,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/956b9f74-653a-4041-bb8a-8e2fa8855949_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[해외 Z세대가 토스처럼 쓰는 앱? 프랑스에서는 도넛 대신 OOO이 유행이라고? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[해외 Z세대가 토스처럼 쓰는 앱? 프랑스에서는 도넛 대신 OOO이 유행이라고?]]></title>
             <link>https://www.careet.net/546</link>
             <guid>https://www.careet.net/546</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -111,7 +119,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/32152485-a4d3-46ae-86e8-6079c3845afe_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[미리 보고 앞서가는 2022 밀레니얼-Z세대 트렌드 이슈 5 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[미리 보고 앞서가는 2022 밀레니얼-Z세대 트렌드 이슈 5]]></title>
             <link>https://www.careet.net/545</link>
             <guid>https://www.careet.net/545</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -119,7 +127,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/b26d83c5-7093-4861-9509-430569cf010d_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Z세대가 집에 반가사유상을 들이고 있다고? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[Z세대가 집에 반가사유상을 들이고 있다고?]]></title>
             <link>https://www.careet.net/544</link>
             <guid>https://www.careet.net/544</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -127,7 +135,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/3b3f8cf9-04ee-423b-b8a7-4ccdcc3fd774_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[인기 급상승 밈! ‘내가 침울해하면 OO이 개인기 △△를 해준다’ (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[인기 급상승 밈! ‘내가 침울해하면 OO이 개인기 △△를 해준다’]]></title>
             <link>https://www.careet.net/542</link>
             <guid>https://www.careet.net/542</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -135,7 +143,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/490d1b93-2f9a-4d59-ab3e-ffca37b32781_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Z세대 신입사원은 왜 그렇게 회식이 싫을까? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[Z세대 신입사원은 왜 그렇게 회식이 싫을까?]]></title>
             <link>https://www.careet.net/541</link>
             <guid>https://www.careet.net/541</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -143,7 +151,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/57abb018-3e27-4460-9cfe-cd6383c4366f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Z세대는 ‘시그’로 연말 분위기를 낸다! 근데 시즌 그리팅이 뭐야? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[Z세대는 ‘시그’로 연말 분위기를 낸다! 근데 시즌 그리팅이 뭐야?]]></title>
             <link>https://www.careet.net/540</link>
             <guid>https://www.careet.net/540</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -151,7 +159,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/c88883fd-7027-4152-ab6a-49aebc384ff6_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[플리퍼즈? 그림합작? 캐릿에서만 볼 수 있는 알파세대 트렌드 모음 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[플리퍼즈? 그림합작? 캐릿에서만 볼 수 있는 알파세대 트렌드 모음]]></title>
             <link>https://www.careet.net/538</link>
             <guid>https://www.careet.net/538</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -159,7 +167,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/09afe035-995e-4d76-bd54-85940b3c23f0_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Z세대가 인친, 트친, 블친 다 소환하는 이벤트가 있다고? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[Z세대가 인친, 트친, 블친 다 소환하는 이벤트가 있다고?]]></title>
             <link>https://www.careet.net/539</link>
             <guid>https://www.careet.net/539</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -167,7 +175,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4bac41c6-3780-4fac-970c-55a9235126be_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[요즘 고등학생들이 필수로 공구한다는 이것 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[요즘 고등학생들이 필수로 공구한다는 이것]]></title>
             <link>https://www.careet.net/537</link>
             <guid>https://www.careet.net/537</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -175,7 +183,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/14f9e75c-ec04-43f4-96da-f5c4bb06a8de_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[손가락 하트 가고 곰돌이 하트가 왔다? 이주의 떡상 아이템 4 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[손가락 하트 가고 곰돌이 하트가 왔다? 이주의 떡상 아이템 4]]></title>
             <link>https://www.careet.net/536</link>
             <guid>https://www.careet.net/536</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -183,7 +191,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/9ec3e24c-03bf-4a34-8cfa-4b84a907fd47_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[MZ세대는 UI/UX 디자이너의 의도대로 앱을 이용하고 있을까? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[MZ세대는 UI/UX 디자이너의 의도대로 앱을 이용하고 있을까?]]></title>
             <link>https://www.careet.net/535</link>
             <guid>https://www.careet.net/535</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -191,7 +199,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/d99e4290-db6f-4b9d-8fc5-84292e2ae4be_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Z세대 신입사원이 소문내고 싶어하는 온보딩은 이런 것! (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[Z세대 신입사원이 소문내고 싶어하는 온보딩은 이런 것!]]></title>
             <link>https://www.careet.net/533</link>
             <guid>https://www.careet.net/533</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -199,7 +207,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/c3f6021c-7f36-4964-a975-2162468d5573_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[MZ세대는 정말 콜라보 술에 열광하고 있을까? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[MZ세대는 정말 콜라보 술에 열광하고 있을까?]]></title>
             <link>https://www.careet.net/534</link>
             <guid>https://www.careet.net/534</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -207,7 +215,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/cb0cf550-b827-4bd4-a93a-8c6479ceb0d2_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[MZ세대 사이에서 난리 난 삼성전자 ‘외계인 납치설’ 들어보셨어요? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[MZ세대 사이에서 난리 난 삼성전자 ‘외계인 납치설’ 들어보셨어요?]]></title>
             <link>https://www.careet.net/532</link>
             <guid>https://www.careet.net/532</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -215,7 +223,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/674cb77c-dfca-4ccf-8621-2ba51f9c7c05_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[방꾸템부터 New 치킨 브랜드까지, 이번 주 Z세대의 떡상템 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[방꾸템부터 New 치킨 브랜드까지, 이번 주 Z세대의 떡상템]]></title>
             <link>https://www.careet.net/531</link>
             <guid>https://www.careet.net/531</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -223,7 +231,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/3926bc96-f542-42cd-bd9a-5041fac68d9a_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[요즘 10대는‘헐’을 안 쓴다고? 그럼 무슨 감탄사 쓰는지 팩첵했습니다 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[요즘 10대는‘헐’을 안 쓴다고? 그럼 무슨 감탄사 쓰는지 팩첵했습니다]]></title>
             <link>https://www.careet.net/525</link>
             <guid>https://www.careet.net/525</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -231,7 +239,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/f1a4e4e1-48ce-4e8c-8d98-8fd11c77ed9f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[수능 응원 선물에도 트렌드가 있다! 수험생 69%가 뽑은 주나 마나한 선물 1위는? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[수능 응원 선물에도 트렌드가 있다! 수험생 69%가 뽑은 주나 마나한 선물 1위는?]]></title>
             <link>https://www.careet.net/530</link>
             <guid>https://www.careet.net/530</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -239,7 +247,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/ca55eecd-2363-412d-b925-3e446af3d813_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[보정 필터만 쓰면 밀레니얼, OOO 필터까지 쓰면 Z세대 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[보정 필터만 쓰면 밀레니얼, OOO 필터까지 쓰면 Z세대]]></title>
             <link>https://www.careet.net/522</link>
             <guid>https://www.careet.net/522</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -247,7 +255,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/8f84e6eb-3afd-4e83-9629-462829c13206_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[데이터로 보는 Z세대, 밀레니얼, X세대, 86세대 직장인 인식 차이 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[데이터로 보는 Z세대, 밀레니얼, X세대, 86세대 직장인 인식 차이]]></title>
             <link>https://www.careet.net/529</link>
             <guid>https://www.careet.net/529</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -255,7 +263,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/206774f8-9643-4e3a-9bc7-8719ec300418_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[메타버스 세계관 이렇게 활용하세요! 국민은행 광고 700만 뷰의 비결은? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[메타버스 세계관 이렇게 활용하세요! 국민은행 광고 700만 뷰의 비결은?]]></title>
             <link>https://www.careet.net/527</link>
             <guid>https://www.careet.net/527</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -263,7 +271,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/e71616b2-88cf-4aec-9303-0347dd29e7c1_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이 말 모르면 Z세대랑 소통 불가! ‘킹받네’ 해석해드립니다 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[이 말 모르면 Z세대랑 소통 불가! ‘킹받네’ 해석해드립니다]]></title>
             <link>https://www.careet.net/526</link>
             <guid>https://www.careet.net/526</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -271,7 +279,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/657b4247-2933-4ab3-886d-c79c9ea1633b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이번 주 Z세대 트위터 피드에 뜬 떡상템이 궁금하다면? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[이번 주 Z세대 트위터 피드에 뜬 떡상템이 궁금하다면?]]></title>
             <link>https://www.careet.net/524</link>
             <guid>https://www.careet.net/524</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -279,7 +287,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/9120fa4b-2a70-4f81-8cab-f6ae2d28c5cf_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Z세대의 놀라운 디지털 스킬: ‘이럴’ 때 ‘이걸’ 사용한다! (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[Z세대의 놀라운 디지털 스킬: ‘이럴’ 때 ‘이걸’ 사용한다!]]></title>
             <link>https://www.careet.net/523</link>
             <guid>https://www.careet.net/523</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -287,7 +295,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/a8c88f9a-97df-41d5-b9e2-a1a210deb505_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[당장 써먹는 짤줍] 곧 대유행 예감! 지금 놓치면 후회하는 <쇼미더머니 10> 밈 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[[당장 써먹는 짤줍] 곧 대유행 예감! 지금 놓치면 후회하는 <쇼미더머니 10> 밈]]></title>
             <link>https://www.careet.net/520</link>
             <guid>https://www.careet.net/520</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -295,7 +303,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/1a02ace3-e978-44ba-b359-ff4a1ba88f7c_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이제는 광고에도 할매니얼 트렌드가 대세라고?! (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[이제는 광고에도 할매니얼 트렌드가 대세라고?!]]></title>
             <link>https://www.careet.net/519</link>
             <guid>https://www.careet.net/519</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -303,7 +311,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/55614ea3-b246-4654-9b67-83ea02a5e5ff_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[스우파 댄서=Z세대 선생님? 아이돌도 아닌데 춤 배우는 요즘 1020 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[스우파 댄서=Z세대 선생님? 아이돌도 아닌데 춤 배우는 요즘 1020]]></title>
             <link>https://www.careet.net/508</link>
             <guid>https://www.careet.net/508</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -311,7 +319,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/f4a6d4ec-3bbf-4887-aac9-f0d853b6d5a9_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[쉿! 우리끼리 봐요. Z세대 팬 비율이 높은 아티스트 LIST (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[쉿! 우리끼리 봐요. Z세대 팬 비율이 높은 아티스트 LIST]]></title>
             <link>https://www.careet.net/518</link>
             <guid>https://www.careet.net/518</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -319,7 +327,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/ad2529c1-f8e1-4bd4-a5c5-febc3f439d79_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[<오징어 게임> 코인 타고 떡상한 아이템 모음.zip (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[<오징어 게임> 코인 타고 떡상한 아이템 모음.zip]]></title>
             <link>https://www.careet.net/517</link>
             <guid>https://www.careet.net/517</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -327,7 +335,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/73ce74fa-f186-4d1c-9f70-2e43ed331fc1_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[모트모트가 직접 말하는 인스타 17만 팔로우의 비결은? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[모트모트가 직접 말하는 인스타 17만 팔로우의 비결은?]]></title>
             <link>https://www.careet.net/511</link>
             <guid>https://www.careet.net/511</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -335,7 +343,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/41b5aefc-c3e5-44a8-81bc-f909ca99f365_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[별걸 다 꾸미는 Z세대의 필수템, 2021 스티커 트렌드! (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[별걸 다 꾸미는 Z세대의 필수템, 2021 스티커 트렌드!]]></title>
             <link>https://www.careet.net/516</link>
             <guid>https://www.careet.net/516</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -343,7 +351,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/23c62bc9-6567-43a7-9bc2-6d3d93ca8dd8_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[반모자? 젬선? 검색으로 알 수 없는 제페토 문화·예절 알려드립니다! (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[반모자? 젬선? 검색으로 알 수 없는 제페토 문화·예절 알려드립니다!]]></title>
             <link>https://www.careet.net/515</link>
             <guid>https://www.careet.net/515</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -351,7 +359,31 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/c23e6618-7089-4c42-9352-cd232a0d34f4_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[코로나19 이후 MZ세대 여행 트렌드 총정리 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <title><![CDATA[코로나19 이후 MZ세대 여행 트렌드 총정리]]></title>
+            <link>https://www.careet.net/506</link>
+            <guid>https://www.careet.net/506</guid>
+            <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[여행에서 빼놓을 수 없는 숙소! MZ세대 픽은?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/b3b8959f-faf4-488c-a402-faa99635057f_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ 입맛에 딱 맞는 패러디, 이벤트, 콜라보의 비밀!]]></title>
+            <link>https://www.careet.net/514</link>
+            <guid>https://www.careet.net/514</guid>
+            <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 농심이 ‘열일한다’고 칭찬받는 3가지 이유 분석해드림]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/3512504c-cdbd-43b4-afcf-142de6ef7671_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스 <오징어 게임>이 MZ세대에게 미친 영향력은?!]]></title>
+            <link>https://www.careet.net/513</link>
+            <guid>https://www.careet.net/513</guid>
+            <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[10월 1주차 트렌드 아이템 모음.zip]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/a115c60f-ecc0-4252-8cc8-2be2ca525e55_770x426.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>areet ─ Contents ─ 전체 보기)]]></title>
             <link>https://www.careet.net/506</link>
             <guid>https://www.careet.net/506</guid>
             <pubDate>Sun, 21 Nov 2021 17:41:32 GMT</pubDate>
@@ -530,46 +562,46 @@
                                                 <a href="https://www.seoul.co.kr/news/newsView.php?id=20211116500174&amp;wlog_tag3=naver" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ㄱㅇㅇ (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[킹리적 갓심 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Nov 2021 05:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[‘귀여워’를 초성만으로 표현한 단어.]]></content:encoded>
+            <pubDate>Tue, 23 Nov 2021 17:41:53 GMT</pubDate>
+            <content:encoded><![CDATA['합리적 의심'에 접두어 '킹'과 '갓'을 붙여 강조한 신조어.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스밍 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[고인 물 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Nov 2021 05:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[스트리밍의 줄임말. 아이돌 팬들이 음원 사이트에서 응원하는 가수의 노래를 차트 1위로 만들어주기 위해 반복해서 듣는 것을 ‘스밍 돌린다’고 표현함.]]></content:encoded>
+            <pubDate>Tue, 23 Nov 2021 17:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[특정 분야에 막대한 시간과 정성을 투자하여 경지에 이른 사람을 뜻함. ‘고수’, ‘헤비 유저’와 비슷한 의미.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[공병템 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[온클 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Nov 2021 05:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content:encoded>
+            <pubDate>Tue, 23 Nov 2021 17:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[‘온라인 클래스’의 줄임말.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[캐릿 1020 해외 특파원 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[원툴 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Nov 2021 05:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[1020으로 구성된 캐릿의 해외 트렌드 자문 그룹. 해외 각국의 Z세대 트렌드를 발 빠르게 전하는 역할을 맡고 있음.]]></content:encoded>
+            <pubDate>Tue, 23 Nov 2021 17:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[(one tool) 한 가지만 잘 한다는 말.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[손민수 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[유튜브 프리미엄 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Nov 2021 05:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[웹툰 &lt;치즈 인 더 트랩&gt;의 등장인물로 주인공 홍설을 몰래 따라하는 캐릭터. MZ세대 사이에서 ‘따라한다’ = ‘손민수 한다’로 통함.]]></content:encoded>
+            <pubDate>Tue, 23 Nov 2021 17:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브 유료 요금제. 광고 제거, 동영상 다운로드 등의 서비스를 제공함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[플로깅 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[인용 알티 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 23 Nov 2021 05:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[줍다라는 뜻의 스웨덴어 ‘plocka upp’과  영단어 ‘jogging(조깅)’의 합성어. 조깅을 하면서 쓰레기를 줍는 운동을 뜻함. 최근 MZ세대 사이의 새로운 취미로 떠올랐음.]]></content:encoded>
+            <pubDate>Tue, 23 Nov 2021 17:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[트위터에서 다른 사람의 트윗 위에 자신의 의견을 덧붙여서 공유하는 기능.]]></content:encoded>
         </item>
     </channel>
 </rss>
