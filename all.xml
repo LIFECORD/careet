@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 17:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 05:36:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2020년 VS 2021년, 비대면 소통 어떻게 달라졌을까? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <link>https://www.careet.net/570</link>
+            <guid>https://www.careet.net/570</guid>
+            <pubDate>Tue, 30 Nov 2021 05:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[영상통화=대면 만남? Z세대 따라 X세대･86세대도 달라졌다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/b0751c29-0beb-4b5e-b008-41a1c69370b0_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[엔씨소프트가 만든 캐릭터, ‘도구리’는 왜 Z세대 사이에서 인기 있을까? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <link>https://www.careet.net/569</link>
+            <guid>https://www.careet.net/569</guid>
+            <pubDate>Tue, 30 Nov 2021 05:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램 이벤트로 브랜드 커뮤니티를 만드는 신박한 방법.txt]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4609eb90-8f5a-43e7-bb9b-4e6ac105379e_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[어렵다고 포기하실 건가요? Z세대는 이미 NFT에 주목하고 있습니다! (Careet ─ Contents ─ 전체 보기)]]></title>
             <link>https://www.careet.net/562</link>
@@ -519,6 +535,14 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/6eb6abad-c5d7-4287-9a89-d35b9622d616_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[엔씨소프트가 만든 캐릭터, ‘도구리’는 왜 Z세대 사이에서 인기 있을까? (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
+            <link>https://www.careet.net/569</link>
+            <guid>https://www.careet.net/569</guid>
+            <pubDate>Tue, 30 Nov 2021 05:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램 이벤트로 브랜드 커뮤니티를 만드는 신박한 방법.txt]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4609eb90-8f5a-43e7-bb9b-4e6ac105379e_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[한국관광공사가 Z세대에 칭찬받는 공기업으로 꼽히는 이유 (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
             <link>https://www.careet.net/553</link>
             <guid>https://www.careet.net/553</guid>
@@ -559,64 +583,56 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/55614ea3-b246-4654-9b67-83ea02a5e5ff_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[MZ 입맛에 딱 맞는 패러디, 이벤트, 콜라보의 비밀! (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
-            <link>https://www.careet.net/514</link>
-            <guid>https://www.careet.net/514</guid>
-            <pubDate>Sun, 28 Nov 2021 17:42:04 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 농심이 ‘열일한다’고 칭찬받는 3가지 이유 분석해드림]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/3512504c-cdbd-43b4-afcf-142de6ef7671_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BC카드, 2002 오마주 광고 발표 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
-            <link>https://sports.khan.co.kr/entertainment/sk_index.html?art_id=202111120849003&amp;sec_id=540101&amp;pt=nv</link>
-            <guid>https://sports.khan.co.kr/entertainment/sk_index.html?art_id=202111120849003&amp;sec_id=540101&amp;pt=nv</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[네이버 메타버스 생태계 '아크버스'...새로운 성장 동력 역할 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
+            <link>https://paxnetnews.com/articles/80759</link>
+            <guid>https://paxnetnews.com/articles/80759</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="pb30">
-                                                <div>BC카드가 아이돌 그룹 '이달의 소녀'의 '츄'를 광고 모델로 발탁했다고 합니다. 광고 내용도 함께 화제가 되고 있는데요. &nbsp;'2002' BC카드의 대표 광고 "여러분, 모두 부자 되세요"를 오마주했다고 합니다.</div><div><br></div><div>✅<strong>&nbsp;눈여겨볼 포인트</strong></div><div>- 삼성 Z플립3과 마찬가지로 오마주 광고라는 점. 최근 2000년대 광고를 리메이크하는 브랜드가 늘어나고 있음</div>
+                                                <div>국내 메타버스 강자인 네이버가 새로운 메타버스 생태계인 '아크버스'를 공개했습니다. 네이버랩스가 지난 5년간 준비해온 아크버스는 AI, 로봇, 클라우드, 디지털 트윈 기술 등을 융합해 현실 세계와 디지털 세계를 자연스럽게 연결하는 현실 기반의 융합 메타버스 생태계라고 합니다.<br><br>✅<strong>눈여겨볼 포인트</strong><br>- 아크버스의 기반 기술인 디지털 트윈은 현실 세계의 다양한 사물을 가상 세계에 구현하는 것을 말함.<br>- 아크버스는 현실 세계에서 물건을 구매하면 가상 세계에 바로 반영되는 실시간 동기화를 구현한다고 함.<br>- 올해 네이버가 국내 스타트업에 투자한 120억 중 메타버스 관련 기술 분야 투자가 37%임.</div>
                                             </span>
-                                                <a href="https://sports.khan.co.kr/entertainment/sk_index.html?art_id=202111120849003&amp;sec_id=540101&amp;pt=nv" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
+                                                <a href="https://paxnetnews.com/articles/80759" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[재질 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[현활 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 17:44:36 GMT</pubDate>
-            <content:encoded><![CDATA[느낌, 톤, 성향을 이르는 MZ세대 유행어.]]></content:encoded>
+            <pubDate>Tue, 30 Nov 2021 05:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[SNS에서 현재 활동중이라는 뜻.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연반인 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[세포마켓 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 17:44:36 GMT</pubDate>
-            <content:encoded><![CDATA[연예인과 일반인을 합친 신조어. 연예인은 아니지만 연예인 만큼의 화제성을 가진 인물을 뜻함. 대표적인 인물로는 SBS 소속 PD 재재가 있음.]]></content:encoded>
+            <pubDate>Tue, 30 Nov 2021 05:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[1인 미디어 시대에서 SNS를 통해 이뤄지는 1인 마켓. 기업 단위가 아닌 1인 사업자가 주를 이뤄 세포가 분열하는 것처럼 개인 단위로 발전하는 현상을 뜻함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인쇼 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[커미션(commission) (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 17:44:36 GMT</pubDate>
-            <content:encoded><![CDATA[‘인터넷 쇼핑’의 줄임말.]]></content:encoded>
+            <pubDate>Tue, 30 Nov 2021 05:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[보수를 받고 어떤 일을 처리해주는 행위. 주로 돈을 받고 원하는 콘텐츠(그림, 글)를 제작해줄 때 사용하는 말.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴짤 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[빌드업 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 17:44:36 GMT</pubDate>
-            <content:encoded><![CDATA[새로 뜬 사진, 새로 뜬 gif]]></content:encoded>
+            <pubDate>Tue, 30 Nov 2021 05:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[‘쌓아 올린다’는 뜻의 건축 용어 ‘빌드업(Build-up)’에서 유래한 표현. SNS에서는 ‘말하고자 하는 내용=결론을 강조하기 위해 앞단에 설명을 쌓는 것’이라는 뜻으로 쓰인다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[힙(hip) (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[고독한 채팅방 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 17:44:36 GMT</pubDate>
-            <content:encoded><![CDATA[유행에 민감하고 인기가 많음을 의미하는 단어. '힙하다', '힙한 OO'로 쓰임. (유사어: 트렌디하다)]]></content:encoded>
+            <pubDate>Tue, 30 Nov 2021 05:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이때싶 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[국그릇핑크퐁 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 17:44:36 GMT</pubDate>
-            <content:encoded><![CDATA['이때다 싶어'의 줄임말. 물 들어올 때 노 젓는다는 뜻.]]></content:encoded>
+            <pubDate>Tue, 30 Nov 2021 05:36:09 GMT</pubDate>
+            <content:encoded><![CDATA[웃음 소리를 나타낸 유행어 ‘ㅋㅋ루삥뽕’을 변형해서 쓰는 말.]]></content:encoded>
         </item>
     </channel>
 </rss>
