@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 17:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 05:36:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙한 Z세대는 아는 농부가 있다 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <link>https://www.careet.net/571</link>
+            <guid>https://www.careet.net/571</guid>
+            <pubDate>Thu, 02 Dec 2021 05:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대는 ‘진짜 싼 가격은 절대 아닌데, 싼 가격을 주고 맛없는 걸 먹을 바엔 맛있는 과일을 먹겠다는 마음으로’ 오늘도 산지 직송 농켓팅(농산물 티켓팅)에 도전 중입니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/a9b2078e-1384-4565-9d88-1f936b021f15_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MZ세대가 생각하는 ‘핫플’의 기준이 바뀌고 있다 (Careet ─ Contents ─ 전체 보기)]]></title>
             <link>https://www.careet.net/565</link>
@@ -383,56 +391,56 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/55614ea3-b246-4654-9b67-83ea02a5e5ff_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[파리바게뜨, ‘오늘의집’ 손잡고 홈파티용 굿즈 출시 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
-            <link>https://moneys.mt.co.kr/news/mwView.php?no=2021112610548033905</link>
-            <guid>https://moneys.mt.co.kr/news/mwView.php?no=2021112610548033905</guid>
-            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[‘K패션’에 1020세대 열광… ‘동대문브랜드’ 200곳 일본에 뜬다 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
+            <link>https://www.hankyung.com/international/article/202112016114i</link>
+            <guid>https://www.hankyung.com/international/article/202112016114i</guid>
+            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="pb30">
-                                                <div>파리바게뜨가 크리스마스 시즌 맞이 홈파티용 굿즈 2종을 선보입니다. 이번 굿즈는 ‘파티 데코팩’과 ‘친환경 부클러그’ 2종으로 출시될 예정인데요. 그중 친환경 부클러그는 인테리어 플랫폼 '오늘의집'와 협업해 폐페트병을 재활용한 제품입니다.&nbsp;</div><div><br></div><div>✅ <strong>눈여겨볼 포인트</strong></div><div>- MZ세대 이용자가 많은 인테리어 앱 ‘오늘의집’과 협업을 진행함</div><div>- 디자인만 예쁜 굿즈가 아닌, 친환경 트렌드까지 고려한 굿즈가 출시되는 추세임&nbsp;</div>
+                                                <div>체리코코 등 10~20대들에게 인기가 높은 동대문 패션 브랜드 200여곳이 일본에 상륙합니다. 엔터테인먼트와 화장품에 이어 패션 분야에서도 한류가 거세질 전망입니다.</div><div><br></div><div>✅<strong>&nbsp;눈여겨볼 포인트</strong></div><div>- 내년 4월 오픈 예정인 이베이 일본법인의 온라인 쇼핑몰 큐텐(Qoo10)에는 총 300여 브랜드가 출점할 예정. 이중 70%가 한국 브랜드라고 함.&nbsp;</div><div>- 지난해 라쿠텐그룹이 실시한 ‘일본 10대 여성이 패션에 참고하는 나라’ 조사에서 한국이 79%로 압도적인 1위. 엔터테인먼트와 화장품에 이어 패션에서도 한류의 영향력이 커질 것으로 예상됨.</div>
                                             </span>
-                                                <a href="https://moneys.mt.co.kr/news/mwView.php?no=2021112610548033905" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
+                                                <a href="https://www.hankyung.com/international/article/202112016114i" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[야민정음 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[무배 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 17:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[야구 갤러리+훈민정음의 합성어. 디시인사이드 야구 갤러리에서 만든 드립으로 원래 글자를 모양이 비슷한 다른 글자로 대체해 표기하는 방식. (ex. 멍멍이 → 댕댕이)]]></content:encoded>
+            <pubDate>Thu, 02 Dec 2021 05:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[무료배송의 줄임말.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[킹받네 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[미공포 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 17:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content:encoded>
+            <pubDate>Thu, 02 Dec 2021 05:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[‘미공개 포토카드’의 줄임말. 앨범에 수록된 ‘공식 포토카드’를 제외한 포토카드를 일컬음. 보통 아이돌 팬들이 각종 이벤트에 참여해서 받게 되는 경우가 많음.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어그로(aggro) (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[이때싶 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 17:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[상대의 관심을 끌거나 도발하기 위해 자극적인 행동을 하는 것을 뜻하는 인터넷 용어.]]></content:encoded>
+            <pubDate>Thu, 02 Dec 2021 05:36:53 GMT</pubDate>
+            <content:encoded><![CDATA['이때다 싶어'의 줄임말. 물 들어올 때 노 젓는다는 뜻.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하울(haul) (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[껄무새 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 17:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[구매한 물건을 보여주면서 품평하는 유튜브 콘텐츠 포맷.]]></content:encoded>
+            <pubDate>Thu, 02 Dec 2021 05:36:53 GMT</pubDate>
+            <content:encoded><![CDATA['~살걸', '~팔걸'을 앵무새처럼 반복하며 과거를 후회하는 개인 투자자를 지칭하는 용어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[긱잡 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[쩝쩝박사 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 17:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[Gig Job. 필요할 때마다 계약직, 임시직을 섭외해 일을 맡기는 고용 형태. 긱 이코노미(임시직 경제)가 만들어낸 일자리를 의미함.]]></content:encoded>
+            <pubDate>Thu, 02 Dec 2021 05:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[음식에 대해 식견이 높거나, 맛있는 음식 조합을 잘 아는 사람들을 뜻하는 말]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[민초단 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[포토 카드 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 17:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[민트 초코를 좋아하는 이들을 부르는 말. 호불호가 갈리는 민트 초코 논쟁에서 ‘민초’ 편인 사람.]]></content:encoded>
+            <pubDate>Thu, 02 Dec 2021 05:36:53 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌 멤버의 사진으로 만든 카드로, 주로 앨범 당 한 장씩 들어있는 굿즈. 줄여서 ‘포카’라고 부름.]]></content:encoded>
         </item>
     </channel>
 </rss>
