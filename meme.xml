@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 05:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 17:44:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] 가족이 되어주라!]]></title>
+            <link>https://www.careet.net/573</link>
+            <guid>https://www.careet.net/573</guid>
+            <pubDate>Fri, 03 Dec 2021 17:44:10 GMT</pubDate>
+            <content:encoded><![CDATA[내 집이 되어주라!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/c935de91-d652-4e2c-8dd1-a882440bb30c_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[당장 써먹는 짤줍] ○○ : △△할게]]></title>
             <link>https://www.careet.net/552</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 09 Nov 2021 15:52:51 GMT</pubDate>
             <content:encoded><![CDATA[우리 브랜드 캐릭터를 영업하기 위해 주접 떨고 싶을 땐?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/6c73a7b5-d8b8-4397-9379-0f1933fd2933_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[당장 써먹는 짤줍] 괜찮겠어? 난 OO할 줄 모르는 OO인데]]></title>
-            <link>https://www.careet.net/478</link>
-            <guid>https://www.careet.net/478</guid>
-            <pubDate>Tue, 09 Nov 2021 15:52:51 GMT</pubDate>
-            <content:encoded><![CDATA[난 뒤처지는 법을 모르는 당근인데]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202108/05d7a684-c5c1-4175-895a-e8fa87b9fb37_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
