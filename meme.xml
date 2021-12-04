@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.careet.net/Content/Series/1</id>
-    <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
-    <updated>2021-12-04T05:39:10.043Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.careet.net/content/images/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 04 Dec 2021 17:45:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] 가족이 되어주라!]]></title>
+            <link>https://www.careet.net/573</link>
+            <guid>https://www.careet.net/573</guid>
+            <pubDate>Sat, 04 Dec 2021 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[내 집이 되어주라!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/c935de91-d652-4e2c-8dd1-a882440bb30c_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] ○○ : △△할게]]></title>
+            <link>https://www.careet.net/552</link>
+            <guid>https://www.careet.net/552</guid>
+            <pubDate>Sat, 04 Dec 2021 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[New 주접 멘트 주워가세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/72b3c987-e57e-4ce7-a6b8-e9e881c11c2f_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] ‘내가 침울해하면 OO이 개인기 △△를 해준다’]]></title>
+            <link>https://www.careet.net/542</link>
+            <guid>https://www.careet.net/542</guid>
+            <pubDate>Sat, 04 Dec 2021 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[SNS에서 재유행 중인 짤!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/490d1b93-2f9a-4d59-ab3e-ffca37b32781_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] 곧 대유행 예감! 지금 놓치면 후회하는 <쇼미더머니 10> 밈]]></title>
+            <link>https://www.careet.net/520</link>
+            <guid>https://www.careet.net/520</guid>
+            <pubDate>Sat, 04 Dec 2021 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[나는 걱정돼... 뭐가 뭐가?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/1a02ace3-e978-44ba-b359-ff4a1ba88f7c_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] 어제 내 세상이 무너졌어]]></title>
+            <link>https://www.careet.net/503</link>
+            <guid>https://www.careet.net/503</guid>
+            <pubDate>Sat, 04 Dec 2021 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[MZ세대 과몰입 근황]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/8933d70f-fe69-4470-b5e9-7c3626d2b74f_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] OO이 있는 타일을 모두 선택하세요]]></title>
+            <link>https://www.careet.net/481</link>
+            <guid>https://www.careet.net/481</guid>
+            <pubDate>Sat, 04 Dec 2021 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[우리 브랜드 캐릭터를 영업하기 위해 주접 떨고 싶을 땐?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/6c73a7b5-d8b8-4397-9379-0f1933fd2933_770x426.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
