@@ -4,9 +4,16 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 17:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 05:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘쌤이 왜 거기서 나와?’ Z세대가 자동 클릭하게 만든 이 광고!]]></title>
+            <link>https://www.careet.net/574</link>
+            <guid>https://www.careet.net/574</guid>
+            <pubDate>Mon, 06 Dec 2021 05:37:26 GMT</pubDate>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/6e7d238a-b977-4852-a5ed-33258e9cfb6a_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔씨소프트가 만든 캐릭터, ‘도구리’는 왜 Z세대 사이에서 인기 있을까?]]></title>
             <link>https://www.careet.net/569</link>
@@ -46,14 +53,6 @@
             <pubDate>Sat, 04 Dec 2021 17:44:46 GMT</pubDate>
             <content:encoded><![CDATA[세계관에 진심인 MZ세대는 이런 광고에 반응합니다]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/e71616b2-88cf-4aec-9303-0347dd29e7c1_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이제는 광고에도 할매니얼 트렌드가 대세라고?!]]></title>
-            <link>https://www.careet.net/519</link>
-            <guid>https://www.careet.net/519</guid>
-            <pubDate>Sat, 04 Dec 2021 17:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[MZ세대 관심 싹쓸이하는 신제품 마케팅이란 이런 것!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/55614ea3-b246-4654-9b67-83ea02a5e5ff_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
