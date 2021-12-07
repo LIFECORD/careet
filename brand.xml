@@ -4,7 +4,7 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 17:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 17:47:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,14 @@
             <pubDate>Sat, 04 Dec 2021 17:44:46 GMT</pubDate>
             <content:encoded><![CDATA[인스타그램 이벤트로 브랜드 커뮤니티를 만드는 신박한 방법.txt]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4609eb90-8f5a-43e7-bb9b-4e6ac105379e_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[올드한 브랜드 이미지 → 1020이 좋아하는 이미지로 탈바꿈하는 법]]></title>
+            <link>https://www.careet.net/560</link>
+            <guid>https://www.careet.net/560</guid>
+            <pubDate>Tue, 07 Dec 2021 17:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[우리 브랜드 이미지가 올드한 것 같아 걱정이라고요?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/ef633530-aa66-4264-951f-9216d2cac375_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국관광공사가 Z세대에 칭찬받는 공기업으로 꼽히는 이유]]></title>
@@ -45,14 +53,6 @@
             <pubDate>Sat, 04 Dec 2021 17:44:46 GMT</pubDate>
             <content:encoded><![CDATA[요즘 폰꾸족들이 갤럭시 Z 플립3를 사는 이유]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/674cb77c-dfca-4ccf-8621-2ba51f9c7c05_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스 세계관 이렇게 활용하세요! 국민은행 광고 700만 뷰의 비결은?]]></title>
-            <link>https://www.careet.net/527</link>
-            <guid>https://www.careet.net/527</guid>
-            <pubDate>Sat, 04 Dec 2021 17:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[세계관에 진심인 MZ세대는 이런 광고에 반응합니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/e71616b2-88cf-4aec-9303-0347dd29e7c1_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

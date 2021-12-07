@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 17:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 17:47:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론 인기 차트로 보는 2021 MZ세대 트렌드 결산! (Careet ─ Contents ─ 전체 보기)]]></title>
+            <link>https://www.careet.net/576</link>
+            <guid>https://www.careet.net/576</guid>
+            <pubDate>Tue, 07 Dec 2021 17:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[1020이 뽑은 올해의 아티스트 TOP 10]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/e9995018-3567-4bb0-ab8a-7a0bf0ea6085_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘쌤이 왜 거기서 나와?’ Z세대가 자동 클릭하게 만든 이 광고! (Careet ─ Contents ─ 전체 보기)]]></title>
             <link>https://www.careet.net/574</link>
@@ -380,6 +388,14 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4609eb90-8f5a-43e7-bb9b-4e6ac105379e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[올드한 브랜드 이미지 → 1020이 좋아하는 이미지로 탈바꿈하는 법 (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
+            <link>https://www.careet.net/560</link>
+            <guid>https://www.careet.net/560</guid>
+            <pubDate>Mon, 06 Dec 2021 05:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[우리 브랜드 이미지가 올드한 것 같아 걱정이라고요?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/ef633530-aa66-4264-951f-9216d2cac375_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[한국관광공사가 Z세대에 칭찬받는 공기업으로 꼽히는 이유 (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
             <link>https://www.careet.net/553</link>
             <guid>https://www.careet.net/553</guid>
@@ -404,64 +420,56 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/674cb77c-dfca-4ccf-8621-2ba51f9c7c05_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[메타버스 세계관 이렇게 활용하세요! 국민은행 광고 700만 뷰의 비결은? (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
-            <link>https://www.careet.net/527</link>
-            <guid>https://www.careet.net/527</guid>
-            <pubDate>Mon, 06 Dec 2021 05:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[세계관에 진심인 MZ세대는 이런 광고에 반응합니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/e71616b2-88cf-4aec-9303-0347dd29e7c1_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스포티파이, 연말결산 캠페인 ‘랩드’ 국내 론칭 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
-            <link>https://www.inews24.com/view/1428552</link>
-            <guid>https://www.inews24.com/view/1428552</guid>
-            <pubDate>Mon, 06 Dec 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[배스킨라빈스 24시간 문 여는 무인 매장 오픈! (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
+            <link>https://economist.co.kr/2021/12/02/industry/distribution/20211202155745282.html</link>
+            <guid>https://economist.co.kr/2021/12/02/industry/distribution/20211202155745282.html</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="pb30">
-                                                <div>음원 스트리밍 사이트 스포티파이가 음원 스트리밍 트렌드를 결산하는 플래그십 캠페인 ‘랩드’를 국내에서 최초로 론칭한다고 발표했어요. 이용자의 연간 청취 데이터를 바탕으로 취향을 분석하고 개인 맞춤형 데이터를 제공하는 서비스입니다.<br><br>✅<strong>&nbsp;눈여겨볼 포인트</strong><br>- 스포티파이 사용이 활발한 해외 MZ세대 사이에선 맞춤형 플레이리스트나 음악 리포트를 캡처해 SNS에 공유하는 모습이 자주 보임.<br>-MZ세대 자신의 취향이나 개성을 인증하는 것을 즐김. 최근 각종 테스트가 주목받는 것과 MBTI 유행에서 이런 성향이 관찰됨.</div>
+                                                <div>요즘 아이스크림을 판매하는 무인 매장이 전국적으로 늘어나고 있죠. 배스킨라빈스도 무인 매장 시장에 합류했습니다. 12월 2일 위례신도시에 배스킨라빈스 무인 매장 국내 1호점인 ‘플로우’를 오픈했어요. 기존 매장과 달리 점원이 아이스크림을 퍼주는 형태가 아니고 완제품으로 포장된 낱개의 제품들이 판매 될 예정이라고 합니다.&nbsp;</div><div><br></div><div>✅<strong>눈여겨볼 포인트</strong></div><div>-일반 배스킨라빈스 매장에는 없는 특별 메뉴를 제공할 예정이라고 함. 노티드 도넛처럼 매장 별 한정판 메뉴 판매 전략이 유효할지 지켜봐야 함</div><div>-대면 서비스로 배스킨라빈스 무인 매장을 MZ세대가 어떻게 받아 들일지</div>
                                             </span>
-                                                <a href="https://www.inews24.com/view/1428552" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
+                                                <a href="https://economist.co.kr/2021/12/02/industry/distribution/20211202155745282.html" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[도른자 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[관종 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 06 Dec 2021 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA['돌은 자'를 소리나는 대로 발음한 것. 진짜 웃기다는 뜻의 신조어.]]></content:encoded>
+            <pubDate>Tue, 07 Dec 2021 17:47:53 GMT</pubDate>
+            <content:encoded><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[커뮤니케이션 코스트 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[교복템 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 06 Dec 2021 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[조직에서 구성원들끼리 소통하기 위해 투입되는 시간, 비용, 노력 등을 의미함.]]></content:encoded>
+            <pubDate>Tue, 07 Dec 2021 17:47:53 GMT</pubDate>
+            <content:encoded><![CDATA[마치 교복처럼 자주 입는(쓰는) 물건이라는 뜻.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[버실 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[영끌 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 06 Dec 2021 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[버전 실시간의 줄임말. 슬라임 영상에 상황극 음성이나 자막을 입힌 콘텐츠를 말함.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[껄무새 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
-            <link>https://LIFECORD.github.io/careet/all.xml</link>
-            <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 06 Dec 2021 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA['~살걸', '~팔걸'을 앵무새처럼 반복하며 과거를 후회하는 개인 투자자를 지칭하는 용어]]></content:encoded>
+            <pubDate>Tue, 07 Dec 2021 17:47:53 GMT</pubDate>
+            <content:encoded><![CDATA[‘영혼까지 끌어모은다’의 줄임말. 있는 돈 없는 돈 다 끌어모을 때 비유적으로 사용하는 표현.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[처돌이 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 06 Dec 2021 17:35:33 GMT</pubDate>
+            <pubDate>Tue, 07 Dec 2021 17:47:53 GMT</pubDate>
             <content:encoded><![CDATA[치킨 브랜드 ‘처갓집’의 마스코트 ‘처돌이’에서 유래한 말. 특정 대상을 매우 좋아한다는 뜻.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[씽크빅 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[현활 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 06 Dec 2021 17:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[학습지 이름 ‘씽크빅’에서 유래한 표현. 창의력이 뛰어난 대상을 칭찬할 때 쓰인다. “어릴 때 씽크빅 좀 했나 봐?”라는 문장에서 파생돼 “오, 씽크빅!”같은 감탄사로도 쓰임.]]></content:encoded>
+            <pubDate>Tue, 07 Dec 2021 17:47:53 GMT</pubDate>
+            <content:encoded><![CDATA[SNS에서 현재 활동중이라는 뜻.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장비병 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <link>https://LIFECORD.github.io/careet/all.xml</link>
+            <guid>https://LIFECORD.github.io/careet/all.xml</guid>
+            <pubDate>Tue, 07 Dec 2021 17:47:53 GMT</pubDate>
+            <content:encoded><![CDATA[무언가를 시작할 때 필요한 장비부터 구입하는 장비 덕후를 뜻하는 말.]]></content:encoded>
         </item>
     </channel>
 </rss>
