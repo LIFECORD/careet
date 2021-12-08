@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 17:47:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 05:37:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아, 우리 팀에 딱 맞는 인턴 어떻게 뽑지? 캐릿이 정리해드립니다 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <link>https://www.careet.net/578</link>
+            <guid>https://www.careet.net/578</guid>
+            <pubDate>Wed, 08 Dec 2021 05:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[수시 채용 트렌드? 기업이 똑똑하게 인턴 채용하는 방법]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/7f30a1c8-e19f-4ac2-9639-a81ba03933cc_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[멜론 인기 차트로 보는 2021 MZ세대 트렌드 결산! (Careet ─ Contents ─ 전체 보기)]]></title>
             <link>https://www.careet.net/576</link>
@@ -420,56 +428,56 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/674cb77c-dfca-4ccf-8621-2ba51f9c7c05_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[배스킨라빈스 24시간 문 여는 무인 매장 오픈! (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
-            <link>https://economist.co.kr/2021/12/02/industry/distribution/20211202155745282.html</link>
-            <guid>https://economist.co.kr/2021/12/02/industry/distribution/20211202155745282.html</guid>
-            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Z세대 크리스마스 인생샷 스팟 된 명동 신세계 본점 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
+            <link>https://www.insight.co.kr/news/370037</link>
+            <guid>https://www.insight.co.kr/news/370037</guid>
+            <pubDate>Wed, 08 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="pb30">
-                                                <div>요즘 아이스크림을 판매하는 무인 매장이 전국적으로 늘어나고 있죠. 배스킨라빈스도 무인 매장 시장에 합류했습니다. 12월 2일 위례신도시에 배스킨라빈스 무인 매장 국내 1호점인 ‘플로우’를 오픈했어요. 기존 매장과 달리 점원이 아이스크림을 퍼주는 형태가 아니고 완제품으로 포장된 낱개의 제품들이 판매 될 예정이라고 합니다.&nbsp;</div><div><br></div><div>✅<strong>눈여겨볼 포인트</strong></div><div>-일반 배스킨라빈스 매장에는 없는 특별 메뉴를 제공할 예정이라고 함. 노티드 도넛처럼 매장 별 한정판 메뉴 판매 전략이 유효할지 지켜봐야 함</div><div>-대면 서비스로 배스킨라빈스 무인 매장을 MZ세대가 어떻게 받아 들일지</div>
+                                                <div>명동 신세계 본점이 Z세대의 크리스마스 핫플로 떠오르는 중입니다. 건물 외벽의 크리스마스 장식이 마치 외국 크리스마스 마켓에 온듯 화려해서 유명해졌다고 하는데요. 해시태그 #명동신세계를 포함한 인스타그램 게시물이 4000개 가까이 업로드 되었습니다(12월 7일 기준).&nbsp;</div><div><br></div><div>✅ <strong>눈여겨볼 포인트</strong></div><div>-백화점에서 이러한 인증샷 열풍을 어떻게 활용할 수 있을지 </div><div>&nbsp;</div>
                                             </span>
-                                                <a href="https://economist.co.kr/2021/12/02/industry/distribution/20211202155745282.html" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
+                                                <a href="https://www.insight.co.kr/news/370037" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[관종 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[잘알 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 07 Dec 2021 17:47:53 GMT</pubDate>
-            <content:encoded><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content:encoded>
+            <pubDate>Wed, 08 Dec 2021 05:37:28 GMT</pubDate>
+            <content:encoded><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[교복템 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[네카라쿠배당토 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 07 Dec 2021 17:47:53 GMT</pubDate>
-            <content:encoded><![CDATA[마치 교복처럼 자주 입는(쓰는) 물건이라는 뜻.]]></content:encoded>
+            <pubDate>Wed, 08 Dec 2021 05:37:28 GMT</pubDate>
+            <content:encoded><![CDATA[네이버, 카카오, 라인, 배달의민족, 당근마켓, 토스 등 신흥 IT 기업을 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 떠오르는 기업들.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영끌 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[키자니아 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 07 Dec 2021 17:47:53 GMT</pubDate>
-            <content:encoded><![CDATA[‘영혼까지 끌어모은다’의 줄임말. 있는 돈 없는 돈 다 끌어모을 때 비유적으로 사용하는 표현.]]></content:encoded>
+            <pubDate>Wed, 08 Dec 2021 05:37:28 GMT</pubDate>
+            <content:encoded><![CDATA[어린이들이 직업을 체험할 수 있는 테마파크. 특정 직업을 생생하게 표현하거나 보여주는 콘텐츠를 볼 때 ‘어른들의 키자니아’라는 댓글이 많이 달림.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[처돌이 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[플리 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 07 Dec 2021 17:47:53 GMT</pubDate>
-            <content:encoded><![CDATA[치킨 브랜드 ‘처갓집’의 마스코트 ‘처돌이’에서 유래한 말. 특정 대상을 매우 좋아한다는 뜻.]]></content:encoded>
+            <pubDate>Wed, 08 Dec 2021 05:37:28 GMT</pubDate>
+            <content:encoded><![CDATA[‘플레이리스트’의 줄임말]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[현활 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[판 플레이 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 07 Dec 2021 17:47:53 GMT</pubDate>
-            <content:encoded><![CDATA[SNS에서 현재 활동중이라는 뜻.]]></content:encoded>
+            <pubDate>Wed, 08 Dec 2021 05:37:28 GMT</pubDate>
+            <content:encoded><![CDATA[대학내일20대연구소가 정의한 2020 MZ세대 특징 중 하나. MZ세대가 스스로 참여할 수 있는 놀이 ‘판’을 만들어 즐기는 것을 의미함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[장비병 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[RT (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Tue, 07 Dec 2021 17:47:53 GMT</pubDate>
-            <content:encoded><![CDATA[무언가를 시작할 때 필요한 장비부터 구입하는 장비 덕후를 뜻하는 말.]]></content:encoded>
+            <pubDate>Wed, 08 Dec 2021 05:37:28 GMT</pubDate>
+            <content:encoded><![CDATA[‘리트윗(Re Tweet)’의 약자. 트위터에서 다른 계정의 게시물을 자신의 계정에 공유하는 기능을 의미함.]]></content:encoded>
         </item>
     </channel>
 </rss>
