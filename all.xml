@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 17:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 05:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이팅 기본 1시간! Z세대가 인증샷 찍으러 파주로 가는 이유는? (Careet ─ Contents ─ 전체 보기)]]></title>
+            <link>https://www.careet.net/586</link>
+            <guid>https://www.careet.net/586</guid>
+            <pubDate>Fri, 17 Dec 2021 05:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[1분 컷으로 알아보는 이번 주 떡상 아이템]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/695431c1-59b9-4598-8d36-caaf4ec79248_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[혼밥·혼술에 이어 ‘혼사’까지 하는 게 대세라고? (feat. 인생네컷 NEW 트렌드) (Careet ─ Contents ─ 전체 보기)]]></title>
+            <link>https://www.careet.net/584</link>
+            <guid>https://www.careet.net/584</guid>
+            <pubDate>Fri, 17 Dec 2021 05:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대의 새로운 버킷리스트]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/47d91365-a144-4eb7-b670-f50a17ef46b1_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[안 보면 손해! <2022 Z세대 이슈 캘린더> 다운로드 하세요! (Careet ─ Contents ─ 전체 보기)]]></title>
             <link>https://www.careet.net/549</link>
@@ -342,7 +358,7 @@
             <title><![CDATA[[당장 써먹는 짤줍] “난 이렇게 살아왔는데” (Careet ─ Contents ─ 요즘 뜨는 밈)]]></title>
             <link>https://www.careet.net/581</link>
             <guid>https://www.careet.net/581</guid>
-            <pubDate>Thu, 16 Dec 2021 17:43:55 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 17:43:46 GMT</pubDate>
             <content:encoded><![CDATA[당황스러운 상황에 쓸 수 있는 따끈 따끈한 짤!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/52a0cb05-bd3a-423c-b1c8-86b6213f3b5a_770x426.png" length="0" type="image/png"/>
         </item>
@@ -350,7 +366,7 @@
             <title><![CDATA[[당장 써먹는 짤줍] 가족이 되어주라! (Careet ─ Contents ─ 요즘 뜨는 밈)]]></title>
             <link>https://www.careet.net/573</link>
             <guid>https://www.careet.net/573</guid>
-            <pubDate>Thu, 16 Dec 2021 17:43:55 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 17:43:46 GMT</pubDate>
             <content:encoded><![CDATA[내 집이 되어주라!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/c935de91-d652-4e2c-8dd1-a882440bb30c_770x426.png" length="0" type="image/png"/>
         </item>
@@ -358,7 +374,7 @@
             <title><![CDATA[[당장 써먹는 짤줍] ○○ : △△할게 (Careet ─ Contents ─ 요즘 뜨는 밈)]]></title>
             <link>https://www.careet.net/552</link>
             <guid>https://www.careet.net/552</guid>
-            <pubDate>Thu, 16 Dec 2021 17:43:55 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 17:43:46 GMT</pubDate>
             <content:encoded><![CDATA[New 주접 멘트 주워가세요!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/72b3c987-e57e-4ce7-a6b8-e9e881c11c2f_770x426.png" length="0" type="image/png"/>
         </item>
@@ -366,7 +382,7 @@
             <title><![CDATA[[당장 써먹는 짤줍] ‘내가 침울해하면 OO이 개인기 △△를 해준다’ (Careet ─ Contents ─ 요즘 뜨는 밈)]]></title>
             <link>https://www.careet.net/542</link>
             <guid>https://www.careet.net/542</guid>
-            <pubDate>Thu, 16 Dec 2021 17:43:55 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 17:43:46 GMT</pubDate>
             <content:encoded><![CDATA[SNS에서 재유행 중인 짤!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/490d1b93-2f9a-4d59-ab3e-ffca37b32781_770x426.png" length="0" type="image/png"/>
         </item>
@@ -387,10 +403,18 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/8933d70f-fe69-4470-b5e9-7c3626d2b74f_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[혼밥·혼술에 이어 ‘혼사’까지 하는 게 대세라고? (feat. 인생네컷 NEW 트렌드) (Careet ─ Contents ─ Z세대 최신 근황)]]></title>
+            <link>https://www.careet.net/584</link>
+            <guid>https://www.careet.net/584</guid>
+            <pubDate>Fri, 17 Dec 2021 05:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대의 새로운 버킷리스트]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/47d91365-a144-4eb7-b670-f50a17ef46b1_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[두 달 전부터 크리스마스 준비 중? Z세대 연말 계획으로 보는 트렌드 (Careet ─ Contents ─ Z세대 최신 근황)]]></title>
             <link>https://www.careet.net/566</link>
             <guid>https://www.careet.net/566</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:05 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 17:43:46 GMT</pubDate>
             <content:encoded><![CDATA[핼러윈 끝나기도 전에 크리스마스 준비하는 Z세대 근황]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/12a04780-3ccf-4f12-8aca-bd264a3165db_770x426.png" length="0" type="image/png"/>
         </item>
@@ -398,7 +422,7 @@
             <title><![CDATA[버킷리스트를 보면 트렌드가 보인다! 수능 끝난 고3 근황.txt (Careet ─ Contents ─ Z세대 최신 근황)]]></title>
             <link>https://www.careet.net/559</link>
             <guid>https://www.careet.net/559</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:05 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 17:43:46 GMT</pubDate>
             <content:encoded><![CDATA[요즘 10대는 수능 끝나면 바디 프로필 찍고 유튜브 채널 개설한다고?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4fa01ac4-0823-4b43-91df-d96dabed06b0_770x426.png" length="0" type="image/png"/>
         </item>
@@ -427,19 +451,10 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/f4a6d4ec-3bbf-4887-aac9-f0d853b6d5a9_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[요즘 유튜브 인기 키워드! 
-남사친 브이로그가 흥하는 이유 (Careet ─ Contents ─ Z세대 최신 근황)]]></title>
-            <link>https://www.careet.net/494</link>
-            <guid>https://www.careet.net/494</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대 유튜브 피드에 꼭 뜬다는 그 영상]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/6eb6abad-c5d7-4287-9a89-d35b9622d616_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2021 결산! MZ세대가 뽑은 올해 일 잘한 브랜드 총정리 (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
             <link>https://www.careet.net/577</link>
             <guid>https://www.careet.net/577</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:14 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 17:43:46 GMT</pubDate>
             <content:encoded><![CDATA[이것만 보면 올해 마케팅 레퍼런스 다 정리됨!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/e4cc473a-ac57-49f7-ad74-54d9119ec01c_770x426.png" length="0" type="image/png"/>
         </item>
@@ -447,14 +462,14 @@
             <title><![CDATA[‘쌤이 왜 거기서 나와?’ Z세대가 자동 클릭하게 만든 이 광고! (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
             <link>https://www.careet.net/574</link>
             <guid>https://www.careet.net/574</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:14 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 17:43:46 GMT</pubDate>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/6e7d238a-b977-4852-a5ed-33258e9cfb6a_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엔씨소프트가 만든 캐릭터, ‘도구리’는 왜 Z세대 사이에서 인기 있을까? (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
             <link>https://www.careet.net/569</link>
             <guid>https://www.careet.net/569</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:14 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 17:43:46 GMT</pubDate>
             <content:encoded><![CDATA[인스타그램 이벤트로 브랜드 커뮤니티를 만드는 신박한 방법.txt]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4609eb90-8f5a-43e7-bb9b-4e6ac105379e_770x426.png" length="0" type="image/png"/>
         </item>
@@ -462,7 +477,7 @@
             <title><![CDATA[올드한 브랜드 이미지 → 1020이 좋아하는 이미지로 탈바꿈하는 법 (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
             <link>https://www.careet.net/560</link>
             <guid>https://www.careet.net/560</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:14 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 17:43:46 GMT</pubDate>
             <content:encoded><![CDATA[우리 브랜드 이미지가 올드한 것 같아 걱정이라고요?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/ef633530-aa66-4264-951f-9216d2cac375_770x426.png" length="0" type="image/png"/>
         </item>
@@ -470,7 +485,7 @@
             <title><![CDATA[한국관광공사가 Z세대에 칭찬받는 공기업으로 꼽히는 이유 (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
             <link>https://www.careet.net/553</link>
             <guid>https://www.careet.net/553</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:14 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 17:43:46 GMT</pubDate>
             <content:encoded><![CDATA[국내외 Z세대가 열광한 공기업의 레트로 활용법]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/33764514-e7ea-480a-aa84-ef800ef96e08_770x426.png" length="0" type="image/png"/>
         </item>
@@ -478,61 +493,61 @@
             <title><![CDATA[Z세대가 인친, 트친, 블친 다 소환하는 이벤트가 있다고? (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
             <link>https://www.careet.net/539</link>
             <guid>https://www.careet.net/539</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:14 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 17:43:46 GMT</pubDate>
             <content:encoded><![CDATA[영업 비밀 다 털어봤습니다]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4bac41c6-3780-4fac-970c-55a9235126be_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[캘빈클라인, 광고 모델인 정호연에게 인스타 운영 맡기다? (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
-            <link>https://www.xportsnews.com/article/1510081</link>
-            <guid>https://www.xportsnews.com/article/1510081</guid>
-            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[롯데제과, 지니뮤직과 ‘월간과자’ 콜라보 2탄 선보여 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
+            <link>http://apnews.kr/View.aspx?No=2149151</link>
+            <guid>http://apnews.kr/View.aspx?No=2149151</guid>
+            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="pb30">
-                                                <div>캘빈클라인이 광고 모델인 정호연에게 인스타그램 계정 운영을 맡겼다고 합니다. 정호연 이전의 모델부터 이어져오던 방식이라고 하는데요. 공식 계정이 아닌 셀럽 계정처럼 꾸며진 피드의 모습에 신선하다는 반응이 이어지고 있습니다.</div><div><br></div><div>✅ <strong>눈여겨볼 포인트</strong></div><div>- 브랜드 계정 운영을 Z세대가 좋아하는 셀럽에게 맡기는 방식이 통하고 있다는 것</div><div>- 브랜드의 공식 계정에서도 날것의 콘텐츠를 원하는 모습이 보임</div><div><br></div><div><br></div>
+                                                <div>롯데제과의 과자 구독 서비스인 ‘월간 과자’와 지니뮤직이 크리스마스를 맞아 콜라보레이션을 선보입니다. 크리스마스 시즌에 어울리는 과자와 음악을 제공할 예정이라고 합니다.&nbsp;</div><div><br></div><div>✅ <strong>눈여겨볼 포인트</strong></div><div>- 콜라보레이션의 방식이 다양해지고 있음. 구독 서비스와 음원 사이트의 만남이 눈길을 끎.</div><div>- 롯데제과는 향후 다양한 콜라보레이션을 통해 과자 구독 서비스를 더욱 확장해 나갈 계획이라고 함.</div>
                                             </span>
-                                                <a href="https://www.xportsnews.com/article/1510081" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
+                                                <a href="http://apnews.kr/View.aspx?No=2149151" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코시국 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[하이라이트 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 시국의 줄임말.]]></content:encoded>
+            <pubDate>Fri, 17 Dec 2021 05:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[인스타 스토리를 프로필란에 고정할 수 있는 기능.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[덕메 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[재질 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[덕질 메이트의 줄임말. 덕질을 함께 하는 친구를 뜻함.]]></content:encoded>
+            <pubDate>Fri, 17 Dec 2021 05:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[느낌, 톤, 성향을 이르는 MZ세대 유행어.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무배 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[영끌 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[무료배송의 줄임말.]]></content:encoded>
+            <pubDate>Fri, 17 Dec 2021 05:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[‘영혼까지 끌어모은다’의 줄임말. 있는 돈 없는 돈 다 끌어모을 때 비유적으로 사용하는 표현.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[파티원 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[원툴 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[게임 용어로 함께 퀘스트를 깨러 갈 팀원이라는 의미.]]></content:encoded>
+            <pubDate>Fri, 17 Dec 2021 05:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[(one tool) 한 가지만 잘 한다는 말.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팔이피플 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[플미 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[팔이+people의 합성어로, SNS나 쇼핑몰에서 물건을 판매하는 사람들을 지칭하는 말.]]></content:encoded>
+            <pubDate>Fri, 17 Dec 2021 05:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[‘프리미엄’의 줄임말. 주로 희소성있는 제품이 판매가보다 비싸게 거래될 때 ‘플미붙었다’고 표현함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[맘찍 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[알못 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Thu, 16 Dec 2021 17:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[마음(=하트 버튼)을 찍어둔다는 뜻. 트위터에서 남의 게시물에 공감을 표하거나, 그 게시물을 보관하고 싶을 때 사용하는 기능.]]></content:encoded>
+            <pubDate>Fri, 17 Dec 2021 05:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 분야에 대해 잘 알지 못하는 사람을 부르는 말↔잘알]]></content:encoded>
         </item>
     </channel>
 </rss>

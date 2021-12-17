@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 17:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 05:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혼밥·혼술에 이어 ‘혼사’까지 하는 게 대세라고? (feat. 인생네컷 NEW 트렌드)]]></title>
+            <link>https://www.careet.net/584</link>
+            <guid>https://www.careet.net/584</guid>
+            <pubDate>Fri, 17 Dec 2021 05:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대의 새로운 버킷리스트]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/47d91365-a144-4eb7-b670-f50a17ef46b1_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[두 달 전부터 크리스마스 준비 중? Z세대 연말 계획으로 보는 트렌드]]></title>
             <link>https://www.careet.net/566</link>
@@ -46,15 +54,6 @@
             <pubDate>Sat, 04 Dec 2021 17:44:37 GMT</pubDate>
             <content:encoded><![CDATA[Z세대의 새로운 학원 = 댄스 스튜디오]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/f4a6d4ec-3bbf-4887-aac9-f0d853b6d5a9_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 유튜브 인기 키워드! 
-남사친 브이로그가 흥하는 이유]]></title>
-            <link>https://www.careet.net/494</link>
-            <guid>https://www.careet.net/494</guid>
-            <pubDate>Sat, 04 Dec 2021 17:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대 유튜브 피드에 꼭 뜬다는 그 영상]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/6eb6abad-c5d7-4287-9a89-d35b9622d616_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
