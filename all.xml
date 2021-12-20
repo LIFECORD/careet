@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 05:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 17:46:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터로 보는 MZ세대 아이 메이크업 트렌드 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <link>https://www.careet.net/589</link>
+            <guid>https://www.careet.net/589</guid>
+            <pubDate>Mon, 20 Dec 2021 17:46:20 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대는 ㅇㄱㅅ 메이크업을 좋아해!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/3db8c620-161f-43e5-ae24-ed98833cc36a_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[리스크 없는 광고 모델 섭외? 이렇게 하시면 됩니다! (Careet ─ Contents ─ 전체 보기)]]></title>
             <link>https://www.careet.net/587</link>
@@ -462,7 +470,7 @@
             <title><![CDATA[리스크 없는 광고 모델 섭외? 이렇게 하시면 됩니다! (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
             <link>https://www.careet.net/587</link>
             <guid>https://www.careet.net/587</guid>
-            <pubDate>Mon, 20 Dec 2021 05:38:14 GMT</pubDate>
+            <pubDate>Mon, 20 Dec 2021 05:37:49 GMT</pubDate>
             <content:encoded><![CDATA[잔망루피가 광고 모델이 됐다고?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/b52b93df-b2b8-486b-aa09-60a171d8c29d_770x426.png" length="0" type="image/png"/>
         </item>
@@ -516,46 +524,46 @@
                                                 <a href="https://blog.naver.com/businessinsight/222501413596" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[할매니얼 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[한줌단 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 05:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[‘할매’와 ‘밀레니얼’ 세대의 합성어. 레트로 취향의 음식과 패션을 선호하는 밀레니얼 세대를 의미.]]></content:encoded>
+            <pubDate>Mon, 20 Dec 2021 17:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[다 모아도 한 줌이 될 것 같은 적은 수의 집단을 부르는 말. MZ세대가 비주류를 지칭할 때 사용함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[그라폴리오 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[게이미피케이션(Gamification) (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 05:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[네이버의 웹서비스 중 하나로 전 세계 크리에이터들의 작품을 발견, 공유하고 사고팔 수 있는 창작 콘텐츠 커뮤니티.]]></content:encoded>
+            <pubDate>Mon, 20 Dec 2021 17:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[게임적 사고와 게임 기법을 활용해 사용자를 몰입시키는 기법.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[삼쏘 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[홈쿡 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 05:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[삼겹살에 소주.]]></content:encoded>
+            <pubDate>Mon, 20 Dec 2021 17:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[집에서 하는 요리.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[공답 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[껄무새 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 05:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[공개 답변의 줄임말. 제품의 정보를 묻고 답할 때 사용함.]]></content:encoded>
+            <pubDate>Mon, 20 Dec 2021 17:46:57 GMT</pubDate>
+            <content:encoded><![CDATA['~살걸', '~팔걸'을 앵무새처럼 반복하며 과거를 후회하는 개인 투자자를 지칭하는 용어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가심비 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[젠더 뉴트럴 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 05:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[가격 대비 심리적 만족을 추구하는 소비 트렌드↔가성비]]></content:encoded>
+            <pubDate>Mon, 20 Dec 2021 17:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[남녀를 구분짓지 않는 성 중립적인 패션을 일컫는 말.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[멍 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[인쇼 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 05:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[불멍, 물멍, 숲멍 등 최근 MZ세대 사이에선 편안한 경관 앞에서 멍을 때리며 휴식을 취하는 것이 트렌드로 떠오름.]]></content:encoded>
+            <pubDate>Mon, 20 Dec 2021 17:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[‘인터넷 쇼핑’의 줄임말.]]></content:encoded>
         </item>
     </channel>
 </rss>
