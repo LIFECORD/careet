@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 17:44:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 05:38:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리스크 없는 광고 모델 섭외? 이렇게 하시면 됩니다!]]></title>
+            <link>https://www.careet.net/587</link>
+            <guid>https://www.careet.net/587</guid>
+            <pubDate>Mon, 20 Dec 2021 05:38:14 GMT</pubDate>
+            <content:encoded><![CDATA[잔망루피가 광고 모델이 됐다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/b52b93df-b2b8-486b-aa09-60a171d8c29d_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2021 결산! MZ세대가 뽑은 올해 일 잘한 브랜드 총정리]]></title>
             <link>https://www.careet.net/577</link>
@@ -45,14 +53,6 @@
             <pubDate>Sat, 04 Dec 2021 17:44:46 GMT</pubDate>
             <content:encoded><![CDATA[국내외 Z세대가 열광한 공기업의 레트로 활용법]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/33764514-e7ea-480a-aa84-ef800ef96e08_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 인친, 트친, 블친 다 소환하는 이벤트가 있다고?]]></title>
-            <link>https://www.careet.net/539</link>
-            <guid>https://www.careet.net/539</guid>
-            <pubDate>Sat, 04 Dec 2021 17:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[영업 비밀 다 털어봤습니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4bac41c6-3780-4fac-970c-55a9235126be_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
