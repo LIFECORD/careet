@@ -1,4 +1,4 @@
-[all]
+[contents]
 title = "Careet ─ Contents ─ 전체 보기"
 url = "https://www.careet.net/Content/All"
 entrySelector = "ul.list-wrap.gly-list.col3 li"
@@ -9,7 +9,7 @@ imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[meme]
+[contents_meme]
 title = "Careet ─ Contents ─ 요즘 뜨는 밈"
 url = "https://www.careet.net/Content/Series/1"
 entrySelector = "ul.list-wrap.gly-list.col3 li"
@@ -20,7 +20,7 @@ imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[zgeneration]
+[contents_zgeneration]
 title = "Careet ─ Contents ─ Z세대 최신 근황"
 url = "https://www.careet.net/Content/Series/2"
 entrySelector = "ul.list-wrap.gly-list.col3 li"
@@ -31,7 +31,7 @@ imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[brand]
+[contents_brand]
 title = "Careet ─ Contents ─ 이주의 일 잘한 브랜드"
 url = "https://www.careet.net/Content/Series/3"
 entrySelector = "ul.list-wrap.gly-list.col3 li"
@@ -42,7 +42,7 @@ imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[newsclipping]
+[contents_newsclipping]
 title = "Careet ─ Contents ─ 캐릿픽 오늘의 뉴스"
 url = "https://www.careet.net/NewsClipping"
 entrySelector = "div.ac-boxs ul li:nth-child(1)"
@@ -54,7 +54,7 @@ dateFormat = "yyyy.MM.dd"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[dictionary]
+[contents_dictionary]
 title = "Careet ─ Contents ─ MZ 용어 사전"
 url = "https://www.careet.net/Dictionary"
 entrySelector = "div.footnote-cont-box ul li"
