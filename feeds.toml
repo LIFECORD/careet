@@ -62,3 +62,13 @@ titleSelector = "em.footnote-key.fw700"
 linkSelector = "a.h-light.fw700"
 contentSelector = "p.text"
 waitUntil = "networkidle"
+
+[newsletter]
+title = "캐릿 ─ Trend letter"
+url = "https://www.careet.net/Newsletter"
+entrySelector = "ul.list-wrap.gly-list.col4 li"
+titleSelector = "p.list-tit"
+linkSelector = "a"
+contentSelector = "p.list-date span:nth-child(1)"
+imageSelector = "div.list-thumb img.thumb-img"
+waitUntil = "networkidle"
