@@ -6,3 +6,4 @@ https://lifecord.github.io/careet/all.xml
 - 이주의 일 잘한 브랜드: https://lifecord.github.io/careet/contents_brand.xml
 - 캐릿픽 오늘의 뉴스: https://lifecord.github.io/careet/contents_newsclipping.xml
 - MZ 용어 사전: https://lifecord.github.io/careet/contents_dictionary.xml
+- 트렌드레터: https://lifecord.github.io/careet/newsletter.xml
