@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 17:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 05:38:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해외 Z세대는 이렇게 갓생과 착한 소비를 실천합니다]]></title>
+            <link>https://www.careet.net/598</link>
+            <guid>https://www.careet.net/598</guid>
+            <pubDate>Wed, 29 Dec 2021 05:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[캐릿 해외특파원이 알려주는 최신 해외 트렌드]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/39e49587-0dea-4637-aa65-07065c70f3a0_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[놓치면 손해인 데이터] 2021년 MZ세대가 가장 많이 사용한 앱 TOP 10은?]]></title>
             <link>https://www.careet.net/597</link>
