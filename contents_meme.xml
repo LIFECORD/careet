@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 17:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 05:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘신기방기 뿡뿡방기’는 어떻게 만들어진 유행어야?]]></title>
+            <link>https://www.careet.net/601</link>
+            <guid>https://www.careet.net/601</guid>
+            <pubDate>Fri, 31 Dec 2021 05:37:16 GMT</pubDate>
+            <content:encoded><![CDATA[어쩔티비를 이을 요즘 유행어!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/f7f88a9d-c666-43f5-b792-2a1d8b620e2e_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[당장 써먹는 짤줍] “난 이렇게 살아왔는데”]]></title>
             <link>https://www.careet.net/581</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 24 Dec 2021 11:35:28 GMT</pubDate>
             <content:encoded><![CDATA[나는 걱정돼... 뭐가 뭐가?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/1a02ace3-e978-44ba-b359-ff4a1ba88f7c_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[당장 써먹는 짤줍] 어제 내 세상이 무너졌어]]></title>
-            <link>https://www.careet.net/503</link>
-            <guid>https://www.careet.net/503</guid>
-            <pubDate>Fri, 24 Dec 2021 11:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[MZ세대 과몰입 근황]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/8933d70f-fe69-4470-b5e9-7c3626d2b74f_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

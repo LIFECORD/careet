@@ -4,9 +4,25 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 17:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 05:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 시간 줄서기는 기본이라는 Z세대 픽 신상 힙플은?]]></title>
+            <link>https://www.careet.net/602</link>
+            <guid>https://www.careet.net/602</guid>
+            <pubDate>Fri, 31 Dec 2021 05:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[자이언티 아버지가 운영한다는 이곳!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/f5ee59fa-f6a5-4489-ba94-1761fe78f613_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘신기방기 뿡뿡방기’는 어떻게 만들어진 유행어야?]]></title>
+            <link>https://www.careet.net/601</link>
+            <guid>https://www.careet.net/601</guid>
+            <pubDate>Fri, 31 Dec 2021 05:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[어쩔티비를 이을 요즘 유행어!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/f7f88a9d-c666-43f5-b792-2a1d8b620e2e_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[곧 SNS에 많이 보일 10대 트렌드 총정리: 램봉 거래? 자캐 만들기?]]></title>
             <link>https://www.careet.net/596</link>
