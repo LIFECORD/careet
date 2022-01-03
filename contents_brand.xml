@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 17:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 05:38:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식상한 띠 마케팅? 이렇게 하면 MZ세대가 반응한다]]></title>
+            <link>https://www.careet.net/600</link>
+            <guid>https://www.careet.net/600</guid>
+            <pubDate>Mon, 03 Jan 2022 05:38:14 GMT</pubDate>
+            <content:encoded><![CDATA[띠 마케팅하면 캐릭터 콜라보밖에 안 떠오른다고요?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/289bced3-e0eb-4a08-8cd3-8c0fcf9e46c3_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 인정한 일 잘하는 브랜드 ‘인생네컷’의 콜라보 비결 대공개]]></title>
             <link>https://www.careet.net/592</link>
@@ -45,14 +53,6 @@
             <guid>https://www.careet.net/574</guid>
             <pubDate>Fri, 24 Dec 2021 11:35:43 GMT</pubDate>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/6e7d238a-b977-4852-a5ed-33258e9cfb6a_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔씨소프트가 만든 캐릭터, ‘도구리’는 왜 Z세대 사이에서 인기 있을까?]]></title>
-            <link>https://www.careet.net/569</link>
-            <guid>https://www.careet.net/569</guid>
-            <pubDate>Fri, 24 Dec 2021 11:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램 이벤트로 브랜드 커뮤니티를 만드는 신박한 방법.txt]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4609eb90-8f5a-43e7-bb9b-4e6ac105379e_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
