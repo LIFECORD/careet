@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-01-04T17:47:12.264Z</updated>
+    <updated>2022-01-05T05:38:45.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[연반인]]></title>
+        <title type="html"><![CDATA[재질]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-01-04T17:47:04.686Z</updated>
-        <content type="html"><![CDATA[연예인과 일반인을 합친 신조어. 연예인은 아니지만 연예인 만큼의 화제성을 가진 인물을 뜻함. 대표적인 인물로는 SBS 소속 PD 재재가 있음.]]></content>
+        <updated>2022-01-05T05:38:37.128Z</updated>
+        <content type="html"><![CDATA[느낌, 톤, 성향을 이르는 MZ세대 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[짬바]]></title>
+        <title type="html"><![CDATA[움짤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-01-04T17:47:04.687Z</updated>
-        <content type="html"><![CDATA[짬에서 나오는 바이브의 줄임말. 연륜과 비슷한 의미로 사용됨.]]></content>
+        <updated>2022-01-05T05:38:37.128Z</updated>
+        <content type="html"><![CDATA[움직이는 짤방의 준말. gif 파일로 제작된 이미지를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폰꾸]]></title>
+        <title type="html"><![CDATA[탑꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-01-04T17:47:04.687Z</updated>
-        <content type="html"><![CDATA[폰꾸미기의 줄임말. 주로 휴대폰 배경화면이나 앱 아이콘을 커스텀 하는 것을 뜻함.]]></content>
+        <updated>2022-01-05T05:38:37.129Z</updated>
+        <content type="html"><![CDATA[탑로더 꾸미기의 줄임말. 포토 카드 케이스를 꾸미는 걸 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리퍼브]]></title>
+        <title type="html"><![CDATA[세포마켓]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-01-04T17:47:04.688Z</updated>
-        <content type="html"><![CDATA[반품됐거나, 외관상 약간의 흠집 또는 하자가 있어 정상가로 판매하지 못하는 제품.]]></content>
+        <updated>2022-01-05T05:38:37.131Z</updated>
+        <content type="html"><![CDATA[1인 미디어 시대에서 SNS를 통해 이뤄지는 1인 마켓. 기업 단위가 아닌 1인 사업자가 주를 이뤄 세포가 분열하는 것처럼 개인 단위로 발전하는 현상을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[처돌이]]></title>
+        <title type="html"><![CDATA[관종]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-01-04T17:47:04.689Z</updated>
-        <content type="html"><![CDATA[치킨 브랜드 ‘처갓집’의 마스코트 ‘처돌이’에서 유래한 말. 특정 대상을 매우 좋아한다는 뜻.]]></content>
+        <updated>2022-01-05T05:38:37.133Z</updated>
+        <content type="html"><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밀키트(meal kit)]]></title>
+        <title type="html"><![CDATA[인스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-01-04T17:47:04.691Z</updated>
-        <content type="html"><![CDATA[레시피에 따라 미리 손질된 식재료가 팩에 들어있는 제품.]]></content>
+        <updated>2022-01-05T05:38:37.137Z</updated>
+        <content type="html"><![CDATA[인쇄 스티커의 줄임말. 인쇄소에 원하는 도안을 보내면 스티커를 소량으로 제작할 수 있음.]]></content>
     </entry>
 </feed>
