@@ -4,15 +4,23 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 17:48:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 05:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깡 트렌드를 모른다면 Z세대를 반만 아는 것입니다]]></title>
+            <link>https://www.careet.net/604</link>
+            <guid>https://www.careet.net/604</guid>
+            <pubDate>Thu, 06 Jan 2022 05:38:18 GMT</pubDate>
+            <content:encoded><![CDATA[깡 문화가 뭔지부터 알려드립니다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/b4864603-fc69-4054-b2da-b3baf9a9246f_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[새롭게 변신 중인 금융앱에 대한 1020의 반응은?]]></title>
             <link>https://www.careet.net/605</link>
             <guid>https://www.careet.net/605</guid>
             <pubDate>Wed, 05 Jan 2022 05:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[금융 업계의 Z세대에 관심은 상당합니다. Z세대와 finace를 합성한 신조어가 등장할 정도죠. 과연 Z세대 타깃 마케팅과 서비스는 통하고 있을까요?]]></content:encoded>
+            <content:encoded><![CDATA['자이낸스'(Z세대+finance) 속성 5분 과외! Z세대 타깃 마케팅과 서비스는 통하고 있을까요?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/c39e1b11-6efb-48bf-afed-825fba9a6c63_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
