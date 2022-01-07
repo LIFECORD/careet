@@ -4,9 +4,25 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 17:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 05:38:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘이게 유행이가?’ Z세대 인스스에 매일 올라오는 테스트는?]]></title>
+            <link>https://www.careet.net/607</link>
+            <guid>https://www.careet.net/607</guid>
+            <pubDate>Fri, 07 Jan 2022 05:38:14 GMT</pubDate>
+            <content:encoded><![CDATA[어느정도까지유행하는거예↗요?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/c61a675a-c458-438e-8be1-f2679538a204_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] “내가 감히 내가 또 잘못을”]]></title>
+            <link>https://www.careet.net/606</link>
+            <guid>https://www.careet.net/606</guid>
+            <pubDate>Fri, 07 Jan 2022 05:38:14 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 Z세대가 까방하는 법]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/e1bf3144-d54f-427f-bbf8-67bee127655b_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[깡 트렌드를 모른다면 Z세대를 반만 아는 것입니다]]></title>
             <link>https://www.careet.net/604</link>

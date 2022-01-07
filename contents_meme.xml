@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 17:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 05:38:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] “내가 감히 내가 또 잘못을”]]></title>
+            <link>https://www.careet.net/606</link>
+            <guid>https://www.careet.net/606</guid>
+            <pubDate>Fri, 07 Jan 2022 05:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 Z세대가 까방하는 법]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/e1bf3144-d54f-427f-bbf8-67bee127655b_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘신기방기 뿡뿡방기’는 어떻게 만들어진 유행어야?]]></title>
             <link>https://www.careet.net/601</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 24 Dec 2021 11:35:28 GMT</pubDate>
             <content:encoded><![CDATA[SNS에서 재유행 중인 짤!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/490d1b93-2f9a-4d59-ab3e-ffca37b32781_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[당장 써먹는 짤줍] 곧 대유행 예감! 지금 놓치면 후회하는 <쇼미더머니 10> 밈]]></title>
-            <link>https://www.careet.net/520</link>
-            <guid>https://www.careet.net/520</guid>
-            <pubDate>Fri, 24 Dec 2021 11:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[나는 걱정돼... 뭐가 뭐가?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/1a02ace3-e978-44ba-b359-ff4a1ba88f7c_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
