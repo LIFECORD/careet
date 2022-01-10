@@ -4,11 +4,19 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 17:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 05:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘이게 유행이가?’ Z세대 인스스에 매일 올라오는 테스트는?]]></title>
+            <title><![CDATA[영수증 받으러 성수동까지 간다? Z세대 픽 브랜드 오이뮤의 인기 비결]]></title>
+            <link>https://www.careet.net/609</link>
+            <guid>https://www.careet.net/609</guid>
+            <pubDate>Mon, 10 Jan 2022 05:38:38 GMT</pubDate>
+            <content:encoded><![CDATA[굿즈만큼 귀여운 디자인 영수증+독특한 구매 과정으로 성수동 핫플됨]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/7e88cd52-110c-4795-b247-65507f969dae_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘은근히 어렵네!?’ Z세대 인스스에 매일 올라오는 화제의 테스트는?]]></title>
             <link>https://www.careet.net/607</link>
             <guid>https://www.careet.net/607</guid>
             <pubDate>Fri, 07 Jan 2022 05:38:14 GMT</pubDate>

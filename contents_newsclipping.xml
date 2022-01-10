@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/NewsClipping</id>
     <title>Careet ─ Contents ─ 캐릿픽 오늘의 뉴스</title>
-    <updated>2022-01-09T17:46:04.407Z</updated>
+    <updated>2022-01-10T05:39:23.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021년 방송사 유튜브 뉴스 채널, 어디가 제일 흥했나]]></title>
-        <id>http://www.mediatoday.co.kr/news/articleView.html?idxno=301600</id>
-        <link href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301600"/>
-        <updated>2022-01-07T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[SKT 빅데이터 분석 결과... 압구정, MZ세대 핫플레이스로]]></title>
+        <id>http://news.heraldcorp.com/view.php?ud=20211223000380</id>
+        <link href="http://news.heraldcorp.com/view.php?ud=20211223000380"/>
+        <updated>2022-01-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="pb30">
-                                                <div>미디어오늘 조사 결과 지난해 유튜브에서 가장 많이 이용한 방송 뉴스는 MBC로 나타났어요. 유튜브 라이브를 늘려온 것이 뉴스 이용자와의 접점을 늘리는데 효과적이었다는 분석입니다.<br><br>✅ <strong>눈여겨볼 포인트</strong><br>- MBC 기준 하루 평균 TV 메인뉴스 시청자 수(125만)보다 하루 평균 유튜브 채널의 조회수(692만)가 높았음. TV에서 유튜브로 뉴스의 영향력이 옮겨가고 있음.<br><br>-신뢰도 TOP5 방송사의 뉴스 영향력이 그대로 유튜브 채널에서 구독자 수와 조회 수 등으로 반영되는 모습을 보임.</div>
+                                                <div>1990년대 오렌지족의 메카였던 압구정이 다시 MZ세대 메카로 떠올랐다고 합니다. SKT 자사 빅데이터 분석 솔루션 '지오비전'에 의하면, 대한민국 100대 상권 중 올해 가장 많은 월 평균 매출을 기록한 상권이 압구정역이라고 하네요.</div><div><br></div><div>✅ <strong>눈여겨볼 포인트</strong></div><div>- 명품 매장, 고급 레스토랑이 많은 압구정역 상권이 소비가 고급화되는 현상의 수혜 지역으로 떠오름. 이는 가치 소비를 중요하게 여기는 MZ세대 경향성과도 이어짐</div><div>- 부동산 및 유통업계에 따르면 MZ세대가 선호하는 브랜드가 압구정역 부근에 대거 입점하고 있다고 함</div>
                                             </span>
-                                                <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301600" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
+                                                <a href="http://news.heraldcorp.com/view.php?ud=20211223000380" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
 </feed>
