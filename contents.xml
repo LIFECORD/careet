@@ -4,15 +4,23 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 21:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 05:39:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 한 끼에 10만 원 넘게 쓰는 이유? 2022 핵심 키워드 ‘OOOO’!]]></title>
+            <link>https://www.careet.net/608</link>
+            <guid>https://www.careet.net/608</guid>
+            <pubDate>Thu, 13 Jan 2022 05:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[친숙한 음식의 고급화 전략이 통한다?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/64ad99dc-abbe-4ef9-806d-c133f1e8c218_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“담당자가 바뀌었나?” 이미지 싹 달라진 브랜드 6]]></title>
             <link>https://www.careet.net/611</link>
             <guid>https://www.careet.net/611</guid>
             <pubDate>Wed, 12 Jan 2022 05:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[5개의 브랜드로 알아보는 성공적인 MZ 마케팅 사례]]></content:encoded>
+            <content:encoded><![CDATA[6개의 브랜드로 알아보는 성공적인 MZ 마케팅 사례]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/9a6d6d3f-6c27-4e1a-8e1e-ca50f17f3406_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
