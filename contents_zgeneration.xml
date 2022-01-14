@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 17:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 05:39:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생일 이벤트 최신 근황! 요즘 1020 축제는 이렇구나]]></title>
+            <link>https://www.careet.net/618</link>
+            <guid>https://www.careet.net/618</guid>
+            <pubDate>Fri, 14 Jan 2022 05:38:18 GMT</pubDate>
+            <content:encoded><![CDATA[팬 아니어도 재밌는 이색 생일 이벤트]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/07ac2643-206f-4767-90a0-0ba69790a939_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[혼밥·혼술에 이어 ‘혼사’까지 하는 게 대세라고? (feat. 인생네컷 NEW 트렌드)]]></title>
             <link>https://www.careet.net/584</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 24 Dec 2021 11:35:36 GMT</pubDate>
             <content:encoded><![CDATA[홀리몰리 과카몰리 몰랐다면 클릭!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/f1a4e4e1-48ce-4e8c-8d98-8fd11c77ed9f_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스우파 댄서=Z세대 선생님? 아이돌도 아닌데 춤 배우는 요즘 1020]]></title>
-            <link>https://www.careet.net/508</link>
-            <guid>https://www.careet.net/508</guid>
-            <pubDate>Fri, 24 Dec 2021 11:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대의 새로운 학원 = 댄스 스튜디오]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/f4a6d4ec-3bbf-4887-aac9-f0d853b6d5a9_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
