@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-01-15T05:38:21.192Z</updated>
+    <updated>2022-01-15T17:45:53.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[크루얼티 프리]]></title>
+        <title type="html"><![CDATA[여덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-01-15T05:38:13.397Z</updated>
-        <content type="html"><![CDATA[‘학대(cruelty)가 없다(free)’는 의미로, 동물 실험을 하지 않거나 동물 유래 원료를 사용하지 않은 제품을 뜻함.]]></content>
+        <updated>2022-01-15T17:45:44.873Z</updated>
+        <content type="html"><![CDATA[여자 덕후의 줄임말. 여덕 몰이 멤버 = 여성 팬이 많다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밸붕]]></title>
+        <title type="html"><![CDATA[OOTD]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-01-15T05:38:13.398Z</updated>
-        <content type="html"><![CDATA[밸런스 붕괴, 특정 아이템의 성능이 매우 출중하여 다른 아이템과 공정한 비교가 어려울 때 쓰는 말. 주로 게임 용어로 쓰였으나 요즘에는 다양한 분야에서 활용됨.]]></content>
+        <updated>2022-01-15T17:45:44.874Z</updated>
+        <content type="html"><![CDATA[‘Outfit Of The Day’의 줄임말. 데일리룩을 올릴 때 사용하는 해시태그.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하이라이트]]></title>
+        <title type="html"><![CDATA[현질]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-01-15T05:38:13.399Z</updated>
-        <content type="html"><![CDATA[인스타 스토리를 프로필란에 고정할 수 있는 기능.]]></content>
+        <updated>2022-01-15T17:45:44.875Z</updated>
+        <content type="html"><![CDATA[유료 게임 아이템을 사는 행위를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[키자니아]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-01-15T05:38:13.400Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-01-15T17:45:44.876Z</updated>
+        <content type="html"><![CDATA[어린이들이 직업을 체험할 수 있는 테마파크. 특정 직업을 생생하게 표현하거나 보여주는 콘텐츠를 볼 때 ‘어른들의 키자니아’라는 댓글이 많이 달림.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나심비]]></title>
+        <title type="html"><![CDATA[광공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-01-15T05:38:13.401Z</updated>
-        <content type="html"><![CDATA[‘나’, ‘마음(心)’, ‘소비’의 합성어. 내 마음에 들면 지갑을 여는 소비 심리를 뜻함.]]></content>
+        <updated>2022-01-15T17:45:44.878Z</updated>
+        <content type="html"><![CDATA[~에 대해 집착이 있는 사람을 뜻하는 MZ세대의 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[본캐]]></title>
+        <title type="html"><![CDATA[플리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-01-15T05:38:13.402Z</updated>
-        <content type="html"><![CDATA[‘본래의 캐릭터’의 줄임말.]]></content>
+        <updated>2022-01-15T17:45:44.879Z</updated>
+        <content type="html"><![CDATA[‘플레이리스트’의 줄임말]]></content>
     </entry>
 </feed>
