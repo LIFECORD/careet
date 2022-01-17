@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 17:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 05:39:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SNS 티키타카 맛집으로 소문난 공공기관 계정]]></title>
+            <link>https://www.careet.net/620</link>
+            <guid>https://www.careet.net/620</guid>
+            <pubDate>Mon, 17 Jan 2022 05:38:49 GMT</pubDate>
+            <content:encoded><![CDATA[적절한 시기에 센스 있는 이슈 메이킹으로 화제의 중심에 선 OO구청장]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/3b466f1b-5412-4303-a9d1-54a981b28f74_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[생일 이벤트 최신 근황! 요즘 1020 축제는 이렇구나]]></title>
             <link>https://www.careet.net/618</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 24 Dec 2021 11:35:36 GMT</pubDate>
             <content:encoded><![CDATA[왜 이렇게 수특 스티커 꾸미기에 진심일까요?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/14f9e75c-ec04-43f4-96da-f5c4bb06a8de_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 10대는‘헐’을 안 쓴다고? 그럼 무슨 감탄사 쓰는지 팩첵했습니다]]></title>
-            <link>https://www.careet.net/525</link>
-            <guid>https://www.careet.net/525</guid>
-            <pubDate>Fri, 24 Dec 2021 11:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[홀리몰리 과카몰리 몰랐다면 클릭!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/f1a4e4e1-48ce-4e8c-8d98-8fd11c77ed9f_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
