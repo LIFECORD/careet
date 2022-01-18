@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 17:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 05:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ세대와 말 통하려면 꼭 알아야 하는 온라인 썰 모음.zip]]></title>
+            <link>https://www.careet.net/616</link>
+            <guid>https://www.careet.net/616</guid>
+            <pubDate>Tue, 18 Jan 2022 05:38:24 GMT</pubDate>
+            <content:encoded><![CDATA[5분 만에 ‘고인 물 N년 차’ MZ세대 커뮤니티 유저로 만들어드립니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/727f12ee-1694-44b7-809e-5bf4c6d5a8a5_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SNS 티키타카 맛집으로 소문난 공공기관 계정]]></title>
             <link>https://www.careet.net/620</link>
