@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 17:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 05:35:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대의 띵 소비, 마케팅에 어떻게 활용해 볼 수 있을까?]]></title>
+            <link>https://www.careet.net/613</link>
+            <guid>https://www.careet.net/613</guid>
+            <pubDate>Thu, 20 Jan 2022 05:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[N분의 1에 익숙한 요즘 애들을 위한 서비스는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/86fdb2de-d5ac-4b9c-9c4c-9637b9daeb01_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 지갑 여는 굿즈 공식, OO 사이트에서 5분 컷으로 확인하기!]]></title>
             <link>https://www.careet.net/622</link>
