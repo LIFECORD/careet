@@ -4,9 +4,25 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 17:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 05:35:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이팅 5시간, 대기 번호 150번! Z세대 다 모인 떡상 플레이스는?]]></title>
+            <link>https://www.careet.net/626</link>
+            <guid>https://www.careet.net/626</guid>
+            <pubDate>Fri, 21 Jan 2022 05:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[팝업 스토어부터 포장마차까지, Z세대 픽! 추천 플레이스]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/329e4e38-bd7e-48f3-97ae-ec34e886aefc_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대도 신년 운세를 본다? 요즘은 OO에서 사주·타로 봄]]></title>
+            <link>https://www.careet.net/623</link>
+            <guid>https://www.careet.net/623</guid>
+            <pubDate>Fri, 21 Jan 2022 05:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[MBTI급 과몰입 트렌드의 등장, 틱톡부터 덕질 브이로그까지 점령함]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/8ebad39a-ac8c-4e67-b0d0-4ec7b8719bf3_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대의 띵 소비, 마케팅에 어떻게 활용해 볼 수 있을까?]]></title>
             <link>https://www.careet.net/613</link>
