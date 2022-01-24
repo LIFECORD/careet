@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 17:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 05:35:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 반응이 유독 좋았던 굿즈에는 다 이유가 있다! 이번주 일 잘한 브랜드3]]></title>
+            <link>https://www.careet.net/624</link>
+            <guid>https://www.careet.net/624</guid>
+            <pubDate>Mon, 24 Jan 2022 05:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[곰표, 써브웨이, IST엔터테인먼트 일 잘하네!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/15f1ffa6-2419-4d44-a815-5f7d23ecb97e_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SNS 티키타카 맛집으로 소문난 공공기관 계정]]></title>
             <link>https://www.careet.net/620</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 24 Dec 2021 11:35:43 GMT</pubDate>
             <content:encoded><![CDATA[잔망루피가 광고 모델이 됐다고?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/b52b93df-b2b8-486b-aa09-60a171d8c29d_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 결산! MZ세대가 뽑은 올해 일 잘한 브랜드 총정리]]></title>
-            <link>https://www.careet.net/577</link>
-            <guid>https://www.careet.net/577</guid>
-            <pubDate>Fri, 24 Dec 2021 11:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[이것만 보면 올해 마케팅 레퍼런스 다 정리됨!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/e4cc473a-ac57-49f7-ad74-54d9119ec01c_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
