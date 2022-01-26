@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 17:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 05:36:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리즘이가 뭐야? 요즘 Z세대는 관심받고 싶으면 이렇게 한다!]]></title>
+            <link>https://www.careet.net/628</link>
+            <guid>https://www.careet.net/628</guid>
+            <pubDate>Wed, 26 Jan 2022 05:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[리즘이를 모른다면 밀레니얼이 확실합니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/6c7b0af6-e46a-4561-b764-3398e826d8b1_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[바쁜 브랜드 담당자 위한 천재적인 인스타그램 레퍼런스 15가지]]></title>
             <link>https://www.careet.net/627</link>
