@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 17:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 05:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“요즘 힙스터들은 어디에 모여 있나요?” 다시 핫플이 된 공유 경제 근황]]></title>
+            <link>https://www.careet.net/621</link>
+            <guid>https://www.careet.net/621</guid>
+            <pubDate>Thu, 27 Jan 2022 05:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[힙한 Z세대의 피드를 점령한 이곳]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/e935ff91-1744-430b-983c-7b06e44418e4_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[리즘이가 뭐야? 요즘 Z세대는 관심받고 싶으면 이렇게 한다!]]></title>
             <link>https://www.careet.net/628</link>
