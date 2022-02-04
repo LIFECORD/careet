@@ -4,9 +4,25 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 17:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 05:35:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쉬다 오니까 트렌드를 못 따라가겠네...싶다면 클릭해 보세요]]></title>
+            <link>https://www.careet.net/632</link>
+            <guid>https://www.careet.net/632</guid>
+            <pubDate>Fri, 04 Feb 2022 05:35:12 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 뜨는 게임, 유튜브, 팝업스토어까지 캐릿이 대신 정리해둠!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/898753d5-69f0-4abb-b41f-ca1923c668b0_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] 케이팝에서 유래한 밈 모음]]></title>
+            <link>https://www.careet.net/629</link>
+            <guid>https://www.careet.net/629</guid>
+            <pubDate>Fri, 04 Feb 2022 05:35:12 GMT</pubDate>
+            <content:encoded><![CDATA[밈 유래가 이리 다채로웠다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/0a5e5afb-6d3d-4935-b55d-5803f6563cb6_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[교복이 야구 점퍼? 격세지감 제대로 느껴지는 요즘 Z세대 학교 풍경 8]]></title>
             <link>https://www.careet.net/631</link>
