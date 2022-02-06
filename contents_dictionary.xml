@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-02-06T09:18:51.609Z</updated>
+    <updated>2022-02-06T10:19:59.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[OOTD]]></title>
+        <title type="html"><![CDATA[틱톡커]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-06T09:18:43.298Z</updated>
-        <content type="html"><![CDATA[‘Outfit Of The Day’의 줄임말. 데일리룩을 올릴 때 사용하는 해시태그.]]></content>
+        <updated>2022-02-06T10:19:51.289Z</updated>
+        <content type="html"><![CDATA[틱톡(Tik Tok)에 영상을 찍어 올리는 유저를 일컫는 말. (유사어: 유튜버, 인스타그래머)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현질]]></title>
+        <title type="html"><![CDATA[상플]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-06T09:18:43.299Z</updated>
-        <content type="html"><![CDATA[유료 게임 아이템을 사는 행위를 뜻함.]]></content>
+        <updated>2022-02-06T10:19:51.297Z</updated>
+        <content type="html"><![CDATA[‘상상 플레이’의 줄임말. MZ세대가 썰을 풀고 노는 문화를 칭하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[덕메]]></title>
+        <title type="html"><![CDATA[트위터 예절]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-06T09:18:43.300Z</updated>
-        <content type="html"><![CDATA[덕질 메이트의 줄임말. 덕질을 함께 하는 친구를 뜻함.]]></content>
+        <updated>2022-02-06T10:19:51.300Z</updated>
+        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플리]]></title>
+        <title type="html"><![CDATA[자만추]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-06T09:18:43.301Z</updated>
-        <content type="html"><![CDATA[‘플레이리스트’의 줄임말]]></content>
+        <updated>2022-02-06T10:19:51.301Z</updated>
+        <content type="html"><![CDATA[‘자연스러운 만남 추구’ 줄임말↔소개팅]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코덕]]></title>
+        <title type="html"><![CDATA[플래그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-06T09:18:43.302Z</updated>
-        <content type="html"><![CDATA[코스메틱(Cosmetic. 화장품) 덕후의 줄임말.]]></content>
+        <updated>2022-02-06T10:19:51.302Z</updated>
+        <content type="html"><![CDATA[앞날을 암시하는 복선의 의미로 사용됨. (용례: 가지 말라는 데 꼭 가네? 사망 플래그다!)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[위꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-06T09:18:43.303Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-02-06T10:19:51.305Z</updated>
+        <content type="html"><![CDATA[위장 꾸미기. 맛있는 식사를 하는 것을 꾸미기에 빗대어 부르는 말.]]></content>
     </entry>
 </feed>
