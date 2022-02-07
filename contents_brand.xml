@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 23:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 01:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스가 MZ세대에게 ‘팝업 스토어’ 맛집으로 소문난 이유]]></title>
+            <link>https://www.careet.net/633</link>
+            <guid>https://www.careet.net/633</guid>
+            <pubDate>Mon, 07 Feb 2022 01:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[지우학, 오겜, 지옥… 열리는 팝업 스토어마다 다 잘 되네?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/4721204e-3028-41b6-bb5d-4bd2e7600b0d_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 반응이 유독 좋았던 굿즈에는 다 이유가 있다! 이번주 일 잘한 브랜드3]]></title>
             <link>https://www.careet.net/624</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 27 Dec 2021 05:37:52 GMT</pubDate>
             <content:encoded><![CDATA[인생네컷에 습관적으로 들르는 이유가 따로 있었어?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/2da0015a-51b1-43ef-a15b-c8e02850fcad_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리스크 없는 광고 모델 섭외? 이렇게 하시면 됩니다!]]></title>
-            <link>https://www.careet.net/587</link>
-            <guid>https://www.careet.net/587</guid>
-            <pubDate>Fri, 24 Dec 2021 11:35:43 GMT</pubDate>
-            <content:encoded><![CDATA[잔망루피가 광고 모델이 됐다고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/b52b93df-b2b8-486b-aa09-60a171d8c29d_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

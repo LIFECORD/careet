@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 23:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 01:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스가 MZ세대에게 ‘팝업 스토어’ 맛집으로 소문난 이유 (Careet ─ Contents ─ 전체 보기)]]></title>
+            <link>https://www.careet.net/633</link>
+            <guid>https://www.careet.net/633</guid>
+            <pubDate>Mon, 07 Feb 2022 01:03:32 GMT</pubDate>
+            <content:encoded><![CDATA[지우학, 오겜, 지옥… 열리는 팝업 스토어마다 다 잘 되네?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/4721204e-3028-41b6-bb5d-4bd2e7600b0d_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쉬다 오니까 트렌드를 못 따라가겠네...싶다면 클릭해 보세요 (Careet ─ Contents ─ 전체 보기)]]></title>
             <link>https://www.careet.net/632</link>
@@ -312,6 +320,14 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/14f9e75c-ec04-43f4-96da-f5c4bb06a8de_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[넷플릭스가 MZ세대에게 ‘팝업 스토어’ 맛집으로 소문난 이유 (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
+            <link>https://www.careet.net/633</link>
+            <guid>https://www.careet.net/633</guid>
+            <pubDate>Mon, 07 Feb 2022 01:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[지우학, 오겜, 지옥… 열리는 팝업 스토어마다 다 잘 되네?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/4721204e-3028-41b6-bb5d-4bd2e7600b0d_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Z세대 반응이 유독 좋았던 굿즈에는 다 이유가 있다! 이번주 일 잘한 브랜드3 (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
             <link>https://www.careet.net/624</link>
             <guid>https://www.careet.net/624</guid>
@@ -352,14 +368,6 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/2da0015a-51b1-43ef-a15b-c8e02850fcad_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[리스크 없는 광고 모델 섭외? 이렇게 하시면 됩니다! (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
-            <link>https://www.careet.net/587</link>
-            <guid>https://www.careet.net/587</guid>
-            <pubDate>Fri, 24 Dec 2021 05:37:45 GMT</pubDate>
-            <content:encoded><![CDATA[잔망루피가 광고 모델이 됐다고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/b52b93df-b2b8-486b-aa09-60a171d8c29d_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[달라진 신용·체크카드…작년 발급 10장 중 7장은 ‘세로형’ (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
             <link>https://www.yna.co.kr/view/AKR20220128152900002?input=1195m</link>
             <guid>https://www.yna.co.kr/view/AKR20220128152900002?input=1195m</guid>
@@ -370,52 +378,52 @@
                                                 <a href="https://www.yna.co.kr/view/AKR20220128152900002?input=1195m" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인친 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[탭꾸 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램 친구의 줄임말.]]></content:encoded>
+            <pubDate>Mon, 07 Feb 2022 01:04:10 GMT</pubDate>
+            <content:encoded><![CDATA[태블릿 pc 화면 꾸미기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[OOTD (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[솜뭉치 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[‘Outfit Of The Day’의 줄임말. 데일리룩을 올릴 때 사용하는 해시태그.]]></content:encoded>
+            <pubDate>Mon, 07 Feb 2022 01:04:10 GMT</pubDate>
+            <content:encoded><![CDATA[MZ세대가 ‘인형’을 부르는 애칭.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[도믿맨 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[젶크 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[‘도를 아십니까’라는 말과 함께 전도하려는 사람들을 뜻하는 말.]]></content:encoded>
+            <pubDate>Mon, 07 Feb 2022 01:04:10 GMT</pubDate>
+            <content:encoded><![CDATA[‘제페토 크루’를 줄여서 부르는 말로, 제페토를 함께 즐길 ‘파티원’을 뜻함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팔로인 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[킹받네 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[follow(따르다) + 人(사람)의 합성어로, 신뢰하는 사람을 통해 정보를 얻는 MZ세대를 가리키는 말.]]></content:encoded>
+            <pubDate>Mon, 07 Feb 2022 01:04:10 GMT</pubDate>
+            <content:encoded><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[킬포 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[스꾸 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content:encoded>
+            <pubDate>Mon, 07 Feb 2022 01:04:10 GMT</pubDate>
+            <content:encoded><![CDATA[스티커 꾸미기의 줄임말. 스티커로 무언가를 꾸미는 행위를 뜻함.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마크정식 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+            <title><![CDATA[취뽀 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[아이돌 그룹 갓세븐의 팬이 멤버인 ‘마크’를 대중들에게 알리기 위해 직접 편의점 레시피를 개발하고, 해당 레시피에 ‘마크’라는 이름을 붙여 유행시킨 것.]]></content:encoded>
+            <pubDate>Mon, 07 Feb 2022 01:04:10 GMT</pubDate>
+            <content:encoded><![CDATA[‘취업 뽀개기’의 줄임말. 취업에 성공했을 때 ‘취뽀했다’라고 함.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(광고포함) 10대 기념일, 세계 뵤의 날이 다가옵니다 (캐릿 ─ Trend letter)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:42 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 01:04:17 GMT</pubDate>
             <content:encoded><![CDATA[vol.93]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202201/4dd40f5f-81c2-4b39-9547-299f9a04f01f_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -423,7 +431,7 @@
             <title><![CDATA[대박 담당자 바뀜? 이미지 싹 달라진 브랜드 대공개 (캐릿 ─ Trend letter)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:42 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 01:04:17 GMT</pubDate>
             <content:encoded><![CDATA[vol.92]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202201/6fefde94-7610-4cd7-8996-ef9c81ecb5f8_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -431,7 +439,7 @@
             <title><![CDATA[(광고포함) MZ세대 시장 동향, 1분 요약해드림! (캐릿 ─ Trend letter)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:42 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 01:04:17 GMT</pubDate>
             <content:encoded><![CDATA[vol.91]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202201/8293a0cc-0182-4f7f-b73d-dc4a15efe2f3_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -439,7 +447,7 @@
             <title><![CDATA[요즘 10대 트렌드는 정말 모르겠어 (캐릿 ─ Trend letter)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:42 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 01:04:17 GMT</pubDate>
             <content:encoded><![CDATA[Vol.90]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202201/f2f27f0f-23a1-480c-a597-ea1bd7fbad3e_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -447,7 +455,7 @@
             <title><![CDATA[Z세대 떡상 아이템, 먼저 줍는 사람이 임자! (feat. 당첨자 발표) (캐릿 ─ Trend letter)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:42 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 01:04:17 GMT</pubDate>
             <content:encoded><![CDATA[vol.89]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202201/d4a10547-1760-463b-9a32-1c110a37e9cc_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -455,7 +463,7 @@
             <title><![CDATA[(광고) 2022년 Z세대 핫이슈! 미리 알려드립니다 (캐릿 ─ Trend letter)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:42 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 01:04:17 GMT</pubDate>
             <content:encoded><![CDATA[vol.88]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202112/df180e6e-5867-40f3-be09-3ed474436bf2_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -463,7 +471,7 @@
             <title><![CDATA[2022년엔 부캐 마케팅 가고, 폰팬덤 마케팅 온다! (캐릿 ─ Trend letter)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:42 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 01:04:17 GMT</pubDate>
             <content:encoded><![CDATA[vol.87]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202112/4db3491d-907b-4e14-b8d4-bb0062eef2af_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -471,7 +479,7 @@
             <title><![CDATA[(광고) 에쏘바가 뭐지? Z세대 핫플 또 바뀜! (캐릿 ─ Trend letter)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:42 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 01:04:17 GMT</pubDate>
             <content:encoded><![CDATA[vol.86]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202112/ed383d12-0bb0-439e-98b5-58d87d21b987_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -479,7 +487,7 @@
             <title><![CDATA[(유포 금지) Z세대 문체 캐릿 단독 입수! (캐릿 ─ Trend letter)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:42 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 01:04:17 GMT</pubDate>
             <content:encoded><![CDATA[vol.85]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202111/2293a4e3-0761-4ff2-ac8b-185ad784d5fd_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -487,7 +495,7 @@
             <title><![CDATA[(광고) 2022 트렌드 능력고사 응시자로 선정되셨습니다 (캐릿 ─ Trend letter)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:42 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 01:04:17 GMT</pubDate>
             <content:encoded><![CDATA[Vol.84]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202111/41e56151-47d9-4b4b-81b0-3c69f2e0a6a8_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -495,7 +503,7 @@
             <title><![CDATA[메타버스 롯데월드의 소름 끼치는 디테일 (캐릿 ─ Trend letter)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:42 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 01:04:17 GMT</pubDate>
             <content:encoded><![CDATA[Vol.83]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202111/d964cccb-5a6f-48b7-9d09-b70eb16c0e4a_300x300.jpg" length="0" type="image/jpg"/>
         </item>
@@ -503,7 +511,7 @@
             <title><![CDATA[(광고) '시그'가 뭔지 모르신다고요? 짜짜? 박박... (캐릿 ─ Trend letter)]]></title>
             <link>https://LIFECORD.github.io/careet/all.xml</link>
             <guid>https://LIFECORD.github.io/careet/all.xml</guid>
-            <pubDate>Sun, 06 Feb 2022 23:18:42 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 01:04:17 GMT</pubDate>
             <content:encoded><![CDATA[vol.82]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Board/202111/dc9e0ad0-23c7-40ad-bd8d-89418a92428a_300x300.jpg" length="0" type="image/jpg"/>
         </item>

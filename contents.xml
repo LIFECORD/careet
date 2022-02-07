@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 23:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 01:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스가 MZ세대에게 ‘팝업 스토어’ 맛집으로 소문난 이유]]></title>
+            <link>https://www.careet.net/633</link>
+            <guid>https://www.careet.net/633</guid>
+            <pubDate>Mon, 07 Feb 2022 01:03:32 GMT</pubDate>
+            <content:encoded><![CDATA[지우학, 오겜, 지옥… 열리는 팝업 스토어마다 다 잘 되네?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/4721204e-3028-41b6-bb5d-4bd2e7600b0d_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쉬다 오니까 트렌드를 못 따라가겠네...싶다면 클릭해 보세요]]></title>
             <link>https://www.careet.net/632</link>
