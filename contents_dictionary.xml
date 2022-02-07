@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-02-07T09:19:43.450Z</updated>
+    <updated>2022-02-07T10:20:36.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[일코]]></title>
+        <title type="html"><![CDATA[처돌이]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-07T09:19:35.031Z</updated>
-        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
+        <updated>2022-02-07T10:20:29.468Z</updated>
+        <content type="html"><![CDATA[치킨 브랜드 ‘처갓집’의 마스코트 ‘처돌이’에서 유래한 말. 특정 대상을 매우 좋아한다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신박한]]></title>
+        <title type="html"><![CDATA[굿즈]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-07T09:19:35.033Z</updated>
-        <content type="html"><![CDATA[‘새롭고 놀랍다’란 뜻으로 신기하면서도 참신한 경우에 사용되는 신조어.]]></content>
+        <updated>2022-02-07T10:20:29.469Z</updated>
+        <content type="html"><![CDATA[원래 연예인과 관련된 사진, 포토카드, 응원봉 등의 제품을 뜻했으나, 최근엔 ‘한정판으로 출시되는 매력적인 아이템’을 통칭하는 단어로 자리잡음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[액괴]]></title>
+        <title type="html"><![CDATA[P2P]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-07T09:19:35.034Z</updated>
-        <content type="html"><![CDATA[액체 괴물의 줄임말. 알파 세대에게 인기 있는 장난감인 ‘슬라임’을 지칭하는 용어이다.]]></content>
+        <updated>2022-02-07T10:20:29.470Z</updated>
+        <content type="html"><![CDATA[금융기관을 거치지 않고 개인과 개인이 온라인 플랫폼을 통해 자금을 빌려주고 이에 대한 이자를 받는 방식.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맘찍]]></title>
+        <title type="html"><![CDATA[앱테크]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-07T09:19:35.035Z</updated>
-        <content type="html"><![CDATA[마음(=하트 버튼)을 찍어둔다는 뜻. 트위터에서 남의 게시물에 공감을 표하거나, 그 게시물을 보관하고 싶을 때 사용하는 기능.]]></content>
+        <updated>2022-02-07T10:20:29.471Z</updated>
+        <content type="html"><![CDATA[앱+재테크의 합성어. 앱 안에서 특정 활동을 해 포인트를 쌓는 것]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플로깅]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-07T09:19:35.037Z</updated>
-        <content type="html"><![CDATA[줍다라는 뜻의 스웨덴어 ‘plocka upp’과  영단어 ‘jogging(조깅)’의 합성어. 조깅을 하면서 쓰레기를 줍는 운동을 뜻함. 최근 MZ세대 사이의 새로운 취미로 떠올랐음.]]></content>
+        <updated>2022-02-07T10:20:29.472Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빌드업]]></title>
+        <title type="html"><![CDATA[마스킹 테이프]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-07T09:19:35.044Z</updated>
-        <content type="html"><![CDATA[‘쌓아 올린다’는 뜻의 건축 용어 ‘빌드업(Build-up)’에서 유래한 표현. SNS에서는 ‘말하고자 하는 내용=결론을 강조하기 위해 앞단에 설명을 쌓는 것’이라는 뜻으로 쓰인다.]]></content>
+        <updated>2022-02-07T10:20:29.473Z</updated>
+        <content type="html"><![CDATA[손으로 찢어 사용할 수 있는 종이 테이프. 다양한 디자인으로, 다이어리를 꾸미는 MZ세대에게 필수템으로 통함.]]></content>
     </entry>
 </feed>
