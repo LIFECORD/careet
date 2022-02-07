@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-02-07T05:17:25.157Z</updated>
+    <updated>2022-02-07T06:23:43.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[좋페]]></title>
+        <title type="html"><![CDATA[닥눈삼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-07T05:17:17.991Z</updated>
-        <content type="html"><![CDATA[‘좋아요 누르면 페메(페북 메신저) 보낸다’의 줄임말.]]></content>
+        <updated>2022-02-07T06:23:35.365Z</updated>
+        <content type="html"><![CDATA[‘닥치고 눈팅 삼년’의 줄임말. 주로 커뮤니티 유저들 사이에서 사용되는 용어로, 처음 커뮤니티 활동을 시작할 때 규칙이나 분위기를 충분히 파악하고 활동하라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마스킹 테이프]]></title>
+        <title type="html"><![CDATA[별다꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-07T05:17:17.993Z</updated>
-        <content type="html"><![CDATA[손으로 찢어 사용할 수 있는 종이 테이프. 다양한 디자인으로, 다이어리를 꾸미는 MZ세대에게 필수템으로 통함.]]></content>
+        <updated>2022-02-07T06:23:35.366Z</updated>
+        <content type="html"><![CDATA[다이어리부터 폴라로이드, 신발, 스마트폰 배경화면까지 별걸 다 꾸미는 MZ세대의 특징을 나타내는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알파세대]]></title>
+        <title type="html"><![CDATA[프롬]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-07T05:17:17.995Z</updated>
-        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
+        <updated>2022-02-07T06:23:35.367Z</updated>
+        <content type="html"><![CDATA[미국 고등학교에서 학년의 마지막에 열리는 공식적인 댄스 파티. 서양 하이틴이 유행하면서 &lt;클루리스&gt; 등 하이틴 영화에 나오는 ‘프롬파티’ 소재가 Z세대의 뜨거운 관심을 받았음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[필환경]]></title>
+        <title type="html"><![CDATA[젶크]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-07T05:17:17.996Z</updated>
-        <content type="html"><![CDATA[필(必)과 환경의 합성어로 환경을 필수로 생각해야 한다는 뜻.]]></content>
+        <updated>2022-02-07T06:23:35.368Z</updated>
+        <content type="html"><![CDATA[‘제페토 크루’를 줄여서 부르는 말로, 제페토를 함께 즐길 ‘파티원’을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밀프렙]]></title>
+        <title type="html"><![CDATA[블친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-07T05:17:17.997Z</updated>
-        <content type="html"><![CDATA[식사(meal)와 준비(preparation)의 합성어. 최대 일주일치 식사를 미리 준비해뒀다가 식사 때마다 먹는 방법.]]></content>
+        <updated>2022-02-07T06:23:35.369Z</updated>
+        <content type="html"><![CDATA[블로그 친구의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타 돋보기]]></title>
+        <title type="html"><![CDATA[군백기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-07T05:17:17.999Z</updated>
-        <content type="html"><![CDATA[인스타그램 검색 탭을 일컫는 말. 인스타그램 알고리즘을 이용해 검색바 하단에 추천 콘텐츠를 보여줌. MZ세대가 시간 때울 때 주로 이용하는 기능.]]></content>
+        <updated>2022-02-07T06:23:35.370Z</updated>
+        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함]]></content>
     </entry>
 </feed>
