@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 01:07:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 02:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인주의? 디지털 네이티브? Z세대가 직접 말하는 Z세대 찐이미지 7]]></title>
+            <link>https://www.careet.net/636</link>
+            <guid>https://www.careet.net/636</guid>
+            <pubDate>Tue, 08 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 오해와 진실, 어디까지 알고 계셨나요? GEN-Z의 셀프 캐릭터 해석은 이렇습니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/06dc9112-439b-4e4d-934d-a34d656e0638_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스가 MZ세대에게 ‘팝업 스토어’ 맛집으로 소문난 이유]]></title>
             <link>https://www.careet.net/633</link>
