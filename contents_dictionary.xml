@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-02-09T04:24:13.367Z</updated>
+    <updated>2022-02-09T05:17:29.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[시드 머니]]></title>
+        <title type="html"><![CDATA[로고 플레이]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-09T04:24:05.758Z</updated>
-        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
+        <updated>2022-02-09T05:17:22.354Z</updated>
+        <content type="html"><![CDATA[패션 트렌드 중 하나로, 브랜드 로고를 활용해 의상이나 액세서리를 디자인하는 것을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스꾸]]></title>
+        <title type="html"><![CDATA[근자감]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-09T04:24:05.759Z</updated>
-        <content type="html"><![CDATA[스티커 꾸미기의 줄임말. 스티커로 무언가를 꾸미는 행위를 뜻함.]]></content>
+        <updated>2022-02-09T05:17:22.359Z</updated>
+        <content type="html"><![CDATA[근거 없는 자신감의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[디지털 네이티브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-09T04:24:05.761Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-02-09T05:17:22.361Z</updated>
+        <content type="html"><![CDATA[어린 시절부터 디지털 환경에서 성장한 세대를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밥약]]></title>
+        <title type="html"><![CDATA[불펌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-09T04:24:05.762Z</updated>
-        <content type="html"><![CDATA[밥 약속의 줄임 말.]]></content>
+        <updated>2022-02-09T05:17:22.361Z</updated>
+        <content type="html"><![CDATA[인터넷상에서, 불법으로 다른 사람의 게시물을 그대로 가져오거나 가져가는 일. ‘불법 퍼 옴’의 줄인 말이다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트시피]]></title>
+        <title type="html"><![CDATA[알못]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-09T04:24:05.763Z</updated>
-        <content type="html"><![CDATA[트위터+레시피를 합친 말. 트위터에서 유행하는 레시피를 뜻함.]]></content>
+        <updated>2022-02-09T05:17:22.361Z</updated>
+        <content type="html"><![CDATA[어떤 분야에 대해 잘 알지 못하는 사람을 부르는 말↔잘알]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[린스타]]></title>
+        <title type="html"><![CDATA[머글]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-09T04:24:05.765Z</updated>
-        <content type="html"><![CDATA[진짜 계정. ‘Real Instagram’의 줄임말.]]></content>
+        <updated>2022-02-09T05:17:22.362Z</updated>
+        <content type="html"><![CDATA[덕후가 아닌 일반인을 이르는 말. 영화 &lt;해리 포터&gt; 시리즈에서 마법사들이 일반인을 부르는 용어에서 비롯됨.]]></content>
     </entry>
 </feed>
