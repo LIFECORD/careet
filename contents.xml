@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 05:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 06:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<데못죽> 이제는 아셔야 합니다: Z세대 최애 세계관 완전 분석]]></title>
+            <link>https://www.careet.net/635</link>
+            <guid>https://www.careet.net/635</guid>
+            <pubDate>Wed, 09 Feb 2022 06:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 셋이 모이면 몬베베 시즈니 그리고 러뷰어]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/3f7f9db7-deaf-4383-a27f-e08ed2cd16c7_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개인주의? 디지털 네이티브? Z세대가 직접 말하는 Z세대 찐이미지 7]]></title>
             <link>https://www.careet.net/636</link>
