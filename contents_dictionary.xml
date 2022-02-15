@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-02-15T11:16:11.864Z</updated>
+    <updated>2022-02-15T12:30:23.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[킹리적 갓심]]></title>
+        <title type="html"><![CDATA[금손]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-15T11:16:04.695Z</updated>
-        <content type="html"><![CDATA['합리적 의심'에 접두어 '킹'과 '갓'을 붙여 강조한 신조어.]]></content>
+        <updated>2022-02-15T12:30:16.350Z</updated>
+        <content type="html"><![CDATA[손재주가 좋은 사람을 일컫는 말. 반대말은 똥손.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언박싱]]></title>
+        <title type="html"><![CDATA[버실]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-15T11:16:04.696Z</updated>
-        <content type="html"><![CDATA[구매한 물건의 상자를 개봉하는 과정을 담은 유튜브 영상 포맷.]]></content>
+        <updated>2022-02-15T12:30:16.354Z</updated>
+        <content type="html"><![CDATA[버전 실시간의 줄임말. 슬라임 영상에 상황극 음성이나 자막을 입힌 콘텐츠를 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[P2P]]></title>
+        <title type="html"><![CDATA[맛잘알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-15T11:16:04.697Z</updated>
-        <content type="html"><![CDATA[금융기관을 거치지 않고 개인과 개인이 온라인 플랫폼을 통해 자금을 빌려주고 이에 대한 이자를 받는 방식.]]></content>
+        <updated>2022-02-15T12:30:16.355Z</updated>
+        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어인 '잘알' 앞에 '맛'이 붙은 형태. 즉, 맛을 잘 아는 사람이라는 뜻]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무나]]></title>
+        <title type="html"><![CDATA[웃음 벨]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-15T11:16:04.698Z</updated>
-        <content type="html"><![CDATA[무료 나눔의 준말]]></content>
+        <updated>2022-02-15T12:30:16.355Z</updated>
+        <content type="html"><![CDATA[벨을 누르면 종소리가 나는 것처럼, 보기만 하면 웃음이 터지는 밈이나 짤을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[랩핑지]]></title>
+        <title type="html"><![CDATA[원툴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-15T11:16:04.699Z</updated>
-        <content type="html"><![CDATA[A4~A5의 사이즈의 배경지. 주로 포장이나 꾸미기에 활용되고 있음.]]></content>
+        <updated>2022-02-15T12:30:16.356Z</updated>
+        <content type="html"><![CDATA[(one tool) 한 가지만 잘 한다는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사바사]]></title>
+        <title type="html"><![CDATA[슈스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-15T11:16:04.700Z</updated>
-        <content type="html"><![CDATA[‘사람 by 사람’의 줄임말. 사람마다 다 다르다는 것을 의미함.]]></content>
+        <updated>2022-02-15T12:30:16.357Z</updated>
+        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
     </entry>
 </feed>
