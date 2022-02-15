@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/NewsClipping</id>
     <title>Careet ─ Contents ─ 캐릿픽 오늘의 뉴스</title>
-    <updated>2022-02-15T21:16:29.888Z</updated>
+    <updated>2022-02-15T22:19:54.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[3대 백화점 실적 질주 비결은… 명품 소비 늘고 MZ세대 유입]]></title>
-        <id>https://www.donga.com/news/article/all/20220210/111711842/1</id>
-        <link href="https://www.donga.com/news/article/all/20220210/111711842/1"/>
-        <updated>2022-02-15T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[LG 가상 아티스트 '틸다' 의상 디자이너로 뉴욕 패션위크 서다]]></title>
+        <id>http://www.dt.co.kr/contents.html?article_no=2022021602101532078002&amp;ref=naver</id>
+        <link href="http://www.dt.co.kr/contents.html?article_no=2022021602101532078002&amp;ref=naver"/>
+        <updated>2022-02-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="pb30">
-                                                <div>코로나 확산에도 불구하고 국내 3대 백화점 실적이 일제히 개선됐다고 합니다. 특히 현대백화점은 역대 최대 실적과 함께 2030 고객 매출 또한 사상 최대를 기록했다고 해요. 호실적의 배경으로는 해외여행 대신 명품 보복 소비를 선택하는 소비자들이 늘어난 것이 꼽힙니다. 또한 점포가 복합문화공간으로 거듭나며 MZ세대가 대거 유입된 것도 영향을 미쳤다는 분석이 있습니다.</div><div><br></div><div>✅ <strong>눈여겨볼 포인트</strong><br>-현대백화점 명품 전체 매출에서 20, 30대 고객이 차지하는 비중은 지난해 절반을 차지했다고 함.<br>-참고 콘텐츠: 2021 <a href="https://www.20slab.org/Archives/38052" rel="noopener noreferrer" target="_blank"><strong><u>20대 탑 브랜드 어워즈 백화점 부문</u></strong></a>의 순위는 신세계-현대-롯데 순</div>
+                                                <div>LG전자가 AI를 활용한 가상 아티스트 '틸다'를 뉴욕 패션위크에서 공개했다고 합니다. 틸다는 박윤희 디자이너와 협업해 ‘금성에서 핀 꽃’을 모티프로한 의상을 선보였다고 하네요.</div><div><br></div><div>✅ <strong>눈여겨볼 포인트</strong></div><div>- 초거대 AI가 빅데이터를 기반으로 콘텐츠를 생성해나가고 있다는 것. 소설, 에세이, 칼럼 등의 텍스트로 된 콘텐츠를 넘어, 시각 분야까지 창작 범위를 확대한 최초의 사례라는 점.</div>
                                             </span>
-                                                <a href="https://www.donga.com/news/article/all/20220210/111711842/1" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
+                                                <a href="http://www.dt.co.kr/contents.html?article_no=2022021602101532078002&amp;ref=naver" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
 </feed>
