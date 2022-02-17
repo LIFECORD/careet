@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 23:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 01:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 중에 몇 개나 아세요? 2022 뉴 힙 브랜드.list]]></title>
+            <link>https://www.careet.net/642</link>
+            <guid>https://www.careet.net/642</guid>
+            <pubDate>Thu, 17 Feb 2022 01:00:59 GMT</pubDate>
+            <content:encoded><![CDATA[처음 들어보는 브랜드가 절반인데요…?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/0fe74157-84cb-43be-8a68-5e2f7fade8b8_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘배운 변태네!’ 우리 브랜드에 써먹을 수 있는 아이돌 세계관 총정리]]></title>
             <link>https://www.careet.net/637</link>
