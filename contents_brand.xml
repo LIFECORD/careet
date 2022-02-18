@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 02:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 03:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 밸런타인데이 마케팅 승자는 누굴까? 레퍼런스 모음.zip]]></title>
+            <link>https://www.careet.net/640</link>
+            <guid>https://www.careet.net/640</guid>
+            <pubDate>Fri, 18 Feb 2022 03:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대는 밸런타인데이에 초콜릿 대신 OO을 원한다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/4c71f453-8b0a-45b9-98c3-43ad9eb2780d_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스가 MZ세대에게 ‘팝업 스토어’ 맛집으로 소문난 이유]]></title>
             <link>https://www.careet.net/633</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 03 Jan 2022 05:38:14 GMT</pubDate>
             <content:encoded><![CDATA[띠 마케팅하면 캐릭터 콜라보밖에 안 떠오른다고요?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/289bced3-e0eb-4a08-8cd3-8c0fcf9e46c3_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 인정한 일 잘하는 브랜드 ‘인생네컷’의 콜라보 비결 대공개]]></title>
-            <link>https://www.careet.net/592</link>
-            <guid>https://www.careet.net/592</guid>
-            <pubDate>Mon, 27 Dec 2021 05:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[인생네컷에 습관적으로 들르는 이유가 따로 있었어?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/2da0015a-51b1-43ef-a15b-c8e02850fcad_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
