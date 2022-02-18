@@ -4,9 +4,25 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 23:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 01:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 주목한 2022 동계올림픽 스타·밈 모음.zip]]></title>
+            <link>https://www.careet.net/646</link>
+            <guid>https://www.careet.net/646</guid>
+            <pubDate>Fri, 18 Feb 2022 01:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[현생에 치여 이번 올림픽 트렌드를 놓치신 분들 꼭 보세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/2edfaeda-b941-49cd-9a79-215f0000206c_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 청담에 Z세대가 몰려들고 있는 이유는 바로 ‘이곳’ 때문!]]></title>
+            <link>https://www.careet.net/645</link>
+            <guid>https://www.careet.net/645</guid>
+            <pubDate>Fri, 18 Feb 2022 01:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[오픈런 기본인 Z세대 핫플부터 유행템까지 알려드림]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/9d37c710-fbed-4d89-a128-29d145b29ff7_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이 중에 몇 개나 아세요? 2022 뉴 힙 브랜드.list]]></title>
             <link>https://www.careet.net/642</link>
