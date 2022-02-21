@@ -4,9 +4,25 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 23:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 01:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[캐릿 자문단 조사] Z세대 90%,약속 있으면 회식 안 가도 된다!]]></title>
+            <link>https://www.careet.net/647</link>
+            <guid>https://www.careet.net/647</guid>
+            <pubDate>Mon, 21 Feb 2022 01:04:21 GMT</pubDate>
+            <content:encoded><![CDATA[세대 갈등의 영원한 주범 ‘회식 논쟁’ Z세대의 찐의견을 들어봄]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/5373a7eb-47b5-4674-97f6-f8a5cf300c7f_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[여전히 진화 중인 비대면 마케팅, Z세대가 반응한 최신 사례는?]]></title>
+            <link>https://www.careet.net/644</link>
+            <guid>https://www.careet.net/644</guid>
+            <pubDate>Mon, 21 Feb 2022 01:04:21 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 Z세대 핫플 = 삼성전자 온라인 체험 공간?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/020a9a78-514a-4302-ae48-823e2c546910_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 주목한 2022 동계올림픽 스타·밈 모음.zip]]></title>
             <link>https://www.careet.net/646</link>
