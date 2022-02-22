@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 전체 보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 01:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 02:32:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퇴근 후 OO으로 공부 중? 요즘 신입사원의 자기계발.list]]></title>
+            <link>https://www.careet.net/650</link>
+            <guid>https://www.careet.net/650</guid>
+            <pubDate>Tue, 22 Feb 2022 02:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[취뽀 후에도 끊임 없이 전문 지식을 공부하는 Z세대]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/2a0eb49f-46c3-4b1a-a240-27663e4eb815_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[캐릿 자문단 조사] Z세대 90%,약속 있으면 회식 안 가도 된다!]]></title>
             <link>https://www.careet.net/647</link>
