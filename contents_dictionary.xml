@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-02-23T20:21:12.200Z</updated>
+    <updated>2022-02-23T21:19:42.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[위버스]]></title>
+        <title type="html"><![CDATA[인스타그래머블]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-23T20:21:04.631Z</updated>
-        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
+        <updated>2022-02-23T21:19:34.146Z</updated>
+        <content type="html"><![CDATA[인스타그램(Instagram)에 올릴만 하다(able)는 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장비병]]></title>
+        <title type="html"><![CDATA[대란]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-23T20:21:04.633Z</updated>
-        <content type="html"><![CDATA[무언가를 시작할 때 필요한 장비부터 구입하는 장비 덕후를 뜻하는 말.]]></content>
+        <updated>2022-02-23T21:19:34.149Z</updated>
+        <content type="html"><![CDATA[큰 난리가 일어났다는 뜻. 어떤 물건이 너무 인기가 많아서 구하지 못해 난리인 현상에 주로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Z세대]]></title>
+        <title type="html"><![CDATA[어그로(aggro)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-23T20:21:04.636Z</updated>
-        <content type="html"><![CDATA[1996년 이후 출생~2000년대 중후반 출생자.]]></content>
+        <updated>2022-02-23T21:19:34.152Z</updated>
+        <content type="html"><![CDATA[상대의 관심을 끌거나 도발하기 위해 자극적인 행동을 하는 것을 뜻하는 인터넷 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인플루언서블 세대]]></title>
+        <title type="html"><![CDATA[빌드업]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-23T20:21:04.637Z</updated>
-        <content type="html"><![CDATA[Influenceable + 世代 = 영향력 있는 세대라는 뜻. 대학내일20대연구소가 선정한 2021년 트렌드 키워드로, 자신의 영향력을 알고 행동하는 MZ세대를 뜻함.]]></content>
+        <updated>2022-02-23T21:19:34.153Z</updated>
+        <content type="html"><![CDATA[‘쌓아 올린다’는 뜻의 건축 용어 ‘빌드업(Build-up)’에서 유래한 표현. SNS에서는 ‘말하고자 하는 내용=결론을 강조하기 위해 앞단에 설명을 쌓는 것’이라는 뜻으로 쓰인다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고독한 채팅방]]></title>
+        <title type="html"><![CDATA[오늘의집]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-23T20:21:04.638Z</updated>
-        <content type="html"><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content>
+        <updated>2022-02-23T21:19:34.153Z</updated>
+        <content type="html"><![CDATA[MZ세대가 푹 빠져 있는 인테리어 플랫폼. ‘오늘의집’에서 자주 보이는 스타일로 꾸민 것을 ‘오늘의집st’라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알잘딱깔센]]></title>
+        <title type="html"><![CDATA[공답]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-23T20:21:04.639Z</updated>
-        <content type="html"><![CDATA[알아서 잘 딱 깔끔하고 센스있게.]]></content>
+        <updated>2022-02-23T21:19:34.154Z</updated>
+        <content type="html"><![CDATA[공개 답변의 줄임말. 제품의 정보를 묻고 답할 때 사용함.]]></content>
     </entry>
 </feed>
