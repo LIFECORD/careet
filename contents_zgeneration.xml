@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 23:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 01:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식물 키우기는 왜 갑자기 힙한 취미가 됐을까?]]></title>
+            <link>https://www.careet.net/651</link>
+            <guid>https://www.careet.net/651</guid>
+            <pubDate>Thu, 24 Feb 2022 01:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[파·상추·바질 키워 요리해 먹고, 당근마켓에서 식물 거래하고, 반려식물에게 위로 받는 Z세대]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/01e68eb2-b6ea-43ef-8d9a-ac6adf0202dc_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대도 신년 운세를 본다? 요즘은 OO에서 사주·타로 봄]]></title>
             <link>https://www.careet.net/623</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 24 Dec 2021 11:35:36 GMT</pubDate>
             <content:encoded><![CDATA[요즘 10대는 수능 끝나면 바디 프로필 찍고 유튜브 채널 개설한다고?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4fa01ac4-0823-4b43-91df-d96dabed06b0_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 고등학생들이 필수로 공구한다는 이것]]></title>
-            <link>https://www.careet.net/537</link>
-            <guid>https://www.careet.net/537</guid>
-            <pubDate>Fri, 24 Dec 2021 11:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[왜 이렇게 수특 스티커 꾸미기에 진심일까요?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/14f9e75c-ec04-43f4-96da-f5c4bb06a8de_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
