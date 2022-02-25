@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-02-25T02:37:08.201Z</updated>
+    <updated>2022-02-25T03:20:53.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[트시피]]></title>
+        <title type="html"><![CDATA[킹받네]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-25T02:36:59.478Z</updated>
-        <content type="html"><![CDATA[트위터+레시피를 합친 말. 트위터에서 유행하는 레시피를 뜻함.]]></content>
+        <updated>2022-02-25T03:20:44.871Z</updated>
+        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[짬바]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-25T02:36:59.479Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함]]></content>
+        <updated>2022-02-25T03:20:44.872Z</updated>
+        <content type="html"><![CDATA[짬에서 나오는 바이브의 줄임말. 연륜과 비슷한 의미로 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인친]]></title>
+        <title type="html"><![CDATA[코시국]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-25T02:36:59.480Z</updated>
-        <content type="html"><![CDATA[인스타그램 친구의 줄임말.]]></content>
+        <updated>2022-02-25T03:20:44.873Z</updated>
+        <content type="html"><![CDATA[코로나 시국의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마테]]></title>
+        <title type="html"><![CDATA[트수]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-25T02:36:59.482Z</updated>
-        <content type="html"><![CDATA[마스킹테이프의 준말. 주로 다이어리 등을 꾸밀 때 이용됨]]></content>
+        <updated>2022-02-25T03:20:44.875Z</updated>
+        <content type="html"><![CDATA[스트리밍 플랫폼 ‘트위치’와 ‘백수’가 결합된 단어. 트위치를 시청하는 데 많은 시간을 보낸다는 뜻으로, 트위치 애청자를 상징하는 말로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플리]]></title>
+        <title type="html"><![CDATA[자캐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-25T02:36:59.483Z</updated>
-        <content type="html"><![CDATA[‘플레이리스트’의 줄임말]]></content>
+        <updated>2022-02-25T03:20:44.876Z</updated>
+        <content type="html"><![CDATA[자신이 직접 그리거나 만든 캐릭터]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[떼창]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-25T02:36:59.485Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-02-25T03:20:44.877Z</updated>
+        <content type="html"><![CDATA[공연에서 관객들이 아티스트의 노래를 다 함께 따라 부르는 행위를 뜻함. 특히 우리나라는 떼창 문화 극도로 발전되어 있어, 외국 뮤지션들 사이에서도 유명함.]]></content>
     </entry>
 </feed>
