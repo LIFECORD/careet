@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-02-26T19:15:26.525Z</updated>
+    <updated>2022-02-26T20:19:43.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[원툴]]></title>
+        <title type="html"><![CDATA[코시국]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-26T19:15:19.269Z</updated>
-        <content type="html"><![CDATA[(one tool) 한 가지만 잘 한다는 말.]]></content>
+        <updated>2022-02-26T20:19:35.401Z</updated>
+        <content type="html"><![CDATA[코로나 시국의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ㄱㅇㅇ]]></title>
+        <title type="html"><![CDATA[뽐뿌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-26T19:15:19.271Z</updated>
-        <content type="html"><![CDATA[‘귀여워’를 초성만으로 표현한 단어.]]></content>
+        <updated>2022-02-26T20:19:35.404Z</updated>
+        <content type="html"><![CDATA[인터넷 유행어로 무언가를 구매하고 싶은 감정상태. 충동구매와 같은 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페메]]></title>
+        <title type="html"><![CDATA[밀레니얼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-26T19:15:19.272Z</updated>
-        <content type="html"><![CDATA[페이스북 메시지의 줄임말.]]></content>
+        <updated>2022-02-26T20:19:35.405Z</updated>
+        <content type="html"><![CDATA[1981년~1996년에 출생한 세대를 가리키는 말. 대학내일20대연구소에선 심리적, 사회적 동질성을 고려해 1989년 이전 출생자는 전기 밀레니얼, 1989년 출생자부터는 후기 밀레니얼로 구분하고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온콘]]></title>
+        <title type="html"><![CDATA[텍대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-26T19:15:19.273Z</updated>
-        <content type="html"><![CDATA[온라인 콘서트의 줄임말.]]></content>
+        <updated>2022-02-26T20:19:35.408Z</updated>
+        <content type="html"><![CDATA[‘텍스트 대치’의 줄임말. 스마트폰 특정 자판을 누르면 정해진 문구가 나오도록 설정해둔 기능을 뜻함. Z세대는 보통 이모티콘이 들어간 주접 문구를 텍대로 설정해두고 활용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신박한]]></title>
+        <title type="html"><![CDATA[내돈내산]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-26T19:15:19.274Z</updated>
-        <content type="html"><![CDATA[‘새롭고 놀랍다’란 뜻으로 신기하면서도 참신한 경우에 사용되는 신조어.]]></content>
+        <updated>2022-02-26T20:19:35.409Z</updated>
+        <content type="html"><![CDATA[‘내 돈으로 내가 산’의 줄임말. 주로 제품 리뷰를 할 때 광고가 아니라는 것을 강조하기 위해 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[짠메랑]]></title>
+        <title type="html"><![CDATA[뽀시래기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-26T19:15:19.275Z</updated>
-        <content type="html"><![CDATA[‘부메랑(gif 형식으로 사진을 찍어주는 필터)’기능을 활용해 술자리에서 건배하는 모습을 촬영하는 것.]]></content>
+        <updated>2022-02-26T20:19:35.410Z</updated>
+        <content type="html"><![CDATA[부스러기처럼 작고 귀엽다는 뜻의 MZ세대식 표현.]]></content>
     </entry>
 </feed>
