@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-02-27T07:18:59.463Z</updated>
+    <updated>2022-02-27T08:22:20.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[포카]]></title>
+        <title type="html"><![CDATA[플미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-27T07:18:52.126Z</updated>
-        <content type="html"><![CDATA[포토 카드의 줄임말. 얼굴이 인쇄 된 명함 사이즈의 카드를 의미한다. 요즘 아이돌 앨범에 필수로 들어있는 굿즈임.]]></content>
+        <updated>2022-02-27T08:22:12.413Z</updated>
+        <content type="html"><![CDATA[‘프리미엄’의 줄임말. 주로 희소성있는 제품이 판매가보다 비싸게 거래될 때 ‘플미붙었다’고 표현함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[셧다운제]]></title>
+        <title type="html"><![CDATA[어쩔티비]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-27T07:18:52.126Z</updated>
-        <content type="html"><![CDATA[청소년의 온라인 게임 중독을 막기 위한 심야 게임 규제로, 만 16세 미만 청소년은 밤 12시부터 다음 날 오전 6시까지 온라인 게임에 접속할 수 없도록 하는 내용의 규제.]]></content>
+        <updated>2022-02-27T08:22:12.414Z</updated>
+        <content type="html"><![CDATA[알파 세대 유행어. ‘어쩌라고, TV나 봐’라는 의미로 추정됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타그래머블]]></title>
+        <title type="html"><![CDATA[덕메]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-27T07:18:52.126Z</updated>
-        <content type="html"><![CDATA[인스타그램(Instagram)에 올릴만 하다(able)는 의미.]]></content>
+        <updated>2022-02-27T08:22:12.415Z</updated>
+        <content type="html"><![CDATA[덕질 메이트의 줄임말. 덕질을 함께 하는 친구를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[트위터 예절]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-27T07:18:52.128Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-02-27T08:22:12.417Z</updated>
+        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킹리적 갓심]]></title>
+        <title type="html"><![CDATA[밀레니얼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-27T07:18:52.129Z</updated>
-        <content type="html"><![CDATA['합리적 의심'에 접두어 '킹'과 '갓'을 붙여 강조한 신조어.]]></content>
+        <updated>2022-02-27T08:22:12.417Z</updated>
+        <content type="html"><![CDATA[1981년~1996년에 출생한 세대를 가리키는 말. 대학내일20대연구소에선 심리적, 사회적 동질성을 고려해 1989년 이전 출생자는 전기 밀레니얼, 1989년 출생자부터는 후기 밀레니얼로 구분하고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밸붕]]></title>
+        <title type="html"><![CDATA[OOTD]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-27T07:18:52.130Z</updated>
-        <content type="html"><![CDATA[밸런스 붕괴, 특정 아이템의 성능이 매우 출중하여 다른 아이템과 공정한 비교가 어려울 때 쓰는 말. 주로 게임 용어로 쓰였으나 요즘에는 다양한 분야에서 활용됨.]]></content>
+        <updated>2022-02-27T08:22:12.419Z</updated>
+        <content type="html"><![CDATA[‘Outfit Of The Day’의 줄임말. 데일리룩을 올릴 때 사용하는 해시태그.]]></content>
     </entry>
 </feed>
