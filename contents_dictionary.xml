@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-02-28T03:21:01.201Z</updated>
+    <updated>2022-02-28T04:26:19.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[TMT]]></title>
+        <title type="html"><![CDATA[좋댓구알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-28T03:20:54.206Z</updated>
-        <content type="html"><![CDATA[Too Much Talker의 줄임말로, 말이 많은 사람이라는 뜻.]]></content>
+        <updated>2022-02-28T04:26:11.953Z</updated>
+        <content type="html"><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[차도남]]></title>
+        <title type="html"><![CDATA[처돌이]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-28T03:20:54.207Z</updated>
-        <content type="html"><![CDATA[차가운 도시 남자의 줄임말.]]></content>
+        <updated>2022-02-28T04:26:11.954Z</updated>
+        <content type="html"><![CDATA[치킨 브랜드 ‘처갓집’의 마스코트 ‘처돌이’에서 유래한 말. 특정 대상을 매우 좋아한다는 뜻.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[떡메]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-02-28T04:26:11.955Z</updated>
+        <content type="html"><![CDATA[떡메모지의 줄임말. 상단이 본드로 제본된 메모지를 뜻함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트리머]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-02-28T04:26:11.955Z</updated>
+        <content type="html"><![CDATA[유튜브, 트위치, 아프리카 같은 플랫폼에서 실시간 인터넷 방송을 하는 사람.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄빠]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-02-28T04:26:11.956Z</updated>
+        <content type="html"><![CDATA[엄마 아빠를 함께 일컫는 말.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유교걸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-28T03:20:54.208Z</updated>
+        <updated>2022-02-28T04:26:11.957Z</updated>
         <content type="html"><![CDATA[‘유교’와 ‘girl’의 합성어로, 보수적인 사람을 일컫는 말.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐해석]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-28T03:20:54.208Z</updated>
-        <content type="html"><![CDATA[캐릭터 해석의 줄임말. 특정 인물을 분석해 나름의 이미지를 설정하는 일을 의미함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[껄무새]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-28T03:20:54.209Z</updated>
-        <content type="html"><![CDATA['~살걸', '~팔걸'을 앵무새처럼 반복하며 과거를 후회하는 개인 투자자를 지칭하는 용어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군백기]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-02-28T03:20:54.210Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함]]></content>
     </entry>
 </feed>
