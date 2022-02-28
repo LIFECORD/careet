@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 01:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 02:40:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내년에는 이렇게 준비해 보세요! 삼일절 관련 마케팅 레퍼런스]]></title>
+            <link>https://www.careet.net/654</link>
+            <guid>https://www.careet.net/654</guid>
+            <pubDate>Mon, 28 Feb 2022 02:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 직접 꼽은 삼일절 관련 마케팅 승자는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/78bcbfdf-ae97-4a24-8496-7da2e5fa6e6f_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[여전히 진화 중인 비대면 마케팅, Z세대가 반응한 최신 사례는?]]></title>
             <link>https://www.careet.net/644</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 18 Jan 2022 05:38:46 GMT</pubDate>
             <content:encoded><![CDATA[적절한 시기에 센스 있는 이슈 메이킹으로 화제의 중심에 선 OO구청장]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/3b466f1b-5412-4303-a9d1-54a981b28f74_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영수증 받으러 성수동까지 간다? Z세대 픽 브랜드 오이뮤의 인기 비결]]></title>
-            <link>https://www.careet.net/609</link>
-            <guid>https://www.careet.net/609</guid>
-            <pubDate>Mon, 10 Jan 2022 05:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[굿즈만큼 귀여운 디자인 영수증+독특한 구매 과정으로 성수동 핫플됨]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202201/7e88cd52-110c-4795-b247-65507f969dae_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
