@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-03-03T01:18:46.633Z</updated>
+    <updated>2022-03-03T02:45:05.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[컨셉러]]></title>
+        <title type="html"><![CDATA[무물]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-03T01:18:38.402Z</updated>
-        <content type="html"><![CDATA[‘콘셉트(concept)’와 ‘~하는 사람(-er)’의 합성어로, 자신만의 설정을 만들어 행동하는 사람을 일컫는 말.]]></content>
+        <updated>2022-03-03T02:44:57.997Z</updated>
+        <content type="html"><![CDATA['무엇이든 물어보세요'의 줄임말. 문답을 주고 받는, MZ세대가 SNS에서 즐기는 놀이.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플미]]></title>
+        <title type="html"><![CDATA[어사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-03T01:18:38.402Z</updated>
-        <content type="html"><![CDATA[‘프리미엄’의 줄임말. 주로 희소성있는 제품이 판매가보다 비싸게 거래될 때 ‘플미붙었다’고 표현함.]]></content>
+        <updated>2022-03-03T02:44:57.998Z</updated>
+        <content type="html"><![CDATA[어색한 사이의 줄임말↔찐친]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도아너]]></title>
+        <title type="html"><![CDATA[껄무새]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-03T01:18:38.403Z</updated>
-        <content type="html"><![CDATA[도안을 그리는 사람]]></content>
+        <updated>2022-03-03T02:44:57.999Z</updated>
+        <content type="html"><![CDATA[앵무새처럼 ‘~살걸’, ‘~팔걸’을 반복하는 개인 투자자를 뜻함. (EX. 오늘 AA전자 주식 올랐네? 어제 살 걸.)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틱톡커]]></title>
+        <title type="html"><![CDATA[콜렉트북]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-03T01:18:38.406Z</updated>
-        <content type="html"><![CDATA[틱톡(Tik Tok)에 영상을 찍어 올리는 유저를 일컫는 말. (유사어: 유튜버, 인스타그래머)]]></content>
+        <updated>2022-03-03T02:44:58.000Z</updated>
+        <content type="html"><![CDATA[포토카드나 사진을 모아두는 앨범]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음함]]></title>
+        <title type="html"><![CDATA[손댄스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-03T01:18:38.407Z</updated>
-        <content type="html"><![CDATA[트위터에서 하트 버튼을 누르면 ‘마음에 들어요’ 카테고리에 보관되는데, 이를 뜻하는 트위터 용어.]]></content>
+        <updated>2022-03-03T02:44:58.001Z</updated>
+        <content type="html"><![CDATA[노래에 맞춰 손 모양으로 안무하는 것을 말함. 주로 ‘틱톡’에서 유행하고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[트위터 예절]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-03T01:18:38.408Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-03-03T02:44:58.002Z</updated>
+        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
     </entry>
 </feed>
