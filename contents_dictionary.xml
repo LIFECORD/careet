@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-03-02T23:20:42.032Z</updated>
+    <updated>2022-03-03T01:18:46.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[답정너]]></title>
+        <title type="html"><![CDATA[컨셉러]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-02T23:20:34.578Z</updated>
-        <content type="html"><![CDATA[‘답은 정해져 있고 너는 대답만 하면 돼’의 줄임말.]]></content>
+        <updated>2022-03-03T01:18:38.402Z</updated>
+        <content type="html"><![CDATA[‘콘셉트(concept)’와 ‘~하는 사람(-er)’의 합성어로, 자신만의 설정을 만들어 행동하는 사람을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OTT]]></title>
+        <title type="html"><![CDATA[플미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-02T23:20:34.583Z</updated>
-        <content type="html"><![CDATA[‘Over The Top’의 줄임말로 넷플릭스, 티빙, 웨이브 등의 온라인 동영상 서비스를 일컬음.]]></content>
+        <updated>2022-03-03T01:18:38.402Z</updated>
+        <content type="html"><![CDATA[‘프리미엄’의 줄임말. 주로 희소성있는 제품이 판매가보다 비싸게 거래될 때 ‘플미붙었다’고 표현함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킬포]]></title>
+        <title type="html"><![CDATA[도아너]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-02T23:20:34.583Z</updated>
-        <content type="html"><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content>
+        <updated>2022-03-03T01:18:38.403Z</updated>
+        <content type="html"><![CDATA[도안을 그리는 사람]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커미션(commission)]]></title>
+        <title type="html"><![CDATA[틱톡커]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-02T23:20:34.589Z</updated>
-        <content type="html"><![CDATA[보수를 받고 어떤 일을 처리해주는 행위. 주로 돈을 받고 원하는 콘텐츠(그림, 글)를 제작해줄 때 사용하는 말.]]></content>
+        <updated>2022-03-03T01:18:38.406Z</updated>
+        <content type="html"><![CDATA[틱톡(Tik Tok)에 영상을 찍어 올리는 유저를 일컫는 말. (유사어: 유튜버, 인스타그래머)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알파세대]]></title>
+        <title type="html"><![CDATA[마음함]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-02T23:20:34.589Z</updated>
-        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
+        <updated>2022-03-03T01:18:38.407Z</updated>
+        <content type="html"><![CDATA[트위터에서 하트 버튼을 누르면 ‘마음에 들어요’ 카테고리에 보관되는데, 이를 뜻하는 트위터 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트롤]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-02T23:20:34.591Z</updated>
-        <content type="html"><![CDATA[온라인에서 사람들의 관심을 끌기 위해 일부러 진행에 방해되는 행동을 하는 것. 또는 그런 사람을 뜻함.]]></content>
+        <updated>2022-03-03T01:18:38.408Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
 </feed>
