@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-03-07T11:18:06.677Z</updated>
+    <updated>2022-03-07T12:33:15.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[광클]]></title>
+        <title type="html"><![CDATA[어사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-07T11:17:58.751Z</updated>
-        <content type="html"><![CDATA[‘狂+click’의 줄임말. 아주 빠른 속도로 클릭하는 것을 의미함.]]></content>
+        <updated>2022-03-07T12:33:07.458Z</updated>
+        <content type="html"><![CDATA[어색한 사이의 줄임말↔찐친]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밸붕]]></title>
+        <title type="html"><![CDATA[할매니얼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-07T11:17:58.753Z</updated>
-        <content type="html"><![CDATA[밸런스 붕괴, 특정 아이템의 성능이 매우 출중하여 다른 아이템과 공정한 비교가 어려울 때 쓰는 말. 주로 게임 용어로 쓰였으나 요즘에는 다양한 분야에서 활용됨.]]></content>
+        <updated>2022-03-07T12:33:07.458Z</updated>
+        <content type="html"><![CDATA[‘할매’와 ‘밀레니얼’ 세대의 합성어. 레트로 취향의 음식과 패션을 선호하는 밀레니얼 세대를 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[밖순이]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-07T11:17:58.753Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+        <updated>2022-03-07T12:33:07.460Z</updated>
+        <content type="html"><![CDATA[집순이의 반대말로, 밖에서 노는 걸 좋아하는 사람을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[앨범깡]]></title>
+        <title type="html"><![CDATA[인친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-07T11:17:58.755Z</updated>
-        <content type="html"><![CDATA[앨범 언박싱을 부르는 말. 주로 원하는 포토카드를 얻기 위해 연속해서 앨범을 열어보는 것을 말함.]]></content>
+        <updated>2022-03-07T12:33:07.462Z</updated>
+        <content type="html"><![CDATA[인스타그램 친구의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시드 머니]]></title>
+        <title type="html"><![CDATA[돈쭐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-07T11:17:58.756Z</updated>
-        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
+        <updated>2022-03-07T12:33:07.463Z</updated>
+        <content type="html"><![CDATA[돈으로 혼쭐을 내주겠다는 뜻. 그만큼 많이 팔아주겠다는 긍정적인 의미로 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마크정식]]></title>
+        <title type="html"><![CDATA[크루얼티 프리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-07T11:17:58.757Z</updated>
-        <content type="html"><![CDATA[아이돌 그룹 갓세븐의 팬이 멤버인 ‘마크’를 대중들에게 알리기 위해 직접 편의점 레시피를 개발하고, 해당 레시피에 ‘마크’라는 이름을 붙여 유행시킨 것.]]></content>
+        <updated>2022-03-07T12:33:07.465Z</updated>
+        <content type="html"><![CDATA[‘학대(cruelty)가 없다(free)’는 의미로, 동물 실험을 하지 않거나 동물 유래 원료를 사용하지 않은 제품을 뜻함.]]></content>
     </entry>
 </feed>
