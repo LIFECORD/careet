@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ Z세대 최신 근황</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 07:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 08:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 세일러 문, 왕가위를 안다고? OTT 역주행 콘텐츠 활용법]]></title>
+            <link>https://www.careet.net/667</link>
+            <guid>https://www.careet.net/667</guid>
+            <pubDate>Thu, 10 Mar 2022 08:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[밀레니얼도 Z세대와 대화할 수 있는 1990 ~ 2000년대 콘텐츠]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/19668a4d-36bd-4fc1-b7dd-745cb25c14cb_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘할미 취미’가 유행 중? 바느질에 빠진 Z세대 근황]]></title>
             <link>https://www.careet.net/649</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 24 Dec 2021 11:35:36 GMT</pubDate>
             <content:encoded><![CDATA[Z세대의 새로운 버킷리스트]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/47d91365-a144-4eb7-b670-f50a17ef46b1_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[두 달 전부터 크리스마스 준비 중? Z세대 연말 계획으로 보는 트렌드]]></title>
-            <link>https://www.careet.net/566</link>
-            <guid>https://www.careet.net/566</guid>
-            <pubDate>Fri, 24 Dec 2021 11:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[핼러윈 끝나기도 전에 크리스마스 준비하는 Z세대 근황]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/12a04780-3ccf-4f12-8aca-bd264a3165db_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
