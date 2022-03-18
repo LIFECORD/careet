@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-03-18T12:33:22.570Z</updated>
+    <updated>2022-03-18T13:33:33.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[알파세대]]></title>
+        <title type="html"><![CDATA[데스크테리어]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-18T12:33:14.632Z</updated>
-        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
+        <updated>2022-03-18T13:33:25.739Z</updated>
+        <content type="html"><![CDATA[데스크(Desk)+인테리어(Interior)의 합성어. 책상을 꾸미는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[판 플레이]]></title>
+        <title type="html"><![CDATA[손댄스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-18T12:33:14.633Z</updated>
-        <content type="html"><![CDATA[대학내일20대연구소가 정의한 2020 MZ세대 특징 중 하나. MZ세대가 스스로 참여할 수 있는 놀이 ‘판’을 만들어 즐기는 것을 의미함.]]></content>
+        <updated>2022-03-18T13:33:25.740Z</updated>
+        <content type="html"><![CDATA[노래에 맞춰 손 모양으로 안무하는 것을 말함. 주로 ‘틱톡’에서 유행하고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐해석]]></title>
+        <title type="html"><![CDATA[플리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-18T12:33:14.635Z</updated>
-        <content type="html"><![CDATA[캐릭터 해석의 줄임말. 특정 인물을 분석해 나름의 이미지를 설정하는 일을 의미함.]]></content>
+        <updated>2022-03-18T13:33:25.744Z</updated>
+        <content type="html"><![CDATA[‘플레이리스트’의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페메]]></title>
+        <title type="html"><![CDATA[텍대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-18T12:33:14.637Z</updated>
-        <content type="html"><![CDATA[페이스북 메시지의 줄임말.]]></content>
+        <updated>2022-03-18T13:33:25.746Z</updated>
+        <content type="html"><![CDATA[‘텍스트 대치’의 줄임말. 스마트폰 특정 자판을 누르면 정해진 문구가 나오도록 설정해둔 기능을 뜻함. Z세대는 보통 이모티콘이 들어간 주접 문구를 텍대로 설정해두고 활용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[준등기깡]]></title>
+        <title type="html"><![CDATA[롤드컵]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-18T12:33:14.639Z</updated>
-        <content type="html"><![CDATA[준등기로 배송된 우편물을 뜯어보는 것. 10~20대는 포토 카드 등 소형 굿즈를 준등기로 거래하는 경우가 많아 생긴 신조어.]]></content>
+        <updated>2022-03-18T13:33:25.747Z</updated>
+        <content type="html"><![CDATA[게임 ‘리그오브레전드(LoL) 월드 챔피언십’을 가리키는 말.  ‘리그오브레전드’로 펼치는 e스포츠 대회를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[그린 워싱(Green washing)]]></title>
+        <title type="html"><![CDATA[머글]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-18T12:33:14.640Z</updated>
-        <content type="html"><![CDATA[실제론 친환경이 아닌데 친환경인 척 광고하는 것.]]></content>
+        <updated>2022-03-18T13:33:25.748Z</updated>
+        <content type="html"><![CDATA[덕후가 아닌 일반인을 이르는 말. 영화 &lt;해리 포터&gt; 시리즈에서 마법사들이 일반인을 부르는 용어에서 비롯됨.]]></content>
     </entry>
 </feed>
