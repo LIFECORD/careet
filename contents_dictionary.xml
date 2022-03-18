@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-03-18T05:19:25.292Z</updated>
+    <updated>2022-03-18T06:25:06.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[페메]]></title>
+        <title type="html"><![CDATA[먹시태그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-18T05:19:17.115Z</updated>
-        <content type="html"><![CDATA[페이스북 메시지의 줄임말.]]></content>
+        <updated>2022-03-18T06:24:58.174Z</updated>
+        <content type="html"><![CDATA[먹다 + 해시태그(#)의 합성어. 주로 아이돌 팬들이 자신이 좋아하는 가수에게 음식을 추천해주고 싶을 때 사용함. 아이돌마다 고유의 먹시태그가 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신박한]]></title>
+        <title type="html"><![CDATA[폴꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-18T05:19:17.116Z</updated>
-        <content type="html"><![CDATA[‘새롭고 놀랍다’란 뜻으로 신기하면서도 참신한 경우에 사용되는 신조어.]]></content>
+        <updated>2022-03-18T06:24:58.176Z</updated>
+        <content type="html"><![CDATA[폴라로이드 꾸미기, 포토카드를 폴라로이드 형태로 인쇄해서 꾸미는 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민경버스]]></title>
+        <title type="html"><![CDATA[오픈런]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-18T05:19:17.117Z</updated>
-        <content type="html"><![CDATA[개그우먼 ‘김민경’과 ‘유니버스’의 합성어. ‘하하버스’의 뒤를 잇는 세계관으로 ‘그냥 하면 다 잘하는데, 정작 본인은 모르는 채로 살아온 세계관’을 뜻함.]]></content>
+        <updated>2022-03-18T06:24:58.178Z</updated>
+        <content type="html"><![CDATA[특정 상품을 구하기 위해 매장 오픈 시간 전에 줄을 서서 대기하는 행위. 공연계에서 쓰는 ‘오픈런’과는 다른 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코덕]]></title>
+        <title type="html"><![CDATA[플로깅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-18T05:19:17.118Z</updated>
-        <content type="html"><![CDATA[코스메틱(Cosmetic. 화장품) 덕후의 줄임말.]]></content>
+        <updated>2022-03-18T06:24:58.180Z</updated>
+        <content type="html"><![CDATA[줍다라는 뜻의 스웨덴어 ‘plocka upp’과  영단어 ‘jogging(조깅)’의 합성어. 조깅을 하면서 쓰레기를 줍는 운동을 뜻함. 최근 MZ세대 사이의 새로운 취미로 떠올랐음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스밍]]></title>
+        <title type="html"><![CDATA[이모지(Emoji)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-18T05:19:17.120Z</updated>
-        <content type="html"><![CDATA[스트리밍의 줄임말. 아이돌 팬들이 음원 사이트에서 응원하는 가수의 노래를 차트 1위로 만들어주기 위해 반복해서 듣는 것을 ‘스밍 돌린다’고 표현함.]]></content>
+        <updated>2022-03-18T06:24:58.181Z</updated>
+        <content type="html"><![CDATA[스마트폰에서 사용하는 그림 형태의 문자.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[타래]]></title>
+        <title type="html"><![CDATA[최애]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-03-18T05:19:17.121Z</updated>
-        <content type="html"><![CDATA[트위터 기능 중 하나. 답변을 달며 묶음 트윗을 할 수 있음. 주로 긴 정보를 전달할 때 쓰임.]]></content>
+        <updated>2022-03-18T06:24:58.183Z</updated>
+        <content type="html"><![CDATA[MZ세대가 최고로 사랑하는 대상, 1순위를 부르는 말.]]></content>
     </entry>
 </feed>
