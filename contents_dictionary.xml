@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-01T17:23:31.643Z</updated>
+    <updated>2022-04-01T18:25:59.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[내돈내산]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-01T17:23:23.569Z</updated>
-        <content type="html"><![CDATA[‘내 돈으로 내가 산’의 줄임말. 주로 제품 리뷰를 할 때 광고가 아니라는 것을 강조하기 위해 사용함.]]></content>
+        <updated>2022-04-01T18:25:52.014Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초멘]]></title>
+        <title type="html"><![CDATA[헤메코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-01T17:23:23.570Z</updated>
-        <content type="html"><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content>
+        <updated>2022-04-01T18:25:52.015Z</updated>
+        <content type="html"><![CDATA[헤어 메이크업 코디를 합쳐 부르는 말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먹금]]></title>
+        <title type="html"><![CDATA[솜뭉치]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-01T17:23:23.572Z</updated>
-        <content type="html"><![CDATA[‘먹이 금지’의 줄임말. 대꾸하지 않고 무시하는 것을 의미함.]]></content>
+        <updated>2022-04-01T18:25:52.019Z</updated>
+        <content type="html"><![CDATA[MZ세대가 ‘인형’을 부르는 애칭.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VSCO]]></title>
+        <title type="html"><![CDATA[젶크]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-01T17:23:23.574Z</updated>
-        <content type="html"><![CDATA[사진 보정 앱. 포토샵처럼 세세한 조절도 가능하다. 이런 감성을 묶어 부르는 VSCO girl이란 말도 있음.]]></content>
+        <updated>2022-04-01T18:25:52.020Z</updated>
+        <content type="html"><![CDATA[‘제페토 크루’를 줄여서 부르는 말로, 제페토를 함께 즐길 ‘파티원’을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팬싸]]></title>
+        <title type="html"><![CDATA[웃음 벨]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-01T17:23:23.575Z</updated>
-        <content type="html"><![CDATA[팬 사인회의 줄임말.]]></content>
+        <updated>2022-04-01T18:25:52.021Z</updated>
+        <content type="html"><![CDATA[벨을 누르면 종소리가 나는 것처럼, 보기만 하면 웃음이 터지는 밈이나 짤을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마크정식]]></title>
+        <title type="html"><![CDATA[취뽀]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-01T17:23:23.576Z</updated>
-        <content type="html"><![CDATA[아이돌 그룹 갓세븐의 팬이 멤버인 ‘마크’를 대중들에게 알리기 위해 직접 편의점 레시피를 개발하고, 해당 레시피에 ‘마크’라는 이름을 붙여 유행시킨 것.]]></content>
+        <updated>2022-04-01T18:25:52.022Z</updated>
+        <content type="html"><![CDATA[‘취업 뽀개기’의 줄임말. 취업에 성공했을 때 ‘취뽀했다’라고 함.]]></content>
     </entry>
 </feed>
