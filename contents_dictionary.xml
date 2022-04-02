@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-02T13:25:07.486Z</updated>
+    <updated>2022-04-02T14:19:09.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[덕력]]></title>
+        <title type="html"><![CDATA[ㄱㅇㅇ]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-02T13:24:59.073Z</updated>
-        <content type="html"><![CDATA[덕후+力(힘)의 합성어로, 팬심이 깊은 사람에게 덕력이 높다는 표현을 씀.]]></content>
+        <updated>2022-04-02T14:19:01.526Z</updated>
+        <content type="html"><![CDATA[‘귀여워’를 초성만으로 표현한 단어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[힙(hip)]]></title>
+        <title type="html"><![CDATA[자강두천]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-02T13:24:59.078Z</updated>
-        <content type="html"><![CDATA[유행에 민감하고 인기가 많음을 의미하는 단어. '힙하다', '힙한 OO'로 쓰임. (유사어: 트렌디하다)]]></content>
+        <updated>2022-04-02T14:19:01.527Z</updated>
+        <content type="html"><![CDATA[‘자존심 강한 두 천재의 대결’을 줄여 부르는 말. 사소한 일로 투닥이는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하이라이트]]></title>
+        <title type="html"><![CDATA[플로깅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-02T13:24:59.079Z</updated>
-        <content type="html"><![CDATA[인스타 스토리를 프로필란에 고정할 수 있는 기능.]]></content>
+        <updated>2022-04-02T14:19:01.528Z</updated>
+        <content type="html"><![CDATA[줍다라는 뜻의 스웨덴어 ‘plocka upp’과  영단어 ‘jogging(조깅)’의 합성어. 조깅을 하면서 쓰레기를 줍는 운동을 뜻함. 최근 MZ세대 사이의 새로운 취미로 떠올랐음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에타]]></title>
+        <title type="html"><![CDATA[초멘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-02T13:24:59.080Z</updated>
-        <content type="html"><![CDATA[학교 인증을 거친 재학생들만 이용할 수 있는 익명 커뮤니티 플랫폼 ‘에브리타임’의 줄임말. 과거 학교 커뮤니티와 비슷한 기능을 함.]]></content>
+        <updated>2022-04-02T14:19:01.530Z</updated>
+        <content type="html"><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무물]]></title>
+        <title type="html"><![CDATA[현활]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-02T13:24:59.081Z</updated>
-        <content type="html"><![CDATA['무엇이든 물어보세요'의 줄임말. 문답을 주고 받는, MZ세대가 SNS에서 즐기는 놀이.]]></content>
+        <updated>2022-04-02T14:19:01.531Z</updated>
+        <content type="html"><![CDATA[SNS에서 현재 활동중이라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스낵커블(snackable)]]></title>
+        <title type="html"><![CDATA[마음함]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-02T13:24:59.082Z</updated>
-        <content type="html"><![CDATA[‘쉽고 빠르게 소비할 수 있는’이란 뜻.]]></content>
+        <updated>2022-04-02T14:19:01.532Z</updated>
+        <content type="html"><![CDATA[트위터에서 하트 버튼을 누르면 ‘마음에 들어요’ 카테고리에 보관되는데, 이를 뜻하는 트위터 용어.]]></content>
     </entry>
 </feed>
