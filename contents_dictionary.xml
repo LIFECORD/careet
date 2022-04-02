@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-02T02:56:54.446Z</updated>
+    <updated>2022-04-02T03:31:39.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[뽐뿌]]></title>
+        <title type="html"><![CDATA[PTSD]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-02T02:56:47.135Z</updated>
-        <content type="html"><![CDATA[인터넷 유행어로 무언가를 구매하고 싶은 감정상태. 충동구매와 같은 의미.]]></content>
+        <updated>2022-04-02T03:31:31.511Z</updated>
+        <content type="html"><![CDATA[외상 후 스트레스 장애의 약자. 일상에서는 “과거의 (안 좋은) 경험이 떠올라서 소름 돋는다.”라는 뉘앙스로 활용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트시피]]></title>
+        <title type="html"><![CDATA[커뮤니케이션 코스트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-02T02:56:47.136Z</updated>
-        <content type="html"><![CDATA[트위터+레시피를 합친 말. 트위터에서 유행하는 레시피를 뜻함.]]></content>
+        <updated>2022-04-02T03:31:31.511Z</updated>
+        <content type="html"><![CDATA[조직에서 구성원들끼리 소통하기 위해 투입되는 시간, 비용, 노력 등을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원툴]]></title>
+        <title type="html"><![CDATA[버실]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-02T02:56:47.137Z</updated>
-        <content type="html"><![CDATA[(one tool) 한 가지만 잘 한다는 말.]]></content>
+        <updated>2022-04-02T03:31:31.511Z</updated>
+        <content type="html"><![CDATA[버전 실시간의 줄임말. 슬라임 영상에 상황극 음성이나 자막을 입힌 콘텐츠를 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프사]]></title>
+        <title type="html"><![CDATA[어사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-02T02:56:47.138Z</updated>
-        <content type="html"><![CDATA[‘프로필 사진’의 줄임말.]]></content>
+        <updated>2022-04-02T03:31:31.513Z</updated>
+        <content type="html"><![CDATA[어색한 사이의 줄임말↔찐친]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐해석]]></title>
+        <title type="html"><![CDATA[네카라쿠배당토]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-02T02:56:47.139Z</updated>
-        <content type="html"><![CDATA[캐릭터 해석의 줄임말. 특정 인물을 분석해 나름의 이미지를 설정하는 일을 의미함.]]></content>
+        <updated>2022-04-02T03:31:31.515Z</updated>
+        <content type="html"><![CDATA[네이버, 카카오, 라인, 배달의민족, 당근마켓, 토스 등 신흥 IT 기업을 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 떠오르는 기업들.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언박싱]]></title>
+        <title type="html"><![CDATA[광클]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-02T02:56:47.141Z</updated>
-        <content type="html"><![CDATA[구매한 물건의 상자를 개봉하는 과정을 담은 유튜브 영상 포맷.]]></content>
+        <updated>2022-04-02T03:31:31.516Z</updated>
+        <content type="html"><![CDATA[‘狂+click’의 줄임말. 아주 빠른 속도로 클릭하는 것을 의미함.]]></content>
     </entry>
 </feed>
