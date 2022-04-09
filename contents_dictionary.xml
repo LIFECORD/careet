@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-09T12:32:52.111Z</updated>
+    <updated>2022-04-09T13:25:20.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[코스프레]]></title>
+        <title type="html"><![CDATA[일코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-09T12:32:43.749Z</updated>
-        <content type="html"><![CDATA[‘코스튬 플레이(costume play)’의 줄임말. 게임·만화 속 캐릭터로 분장하고, 그들과 비슷한 행동을 흉내내는 것을 뜻함. 일종의 퍼포먼스라고 볼 수 있음.]]></content>
+        <updated>2022-04-09T13:25:13.660Z</updated>
+        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먹금]]></title>
+        <title type="html"><![CDATA[좋페]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-09T12:32:43.750Z</updated>
-        <content type="html"><![CDATA[‘먹이 금지’의 줄임말. 대꾸하지 않고 무시하는 것을 의미함.]]></content>
+        <updated>2022-04-09T13:25:13.660Z</updated>
+        <content type="html"><![CDATA[‘좋아요 누르면 페메(페북 메신저) 보낸다’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[총공]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-09T12:32:43.751Z</updated>
-        <content type="html"><![CDATA['총 공격'의 줄임말. 팬들의 단체 행동.]]></content>
+        <updated>2022-04-09T13:25:13.660Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위꾸]]></title>
+        <title type="html"><![CDATA[현활]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-09T12:32:43.753Z</updated>
-        <content type="html"><![CDATA[위장 꾸미기. 맛있는 식사를 하는 것을 꾸미기에 빗대어 부르는 말.]]></content>
+        <updated>2022-04-09T13:25:13.661Z</updated>
+        <content type="html"><![CDATA[SNS에서 현재 활동중이라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빛삭]]></title>
+        <title type="html"><![CDATA[국룰]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-09T12:32:43.756Z</updated>
-        <content type="html"><![CDATA[‘빛의 속도로 삭제한다’의 줄임말로 인터넷상에 올린 게시물을 매우 빠르게 지운다는 의미.]]></content>
+        <updated>2022-04-09T13:25:13.661Z</updated>
+        <content type="html"><![CDATA[국민 룰의 줄임말. 보편적으로 통용되는 규칙 혹은 유행이라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인싸]]></title>
+        <title type="html"><![CDATA[알파 세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-09T12:32:43.757Z</updated>
-        <content type="html"><![CDATA[‘인사이더(insider)’를 줄인 한국식 영어 표현. 사람들과 잘 어울리며 발이 넓은 사람을 뜻함.]]></content>
+        <updated>2022-04-09T13:25:13.663Z</updated>
+        <content type="html"><![CDATA[2010년 이후 출생자, 즉 Z세대 이후 세대를 부르는 말.]]></content>
     </entry>
 </feed>
