@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-10T20:20:41.960Z</updated>
+    <updated>2022-04-10T21:17:41.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[고독한 채팅방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-10T20:20:34.472Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-04-10T21:17:34.241Z</updated>
+        <content type="html"><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화력]]></title>
+        <title type="html"><![CDATA[폴꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-10T20:20:34.477Z</updated>
-        <content type="html"><![CDATA[단체의 행동력. 머릿수로 결정되기 때문에 ‘화력을 모으자’는 말은 참여 인원을 최대한 모으자는 것과 같은 의미.]]></content>
+        <updated>2022-04-10T21:17:34.243Z</updated>
+        <content type="html"><![CDATA[폴라로이드 꾸미기, 포토카드를 폴라로이드 형태로 인쇄해서 꾸미는 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OO깡]]></title>
+        <title type="html"><![CDATA[인스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-10T20:20:34.477Z</updated>
-        <content type="html"><![CDATA[덕질 용어에서 처음 시작된 단어로 깡은 깐다의 줄임말. 원하는 제품을 깐다는 말로 해석할 수 있다. 비슷한 단어로는 언박싱이 있다.]]></content>
+        <updated>2022-04-10T21:17:34.244Z</updated>
+        <content type="html"><![CDATA[인쇄 스티커의 줄임말. 인쇄소에 원하는 도안을 보내면 스티커를 소량으로 제작할 수 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알파세대]]></title>
+        <title type="html"><![CDATA[TMI]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-10T20:20:34.477Z</updated>
-        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
+        <updated>2022-04-10T21:17:34.244Z</updated>
+        <content type="html"><![CDATA[너무 많은 정보, 굳이 알려주지 않아도 될 정보를 일컫는 말(Too Much Information).]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플로깅]]></title>
+        <title type="html"><![CDATA[홈술]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-10T20:20:34.478Z</updated>
-        <content type="html"><![CDATA[줍다라는 뜻의 스웨덴어 ‘plocka upp’과  영단어 ‘jogging(조깅)’의 합성어. 조깅을 하면서 쓰레기를 줍는 운동을 뜻함. 최근 MZ세대 사이의 새로운 취미로 떠올랐음.]]></content>
+        <updated>2022-04-10T21:17:34.245Z</updated>
+        <content type="html"><![CDATA[집에서 술을 마시는 것. 코로나19 이후 증가한 트렌드.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알티]]></title>
+        <title type="html"><![CDATA[공병템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-10T20:20:34.479Z</updated>
-        <content type="html"><![CDATA[다른 트위터리안의 트윗을 리트윗하는 걸 말함(rt).]]></content>
+        <updated>2022-04-10T21:17:34.246Z</updated>
+        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
     </entry>
 </feed>
