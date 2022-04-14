@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-14T09:20:48.750Z</updated>
+    <updated>2022-04-14T10:23:55.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[스트리머]]></title>
+        <title type="html"><![CDATA[밸붕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-14T09:20:40.596Z</updated>
-        <content type="html"><![CDATA[유튜브, 트위치, 아프리카 같은 플랫폼에서 실시간 인터넷 방송을 하는 사람.]]></content>
+        <updated>2022-04-14T10:23:46.908Z</updated>
+        <content type="html"><![CDATA[밸런스 붕괴, 특정 아이템의 성능이 매우 출중하여 다른 아이템과 공정한 비교가 어려울 때 쓰는 말. 주로 게임 용어로 쓰였으나 요즘에는 다양한 분야에서 활용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커미션(commission)]]></title>
+        <title type="html"><![CDATA[원툴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-14T09:20:40.599Z</updated>
-        <content type="html"><![CDATA[보수를 받고 어떤 일을 처리해주는 행위. 주로 돈을 받고 원하는 콘텐츠(그림, 글)를 제작해줄 때 사용하는 말.]]></content>
+        <updated>2022-04-14T10:23:46.911Z</updated>
+        <content type="html"><![CDATA[(one tool) 한 가지만 잘 한다는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인급동]]></title>
+        <title type="html"><![CDATA[필환경]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-14T09:20:40.600Z</updated>
-        <content type="html"><![CDATA[‘인기 급상승 동영상’의 줄임말. 유튜브에서 단시간에 높은 조회 수를 기록하고, 화제가 된 영상을 일컬음.]]></content>
+        <updated>2022-04-14T10:23:46.914Z</updated>
+        <content type="html"><![CDATA[필(必)과 환경의 합성어로 환경을 필수로 생각해야 한다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이때싶]]></title>
+        <title type="html"><![CDATA[직관]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-14T09:20:40.601Z</updated>
-        <content type="html"><![CDATA['이때다 싶어'의 줄임말. 물 들어올 때 노 젓는다는 뜻.]]></content>
+        <updated>2022-04-14T10:23:46.915Z</updated>
+        <content type="html"><![CDATA[직접 현장에 찾아가 운동 경기 등을 관람하는 일 ↔집관(집에서 관람)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국그릇핑크퐁]]></title>
+        <title type="html"><![CDATA[자강두천]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-14T09:20:40.602Z</updated>
-        <content type="html"><![CDATA[웃음 소리를 나타낸 유행어 ‘ㅋㅋ루삥뽕’을 변형해서 쓰는 말.]]></content>
+        <updated>2022-04-14T10:23:46.916Z</updated>
+        <content type="html"><![CDATA[‘자존심 강한 두 천재의 대결’을 줄여 부르는 말. 사소한 일로 투닥이는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[P2P]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-14T09:20:40.603Z</updated>
-        <content type="html"><![CDATA[금융기관을 거치지 않고 개인과 개인이 온라인 플랫폼을 통해 자금을 빌려주고 이에 대한 이자를 받는 방식.]]></content>
+        <updated>2022-04-14T10:23:46.917Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
 </feed>
