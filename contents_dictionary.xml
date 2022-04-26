@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-26T06:26:08.944Z</updated>
+    <updated>2022-04-26T07:21:40.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[랩핑지]]></title>
+        <title type="html"><![CDATA[갓생]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-26T06:26:01.660Z</updated>
-        <content type="html"><![CDATA[A4~A5의 사이즈의 배경지. 주로 포장이나 꾸미기에 활용되고 있음.]]></content>
+        <updated>2022-04-26T07:21:31.735Z</updated>
+        <content type="html"><![CDATA[god(신)과 인생이 합쳐진 단어로, 부지런하고 알찬 삶을 사는 것을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[준등기깡]]></title>
+        <title type="html"><![CDATA[구독팟]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-26T06:26:01.660Z</updated>
-        <content type="html"><![CDATA[준등기로 배송된 우편물을 뜯어보는 것. 10~20대는 포토 카드 등 소형 굿즈를 준등기로 거래하는 경우가 많아 생긴 신조어.]]></content>
+        <updated>2022-04-26T07:21:31.736Z</updated>
+        <content type="html"><![CDATA[‘구독 파티원’의 줄임말. 구독료를 1/N 내고 사용하기 위해 여러 명이서 구독 서비스를 신청하는 MZ세대 문화를 나타냄.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밀레니얼]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-26T06:26:01.661Z</updated>
-        <content type="html"><![CDATA[1981년~1996년에 출생한 세대를 가리키는 말. 대학내일20대연구소에선 심리적, 사회적 동질성을 고려해 1989년 이전 출생자는 전기 밀레니얼, 1989년 출생자부터는 후기 밀레니얼로 구분하고 있음.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일코]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-26T06:26:01.662Z</updated>
-        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛삭]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-26T06:26:01.663Z</updated>
-        <content type="html"><![CDATA[‘빛의 속도로 삭제한다’의 줄임말로 인터넷상에 올린 게시물을 매우 빠르게 지운다는 의미.]]></content>
+        <updated>2022-04-26T07:21:31.739Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세포마켓]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-26T06:26:01.664Z</updated>
+        <updated>2022-04-26T07:21:31.742Z</updated>
         <content type="html"><![CDATA[1인 미디어 시대에서 SNS를 통해 이뤄지는 1인 마켓. 기업 단위가 아닌 1인 사업자가 주를 이뤄 세포가 분열하는 것처럼 개인 단위로 발전하는 현상을 뜻함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인스스]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-04-26T07:21:31.743Z</updated>
+        <content type="html"><![CDATA[‘인스타그램 스토리’를 줄여 부르는 말.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생카]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-04-26T07:21:31.745Z</updated>
+        <content type="html"><![CDATA[생일 카페의 줄임말. 주로 아이돌의 생일을 기념하기 위해 열리며, 카페를 대관해 컵홀더 및 카페 내부를 아이돌 사진으로 꾸밈.]]></content>
     </entry>
 </feed>
