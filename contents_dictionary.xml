@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-04-30T21:20:16.620Z</updated>
+    <updated>2022-04-30T22:20:52.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[폰]]></title>
+        <title type="html"><![CDATA[빠던]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-30T21:20:08.857Z</updated>
-        <content type="html"><![CDATA[MZ세대가 ‘가짜’를 표현할 때 쓰는 접두어. ex) 폰여행=가짜 여행, 폰콘서트=가짜 콘서트]]></content>
+        <updated>2022-04-30T22:20:45.834Z</updated>
+        <content type="html"><![CDATA[배트 플립(bat flip)의 한국식 표기. 일명 ‘빠따 던지기’의 줄임말. 타자가 홈런이 짐작되는 타격을 한 뒤, 야구 방망이를 던지는 행위를 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갓생]]></title>
+        <title type="html"><![CDATA[FOMO]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-30T21:20:08.858Z</updated>
-        <content type="html"><![CDATA[god(신)과 인생이 합쳐진 단어로, 부지런하고 알찬 삶을 사는 것을 일컫는 말.]]></content>
+        <updated>2022-04-30T22:20:45.835Z</updated>
+        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[타래]]></title>
+        <title type="html"><![CDATA[VSCO]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-30T21:20:08.859Z</updated>
-        <content type="html"><![CDATA[트위터 기능 중 하나. 답변을 달며 묶음 트윗을 할 수 있음. 주로 긴 정보를 전달할 때 쓰임.]]></content>
+        <updated>2022-04-30T22:20:45.837Z</updated>
+        <content type="html"><![CDATA[사진 보정 앱. 포토샵처럼 세세한 조절도 가능하다. 이런 감성을 묶어 부르는 VSCO girl이란 말도 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웃음 벨]]></title>
+        <title type="html"><![CDATA[저메추]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-30T21:20:08.863Z</updated>
-        <content type="html"><![CDATA[벨을 누르면 종소리가 나는 것처럼, 보기만 하면 웃음이 터지는 밈이나 짤을 일컫는 말.]]></content>
+        <updated>2022-04-30T22:20:45.838Z</updated>
+        <content type="html"><![CDATA[‘저녁 메뉴 추천’의 줄임말. 뭘 먹으면 좋을지 상대에게 메뉴를 추천 받을 때 사용함. 비슷한 용어로 ‘점메추(점심 메뉴 추천)’가 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스밍]]></title>
+        <title type="html"><![CDATA[ㅈㅂㅈㅇ]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-30T21:20:08.864Z</updated>
-        <content type="html"><![CDATA[스트리밍의 줄임말. 아이돌 팬들이 음원 사이트에서 응원하는 가수의 노래를 차트 1위로 만들어주기 위해 반복해서 듣는 것을 ‘스밍 돌린다’고 표현함.]]></content>
+        <updated>2022-04-30T22:20:45.839Z</updated>
+        <content type="html"><![CDATA[정보좀요의 초성을 따서 만든 MZ세대 신조어. 패션 앱 스타일쉐어에서 상대방에게 제품 정보를 물어볼 때 사용했던 것에서 유래함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혼코노]]></title>
+        <title type="html"><![CDATA[도무송]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-04-30T21:20:08.865Z</updated>
-        <content type="html"><![CDATA[‘혼자서 코인 노래방 가는 사람(or 행위)’의 줄임말.]]></content>
+        <updated>2022-04-30T22:20:45.840Z</updated>
+        <content type="html"><![CDATA[칼선이 들어가 모양대로 뗄 수 있는 스티커. 일반적으로 한 장에 스티커 하나씩 들어가 있는 형태가 많음.]]></content>
     </entry>
 </feed>
