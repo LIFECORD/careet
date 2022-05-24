@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-05-24T11:19:20.116Z</updated>
+    <updated>2022-05-24T12:42:25.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[스밍]]></title>
+        <title type="html"><![CDATA[재주행]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-24T11:19:10.920Z</updated>
-        <content type="html"><![CDATA[스트리밍의 줄임말. 아이돌 팬들이 음원 사이트에서 응원하는 가수의 노래를 차트 1위로 만들어주기 위해 반복해서 듣는 것을 ‘스밍 돌린다’고 표현함.]]></content>
+        <updated>2022-05-24T12:42:18.020Z</updated>
+        <content type="html"><![CDATA[이미 본 작품을 다시 반복해서 보는 것을 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스]]></title>
+        <title type="html"><![CDATA[시드 머니]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-24T11:19:10.922Z</updated>
-        <content type="html"><![CDATA[인쇄 스티커의 줄임말. 인쇄소에 원하는 도안을 보내면 스티커를 소량으로 제작할 수 있음.]]></content>
+        <updated>2022-05-24T12:42:18.021Z</updated>
+        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시즈니]]></title>
+        <title type="html"><![CDATA[톤그로]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-24T11:19:10.923Z</updated>
-        <content type="html"><![CDATA[SM엔터테인먼트 보이그룹 NCT의 팬 ncitizen의 애칭.]]></content>
+        <updated>2022-05-24T12:42:18.023Z</updated>
+        <content type="html"><![CDATA[색을 뜻하는 ‘Tone’과 분쟁를 뜻하는 ‘aggro’의 합성어. 본인의 피부 톤에 맞지 않는 색상으로 메이크업해서 어색하다는 뜻으로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실친]]></title>
+        <title type="html"><![CDATA[콜렉트북]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-24T11:19:10.924Z</updated>
-        <content type="html"><![CDATA[실제 친구의 줄임말. 온라인에서 사귄 친구가 아니라는 뜻.]]></content>
+        <updated>2022-05-24T12:42:18.024Z</updated>
+        <content type="html"><![CDATA[포토카드나 사진을 모아두는 앨범]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이모지(Emoji)]]></title>
+        <title type="html"><![CDATA[불판]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-24T11:19:10.926Z</updated>
-        <content type="html"><![CDATA[스마트폰에서 사용하는 그림 형태의 문자.]]></content>
+        <updated>2022-05-24T12:42:18.025Z</updated>
+        <content type="html"><![CDATA[하나의 게시물 안에서 주제를 정해놓고 댓글로 의견을 주고받는 커뮤니티 문화.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뇌이징]]></title>
+        <title type="html"><![CDATA[맛집]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-24T11:19:10.928Z</updated>
-        <content type="html"><![CDATA[‘뇌+에이징’의 합성어. 처음 봤을 때 이상하던 디자인이 보면 볼수록 예뻐 보일 때 사용함.]]></content>
+        <updated>2022-05-24T12:42:18.026Z</updated>
+        <content type="html"><![CDATA[‘이 집 잘한다’는 칭찬의 표현. ‘엔딩 맛집’, ‘케미(합) 맛집’ 등 다양한 단어 뒤에 붙임.]]></content>
     </entry>
 </feed>
