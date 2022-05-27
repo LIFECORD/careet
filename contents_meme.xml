@@ -4,9 +4,17 @@
         <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 04:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 05:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SNS 바닥글에 쓸 드립이 바닥났다면? 당장 써 먹는 드립 3]]></title>
+            <link>https://www.careet.net/770</link>
+            <guid>https://www.careet.net/770</guid>
+            <pubDate>Fri, 27 May 2022 05:24:37 GMT</pubDate>
+            <content:encoded><![CDATA[구독자 여러분의 유행어 서치 시간을 줄여드릴게요(물리)]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/54990dd6-1ccd-4d2d-8032-86bd7c22200d_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SNS 화제의 밈은 ‘침펄’로부터 시작된다고? Z세대 신조어 어원을 찾아서]]></title>
             <link>https://www.careet.net/749</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 11 Mar 2022 01:20:13 GMT</pubDate>
             <content:encoded><![CDATA[잘난 척 하는 친구를 구박하고 싶을 때 쓰는 말!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/35421a81-39d4-42ef-9c48-783a4b54c51c_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이게 왜 유행이야?] 깻잎 논쟁, 유래부터 종결까지! 타임라인 총정리]]></title>
-            <link>https://www.careet.net/660</link>
-            <guid>https://www.careet.net/660</guid>
-            <pubDate>Fri, 04 Mar 2022 01:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[2019년에 시작된 깻잎 논쟁이 갑자기 Z세대 핫이슈가 된 이유!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/c360e127-3568-46ad-af9c-346835674710_770x426.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
