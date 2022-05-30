@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-05-30T14:21:32.979Z</updated>
+    <updated>2022-05-30T15:25:19.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[리퍼브]]></title>
+        <title type="html"><![CDATA[떼창]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-30T14:21:25.026Z</updated>
-        <content type="html"><![CDATA[반품됐거나, 외관상 약간의 흠집 또는 하자가 있어 정상가로 판매하지 못하는 제품.]]></content>
+        <updated>2022-05-30T15:25:11.148Z</updated>
+        <content type="html"><![CDATA[공연에서 관객들이 아티스트의 노래를 다 함께 따라 부르는 행위를 뜻함. 특히 우리나라는 떼창 문화 극도로 발전되어 있어, 외국 뮤지션들 사이에서도 유명함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FOMO]]></title>
+        <title type="html"><![CDATA[인스타그래머]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-30T14:21:25.026Z</updated>
-        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
+        <updated>2022-05-30T15:25:11.154Z</updated>
+        <content type="html"><![CDATA[인스타그램을 하는 사람을 일컫는 말. 주로 인스타그램에 트렌디한 게시물을 자주 올리는 사람이라는 의미로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최애]]></title>
+        <title type="html"><![CDATA[위버스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-30T14:21:25.027Z</updated>
-        <content type="html"><![CDATA[MZ세대가 최고로 사랑하는 대상, 1순위를 부르는 말.]]></content>
+        <updated>2022-05-30T15:25:11.155Z</updated>
+        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킬포]]></title>
+        <title type="html"><![CDATA[카공족]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-30T14:21:25.028Z</updated>
-        <content type="html"><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content>
+        <updated>2022-05-30T15:25:11.155Z</updated>
+        <content type="html"><![CDATA[카페에서 공부하는 사람들을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[껄무새]]></title>
+        <title type="html"><![CDATA[답정너]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-30T14:21:25.029Z</updated>
-        <content type="html"><![CDATA[앵무새처럼 ‘~살걸’, ‘~팔걸’을 반복하는 개인 투자자를 뜻함. (EX. 오늘 AA전자 주식 올랐네? 어제 살 걸.)]]></content>
+        <updated>2022-05-30T15:25:11.155Z</updated>
+        <content type="html"><![CDATA[‘답은 정해져 있고 너는 대답만 하면 돼’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[준등기깡]]></title>
+        <title type="html"><![CDATA[텍대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-05-30T14:21:25.030Z</updated>
-        <content type="html"><![CDATA[준등기로 배송된 우편물을 뜯어보는 것. 10~20대는 포토 카드 등 소형 굿즈를 준등기로 거래하는 경우가 많아 생긴 신조어.]]></content>
+        <updated>2022-05-30T15:25:11.156Z</updated>
+        <content type="html"><![CDATA[‘텍스트 대치’의 줄임말. 스마트폰 특정 자판을 누르면 정해진 문구가 나오도록 설정해둔 기능을 뜻함. Z세대는 보통 이모티콘이 들어간 주접 문구를 텍대로 설정해두고 활용함.]]></content>
     </entry>
 </feed>
