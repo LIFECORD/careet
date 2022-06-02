@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-06-02T19:17:28.621Z</updated>
+    <updated>2022-06-02T20:22:16.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[MZ세대]]></title>
+        <title type="html"><![CDATA[공병템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-02T19:17:21.565Z</updated>
-        <content type="html"><![CDATA[1980년 초반부터 2000년대 중반 사이에 태어난 밀레니얼 세대와 Z세대를 통칭하는 말.]]></content>
+        <updated>2022-06-02T20:22:09.414Z</updated>
+        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틱톡커]]></title>
+        <title type="html"><![CDATA[반모방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-02T19:17:21.565Z</updated>
-        <content type="html"><![CDATA[틱톡(Tik Tok)에 영상을 찍어 올리는 유저를 일컫는 말. (유사어: 유튜버, 인스타그래머)]]></content>
+        <updated>2022-06-02T20:22:09.415Z</updated>
+        <content type="html"><![CDATA[반말 모드 대화방의 줄임말. 말을 놓고 친해지는 채팅방으로, 주로 유튜브 댓글창에 열림.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[터프팅]]></title>
+        <title type="html"><![CDATA[부캐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-02T19:17:21.566Z</updated>
-        <content type="html"><![CDATA[천에 ‘터프팅 건’으로 실을 심어서 만드는 섬유 공예. 요즘 MZ세대 사이에서 인기를 얻고 있는 취미 활동임.]]></content>
+        <updated>2022-06-02T20:22:09.416Z</updated>
+        <content type="html"><![CDATA[원래 캐릭터(‘본캐’)가 아닌 또 다른 캐릭터. 온라인 게임에서 유래한 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킬포]]></title>
+        <title type="html"><![CDATA[댈컴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-02T19:17:21.567Z</updated>
-        <content type="html"><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content>
+        <updated>2022-06-02T20:22:09.417Z</updated>
+        <content type="html"><![CDATA[‘대리 커스터마이징’의 줄임말. 대리로 남의 아바타를 디자인해주는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[캐릿 1020 해외 특파원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-02T19:17:21.568Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-06-02T20:22:09.418Z</updated>
+        <content type="html"><![CDATA[1020으로 구성된 캐릿의 해외 트렌드 자문 그룹. 해외 각국의 Z세대 트렌드를 발 빠르게 전하는 역할을 맡고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파이프라인]]></title>
+        <title type="html"><![CDATA[다꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-02T19:17:21.569Z</updated>
-        <content type="html"><![CDATA[돈이 들어오는 시스템, 수입원.]]></content>
+        <updated>2022-06-02T20:22:09.419Z</updated>
+        <content type="html"><![CDATA[다이어리 꾸미기의 줄임말.]]></content>
     </entry>
 </feed>
