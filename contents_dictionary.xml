@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-06-02T18:26:21.441Z</updated>
+    <updated>2022-06-02T19:17:28.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[게이미피케이션(Gamification)]]></title>
+        <title type="html"><![CDATA[MZ세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-02T18:26:12.874Z</updated>
-        <content type="html"><![CDATA[게임적 사고와 게임 기법을 활용해 사용자를 몰입시키는 기법.]]></content>
+        <updated>2022-06-02T19:17:21.565Z</updated>
+        <content type="html"><![CDATA[1980년 초반부터 2000년대 중반 사이에 태어난 밀레니얼 세대와 Z세대를 통칭하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PTSD]]></title>
+        <title type="html"><![CDATA[틱톡커]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-02T18:26:12.875Z</updated>
-        <content type="html"><![CDATA[외상 후 스트레스 장애의 약자. 일상에서는 “과거의 (안 좋은) 경험이 떠올라서 소름 돋는다.”라는 뉘앙스로 활용됨.]]></content>
+        <updated>2022-06-02T19:17:21.565Z</updated>
+        <content type="html"><![CDATA[틱톡(Tik Tok)에 영상을 찍어 올리는 유저를 일컫는 말. (유사어: 유튜버, 인스타그래머)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디지털 네이티브]]></title>
+        <title type="html"><![CDATA[터프팅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-02T18:26:12.876Z</updated>
-        <content type="html"><![CDATA[어린 시절부터 디지털 환경에서 성장한 세대를 뜻함.]]></content>
+        <updated>2022-06-02T19:17:21.566Z</updated>
+        <content type="html"><![CDATA[천에 ‘터프팅 건’으로 실을 심어서 만드는 섬유 공예. 요즘 MZ세대 사이에서 인기를 얻고 있는 취미 활동임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갓성비]]></title>
+        <title type="html"><![CDATA[킬포]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-02T18:26:12.877Z</updated>
-        <content type="html"><![CDATA[대단한 존재를 ‘갓(god)+OO’이라고 부르는 MZ세대의 언어 습관에서 유래된 말로, 가성비를 뛰어넘는 혜택을 느낄 때 쓰는 말.]]></content>
+        <updated>2022-06-02T19:17:21.567Z</updated>
+        <content type="html"><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시즈니]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-02T18:26:12.881Z</updated>
-        <content type="html"><![CDATA[SM엔터테인먼트 보이그룹 NCT의 팬 ncitizen의 애칭.]]></content>
+        <updated>2022-06-02T19:17:21.568Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[찐]]></title>
+        <title type="html"><![CDATA[파이프라인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-02T18:26:12.882Z</updated>
-        <content type="html"><![CDATA[‘진짜’를 뜻하는 접두어. ‘찐팬’, ‘찐사랑’ 등 진심을 강조하고 싶을 때 쓰임.]]></content>
+        <updated>2022-06-02T19:17:21.569Z</updated>
+        <content type="html"><![CDATA[돈이 들어오는 시스템, 수입원.]]></content>
     </entry>
 </feed>
