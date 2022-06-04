@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-06-04T01:38:47.543Z</updated>
+    <updated>2022-06-04T03:11:25.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[즈즈즈]]></title>
+        <title type="html"><![CDATA[유교걸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-04T01:38:40.202Z</updated>
-        <content type="html"><![CDATA[아이돌 그룹 ‘더보이즈’, ‘스트레이키즈’, ‘에이티즈’를 합쳐 부르는 말.]]></content>
+        <updated>2022-06-04T03:11:18.057Z</updated>
+        <content type="html"><![CDATA[‘유교’와 ‘girl’의 합성어로, 보수적인 사람을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빌드업]]></title>
+        <title type="html"><![CDATA[카공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-04T01:38:40.202Z</updated>
-        <content type="html"><![CDATA[‘쌓아 올린다’는 뜻의 건축 용어 ‘빌드업(Build-up)’에서 유래한 표현. SNS에서는 ‘말하고자 하는 내용=결론을 강조하기 위해 앞단에 설명을 쌓는 것’이라는 뜻으로 쓰인다.]]></content>
+        <updated>2022-06-04T03:11:18.057Z</updated>
+        <content type="html"><![CDATA[카페에서 공부하는 것의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마상]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-04T01:38:40.203Z</updated>
-        <content type="html"><![CDATA[‘마음에 상처가 났다’는 뜻 .]]></content>
+        <updated>2022-06-04T03:11:18.060Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FOMO]]></title>
+        <title type="html"><![CDATA[에타]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-04T01:38:40.204Z</updated>
-        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
+        <updated>2022-06-04T03:11:18.061Z</updated>
+        <content type="html"><![CDATA[학교 인증을 거친 재학생들만 이용할 수 있는 익명 커뮤니티 플랫폼 ‘에브리타임’의 줄임말. 과거 학교 커뮤니티와 비슷한 기능을 함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[레게노]]></title>
+        <title type="html"><![CDATA[생카]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-04T01:38:40.205Z</updated>
-        <content type="html"><![CDATA[레전드(Legend)의 D를 O로 잘못 읽은 말. 스트리밍 방송에서 유래한 유행어.]]></content>
+        <updated>2022-06-04T03:11:18.063Z</updated>
+        <content type="html"><![CDATA[생일 카페의 줄임말. 주로 아이돌의 생일을 기념하기 위해 열리며, 카페를 대관해 컵홀더 및 카페 내부를 아이돌 사진으로 꾸밈.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스스]]></title>
+        <title type="html"><![CDATA[긱잡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-04T01:38:40.206Z</updated>
-        <content type="html"><![CDATA[‘인스타그램 스토리’를 줄여 부르는 말.]]></content>
+        <updated>2022-06-04T03:11:18.065Z</updated>
+        <content type="html"><![CDATA[Gig Job. 필요할 때마다 계약직, 임시직을 섭외해 일을 맡기는 고용 형태. 긱 이코노미(임시직 경제)가 만들어낸 일자리를 의미함.]]></content>
     </entry>
 </feed>
