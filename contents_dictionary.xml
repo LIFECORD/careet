@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-06-09T05:19:28.760Z</updated>
+    <updated>2022-06-09T07:19:57.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[킹받네]]></title>
+        <title type="html"><![CDATA[학예사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-09T05:19:21.265Z</updated>
-        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
+        <updated>2022-06-09T07:19:50.058Z</updated>
+        <content type="html"><![CDATA[박물관, 미술관 등에서 작품 등을 수집, 전시 기획 등을 하는 전문 직업.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저메추]]></title>
+        <title type="html"><![CDATA[브이앱]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-09T05:19:21.273Z</updated>
-        <content type="html"><![CDATA[‘저녁 메뉴 추천’의 줄임말. 뭘 먹으면 좋을지 상대에게 메뉴를 추천 받을 때 사용함. 비슷한 용어로 ‘점메추(점심 메뉴 추천)’가 있음.]]></content>
+        <updated>2022-06-09T07:19:50.059Z</updated>
+        <content type="html"><![CDATA[네이버가 제공하는 연예인 라이브 방송 서비스.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈트]]></title>
+        <title type="html"><![CDATA[로고 플레이]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-09T05:19:21.274Z</updated>
-        <content type="html"><![CDATA[‘홈 트레이닝’의 줄임말. 집에서 운동하는 것을 뜻함.]]></content>
+        <updated>2022-06-09T07:19:50.060Z</updated>
+        <content type="html"><![CDATA[패션 트렌드 중 하나로, 브랜드 로고를 활용해 의상이나 액세서리를 디자인하는 것을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밀레니얼]]></title>
+        <title type="html"><![CDATA[코스프레]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-09T05:19:21.275Z</updated>
-        <content type="html"><![CDATA[1981년~1996년에 출생한 세대를 가리키는 말. 대학내일20대연구소에선 심리적, 사회적 동질성을 고려해 1989년 이전 출생자는 전기 밀레니얼, 1989년 출생자부터는 후기 밀레니얼로 구분하고 있음.]]></content>
+        <updated>2022-06-09T07:19:50.061Z</updated>
+        <content type="html"><![CDATA[‘코스튬 플레이(costume play)’의 줄임말. 게임·만화 속 캐릭터로 분장하고, 그들과 비슷한 행동을 흉내내는 것을 뜻함. 일종의 퍼포먼스라고 볼 수 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[덕력]]></title>
+        <title type="html"><![CDATA[연반인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-09T05:19:21.276Z</updated>
-        <content type="html"><![CDATA[덕후+力(힘)의 합성어로, 팬심이 깊은 사람에게 덕력이 높다는 표현을 씀.]]></content>
+        <updated>2022-06-09T07:19:50.063Z</updated>
+        <content type="html"><![CDATA[연예인과 일반인을 합친 신조어. 연예인은 아니지만 연예인 만큼의 화제성을 가진 인물을 뜻함. 대표적인 인물로는 SBS 소속 PD 재재가 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[레게노]]></title>
+        <title type="html"><![CDATA[예쁜 쓰레기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-09T05:19:21.277Z</updated>
-        <content type="html"><![CDATA[레전드(Legend)의 D를 O로 잘못 읽은 말. 스트리밍 방송에서 유래한 유행어.]]></content>
+        <updated>2022-06-09T07:19:50.064Z</updated>
+        <content type="html"><![CDATA[실용성은 없을지라도 감성을 충족시켜주는 물건들을 일컫는 말.]]></content>
     </entry>
 </feed>
