@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-06-15T18:25:00.095Z</updated>
+    <updated>2022-06-15T19:17:41.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[캐릿 1020 해외 특파원]]></title>
+        <title type="html"><![CDATA[손민수]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-15T18:24:52.406Z</updated>
-        <content type="html"><![CDATA[1020으로 구성된 캐릿의 해외 트렌드 자문 그룹. 해외 각국의 Z세대 트렌드를 발 빠르게 전하는 역할을 맡고 있음.]]></content>
+        <updated>2022-06-15T19:17:33.999Z</updated>
+        <content type="html"><![CDATA[웹툰 &lt;치즈인더트랩&gt;의 등장인물로 주인공 홍설을 몰래 따라하는 캐릭터. MZ세대 사이에서 ‘따라한다’ = ‘손민수 한다’로 통함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DM]]></title>
+        <title type="html"><![CDATA[정권 지르기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-15T18:24:52.407Z</updated>
-        <content type="html"><![CDATA[다이렉트 메시지(Direct Message)의 줄임말.]]></content>
+        <updated>2022-06-15T19:17:34.001Z</updated>
+        <content type="html"><![CDATA[Z세대에게 일종의 소취(소원성취)와 비슷한 의미로 쓰임. 휴재 중인 일본 만화 &lt;헌터x헌터&gt;의 연재 재개를 기원하는 유튜버가 매일 정권 지르기 천 번 라이브 방송을 한 데서 유래.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시즈니]]></title>
+        <title type="html"><![CDATA[인소]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-15T18:24:52.407Z</updated>
-        <content type="html"><![CDATA[SM엔터테인먼트 보이그룹 NCT의 팬 ncitizen의 애칭.]]></content>
+        <updated>2022-06-15T19:17:34.003Z</updated>
+        <content type="html"><![CDATA[인터넷 소설의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어사]]></title>
+        <title type="html"><![CDATA[갑분싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-15T18:24:52.408Z</updated>
-        <content type="html"><![CDATA[어색한 사이의 줄임말↔찐친]]></content>
+        <updated>2022-06-15T19:17:34.004Z</updated>
+        <content type="html"><![CDATA[‘갑자기 분위기 싸해짐’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틱톡커]]></title>
+        <title type="html"><![CDATA[포카 슬리브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-15T18:24:52.410Z</updated>
-        <content type="html"><![CDATA[틱톡(Tik Tok)에 영상을 찍어 올리는 유저를 일컫는 말. (유사어: 유튜버, 인스타그래머)]]></content>
+        <updated>2022-06-15T19:17:34.006Z</updated>
+        <content type="html"><![CDATA[포토카드 사이즈로 제작된 얇은 포장용 비닐.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공스타그램]]></title>
+        <title type="html"><![CDATA[까방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-15T18:24:52.411Z</updated>
-        <content type="html"><![CDATA[공부와 인스타그램의 합성어. 공시생이나 수험생들이 공부 관련 콘텐츠를 올리는 인스타그램 계정을 일컫는 말.]]></content>
+        <updated>2022-06-15T19:17:34.007Z</updated>
+        <content type="html"><![CDATA[까임방지의 줄임말. 타인이나 사회의 비난을 미리 피하는 것을 의미함.]]></content>
     </entry>
 </feed>
