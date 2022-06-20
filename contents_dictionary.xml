@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-06-20T03:20:38.771Z</updated>
+    <updated>2022-06-20T04:31:13.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[서사]]></title>
+        <title type="html"><![CDATA[ㄱㅇㅇ]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-20T03:20:31.167Z</updated>
-        <content type="html"><![CDATA[어떤 인물에게 부여된 스토리.]]></content>
+        <updated>2022-06-20T04:31:04.185Z</updated>
+        <content type="html"><![CDATA[‘귀여워’를 초성만으로 표현한 단어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킬포]]></title>
+        <title type="html"><![CDATA[맛잘알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-20T03:20:31.167Z</updated>
-        <content type="html"><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content>
+        <updated>2022-06-20T04:31:04.187Z</updated>
+        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어인 '잘알' 앞에 '맛'이 붙은 형태. 즉, 맛을 잘 아는 사람이라는 뜻]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[덕업일치]]></title>
+        <title type="html"><![CDATA[갓생]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-20T03:20:31.168Z</updated>
-        <content type="html"><![CDATA[덕질하는 것이 직업이 되었다는 뜻. 요즘은 좋아하는 일이 직업이 되었을 때 사용하는 말로 확장됨.]]></content>
+        <updated>2022-06-20T04:31:04.187Z</updated>
+        <content type="html"><![CDATA[god(신)과 인생이 합쳐진 단어로, 부지런하고 알찬 삶을 사는 것을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프사]]></title>
+        <title type="html"><![CDATA[포카 슬리브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-20T03:20:31.168Z</updated>
-        <content type="html"><![CDATA[‘프로필 사진’의 줄임말.]]></content>
+        <updated>2022-06-20T04:31:04.189Z</updated>
+        <content type="html"><![CDATA[포토카드 사이즈로 제작된 얇은 포장용 비닐.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈트]]></title>
+        <title type="html"><![CDATA[근자감]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-20T03:20:31.169Z</updated>
-        <content type="html"><![CDATA[‘홈 트레이닝’의 줄임말. 집에서 운동하는 것을 뜻함.]]></content>
+        <updated>2022-06-20T04:31:04.190Z</updated>
+        <content type="html"><![CDATA[근거 없는 자신감의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언박싱]]></title>
+        <title type="html"><![CDATA[마상]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-20T03:20:31.170Z</updated>
-        <content type="html"><![CDATA[구매한 물건의 상자를 개봉하는 과정을 담은 유튜브 영상 포맷.]]></content>
+        <updated>2022-06-20T04:31:04.191Z</updated>
+        <content type="html"><![CDATA[‘마음에 상처가 났다’는 뜻 .]]></content>
     </entry>
 </feed>
