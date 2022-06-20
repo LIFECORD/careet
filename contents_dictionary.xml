@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-06-20T09:22:22.723Z</updated>
+    <updated>2022-06-20T10:28:27.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[하울(haul)]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-20T09:22:13.074Z</updated>
-        <content type="html"><![CDATA[구매한 물건을 보여주면서 품평하는 유튜브 콘텐츠 포맷.]]></content>
+        <updated>2022-06-20T10:28:19.657Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온클]]></title>
+        <title type="html"><![CDATA[재주행]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-20T09:22:13.076Z</updated>
-        <content type="html"><![CDATA[‘온라인 클래스’의 줄임말.]]></content>
+        <updated>2022-06-20T10:28:19.658Z</updated>
+        <content type="html"><![CDATA[이미 본 작품을 다시 반복해서 보는 것을 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[게이미피케이션(Gamification)]]></title>
+        <title type="html"><![CDATA[마크정식]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-20T09:22:13.078Z</updated>
-        <content type="html"><![CDATA[게임적 사고와 게임 기법을 활용해 사용자를 몰입시키는 기법.]]></content>
+        <updated>2022-06-20T10:28:19.658Z</updated>
+        <content type="html"><![CDATA[아이돌 그룹 갓세븐의 팬이 멤버인 ‘마크’를 대중들에게 알리기 위해 직접 편의점 레시피를 개발하고, 해당 레시피에 ‘마크’라는 이름을 붙여 유행시킨 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[샤라웃]]></title>
+        <title type="html"><![CDATA[OTT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-20T09:22:13.082Z</updated>
-        <content type="html"><![CDATA[‘Shout Out’의 한국식 발음. 주로 &lt;쇼미더머니&gt; 같은 힙합 경연 프로그램에서 존중의 의미를 담아 상대를 언급하는 행위를 말함. 요즘엔 ‘널리 알리다’라는 뜻으로도 사용됨.]]></content>
+        <updated>2022-06-20T10:28:19.659Z</updated>
+        <content type="html"><![CDATA[‘Over The Top’의 줄임말로 넷플릭스, 티빙, 웨이브 등의 온라인 동영상 서비스를 일컬음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실감세대]]></title>
+        <title type="html"><![CDATA[뇌이징]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-20T09:22:13.084Z</updated>
-        <content type="html"><![CDATA[실감나는 경험을 선호하고 소비함으로써, 내가 지금 이곳에 존재하고 있음을 실감하는 세대.]]></content>
+        <updated>2022-06-20T10:28:19.660Z</updated>
+        <content type="html"><![CDATA[‘뇌+에이징’의 합성어. 처음 봤을 때 이상하던 디자인이 보면 볼수록 예뻐 보일 때 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폰꾸]]></title>
+        <title type="html"><![CDATA[눈팅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-20T09:22:13.086Z</updated>
-        <content type="html"><![CDATA[폰꾸미기의 줄임말. 주로 휴대폰 배경화면이나 앱 아이콘을 커스텀 하는 것을 뜻함.]]></content>
+        <updated>2022-06-20T10:28:19.661Z</updated>
+        <content type="html"><![CDATA[온라인 커뮤니티 등에서 게시글을 쓰거나 댓글을 달지 않고 오직 게시물을 읽기만 하는 것을 의미함.]]></content>
     </entry>
 </feed>
