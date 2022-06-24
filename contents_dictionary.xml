@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-06-24T03:46:03.906Z</updated>
+    <updated>2022-06-24T04:42:27.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Z세대]]></title>
+        <title type="html"><![CDATA[인플루언서블 세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-24T03:45:55.821Z</updated>
-        <content type="html"><![CDATA[1996년 이후 출생~2000년대 중후반 출생자.]]></content>
+        <updated>2022-06-24T04:42:19.294Z</updated>
+        <content type="html"><![CDATA[Influenceable + 世代 = 영향력 있는 세대라는 뜻. 대학내일20대연구소가 선정한 2021년 트렌드 키워드로, 자신의 영향력을 알고 행동하는 MZ세대를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로판]]></title>
+        <title type="html"><![CDATA[굿즈]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-24T03:45:55.823Z</updated>
-        <content type="html"><![CDATA[로맨스 판타지 장르를 줄여서 부르는 말. 최근 인기있는 웹소설 장르 중 하나.]]></content>
+        <updated>2022-06-24T04:42:19.294Z</updated>
+        <content type="html"><![CDATA[원래 연예인과 관련된 사진, 포토카드, 응원봉 등의 제품을 뜻했으나, 최근엔 ‘한정판으로 출시되는 매력적인 아이템’을 통칭하는 단어로 자리잡음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈마]]></title>
+        <title type="html"><![CDATA[엄빠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-24T03:45:55.823Z</updated>
-        <content type="html"><![CDATA[홈페이지 마스터의 줄임말. 아이돌 팬 페이지를 운영하며, 고화질 카메라로 아이돌 스케줄 사진과 동영상을 찍는 팬을 의미함.]]></content>
+        <updated>2022-06-24T04:42:19.299Z</updated>
+        <content type="html"><![CDATA[엄마 아빠를 함께 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[리퍼브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-24T03:45:55.850Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-06-24T04:42:19.300Z</updated>
+        <content type="html"><![CDATA[반품됐거나, 외관상 약간의 흠집 또는 하자가 있어 정상가로 판매하지 못하는 제품.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[읽페]]></title>
+        <title type="html"><![CDATA[도아너]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-24T03:45:55.850Z</updated>
-        <content type="html"><![CDATA[‘페이스북 스토리 읽으면 페메(페북 메신저) 보낸다’의 줄임말.]]></content>
+        <updated>2022-06-24T04:42:19.301Z</updated>
+        <content type="html"><![CDATA[도안을 그리는 사람]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파티원]]></title>
+        <title type="html"><![CDATA[유튜브 프리미엄]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-06-24T03:45:55.850Z</updated>
-        <content type="html"><![CDATA[게임 용어로 함께 퀘스트를 깨러 갈 팀원이라는 의미.]]></content>
+        <updated>2022-06-24T04:42:19.302Z</updated>
+        <content type="html"><![CDATA[유튜브 유료 요금제. 광고 제거, 동영상 다운로드 등의 서비스를 제공함.]]></content>
     </entry>
 </feed>
