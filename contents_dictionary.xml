@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-01T11:17:53.573Z</updated>
+    <updated>2022-07-01T12:43:29.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[VSCO]]></title>
+        <title type="html"><![CDATA[포토 카드]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-01T11:17:46.036Z</updated>
-        <content type="html"><![CDATA[사진 보정 앱. 포토샵처럼 세세한 조절도 가능하다. 이런 감성을 묶어 부르는 VSCO girl이란 말도 있음.]]></content>
+        <updated>2022-07-01T12:43:21.677Z</updated>
+        <content type="html"><![CDATA[아이돌 멤버의 사진으로 만든 카드로, 주로 앨범 당 한 장씩 들어있는 굿즈. 줄여서 ‘포카’라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폴꾸]]></title>
+        <title type="html"><![CDATA[메타버스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-01T11:17:46.038Z</updated>
-        <content type="html"><![CDATA[폴라로이드 꾸미기, 포토카드를 폴라로이드 형태로 인쇄해서 꾸미는 것.]]></content>
+        <updated>2022-07-01T12:43:21.678Z</updated>
+        <content type="html"><![CDATA[가상 세계와 현실 세계의 경계가 허물어진 3차원 가상 세계를 뜻함. 이용자는 아바타를 이용하여 메타버스 세계관 아래서 사회, 경제, 문화 활동을 함.  이를 활용한 대표적인 콘텐츠로는 게임 ‘로블록스’, ‘마인크래프트’, 증강현실 아바타 서비스 ‘제페토’등이 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알계]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-07-01T12:43:21.680Z</updated>
+        <content type="html"><![CDATA[트위터 계정 최초 생성 시 기본 프로필 사진인 알 그림을 프로필 사진으로 하고 있는 계정. 주로 본계를 숨기고 새로 계정을 만들어, 익명 뒤에 숨고 싶은 사람들이 이용함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시드 머니]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-07-01T12:43:21.682Z</updated>
+        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트친]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-07-01T12:43:21.683Z</updated>
+        <content type="html"><![CDATA[트위터 친구의 줄임말.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하지만꽃]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-01T11:17:46.038Z</updated>
+        <updated>2022-07-01T12:43:21.685Z</updated>
         <content type="html"><![CDATA[벚꽃을 다르게 부르는 말. '벚꽃 = But꽃 = 하지만꽃'으로 바꿔 부른 카카오톡 짤에서 유래.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맵부심]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-01T11:17:46.038Z</updated>
-        <content type="html"><![CDATA[‘맵(다)’+‘자부심’의 합성어. 매운 것을 잘 먹는 데 자부심이 있음을 뜻하는 말.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앨범깡]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-01T11:17:46.039Z</updated>
-        <content type="html"><![CDATA[앨범 언박싱을 부르는 말. 주로 원하는 포토카드를 얻기 위해 연속해서 앨범을 열어보는 것을 말함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셧다운제]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-01T11:17:46.041Z</updated>
-        <content type="html"><![CDATA[청소년의 온라인 게임 중독을 막기 위한 심야 게임 규제로, 만 16세 미만 청소년은 밤 12시부터 다음 날 오전 6시까지 온라인 게임에 접속할 수 없도록 하는 내용의 규제.]]></content>
     </entry>
 </feed>
