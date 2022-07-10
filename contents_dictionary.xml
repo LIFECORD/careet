@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-10T22:20:41.888Z</updated>
+    <updated>2022-07-10T23:21:04.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[망붕]]></title>
+        <title type="html"><![CDATA[앨범깡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-10T22:20:33.760Z</updated>
-        <content type="html"><![CDATA[‘망상 분자’를 ‘망상 붕자’로 발음을 뭉갠 것의 줄임말. 사실이 아니지만 믿고 싶어 하는 것을 의미함.]]></content>
+        <updated>2022-07-10T23:20:55.889Z</updated>
+        <content type="html"><![CDATA[앨범 언박싱을 부르는 말. 주로 원하는 포토카드를 얻기 위해 연속해서 앨범을 열어보는 것을 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[댈컴]]></title>
+        <title type="html"><![CDATA[공병템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-10T22:20:33.761Z</updated>
-        <content type="html"><![CDATA[‘대리 커스터마이징’의 줄임말. 대리로 남의 아바타를 디자인해주는 것을 뜻함.]]></content>
+        <updated>2022-07-10T23:20:55.891Z</updated>
+        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT]]></title>
+        <title type="html"><![CDATA[언팔]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-10T22:20:33.761Z</updated>
-        <content type="html"><![CDATA[‘리트윗(Re Tweet)’의 약자. 트위터에서 다른 계정의 게시물을 자신의 계정에 공유하는 기능을 의미함.]]></content>
+        <updated>2022-07-10T23:20:55.892Z</updated>
+        <content type="html"><![CDATA[‘언팔로우(Unfollow)’의 줄임말. 팔로우를 취소하여 더이상 게시물을 받아보지 않는다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[준등기깡]]></title>
+        <title type="html"><![CDATA[공답]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-10T22:20:33.763Z</updated>
-        <content type="html"><![CDATA[준등기로 배송된 우편물을 뜯어보는 것. 10~20대는 포토 카드 등 소형 굿즈를 준등기로 거래하는 경우가 많아 생긴 신조어.]]></content>
+        <updated>2022-07-10T23:20:55.892Z</updated>
+        <content type="html"><![CDATA[공개 답변의 줄임말. 제품의 정보를 묻고 답할 때 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋댓구알]]></title>
+        <title type="html"><![CDATA[존버]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-10T22:20:33.764Z</updated>
-        <content type="html"><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content>
+        <updated>2022-07-10T23:20:55.893Z</updated>
+        <content type="html"><![CDATA[엄청나게 버티다라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[스킨스병]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-10T22:20:33.770Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+        <updated>2022-07-10T23:20:55.894Z</updated>
+        <content type="html"><![CDATA[영국 드라마 &lt;스킨스&gt;의 퇴폐적인 주인공을 따라하는 사람들을 일컫는 말. 2010년대에 창궐하다 사라졌음.]]></content>
     </entry>
 </feed>
