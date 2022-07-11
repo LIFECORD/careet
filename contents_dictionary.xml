@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-10T23:21:04.134Z</updated>
+    <updated>2022-07-11T02:01:07.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[앨범깡]]></title>
+        <title type="html"><![CDATA[팅글]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-10T23:20:55.889Z</updated>
-        <content type="html"><![CDATA[앨범 언박싱을 부르는 말. 주로 원하는 포토카드를 얻기 위해 연속해서 앨범을 열어보는 것을 말함.]]></content>
+        <updated>2022-07-11T02:00:57.414Z</updated>
+        <content type="html"><![CDATA['기분 좋은 소름'을 뜻하는 ASMR 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공병템]]></title>
+        <title type="html"><![CDATA[웃음 벨]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-10T23:20:55.891Z</updated>
-        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
+        <updated>2022-07-11T02:00:57.416Z</updated>
+        <content type="html"><![CDATA[벨을 누르면 종소리가 나는 것처럼, 보기만 하면 웃음이 터지는 밈이나 짤을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언팔]]></title>
+        <title type="html"><![CDATA[ㅈㅂㅈㅇ]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-10T23:20:55.892Z</updated>
-        <content type="html"><![CDATA[‘언팔로우(Unfollow)’의 줄임말. 팔로우를 취소하여 더이상 게시물을 받아보지 않는다는 뜻.]]></content>
+        <updated>2022-07-11T02:00:57.417Z</updated>
+        <content type="html"><![CDATA[정보좀요의 초성을 따서 만든 MZ세대 신조어. 패션 앱 스타일쉐어에서 상대방에게 제품 정보를 물어볼 때 사용했던 것에서 유래함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공답]]></title>
+        <title type="html"><![CDATA[카공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-10T23:20:55.892Z</updated>
-        <content type="html"><![CDATA[공개 답변의 줄임말. 제품의 정보를 묻고 답할 때 사용함.]]></content>
+        <updated>2022-07-11T02:00:57.419Z</updated>
+        <content type="html"><![CDATA[카페에서 공부하는 것의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[존버]]></title>
+        <title type="html"><![CDATA[쩝쩝 박사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-10T23:20:55.893Z</updated>
-        <content type="html"><![CDATA[엄청나게 버티다라는 뜻.]]></content>
+        <updated>2022-07-11T02:00:57.419Z</updated>
+        <content type="html"><![CDATA[척척 박사를 변형한 신조어. 먹는 것에 진심인 사람들을 일컬음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스킨스병]]></title>
+        <title type="html"><![CDATA[인급동]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-10T23:20:55.894Z</updated>
-        <content type="html"><![CDATA[영국 드라마 &lt;스킨스&gt;의 퇴폐적인 주인공을 따라하는 사람들을 일컫는 말. 2010년대에 창궐하다 사라졌음.]]></content>
+        <updated>2022-07-11T02:00:57.420Z</updated>
+        <content type="html"><![CDATA[‘인기 급상승 동영상’의 줄임말. 유튜브에서 단시간에 높은 조회 수를 기록하고, 화제가 된 영상을 일컬음.]]></content>
     </entry>
 </feed>
