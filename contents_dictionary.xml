@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-15T15:25:15.476Z</updated>
+    <updated>2022-07-15T16:33:17.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[뉴짤]]></title>
+        <title type="html"><![CDATA[아이패드 병]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-15T15:25:07.353Z</updated>
-        <content type="html"><![CDATA[새로 뜬 사진, 새로 뜬 gif]]></content>
+        <updated>2022-07-15T16:33:08.721Z</updated>
+        <content type="html"><![CDATA[아이패드가 갖고 싶어 생긴 병. 아이패드를 사야만 완치가 가능하다고 알려짐. (※ 진짜로 아픈 거 아님 주의)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코덕]]></title>
+        <title type="html"><![CDATA[파티원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-15T15:25:07.355Z</updated>
-        <content type="html"><![CDATA[화장품(Cosmetic) 덕후를 부르는 말.]]></content>
+        <updated>2022-07-15T16:33:08.722Z</updated>
+        <content type="html"><![CDATA[게임 용어로 함께 퀘스트를 깨러 갈 팀원이라는 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답정너]]></title>
+        <title type="html"><![CDATA[총공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-15T15:25:07.356Z</updated>
-        <content type="html"><![CDATA[‘답은 정해져 있고 너는 대답만 하면 돼’의 줄임말.]]></content>
+        <updated>2022-07-15T16:33:08.723Z</updated>
+        <content type="html"><![CDATA['총 공격'의 줄임말. 팬들의 단체 행동.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사바사]]></title>
+        <title type="html"><![CDATA[데스크테리어]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-15T15:25:07.359Z</updated>
-        <content type="html"><![CDATA[‘사람 by 사람’의 줄임말. 사람마다 다 다르다는 것을 의미함.]]></content>
+        <updated>2022-07-15T16:33:08.724Z</updated>
+        <content type="html"><![CDATA[데스크(Desk)+인테리어(Interior)의 합성어. 책상을 꾸미는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[펀슈머]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-15T15:25:07.360Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-07-15T16:33:08.726Z</updated>
+        <content type="html"><![CDATA[‘Fun(재미)’과 ‘Consumer(소비자)’의 합성어로, 소비 과정에서 재미를 추구하는 소비자를 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[교복템]]></title>
+        <title type="html"><![CDATA[쇼츠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-15T15:25:07.362Z</updated>
-        <content type="html"><![CDATA[마치 교복처럼 자주 입는(쓰는) 물건이라는 뜻.]]></content>
+        <updated>2022-07-15T16:33:08.727Z</updated>
+        <content type="html"><![CDATA[유튜브에서 2021년 베타 출시한 숏폼 서비스.]]></content>
     </entry>
 </feed>
