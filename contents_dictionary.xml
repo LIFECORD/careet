@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-15T04:20:12.379Z</updated>
+    <updated>2022-07-15T05:42:27.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[파티원]]></title>
+        <title type="html"><![CDATA[트수]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-15T04:20:04.486Z</updated>
-        <content type="html"><![CDATA[게임 용어로 함께 퀘스트를 깨러 갈 팀원이라는 의미.]]></content>
+        <updated>2022-07-15T05:42:19.485Z</updated>
+        <content type="html"><![CDATA[스트리밍 플랫폼 ‘트위치’와 ‘백수’가 결합된 단어. 트위치를 시청하는 데 많은 시간을 보낸다는 뜻으로, 트위치 애청자를 상징하는 말로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일코]]></title>
+        <title type="html"><![CDATA[앱테크]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-15T04:20:04.487Z</updated>
-        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
+        <updated>2022-07-15T05:42:19.486Z</updated>
+        <content type="html"><![CDATA[앱+재테크의 합성어. 앱 안에서 특정 활동을 해 포인트를 쌓는 것]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답정너]]></title>
+        <title type="html"><![CDATA[랜봉]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-15T04:20:04.488Z</updated>
-        <content type="html"><![CDATA[‘답은 정해져 있고 너는 대답만 하면 돼’의 줄임말.]]></content>
+        <updated>2022-07-15T05:42:19.487Z</updated>
+        <content type="html"><![CDATA[판매하는 아이템을 랜덤하게 봉투에 담았다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온콘]]></title>
+        <title type="html"><![CDATA[취뽀]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-15T04:20:04.489Z</updated>
-        <content type="html"><![CDATA[온라인 콘서트의 줄임말.]]></content>
+        <updated>2022-07-15T05:42:19.492Z</updated>
+        <content type="html"><![CDATA[‘취업 뽀개기’의 줄임말. 취업에 성공했을 때 ‘취뽀했다’라고 함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브이로그]]></title>
+        <title type="html"><![CDATA[도른자]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-15T04:20:04.490Z</updated>
-        <content type="html"><![CDATA[브이로그(v-log): 비디오(video)와 블로그(blog)의 합성어. 자신의 일상을 영상으로 촬영한 콘텐츠를 말함.]]></content>
+        <updated>2022-07-15T05:42:19.495Z</updated>
+        <content type="html"><![CDATA['돌은 자'를 소리나는 대로 발음한 것. 진짜 웃기다는 뜻의 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인싸]]></title>
+        <title type="html"><![CDATA[망붕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-15T04:20:04.491Z</updated>
-        <content type="html"><![CDATA[‘인사이더(insider)’를 줄인 한국식 영어 표현. 사람들과 잘 어울리며 발이 넓은 사람을 뜻함.]]></content>
+        <updated>2022-07-15T05:42:19.496Z</updated>
+        <content type="html"><![CDATA[‘망상 분자’를 ‘망상 붕자’로 발음을 뭉갠 것의 줄임말. 사실이 아니지만 믿고 싶어 하는 것을 의미함.]]></content>
     </entry>
 </feed>
