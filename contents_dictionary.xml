@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-25T13:44:43.125Z</updated>
+    <updated>2022-07-25T14:20:58.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[광공]]></title>
+        <title type="html"><![CDATA[얼빡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-25T13:44:35.095Z</updated>
-        <content type="html"><![CDATA[~에 대해 집착이 있는 사람을 뜻하는 MZ세대의 신조어.]]></content>
+        <updated>2022-07-25T14:20:50.085Z</updated>
+        <content type="html"><![CDATA[얼굴이 한 프레임에 가득 찼다는 뜻. 이렇게 나온 사진을 ‘얼빡샷’이라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[멍]]></title>
+        <title type="html"><![CDATA[근자감]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-25T13:44:35.097Z</updated>
-        <content type="html"><![CDATA[불멍, 물멍, 숲멍 등 최근 MZ세대 사이에선 편안한 경관 앞에서 멍을 때리며 휴식을 취하는 것이 트렌드로 떠오름.]]></content>
+        <updated>2022-07-25T14:20:50.085Z</updated>
+        <content type="html"><![CDATA[근거 없는 자신감의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[관종]]></title>
+        <title type="html"><![CDATA[갓생]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-25T13:44:35.098Z</updated>
-        <content type="html"><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content>
+        <updated>2022-07-25T14:20:50.088Z</updated>
+        <content type="html"><![CDATA[god(신)과 인생이 합쳐진 단어로, 부지런하고 알찬 삶을 사는 것을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밸붕]]></title>
+        <title type="html"><![CDATA[로판]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-25T13:44:35.098Z</updated>
-        <content type="html"><![CDATA[밸런스 붕괴, 특정 아이템의 성능이 매우 출중하여 다른 아이템과 공정한 비교가 어려울 때 쓰는 말. 주로 게임 용어로 쓰였으나 요즘에는 다양한 분야에서 활용됨.]]></content>
+        <updated>2022-07-25T14:20:50.092Z</updated>
+        <content type="html"><![CDATA[로맨스 판타지 장르를 줄여서 부르는 말. 최근 인기있는 웹소설 장르 중 하나.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT]]></title>
+        <title type="html"><![CDATA[블친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-25T13:44:35.099Z</updated>
-        <content type="html"><![CDATA[‘리트윗(Re Tweet)’의 약자. 트위터에서 다른 계정의 게시물을 자신의 계정에 공유하는 기능을 의미함.]]></content>
+        <updated>2022-07-25T14:20:50.093Z</updated>
+        <content type="html"><![CDATA[블로그 친구의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포토 카드]]></title>
+        <title type="html"><![CDATA[비건]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-25T13:44:35.099Z</updated>
-        <content type="html"><![CDATA[아이돌 멤버의 사진으로 만든 카드로, 주로 앨범 당 한 장씩 들어있는 굿즈. 줄여서 ‘포카’라고 부름.]]></content>
+        <updated>2022-07-25T14:20:50.094Z</updated>
+        <content type="html"><![CDATA[원래는 채식주의 중에서도 가장 엄격한 단계를 뜻하는 단어지만, 요즘은 철학적인 이유로 동물성 식품을 섭취하지 않는 사람들을 통칭해 ‘비건’이라고 부르는 경우가 많음.]]></content>
     </entry>
 </feed>
