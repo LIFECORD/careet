@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-26T13:43:10.422Z</updated>
+    <updated>2022-07-26T14:19:15.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[마음함]]></title>
+        <title type="html"><![CDATA[플래그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-26T13:43:02.580Z</updated>
-        <content type="html"><![CDATA[트위터에서 하트 버튼을 누르면 ‘마음에 들어요’ 카테고리에 보관되는데, 이를 뜻하는 트위터 용어.]]></content>
+        <updated>2022-07-26T14:19:07.370Z</updated>
+        <content type="html"><![CDATA[앞날을 암시하는 복선의 의미로 사용됨. (용례: 가지 말라는 데 꼭 가네? 사망 플래그다!)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내돈내산]]></title>
+        <title type="html"><![CDATA[껄무새]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-26T13:43:02.582Z</updated>
-        <content type="html"><![CDATA[‘내 돈으로 내가 산’의 줄임말. 주로 제품 리뷰를 할 때 광고가 아니라는 것을 강조하기 위해 사용함.]]></content>
+        <updated>2022-07-26T14:19:07.375Z</updated>
+        <content type="html"><![CDATA[앵무새처럼 ‘~살걸’, ‘~팔걸’을 반복하는 개인 투자자를 뜻함. (EX. 오늘 AA전자 주식 올랐네? 어제 살 걸.)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공스타그램]]></title>
+        <title type="html"><![CDATA[쓸디계]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-26T13:43:02.583Z</updated>
-        <content type="html"><![CDATA[공부와 인스타그램의 합성어. 공시생이나 수험생들이 공부 관련 콘텐츠를 올리는 인스타그램 계정을 일컫는 말.]]></content>
+        <updated>2022-07-26T14:19:07.377Z</updated>
+        <content type="html"><![CDATA[3D 계정의 줄임말. 2D 애니메이션 캐릭터가 아닌, 실제 인물을 덕질하는 계정을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐해석]]></title>
+        <title type="html"><![CDATA[마스킹 테이프]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-26T13:43:02.585Z</updated>
-        <content type="html"><![CDATA[캐릭터 해석의 줄임말. 특정 인물을 분석해 나름의 이미지를 설정하는 일을 의미함.]]></content>
+        <updated>2022-07-26T14:19:07.378Z</updated>
+        <content type="html"><![CDATA[손으로 찢어 사용할 수 있는 종이 테이프. 다양한 디자인으로, 다이어리를 꾸미는 MZ세대에게 필수템으로 통함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맵부심]]></title>
+        <title type="html"><![CDATA[코덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-26T13:43:02.585Z</updated>
-        <content type="html"><![CDATA[‘맵(다)’+‘자부심’의 합성어. 매운 것을 잘 먹는 데 자부심이 있음을 뜻하는 말.]]></content>
+        <updated>2022-07-26T14:19:07.380Z</updated>
+        <content type="html"><![CDATA[코스메틱(Cosmetic. 화장품) 덕후의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[댈컴]]></title>
+        <title type="html"><![CDATA[정권 지르기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-26T13:43:02.586Z</updated>
-        <content type="html"><![CDATA[‘대리 커스터마이징’의 줄임말. 대리로 남의 아바타를 디자인해주는 것을 뜻함.]]></content>
+        <updated>2022-07-26T14:19:07.381Z</updated>
+        <content type="html"><![CDATA[Z세대에게 일종의 소취(소원성취)와 비슷한 의미로 쓰임. 휴재 중인 일본 만화 &lt;헌터x헌터&gt;의 연재 재개를 기원하는 유튜버가 매일 정권 지르기 천 번 라이브 방송을 한 데서 유래.]]></content>
     </entry>
 </feed>
