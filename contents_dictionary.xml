@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-07-29T11:18:44.606Z</updated>
+    <updated>2022-07-29T12:43:34.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[마상]]></title>
+        <title type="html"><![CDATA[일잘러]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-29T11:18:33.110Z</updated>
-        <content type="html"><![CDATA[‘마음에 상처가 났다’는 뜻 .]]></content>
+        <updated>2022-07-29T12:43:26.622Z</updated>
+        <content type="html"><![CDATA[일 잘하는 사람을 뜻하는 신조어]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[P2P]]></title>
+        <title type="html"><![CDATA[대전]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-29T11:18:33.112Z</updated>
-        <content type="html"><![CDATA[금융기관을 거치지 않고 개인과 개인이 온라인 플랫폼을 통해 자금을 빌려주고 이에 대한 이자를 받는 방식.]]></content>
+        <updated>2022-07-29T12:43:26.623Z</updated>
+        <content type="html"><![CDATA[‘대신 전해드립니다’의 줄임말. 학교 등 한 집단의 소식을 제보 받아 대신 전하는 페이스북 페이지들을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[찐]]></title>
+        <title type="html"><![CDATA[블친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-29T11:18:33.113Z</updated>
-        <content type="html"><![CDATA[‘진짜’를 뜻하는 접두어. ‘찐팬’, ‘찐사랑’ 등 진심을 강조하고 싶을 때 쓰임.]]></content>
+        <updated>2022-07-29T12:43:26.625Z</updated>
+        <content type="html"><![CDATA[블로그 친구의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알파 세대]]></title>
+        <title type="html"><![CDATA[총공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-29T11:18:33.115Z</updated>
-        <content type="html"><![CDATA[2010년 이후 출생자, 즉 Z세대 이후 세대를 부르는 말.]]></content>
+        <updated>2022-07-29T12:43:26.629Z</updated>
+        <content type="html"><![CDATA['총 공격'의 줄임말. 팬들의 단체 행동.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[게이미피케이션(Gamification)]]></title>
+        <title type="html"><![CDATA[ㅈㅂㅈㅇ]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-29T11:18:33.119Z</updated>
-        <content type="html"><![CDATA[게임적 사고와 게임 기법을 활용해 사용자를 몰입시키는 기법.]]></content>
+        <updated>2022-07-29T12:43:26.630Z</updated>
+        <content type="html"><![CDATA[정보좀요의 초성을 따서 만든 MZ세대 신조어. 패션 앱 스타일쉐어에서 상대방에게 제품 정보를 물어볼 때 사용했던 것에서 유래함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디지털 네이티브]]></title>
+        <title type="html"><![CDATA[트친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-07-29T11:18:33.120Z</updated>
-        <content type="html"><![CDATA[어린 시절부터 디지털 환경에서 성장한 세대를 뜻함.]]></content>
+        <updated>2022-07-29T12:43:26.631Z</updated>
+        <content type="html"><![CDATA[트위터 친구의 줄임말.]]></content>
     </entry>
 </feed>
