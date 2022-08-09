@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-08-09T11:18:37.977Z</updated>
+    <updated>2022-08-09T12:46:09.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[자만추]]></title>
+        <title type="html"><![CDATA[취뽀]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T11:18:28.849Z</updated>
-        <content type="html"><![CDATA[‘자연스러운 만남 추구’ 줄임말↔소개팅]]></content>
+        <updated>2022-08-09T12:46:01.604Z</updated>
+        <content type="html"><![CDATA[‘취업 뽀개기’의 줄임말. 취업에 성공했을 때 ‘취뽀했다’라고 함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포토프레스]]></title>
+        <title type="html"><![CDATA[위꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T11:18:28.850Z</updated>
-        <content type="html"><![CDATA[사진(Photo)으로 자신을 표현하는(Express) Z세대를 일컫는 말.]]></content>
+        <updated>2022-08-09T12:46:01.605Z</updated>
+        <content type="html"><![CDATA[위장 꾸미기. 맛있는 식사를 하는 것을 꾸미기에 빗대어 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쿠키]]></title>
+        <title type="html"><![CDATA[DM]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T11:18:28.851Z</updated>
-        <content type="html"><![CDATA[네이버 웹툰에서 유료 결제를 할 수 있는 화폐. ‘유료 결제 한다’라는 뜻으로 ‘쿠키 굽는다’라는 표현을 씀.]]></content>
+        <updated>2022-08-09T12:46:01.605Z</updated>
+        <content type="html"><![CDATA[다이렉트 메시지(Direct Message)의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코 세 글자]]></title>
+        <title type="html"><![CDATA[사바사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T11:18:28.852Z</updated>
-        <content type="html"><![CDATA[MZ세대가 코로나19를 일컫는 말. 트위터에서 ‘코로나’라는 단어를 사용하면 계정이 잠기는 일이 발생해 코로나를 대체하는 표현으로 사용되기 시작함.]]></content>
+        <updated>2022-08-09T12:46:01.607Z</updated>
+        <content type="html"><![CDATA[‘사람 by 사람’의 줄임말. 사람마다 다 다르다는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먹금]]></title>
+        <title type="html"><![CDATA[본캐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T11:18:28.853Z</updated>
-        <content type="html"><![CDATA[‘먹이 금지’의 줄임말. 대꾸하지 않고 무시하는 것을 의미함.]]></content>
+        <updated>2022-08-09T12:46:01.608Z</updated>
+        <content type="html"><![CDATA[‘본래의 캐릭터’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OTT]]></title>
+        <title type="html"><![CDATA[망붕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T11:18:28.854Z</updated>
-        <content type="html"><![CDATA[‘Over The Top’의 줄임말로 넷플릭스, 티빙, 웨이브 등의 온라인 동영상 서비스를 일컬음.]]></content>
+        <updated>2022-08-09T12:46:01.609Z</updated>
+        <content type="html"><![CDATA[‘망상 분자’를 ‘망상 붕자’로 발음을 뭉갠 것의 줄임말. 사실이 아니지만 믿고 싶어 하는 것을 의미함.]]></content>
     </entry>
 </feed>
