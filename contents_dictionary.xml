@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-08-09T10:25:36.189Z</updated>
+    <updated>2022-08-09T11:18:37.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[OOTD]]></title>
+        <title type="html"><![CDATA[자만추]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T10:25:28.472Z</updated>
-        <content type="html"><![CDATA[‘Outfit Of The Day’의 줄임말. 데일리룩을 올릴 때 사용하는 해시태그.]]></content>
+        <updated>2022-08-09T11:18:28.849Z</updated>
+        <content type="html"><![CDATA[‘자연스러운 만남 추구’ 줄임말↔소개팅]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[샤라웃]]></title>
+        <title type="html"><![CDATA[포토프레스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T10:25:28.475Z</updated>
-        <content type="html"><![CDATA[‘Shout Out’의 한국식 발음. 주로 &lt;쇼미더머니&gt; 같은 힙합 경연 프로그램에서 존중의 의미를 담아 상대를 언급하는 행위를 말함. 요즘엔 ‘널리 알리다’라는 뜻으로도 사용됨.]]></content>
+        <updated>2022-08-09T11:18:28.850Z</updated>
+        <content type="html"><![CDATA[사진(Photo)으로 자신을 표현하는(Express) Z세대를 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트친소]]></title>
+        <title type="html"><![CDATA[쿠키]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T10:25:28.476Z</updated>
-        <content type="html"><![CDATA[‘트위터 친구를 소개 받습니다’의 줄임말. 트위터에서 공개적으로 친구를 모집하는 일을 뜻함.]]></content>
+        <updated>2022-08-09T11:18:28.851Z</updated>
+        <content type="html"><![CDATA[네이버 웹툰에서 유료 결제를 할 수 있는 화폐. ‘유료 결제 한다’라는 뜻으로 ‘쿠키 굽는다’라는 표현을 씀.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[드래곤볼]]></title>
+        <title type="html"><![CDATA[코 세 글자]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T10:25:28.477Z</updated>
-        <content type="html"><![CDATA[MZ세대는 무언가를 모을 때 ‘드래곤볼’이라고 표현함. 만화 &lt;드래곤볼&gt;의 내용이 구슬 일곱개를 모아야 한다는 점에서 유래됨.]]></content>
+        <updated>2022-08-09T11:18:28.852Z</updated>
+        <content type="html"><![CDATA[MZ세대가 코로나19를 일컫는 말. 트위터에서 ‘코로나’라는 단어를 사용하면 계정이 잠기는 일이 발생해 코로나를 대체하는 표현으로 사용되기 시작함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인용 알티]]></title>
+        <title type="html"><![CDATA[먹금]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T10:25:28.478Z</updated>
-        <content type="html"><![CDATA[트위터에서 다른 사람의 트윗 위에 자신의 의견을 덧붙여서 공유하는 기능.]]></content>
+        <updated>2022-08-09T11:18:28.853Z</updated>
+        <content type="html"><![CDATA[‘먹이 금지’의 줄임말. 대꾸하지 않고 무시하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일잘러]]></title>
+        <title type="html"><![CDATA[OTT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T10:25:28.479Z</updated>
-        <content type="html"><![CDATA[일 잘하는 사람을 뜻하는 신조어]]></content>
+        <updated>2022-08-09T11:18:28.854Z</updated>
+        <content type="html"><![CDATA[‘Over The Top’의 줄임말로 넷플릭스, 티빙, 웨이브 등의 온라인 동영상 서비스를 일컬음.]]></content>
     </entry>
 </feed>
