@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-08-09T04:01:54.130Z</updated>
+    <updated>2022-08-09T04:52:26.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[랜봉]]></title>
+        <title type="html"><![CDATA[에듀테이너]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T04:01:45.808Z</updated>
-        <content type="html"><![CDATA[판매하는 아이템을 랜덤하게 봉투에 담았다는 뜻.]]></content>
+        <updated>2022-08-09T04:52:17.949Z</updated>
+        <content type="html"><![CDATA[교육 분야에서 활동하는 연예인 또는 엔터테이너. 에듀케이션(Education)과 엔터테이너(Entertainer)의 합성어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋댓공]]></title>
+        <title type="html"><![CDATA[총공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T04:01:45.810Z</updated>
-        <content type="html"><![CDATA[SNS 게시물에 좋아요 누르고, 공유하고, 댓글을 달아 달라는 뜻.]]></content>
+        <updated>2022-08-09T04:52:17.953Z</updated>
+        <content type="html"><![CDATA['총 공격'의 줄임말. 팬들의 단체 행동.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온클]]></title>
+        <title type="html"><![CDATA[한줌단]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T04:01:45.811Z</updated>
-        <content type="html"><![CDATA[‘온라인 클래스’의 줄임말.]]></content>
+        <updated>2022-08-09T04:52:17.954Z</updated>
+        <content type="html"><![CDATA[다 모아도 한 줌이 될 것 같은 적은 수의 집단을 부르는 말. MZ세대가 비주류를 지칭할 때 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈마]]></title>
+        <title type="html"><![CDATA[대란]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T04:01:45.812Z</updated>
-        <content type="html"><![CDATA[홈페이지 마스터의 줄임말. 아이돌 팬 페이지를 운영하며, 고화질 카메라로 아이돌 스케줄 사진과 동영상을 찍는 팬을 의미함.]]></content>
+        <updated>2022-08-09T04:52:17.955Z</updated>
+        <content type="html"><![CDATA[큰 난리가 일어났다는 뜻. 어떤 물건이 너무 인기가 많아서 구하지 못해 난리인 현상에 주로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스불재]]></title>
+        <title type="html"><![CDATA[임플로이언서]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T04:01:45.813Z</updated>
-        <content type="html"><![CDATA[‘스스로 불러온 재앙에 짓눌려’의 준말. 노래 Lazenca, save us에서 탄생한 밈.]]></content>
+        <updated>2022-08-09T04:52:17.956Z</updated>
+        <content type="html"><![CDATA[Employee+Influencer. 직원으로서 기업의 브랜딩과 이미지에 영향력을 미치는 존재.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알파 세대]]></title>
+        <title type="html"><![CDATA[재질]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-09T04:01:45.815Z</updated>
-        <content type="html"><![CDATA[2010년 이후 출생자, 즉 Z세대 이후 세대를 부르는 말.]]></content>
+        <updated>2022-08-09T04:52:17.957Z</updated>
+        <content type="html"><![CDATA[느낌, 톤, 성향을 이르는 MZ세대 유행어.]]></content>
     </entry>
 </feed>
