@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-08-14T07:19:28.461Z</updated>
+    <updated>2022-08-14T08:25:00.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[미슐랭]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-14T07:19:21.030Z</updated>
-        <content type="html"><![CDATA[특정 대상을 칭찬할 때 쓰이는 ‘OO 맛집이다’라는 표현이 변형된 버전. ex) “캐릿 트렌드 미슐랭이네”]]></content>
+        <updated>2022-08-14T08:24:51.988Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[별다꾸]]></title>
+        <title type="html"><![CDATA[FOMO]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-14T07:19:21.031Z</updated>
-        <content type="html"><![CDATA[다이어리부터 폴라로이드, 신발, 스마트폰 배경화면까지 별걸 다 꾸미는 MZ세대의 특징을 나타내는 말.]]></content>
+        <updated>2022-08-14T08:24:51.993Z</updated>
+        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밸런스 게임]]></title>
+        <title type="html"><![CDATA[레딧]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-14T07:19:21.032Z</updated>
-        <content type="html"><![CDATA[쉽게 고를 수 없는 두 가지 상황을 제시하고, 뭐가 더 나은지 선택하는 게임. 용례: 카레맛 똥 VS 똥맛 카레]]></content>
+        <updated>2022-08-14T08:24:51.995Z</updated>
+        <content type="html"><![CDATA[미국에서 만들어진 커뮤니티 사이트로 해외 MZ세대가 즐겨찾음. 주제별 게시판인 ‘서브레딧’이 따로 있는 것이 특징.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[손댄스]]></title>
+        <title type="html"><![CDATA[가상 데스크톱 서비스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-14T07:19:21.032Z</updated>
-        <content type="html"><![CDATA[노래에 맞춰 손 모양으로 안무하는 것을 말함. 주로 ‘틱톡’에서 유행하고 있음.]]></content>
+        <updated>2022-08-14T08:24:51.996Z</updated>
+        <content type="html"><![CDATA[PC 환경을 온라인에 구축해 어디서든 접속할 수 있게 하는 서비스.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공구]]></title>
+        <title type="html"><![CDATA[린스타]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-14T07:19:21.033Z</updated>
-        <content type="html"><![CDATA[공동구매의 줄임말. 유튜버나 인플루언서가 기성 브랜드 제품을 홍보하고, 공동구매 방식으로 판매까지 유도하는 마케팅 수단.]]></content>
+        <updated>2022-08-14T08:24:51.998Z</updated>
+        <content type="html"><![CDATA[진짜 계정. ‘Real Instagram’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카공족]]></title>
+        <title type="html"><![CDATA[갓성비]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-14T07:19:21.034Z</updated>
-        <content type="html"><![CDATA[카페에서 공부하는 사람들을 일컫는 말.]]></content>
+        <updated>2022-08-14T08:24:52.001Z</updated>
+        <content type="html"><![CDATA[대단한 존재를 ‘갓(god)+OO’이라고 부르는 MZ세대의 언어 습관에서 유래된 말로, 가성비를 뛰어넘는 혜택을 느낄 때 쓰는 말.]]></content>
     </entry>
 </feed>
