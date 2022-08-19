@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-08-19T10:27:11.714Z</updated>
+    <updated>2022-08-19T11:19:13.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[라떼]]></title>
+        <title type="html"><![CDATA[그라폴리오]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-19T10:27:03.770Z</updated>
-        <content type="html"><![CDATA[기성세대가 입 버릇처럼 말하는 “나 때는 말이야~”를 풍자하는 표현으로 “라떼는 말이야”가 탄생함. 즉, 라떼는 기성세대를 뜻함.]]></content>
+        <updated>2022-08-19T11:19:05.492Z</updated>
+        <content type="html"><![CDATA[네이버의 웹서비스 중 하나로 전 세계 크리에이터들의 작품을 발견, 공유하고 사고팔 수 있는 창작 콘텐츠 커뮤니티.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[할매니얼]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-19T10:27:03.770Z</updated>
-        <content type="html"><![CDATA[‘할매’와 ‘밀레니얼’ 세대의 합성어. 레트로 취향의 음식과 패션을 선호하는 밀레니얼 세대를 의미.]]></content>
+        <updated>2022-08-19T11:19:05.493Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구독팟]]></title>
+        <title type="html"><![CDATA[버블]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-19T10:27:03.771Z</updated>
-        <content type="html"><![CDATA[‘구독 파티원’의 줄임말. 구독료를 1/N 내고 사용하기 위해 여러 명이서 구독 서비스를 신청하는 MZ세대 문화를 나타냄.]]></content>
+        <updated>2022-08-19T11:19:05.497Z</updated>
+        <content type="html"><![CDATA[스타와 마치 1:1 메시지를 주고받는 것처럼 소통할 수 있게 만들어진 프라이빗 메시지 앱. 유료로 이용이 가능하며 아이돌 팬덤이 활발하게 이용하는 서비스로 유명함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인쇼]]></title>
+        <title type="html"><![CDATA[Z세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-19T10:27:03.772Z</updated>
-        <content type="html"><![CDATA[‘인터넷 쇼핑’의 줄임말.]]></content>
+        <updated>2022-08-19T11:19:05.501Z</updated>
+        <content type="html"><![CDATA[1996년 이후 출생~2000년대 중후반 출생자.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[망상]]></title>
+        <title type="html"><![CDATA[긱 이코노미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-19T10:27:03.774Z</updated>
-        <content type="html"><![CDATA[좋아하는 연예인을 가지고 특정 상황을 설정해 상상하며 노는 것.]]></content>
+        <updated>2022-08-19T11:19:05.502Z</updated>
+        <content type="html"><![CDATA[Gig Economy. 기업들이 필요에 따라 단기 계약직이나 임시직으로 인력을 충원하고 그 대가를 지불하는 형태의 경제.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안읽씹]]></title>
+        <title type="html"><![CDATA[취뽀]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-19T10:27:03.776Z</updated>
-        <content type="html"><![CDATA[메시지를 읽지도 않고 답장도 하지 않는 경우를 일컫는 표현.]]></content>
+        <updated>2022-08-19T11:19:05.503Z</updated>
+        <content type="html"><![CDATA[‘취업 뽀개기’의 줄임말. 취업에 성공했을 때 ‘취뽀했다’라고 함.]]></content>
     </entry>
 </feed>
