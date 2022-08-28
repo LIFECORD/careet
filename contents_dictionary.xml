@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-08-28T18:26:08.249Z</updated>
+    <updated>2022-08-28T19:18:07.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[도믿맨]]></title>
+        <title type="html"><![CDATA[구독팟]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-28T18:26:00.284Z</updated>
-        <content type="html"><![CDATA[‘도를 아십니까’라는 말과 함께 전도하려는 사람들을 뜻하는 말.]]></content>
+        <updated>2022-08-28T19:17:59.541Z</updated>
+        <content type="html"><![CDATA[‘구독 파티원’의 줄임말. 구독료를 1/N 내고 사용하기 위해 여러 명이서 구독 서비스를 신청하는 MZ세대 문화를 나타냄.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[본캐]]></title>
+        <title type="html"><![CDATA[덕력]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-28T18:26:00.284Z</updated>
-        <content type="html"><![CDATA[‘본래의 캐릭터’의 줄임말.]]></content>
+        <updated>2022-08-28T19:17:59.542Z</updated>
+        <content type="html"><![CDATA[덕후+力(힘)의 합성어로, 팬심이 깊은 사람에게 덕력이 높다는 표현을 씀.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팡인]]></title>
+        <title type="html"><![CDATA[비건]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-28T18:26:00.285Z</updated>
-        <content type="html"><![CDATA[‘광인’을 야민정음 방식으로 표기한 것. 특정 일에 미친듯이 몰두하는 사람을 지칭함.]]></content>
+        <updated>2022-08-28T19:17:59.544Z</updated>
+        <content type="html"><![CDATA[원래는 채식주의 중에서도 가장 엄격한 단계를 뜻하는 단어지만, 요즘은 철학적인 이유로 동물성 식품을 섭취하지 않는 사람들을 통칭해 ‘비건’이라고 부르는 경우가 많음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[굿즈]]></title>
+        <title type="html"><![CDATA[팅글]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-28T18:26:00.286Z</updated>
-        <content type="html"><![CDATA[원래 연예인과 관련된 사진, 포토카드, 응원봉 등의 제품을 뜻했으나, 최근엔 ‘한정판으로 출시되는 매력적인 아이템’을 통칭하는 단어로 자리잡음.]]></content>
+        <updated>2022-08-28T19:17:59.545Z</updated>
+        <content type="html"><![CDATA['기분 좋은 소름'을 뜻하는 ASMR 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋댓공]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-28T18:26:00.289Z</updated>
-        <content type="html"><![CDATA[SNS 게시물에 좋아요 누르고, 공유하고, 댓글을 달아 달라는 뜻.]]></content>
+        <updated>2022-08-28T19:17:59.546Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민경버스]]></title>
+        <title type="html"><![CDATA[가챠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-28T18:26:00.290Z</updated>
-        <content type="html"><![CDATA[개그우먼 ‘김민경’과 ‘유니버스’의 합성어. ‘하하버스’의 뒤를 잇는 세계관으로 ‘그냥 하면 다 잘하는데, 정작 본인은 모르는 채로 살아온 세계관’을 뜻함.]]></content>
+        <updated>2022-08-28T19:17:59.548Z</updated>
+        <content type="html"><![CDATA[확률형 아이템 뽑기 시스템을 지칭하는 게임 용어.]]></content>
     </entry>
 </feed>
