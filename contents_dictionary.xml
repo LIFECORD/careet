@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-08-30T15:24:15.129Z</updated>
+    <updated>2022-08-30T16:33:07.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[리퍼브]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-30T15:24:06.785Z</updated>
-        <content type="html"><![CDATA[반품됐거나, 외관상 약간의 흠집 또는 하자가 있어 정상가로 판매하지 못하는 제품.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씽크빅]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-30T15:24:06.785Z</updated>
-        <content type="html"><![CDATA[학습지 이름 ‘씽크빅’에서 유래한 표현. 창의력이 뛰어난 대상을 칭찬할 때 쓰인다. “어릴 때 씽크빅 좀 했나 봐?”라는 문장에서 파생돼 “오, 씽크빅!”같은 감탄사로도 쓰임.]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[내돈내산]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-30T15:24:06.789Z</updated>
+        <updated>2022-08-30T16:32:58.760Z</updated>
         <content type="html"><![CDATA[‘내 돈으로 내가 산’의 줄임말. 주로 제품 리뷰를 할 때 광고가 아니라는 것을 강조하기 위해 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무배]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-30T15:24:06.789Z</updated>
-        <content type="html"><![CDATA[무료배송의 줄임말.]]></content>
+        <updated>2022-08-30T16:32:58.760Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폴꾸]]></title>
+        <title type="html"><![CDATA[FOMO]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-30T15:24:06.791Z</updated>
-        <content type="html"><![CDATA[폴라로이드 꾸미기, 포토카드를 폴라로이드 형태로 인쇄해서 꾸미는 것.]]></content>
+        <updated>2022-08-30T16:32:58.762Z</updated>
+        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[띵 소비]]></title>
+        <title type="html"><![CDATA[직관]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-08-30T15:24:06.792Z</updated>
-        <content type="html"><![CDATA[이미 소분된 제품을 구매하거나, 대용량 제품을 구입해서 여러 사람과 셀프로 나누는 소비 방식.]]></content>
+        <updated>2022-08-30T16:32:58.766Z</updated>
+        <content type="html"><![CDATA[직접 현장에 찾아가 운동 경기 등을 관람하는 일 ↔집관(집에서 관람)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[버실]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-08-30T16:32:58.767Z</updated>
+        <content type="html"><![CDATA[버전 실시간의 줄임말. 슬라임 영상에 상황극 음성이나 자막을 입힌 콘텐츠를 말함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구독계]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-08-30T16:32:58.768Z</updated>
+        <content type="html"><![CDATA[아무 말도 걸지 않고 그냥 상대방을 팔로해서 상대방이 쓰는 글을 보거나 리트윗만 하기 위해 이용하는 계정.]]></content>
     </entry>
 </feed>
