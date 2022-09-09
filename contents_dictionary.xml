@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-09-09T10:26:23.635Z</updated>
+    <updated>2022-09-09T11:21:04.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[공스타그램]]></title>
+        <title type="html"><![CDATA[쓸디계]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-09T10:26:15.540Z</updated>
-        <content type="html"><![CDATA[공부와 인스타그램의 합성어. 공시생이나 수험생들이 공부 관련 콘텐츠를 올리는 인스타그램 계정을 일컫는 말.]]></content>
+        <updated>2022-09-09T11:20:56.982Z</updated>
+        <content type="html"><![CDATA[3D 계정의 줄임말. 2D 애니메이션 캐릭터가 아닌, 실제 인물을 덕질하는 계정을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재질]]></title>
+        <title type="html"><![CDATA[인스타 돋보기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-09T10:26:15.542Z</updated>
-        <content type="html"><![CDATA[느낌, 톤, 성향을 이르는 MZ세대 유행어.]]></content>
+        <updated>2022-09-09T11:20:56.983Z</updated>
+        <content type="html"><![CDATA[인스타그램 검색 탭을 일컫는 말. 인스타그램 알고리즘을 이용해 검색바 하단에 추천 콘텐츠를 보여줌. MZ세대가 시간 때울 때 주로 이용하는 기능.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넘사벽]]></title>
+        <title type="html"><![CDATA[카공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-09T10:26:15.542Z</updated>
-        <content type="html"><![CDATA[넘을 수 없는 4차원의 벽의 줄임말. 대상과 거리감이 많이 느껴질 때 주로 사용함.]]></content>
+        <updated>2022-09-09T11:20:56.984Z</updated>
+        <content type="html"><![CDATA[카페에서 공부하는 것의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[데스크테리어]]></title>
+        <title type="html"><![CDATA[혜자]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-09T10:26:15.543Z</updated>
-        <content type="html"><![CDATA[데스크(Desk)+인테리어(Interior)의 합성어. 책상을 꾸미는 것을 뜻함.]]></content>
+        <updated>2022-09-09T11:20:56.985Z</updated>
+        <content type="html"><![CDATA[가성비가 좋다, 넉넉하고 인심이 후하다는 뜻. 배우 김혜자가 모델이었던 편의점 도시락이 가성비가 좋았던 것에서 유래함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[케미]]></title>
+        <title type="html"><![CDATA[국뽕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-09T10:26:15.544Z</updated>
-        <content type="html"><![CDATA[‘chemistry’를 줄인 한국식 영어 표현. 사람 사이의 궁합이나 호흡을 지칭하는 신조어임.]]></content>
+        <updated>2022-09-09T11:20:56.986Z</updated>
+        <content type="html"><![CDATA[부정적 어감으로 들리지만, 요즘 MZ세대가 쓰는 국뽕은 K팝과 한류의 성공으로 ‘국가에 대한 자긍심에 푹 빠짐’을 뜻하는 긍정적인 표현으로 쓰이고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오픈런]]></title>
+        <title type="html"><![CDATA[그린 워싱(Green washing)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-09T10:26:15.545Z</updated>
-        <content type="html"><![CDATA[특정 상품을 구하기 위해 매장 오픈 시간 전에 줄을 서서 대기하는 행위. 공연계에서 쓰는 ‘오픈런’과는 다른 뜻.]]></content>
+        <updated>2022-09-09T11:20:56.988Z</updated>
+        <content type="html"><![CDATA[실제론 친환경이 아닌데 친환경인 척 광고하는 것.]]></content>
     </entry>
 </feed>
