@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-09-19T12:50:42.774Z</updated>
+    <updated>2022-09-19T13:55:43.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[찐]]></title>
+        <title type="html"><![CDATA[별다꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-19T12:50:35.546Z</updated>
-        <content type="html"><![CDATA[‘진짜’를 뜻하는 접두어. ‘찐팬’, ‘찐사랑’ 등 진심을 강조하고 싶을 때 쓰임.]]></content>
+        <updated>2022-09-19T13:55:35.215Z</updated>
+        <content type="html"><![CDATA[다이어리부터 폴라로이드, 신발, 스마트폰 배경화면까지 별걸 다 꾸미는 MZ세대의 특징을 나타내는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스낵커블(snackable)]]></title>
+        <title type="html"><![CDATA[불판]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-19T12:50:35.547Z</updated>
-        <content type="html"><![CDATA[‘쉽고 빠르게 소비할 수 있는’이란 뜻.]]></content>
+        <updated>2022-09-19T13:55:35.216Z</updated>
+        <content type="html"><![CDATA[하나의 게시물 안에서 주제를 정해놓고 댓글로 의견을 주고받는 커뮤니티 문화.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킹정]]></title>
+        <title type="html"><![CDATA[많관부]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-19T12:50:35.547Z</updated>
-        <content type="html"><![CDATA[King +‘인정’의 합성어. 강한 인정을 의미함]]></content>
+        <updated>2022-09-19T13:55:35.217Z</updated>
+        <content type="html"><![CDATA[‘많은 관심 부탁드립니다’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[굿즈]]></title>
+        <title type="html"><![CDATA[대전]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-19T12:50:35.548Z</updated>
-        <content type="html"><![CDATA[원래 연예인과 관련된 사진, 포토카드, 응원봉 등의 제품을 뜻했으나, 최근엔 ‘한정판으로 출시되는 매력적인 아이템’을 통칭하는 단어로 자리잡음.]]></content>
+        <updated>2022-09-19T13:55:35.217Z</updated>
+        <content type="html"><![CDATA[‘대신 전해드립니다’의 줄임말. 학교 등 한 집단의 소식을 제보 받아 대신 전하는 페이스북 페이지들을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코스프레]]></title>
+        <title type="html"><![CDATA[터프팅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-19T12:50:35.552Z</updated>
-        <content type="html"><![CDATA[‘코스튬 플레이(costume play)’의 줄임말. 게임·만화 속 캐릭터로 분장하고, 그들과 비슷한 행동을 흉내내는 것을 뜻함. 일종의 퍼포먼스라고 볼 수 있음.]]></content>
+        <updated>2022-09-19T13:55:35.218Z</updated>
+        <content type="html"><![CDATA[천에 ‘터프팅 건’으로 실을 심어서 만드는 섬유 공예. 요즘 MZ세대 사이에서 인기를 얻고 있는 취미 활동임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여름이었다]]></title>
+        <title type="html"><![CDATA[군백기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-09-19T12:50:35.553Z</updated>
-        <content type="html"><![CDATA[트위터에서 시작된 유행어. 아무 말이나 해놓고, 뒤에 '여름이었다'라는 문구만 붙이면 감성적으로 보인다는 한 트윗에서 유래해 커뮤니티로 퍼짐.]]></content>
+        <updated>2022-09-19T13:55:35.219Z</updated>
+        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
     </entry>
 </feed>
