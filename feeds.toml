@@ -7,7 +7,6 @@ linkSelector = "a"
 contentSelector = "p.txt-elp.list-desc"
 imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
-onFail = "stale"
 
 [contents_meme]
 title = "Careet ─ Contents ─ 요즘 뜨는 밈"
@@ -18,7 +17,6 @@ linkSelector = "a"
 contentSelector = "p.txt-elp.list-desc"
 imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
-onFail = "stale"
 
 [contents_zgeneration]
 title = "Careet ─ Contents ─ Z세대 최신 근황"
@@ -29,7 +27,6 @@ linkSelector = "a"
 contentSelector = "p.txt-elp.list-desc"
 imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
-onFail = "stale"
 
 [contents_brand]
 title = "Careet ─ Contents ─ 이주의 일 잘한 브랜드"
@@ -40,7 +37,6 @@ linkSelector = "a"
 contentSelector = "p.txt-elp.list-desc"
 imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
-onFail = "stale"
 
 [contents_newsclipping]
 title = "Careet ─ Contents ─ 캐릿픽 오늘의 뉴스"
@@ -52,7 +48,6 @@ contentSelector = "div.ac-info"
 dateSelector = "span.news-time"
 dateFormat = "yyyy.MM.dd"
 waitUntil = "networkidle"
-onFail = "stale"
 
 [contents_dictionary]
 title = "Careet ─ Contents ─ MZ 용어 사전"
