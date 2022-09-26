@@ -5,7 +5,6 @@ entrySelector = "ul.list-wrap.gly-list.col3 li"
 titleSelector = "p.list-tit"
 linkSelector = "a"
 contentSelector = "p.txt-elp.list-desc"
-imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
 
 [contents_meme]
@@ -15,7 +14,6 @@ entrySelector = "ul.list-wrap.gly-list.col3 li"
 titleSelector = "p.list-tit"
 linkSelector = "a"
 contentSelector = "p.txt-elp.list-desc"
-imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
 
 [contents_zgeneration]
@@ -25,7 +23,6 @@ entrySelector = "ul.list-wrap.gly-list.col3 li"
 titleSelector = "p.list-tit"
 linkSelector = "a"
 contentSelector = "p.txt-elp.list-desc"
-imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
 
 [contents_brand]
@@ -35,7 +32,6 @@ entrySelector = "ul.list-wrap.gly-list.col3 li"
 titleSelector = "p.list-tit"
 linkSelector = "a"
 contentSelector = "p.txt-elp.list-desc"
-imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
 
 [contents_newsclipping]
@@ -65,5 +61,4 @@ entrySelector = "ul.list-wrap.gly-list.col4 li"
 titleSelector = "p.list-tit"
 linkSelector = "a"
 contentSelector = "p.list-date span:nth-child(1)"
-imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
