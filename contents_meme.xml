@@ -2,7 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/1</id>
     <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
-    <updated>2022-11-16T16:35:31.653Z</updated>
+    <updated>2022-11-16T18:28:45.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 Z세대가 상대방을 칭찬하는 법? ‘김민재 굉장하다’]]></title>
+        <id>https://www.careet.net/920</id>
+        <link href="https://www.careet.net/920"/>
+        <updated>2022-11-16T18:28:06.949Z</updated>
+        <content type="html"><![CDATA[스포츠 팬, 게임 유저들이 자주 사용하는 유행어!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘내봬누’가 무슨 뜻? 나만 안 보는 <환승연애2> 과외해 드림]]></title>
+        <id>https://www.careet.net/901</id>
+        <link href="https://www.careet.net/901"/>
+        <updated>2022-11-16T18:28:06.949Z</updated>
+        <content type="html"><![CDATA[티빙이 &lt;환승연애2&gt; 클립 영상을 200개나 만든 이유]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아재 개그 유행이 돌아왔다? Z세대가 써먹는 말장난 밈 (feat. 어라랍스타~?)]]></title>
+        <id>https://www.careet.net/887</id>
+        <link href="https://www.careet.net/887"/>
+        <updated>2022-11-16T18:28:06.951Z</updated>
+        <content type="html"><![CDATA[‘에스파’ 윈터도 사용했다는 이 유행어의 유래는?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당장 써먹을 수 있는 주접 밈 모음]]></title>
+        <id>https://www.careet.net/882</id>
+        <link href="https://www.careet.net/882"/>
+        <updated>2022-11-16T18:28:06.952Z</updated>
+        <content type="html"><![CDATA[1분 컷! 오늘 치 주접 고민 덜어가세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브랜드 SNS 계정도 주목하게 만드는 Z세대발 ‘강조 밈’ 3]]></title>
+        <id>https://www.careet.net/863</id>
+        <link href="https://www.careet.net/863"/>
+        <updated>2022-11-16T18:28:06.955Z</updated>
+        <content type="html"><![CDATA[클릭하면 (여기서부터 중요함) 정퇴할 수 있음]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 3분기 신조어, 유행어 모음(트능 예상 문제!)]]></title>
+        <id>https://www.careet.net/841</id>
+        <link href="https://www.careet.net/841"/>
+        <updated>2022-11-16T18:28:06.957Z</updated>
+        <content type="html"><![CDATA[요즘 Z세대가 쓰는 유행어 5]]></content>
+    </entry>
 </feed>
