@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/2</id>
     <title>Careet ─ Contents ─ Z세대 최신 근황</title>
-    <updated>2022-11-17T01:49:32.721Z</updated>
+    <updated>2022-11-17T03:16:13.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Z세대에게 먹히는 키워드? K-POP 가사에 답이 있다!]]></title>
+        <id>https://www.careet.net/937</id>
+        <link href="https://www.careet.net/937"/>
+        <updated>2022-11-17T03:15:39.890Z</updated>
+        <content type="html"><![CDATA[사회적인 편견을 깨는 가사에 주목하는 Z세대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호텔에서 운동만 하고 나온다고? 반캉스 즐기는 Z세대 근황]]></title>
         <id>https://www.careet.net/899</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/873"/>
         <updated>2022-11-16T18:28:15.281Z</updated>
         <content type="html"><![CDATA[1020이 호캉스 대신 가는 그곳은 어디?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z세대 지갑 활짝 열리게 만든 ‘콘텐츠 오마카세’가 대체 뭐야?]]></title>
-        <id>https://www.careet.net/866</id>
-        <link href="https://www.careet.net/866"/>
-        <updated>2022-11-16T18:28:15.283Z</updated>
-        <content type="html"><![CDATA[요즘 Z세대는 자신만을 위한 커스텀 굿즈 하나씩은 다 갖고 있다고?]]></content>
     </entry>
 </feed>
