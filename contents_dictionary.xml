@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-11-19T01:47:54.724Z</updated>
+    <updated>2022-11-19T03:13:04.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[먹시태그]]></title>
+        <title type="html"><![CDATA[코 세 글자]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-19T01:47:46.553Z</updated>
-        <content type="html"><![CDATA[먹다 + 해시태그(#)의 합성어. 주로 아이돌 팬들이 자신이 좋아하는 가수에게 음식을 추천해주고 싶을 때 사용함. 아이돌마다 고유의 먹시태그가 있음.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컨포]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-19T01:47:46.554Z</updated>
-        <content type="html"><![CDATA[‘컨셉 포토’의 줄임말. 아이돌 앨범에 함께 포함되어 있는 사진을 뜻함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찐텐]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-19T01:47:46.560Z</updated>
-        <content type="html"><![CDATA[‘진짜 텐션’의 줄임말. 꾸미지 않은 솔직한 분위기와 기분이 느껴진다는 뜻. 반대말은 ‘억텐(=억지 텐션)’.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스꾸]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-19T01:47:46.562Z</updated>
-        <content type="html"><![CDATA[스티커 꾸미기의 줄임말. 스티커로 무언가를 꾸미는 행위를 뜻함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이다 서사]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-19T01:47:46.564Z</updated>
-        <content type="html"><![CDATA[기승전결을 빠르게 진행하는 서사 전개 형식. 독자가 보기에 답답하거나 전개가 느린 구간이 최소화되었음을 탄산음료의 시원함에 비유한 용어.]]></content>
+        <updated>2022-11-19T03:12:57.181Z</updated>
+        <content type="html"><![CDATA[MZ세대가 코로나19를 일컫는 말. 트위터에서 ‘코로나’라는 단어를 사용하면 계정이 잠기는 일이 발생해 코로나를 대체하는 표현으로 사용되기 시작함.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-19T01:47:46.565Z</updated>
+        <updated>2022-11-19T03:12:57.185Z</updated>
         <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혜자]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-11-19T03:12:57.187Z</updated>
+        <content type="html"><![CDATA[가성비가 좋다, 넉넉하고 인심이 후하다는 뜻. 배우 김혜자가 모델이었던 편의점 도시락이 가성비가 좋았던 것에서 유래함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화력]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-11-19T03:12:57.189Z</updated>
+        <content type="html"><![CDATA[단체의 행동력. 머릿수로 결정되기 때문에 ‘화력을 모으자’는 말은 참여 인원을 최대한 모으자는 것과 같은 의미.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스밍]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-11-19T03:12:57.190Z</updated>
+        <content type="html"><![CDATA[스트리밍의 줄임말. 아이돌 팬들이 음원 사이트에서 응원하는 가수의 노래를 차트 1위로 만들어주기 위해 반복해서 듣는 것을 ‘스밍 돌린다’고 표현함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서이추]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-11-19T03:12:57.191Z</updated>
+        <content type="html"><![CDATA[‘서로 이웃 추가’의 줄임말. 네이버 블로그에서 쓰이는 용어.]]></content>
     </entry>
 </feed>
