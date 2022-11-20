@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-11-20T15:20:54.758Z</updated>
+    <updated>2022-11-20T16:29:16.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어그로(aggro)]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2022-11-20T16:29:08.214Z</updated>
+        <content type="html"><![CDATA[상대의 관심을 끌거나 도발하기 위해 자극적인 행동을 하는 것을 뜻하는 인터넷 용어.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐릿 1020 자문단]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-20T15:20:47.148Z</updated>
+        <updated>2022-11-20T16:29:08.219Z</updated>
         <content type="html"><![CDATA[10대 50여 명, 20대(27세 이하) 100여 명으로 구성된 캐릿의 트렌드 자문 그룹. MZ세대만 아는 문화, 유행을 발 빠르게 전하는 역할을 맡고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[버실]]></title>
+        <title type="html"><![CDATA[일코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-20T15:20:47.150Z</updated>
-        <content type="html"><![CDATA[버전 실시간의 줄임말. 슬라임 영상에 상황극 음성이나 자막을 입힌 콘텐츠를 말함.]]></content>
+        <updated>2022-11-20T16:29:08.220Z</updated>
+        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팬튜브]]></title>
+        <title type="html"><![CDATA[아이패드 병]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-20T15:20:47.151Z</updated>
-        <content type="html"><![CDATA[팬이 운영하는 유튜브 계정. 특정 아이돌이나 배우가 출연한 콘텐츠를 2차 가공한 영상을 업로드함.]]></content>
+        <updated>2022-11-20T16:29:08.222Z</updated>
+        <content type="html"><![CDATA[아이패드가 갖고 싶어 생긴 병. 아이패드를 사야만 완치가 가능하다고 알려짐. (※ 진짜로 아픈 거 아님 주의)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FOMO]]></title>
+        <title type="html"><![CDATA[어사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-20T15:20:47.153Z</updated>
-        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
+        <updated>2022-11-20T16:29:08.223Z</updated>
+        <content type="html"><![CDATA[어색한 사이의 줄임말↔찐친]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리젠]]></title>
+        <title type="html"><![CDATA[넘사벽]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-20T15:20:47.156Z</updated>
-        <content type="html"><![CDATA[‘regeneration(부활)’의 줄임말로, 게임에서 몬스터가 죽고난 뒤 다시 나타나는 것을 뜻한다. 통상적으로는 ‘새로운 게시물이 업로드 되었다’라는 의미로 쓰임.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알못]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-20T15:20:47.158Z</updated>
-        <content type="html"><![CDATA[어떤 분야에 대해 잘 알지 못하는 사람을 부르는 말↔잘알]]></content>
+        <updated>2022-11-20T16:29:08.226Z</updated>
+        <content type="html"><![CDATA[넘을 수 없는 4차원의 벽의 줄임말. 대상과 거리감이 많이 느껴질 때 주로 사용함.]]></content>
     </entry>
 </feed>
