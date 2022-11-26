@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-11-26T10:19:45.557Z</updated>
+    <updated>2022-11-26T11:16:18.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[폰]]></title>
+        <title type="html"><![CDATA[국뽕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-26T10:19:38.123Z</updated>
-        <content type="html"><![CDATA[MZ세대가 ‘가짜’를 표현할 때 쓰는 접두어. ex) 폰여행=가짜 여행, 폰콘서트=가짜 콘서트]]></content>
+        <updated>2022-11-26T11:16:10.002Z</updated>
+        <content type="html"><![CDATA[부정적 어감으로 들리지만, 요즘 MZ세대가 쓰는 국뽕은 K팝과 한류의 성공으로 ‘국가에 대한 자긍심에 푹 빠짐’을 뜻하는 긍정적인 표현으로 쓰이고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혼사]]></title>
+        <title type="html"><![CDATA[캐해석]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-26T10:19:38.123Z</updated>
-        <content type="html"><![CDATA[‘혼자 사진 찍는다’의 줄임말. 인생네컷, 포토이즘 등의 포토부스에서 혼자 N컷 사진을 촬영하는 것을 뜻함.]]></content>
+        <updated>2022-11-26T11:16:10.003Z</updated>
+        <content type="html"><![CDATA[캐릭터 해석의 줄임말. 특정 인물을 분석해 나름의 이미지를 설정하는 일을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공답]]></title>
+        <title type="html"><![CDATA[뽀시래기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-26T10:19:38.124Z</updated>
-        <content type="html"><![CDATA[공개 답변의 줄임말. 제품의 정보를 묻고 답할 때 사용함.]]></content>
+        <updated>2022-11-26T11:16:10.005Z</updated>
+        <content type="html"><![CDATA[부스러기처럼 작고 귀엽다는 뜻의 MZ세대식 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디지털 굿즈]]></title>
+        <title type="html"><![CDATA[브이로그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-26T10:19:38.129Z</updated>
-        <content type="html"><![CDATA[휴대폰·아이패드 배경화면, 카카오톡 테마 등 모바일 환경에 적용해서 사용할 수 있는 템플릿. 실물 굿즈가 아닌 온라인에서 배포할 수 있다는 점이 특징.]]></content>
+        <updated>2022-11-26T11:16:10.006Z</updated>
+        <content type="html"><![CDATA[브이로그(v-log): 비디오(video)와 블로그(blog)의 합성어. 자신의 일상을 영상으로 촬영한 콘텐츠를 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일코]]></title>
+        <title type="html"><![CDATA[앱테크]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-26T10:19:38.130Z</updated>
-        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
+        <updated>2022-11-26T11:16:10.008Z</updated>
+        <content type="html"><![CDATA[앱+재테크의 합성어. 앱 안에서 특정 활동을 해 포인트를 쌓는 것]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가챠]]></title>
+        <title type="html"><![CDATA[RT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-11-26T10:19:38.131Z</updated>
-        <content type="html"><![CDATA[확률형 아이템 뽑기 시스템을 지칭하는 게임 용어.]]></content>
+        <updated>2022-11-26T11:16:10.010Z</updated>
+        <content type="html"><![CDATA[‘리트윗(ReTweet)’의 약자. 트위터에서 다른 계정의 게시물을 자신의 계정에 공유하는 기능을 의미함.]]></content>
     </entry>
 </feed>
