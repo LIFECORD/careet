@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/3</id>
     <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2022-11-27T23:20:37.252Z</updated>
+    <updated>2022-11-28T01:38:36.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[담당자 일 잘하네! 높은 브랜딩 효과를 본 오프라인 공간2]]></title>
+        <id>https://www.careet.net/947</id>
+        <link href="https://www.careet.net/947"/>
+        <updated>2022-11-28T01:38:14.046Z</updated>
+        <content type="html"><![CDATA[이 주의 일 잘한 브랜드: GS25, 아모레퍼시픽]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Z세대는 ‘비하인드 스토리’가 있는 광고에 반응한다? 영상 광고 레퍼런스 3]]></title>
         <id>https://www.careet.net/940</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/903"/>
         <updated>2022-11-16T18:28:23.854Z</updated>
         <content type="html"><![CDATA[최신 유튜브 광고 레퍼런스 보고 가세요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 하면 젊은 브랜드가 될 수 있을까? ‘리브랜딩’ 레퍼런스 2]]></title>
-        <id>https://www.careet.net/888</id>
-        <link href="https://www.careet.net/888"/>
-        <updated>2022-11-16T18:28:23.856Z</updated>
-        <content type="html"><![CDATA[‘엄마 화장품’으로 통하던 설화수가 Z세대 사이에서 인지도 높인 이유]]></content>
     </entry>
 </feed>
