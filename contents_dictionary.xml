@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-12-03T08:23:21.608Z</updated>
+    <updated>2022-12-03T09:18:12.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[포카 슬리브]]></title>
+        <title type="html"><![CDATA[넘사벽]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-03T08:23:13.973Z</updated>
-        <content type="html"><![CDATA[포토카드 사이즈로 제작된 얇은 포장용 비닐.]]></content>
+        <updated>2022-12-03T09:18:04.899Z</updated>
+        <content type="html"><![CDATA[넘을 수 없는 4차원의 벽의 줄임말. 대상과 거리감이 많이 느껴질 때 주로 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[떡메]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-03T08:23:13.975Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+        <updated>2022-12-03T09:18:04.900Z</updated>
+        <content type="html"><![CDATA[떡메모지의 줄임말. 상단이 본드로 제본된 메모지를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저메추]]></title>
+        <title type="html"><![CDATA[긱 이코노미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-03T08:23:13.978Z</updated>
-        <content type="html"><![CDATA[‘저녁 메뉴 추천’의 줄임말. 뭘 먹으면 좋을지 상대에게 메뉴를 추천 받을 때 사용함. 비슷한 용어로 ‘점메추(점심 메뉴 추천)’가 있음.]]></content>
+        <updated>2022-12-03T09:18:04.902Z</updated>
+        <content type="html"><![CDATA[Gig Economy. 기업들이 필요에 따라 단기 계약직이나 임시직으로 인력을 충원하고 그 대가를 지불하는 형태의 경제.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장비병]]></title>
+        <title type="html"><![CDATA[스밍]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-03T08:23:13.980Z</updated>
-        <content type="html"><![CDATA[무언가를 시작할 때 필요한 장비부터 구입하는 장비 덕후를 뜻하는 말.]]></content>
+        <updated>2022-12-03T09:18:04.902Z</updated>
+        <content type="html"><![CDATA[스트리밍의 줄임말. 아이돌 팬들이 음원 사이트에서 응원하는 가수의 노래를 차트 1위로 만들어주기 위해 반복해서 듣는 것을 ‘스밍 돌린다’고 표현함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자컨]]></title>
+        <title type="html"><![CDATA[시드 머니]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-03T08:23:13.982Z</updated>
-        <content type="html"><![CDATA[‘자체 제작 컨텐츠’의 줄임말. 방송사가 아닌 K-POP 기획사가 직접 만든 소속 아이돌의 리얼리티 영상을 말함.]]></content>
+        <updated>2022-12-03T09:18:04.903Z</updated>
+        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무물]]></title>
+        <title type="html"><![CDATA[알못]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-03T08:23:13.994Z</updated>
-        <content type="html"><![CDATA['무엇이든 물어보세요'의 줄임말. 문답을 주고 받는, MZ세대가 SNS에서 즐기는 놀이.]]></content>
+        <updated>2022-12-03T09:18:04.907Z</updated>
+        <content type="html"><![CDATA[어떤 분야에 대해 잘 알지 못하는 사람을 부르는 말↔잘알]]></content>
     </entry>
 </feed>
