@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-12-08T18:23:08.145Z</updated>
+    <updated>2022-12-08T19:15:24.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[언팔]]></title>
+        <title type="html"><![CDATA[아트 테크]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-08T18:23:00.786Z</updated>
-        <content type="html"><![CDATA[‘언팔로우(Unfollow)’의 줄임말. 팔로우를 취소하여 더이상 게시물을 받아보지 않는다는 뜻.]]></content>
+        <updated>2022-12-08T19:15:17.576Z</updated>
+        <content type="html"><![CDATA[‘아트’와 ‘재테크’의 합성어. 미술 작품, 음악 저작권 등 다양한 예술 분야에 자산을 투자하는 방식을 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Z세대]]></title>
+        <title type="html"><![CDATA[좋댓공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-08T18:23:00.786Z</updated>
-        <content type="html"><![CDATA[1996년 이후 출생~2010년대 초반 출생자.]]></content>
+        <updated>2022-12-08T19:15:17.578Z</updated>
+        <content type="html"><![CDATA[SNS 게시물에 좋아요 누르고, 공유하고, 댓글을 달아 달라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국룰]]></title>
+        <title type="html"><![CDATA[먹금]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-08T18:23:00.787Z</updated>
-        <content type="html"><![CDATA[국민 룰의 줄임말. 보편적으로 통용되는 규칙 혹은 유행이라는 뜻.]]></content>
+        <updated>2022-12-08T19:15:17.578Z</updated>
+        <content type="html"><![CDATA[‘먹이 금지’의 줄임말. 대꾸하지 않고 무시하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[플미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-08T18:23:00.789Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+        <updated>2022-12-08T19:15:17.579Z</updated>
+        <content type="html"><![CDATA[‘프리미엄’의 줄임말. 주로 희소성있는 제품이 판매가보다 비싸게 거래될 때 ‘플미붙었다’고 표현함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[래플]]></title>
+        <title type="html"><![CDATA[무물]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-08T18:23:00.791Z</updated>
-        <content type="html"><![CDATA[당첨자에게 한정판 상품을 구매할 권리를 주는 판매 방식. 이 방식을 활용하는 브랜드로는 대표적으로 나이키가 있음.]]></content>
+        <updated>2022-12-08T19:15:17.580Z</updated>
+        <content type="html"><![CDATA['무엇이든 물어보세요'의 줄임말. 문답을 주고 받는, MZ세대가 SNS에서 즐기는 놀이.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[떡밥]]></title>
+        <title type="html"><![CDATA[OOTD]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-08T18:23:00.791Z</updated>
-        <content type="html"><![CDATA[이야깃거리, 특히 덕질할 거리를 뜻하는 MZ세대 용어.]]></content>
+        <updated>2022-12-08T19:15:17.580Z</updated>
+        <content type="html"><![CDATA[‘Outfit Of The Day’의 줄임말. 데일리룩을 올릴 때 사용하는 해시태그.]]></content>
     </entry>
 </feed>
