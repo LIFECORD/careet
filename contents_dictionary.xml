@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-12-13T23:19:54.404Z</updated>
+    <updated>2022-12-14T01:27:03.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[킹받는다]]></title>
+        <title type="html"><![CDATA[갓겜]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-13T23:19:46.797Z</updated>
-        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
+        <updated>2022-12-14T01:26:55.444Z</updated>
+        <content type="html"><![CDATA[God + Game. 잘 만든 게임을 칭찬할 때 쓰는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타그래머블]]></title>
+        <title type="html"><![CDATA[닥눈삼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-13T23:19:46.798Z</updated>
-        <content type="html"><![CDATA[인스타그램(Instagram)에 올릴만 하다(able)는 의미.]]></content>
+        <updated>2022-12-14T01:26:55.446Z</updated>
+        <content type="html"><![CDATA[‘닥치고 눈팅 삼년’의 줄임말. 주로 커뮤니티 유저들 사이에서 사용되는 용어로, 처음 커뮤니티 활동을 시작할 때 규칙이나 분위기를 충분히 파악하고 활동하라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쓸디계]]></title>
+        <title type="html"><![CDATA[탑꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-13T23:19:46.799Z</updated>
-        <content type="html"><![CDATA[3D 계정의 줄임말. 2D 애니메이션 캐릭터가 아닌, 실제 인물을 덕질하는 계정을 일컫는 말.]]></content>
+        <updated>2022-12-14T01:26:55.447Z</updated>
+        <content type="html"><![CDATA[탑로더 꾸미기의 줄임말. 포토 카드 케이스를 꾸미는 걸 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타툰]]></title>
+        <title type="html"><![CDATA[갓기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-13T23:19:46.800Z</updated>
-        <content type="html"><![CDATA[인스타그램에 연재되는 만화(Cartoon)의 줄임말.]]></content>
+        <updated>2022-12-14T01:26:55.450Z</updated>
+        <content type="html"><![CDATA[God + 아기. 나이가 어리면서 뛰어난 실력을 가진 사람을 칭찬하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐릿 1020 해외 특파원]]></title>
+        <title type="html"><![CDATA[저메추]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-13T23:19:46.802Z</updated>
-        <content type="html"><![CDATA[1020으로 구성된 캐릿의 해외 트렌드 자문 그룹. 해외 각국의 Z세대 트렌드를 발 빠르게 전하는 역할을 맡고 있음.]]></content>
+        <updated>2022-12-14T01:26:55.452Z</updated>
+        <content type="html"><![CDATA[‘저녁 메뉴 추천’의 줄임말. 뭘 먹으면 좋을지 상대에게 메뉴를 추천 받을 때 사용함. 비슷한 용어로 ‘점메추(점심 메뉴 추천)’가 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[타래]]></title>
+        <title type="html"><![CDATA[틱톡커]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-13T23:19:46.805Z</updated>
-        <content type="html"><![CDATA[트위터 기능 중 하나. 답변을 달며 묶음 트윗을 할 수 있음. 주로 긴 정보를 전달할 때 쓰임.]]></content>
+        <updated>2022-12-14T01:26:55.454Z</updated>
+        <content type="html"><![CDATA[틱톡(Tik Tok)에 영상을 찍어 올리는 유저를 일컫는 말. (유사어: 유튜버, 인스타그래머)]]></content>
     </entry>
 </feed>
