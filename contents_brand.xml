@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/3</id>
     <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2022-12-14T23:19:45.798Z</updated>
+    <updated>2022-12-15T01:28:49.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해 가장 일 잘한 브랜드는? 브랜드 마케팅 성적표 A+ 모음]]></title>
+        <id>https://www.careet.net/964</id>
+        <link href="https://www.careet.net/964"/>
+        <updated>2022-12-15T01:28:28.353Z</updated>
+        <content type="html"><![CDATA[카테고리 별 일 잘한 브랜드 레퍼런스로 2022년을 톺아보고, 2023년 준비하기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말 시즌 마케팅! 일 잘한 브랜드 2 :네이버&롯데백화점]]></title>
         <id>https://www.careet.net/966</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/933"/>
         <updated>2022-12-02T08:23:30.243Z</updated>
         <content type="html"><![CDATA[세계 식량의 날, 점자의 날 챙기는 브랜드가 있다?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1020 유입시키는 마케팅 비결? ‘프로 스포츠팀’ 이벤트를 보면 답이 있다!]]></title>
-        <id>https://www.careet.net/928</id>
-        <link href="https://www.careet.net/928"/>
-        <updated>2022-12-02T08:23:30.246Z</updated>
-        <content type="html"><![CDATA[고인물 팬들도 감동했다는 Z세대 감각 프로모션 사례 2]]></content>
     </entry>
 </feed>
