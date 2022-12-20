@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2022-12-19T23:18:56.331Z</updated>
+    <updated>2022-12-20T01:23:32.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[편의점 왕중왕전: CU와 GS25는 어떻게 Z세대 핫플로 자리 잡게 되었을까?]]></title>
+        <id>https://www.careet.net/935</id>
+        <link href="https://www.careet.net/935"/>
+        <updated>2022-12-20T01:22:35.724Z</updated>
+        <content type="html"><![CDATA[CU와 GS25의 Z세대 타깃 마케팅 포인트 총정리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[27만 독자 PICK, 올해의 캐릿 콘텐츠 10]]></title>
         <id>https://www.careet.net/965</id>
