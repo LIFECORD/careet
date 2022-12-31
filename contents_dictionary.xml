@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2022-12-31T15:17:11.170Z</updated>
+    <updated>2022-12-31T16:23:07.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[네카라쿠배당토]]></title>
+        <title type="html"><![CDATA[이모지(Emoji)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-31T15:17:03.284Z</updated>
-        <content type="html"><![CDATA[네이버, 카카오, 라인, 배달의민족, 당근마켓, 토스 등 신흥 IT 기업을 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 떠오르는 기업들.]]></content>
+        <updated>2022-12-31T16:22:59.873Z</updated>
+        <content type="html"><![CDATA[스마트폰에서 사용하는 그림 형태의 문자.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[셧다운제]]></title>
+        <title type="html"><![CDATA[현질]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-31T15:17:03.284Z</updated>
-        <content type="html"><![CDATA[청소년의 온라인 게임 중독을 막기 위한 심야 게임 규제로, 만 16세 미만 청소년은 밤 12시부터 다음 날 오전 6시까지 온라인 게임에 접속할 수 없도록 하는 내용의 규제.]]></content>
+        <updated>2022-12-31T16:22:59.875Z</updated>
+        <content type="html"><![CDATA[유료 게임 아이템을 사는 행위를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안 고독한 채팅방]]></title>
+        <title type="html"><![CDATA[얼빡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-31T15:17:03.288Z</updated>
-        <content type="html"><![CDATA[대화가 없는 고독한 채팅방과 달리, 대화도 하며 특정 연예인의 짤(이미지)도 공유하는 카카오톡 오픈 채팅방.]]></content>
+        <updated>2022-12-31T16:22:59.875Z</updated>
+        <content type="html"><![CDATA[얼굴이 한 프레임에 가득 찼다는 뜻. 이렇게 나온 사진을 ‘얼빡샷’이라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타그래머블]]></title>
+        <title type="html"><![CDATA[연반인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-31T15:17:03.288Z</updated>
-        <content type="html"><![CDATA[인스타그램(Instagram)에 올릴만 하다(able)는 의미.]]></content>
+        <updated>2022-12-31T16:22:59.877Z</updated>
+        <content type="html"><![CDATA[연예인과 일반인을 합친 신조어. 연예인은 아니지만 연예인 만큼의 화제성을 가진 인물을 뜻함. 대표적인 인물로는 SBS 소속 PD 재재가 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[쩝쩝 박사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-31T15:17:03.288Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2022-12-31T16:22:59.877Z</updated>
+        <content type="html"><![CDATA[척척 박사를 변형한 신조어. 먹는 것에 진심인 사람들을 일컬음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[떡메]]></title>
+        <title type="html"><![CDATA[린스타]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2022-12-31T15:17:03.290Z</updated>
-        <content type="html"><![CDATA[떡메모지의 줄임말. 상단이 본드로 제본된 메모지를 뜻함.]]></content>
+        <updated>2022-12-31T16:22:59.878Z</updated>
+        <content type="html"><![CDATA[진짜 계정. ‘Real Instagram’의 줄임말.]]></content>
     </entry>
 </feed>
