@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-01-06T01:26:25.752Z</updated>
+    <updated>2023-01-06T02:46:31.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[M세대와 Z세대의 관심을 동시에 사로잡을 수 있는 이주의 트렌드 4]]></title>
+        <id>https://www.careet.net/982</id>
+        <link href="https://www.careet.net/982"/>
+        <updated>2023-01-06T02:45:40.934Z</updated>
+        <content type="html"><![CDATA[강백호, 미피, 아바타, 야채부락리... 지금이 몇 년도야?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해는 ‘웨이팅 마케팅’ 잘하는 브랜드가 뜬다?]]></title>
         <id>https://www.careet.net/946</id>
