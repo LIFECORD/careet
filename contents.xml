@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-01-10T23:18:53.351Z</updated>
+    <updated>2023-01-11T01:26:25.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아직도 포토부스? 2023년에 유행할 공간 트렌드 4]]></title>
+        <id>https://www.careet.net/980</id>
+        <link href="https://www.careet.net/980"/>
+        <updated>2023-01-11T01:25:34.477Z</updated>
+        <content type="html"><![CDATA[브랜드 공간 담당자라면 주목 하세요. 2023년에 유행할 공간 트렌드를 예측해 드립니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MZ세대 직장인 10명 중 7명, 명절 선물 ‘온라인’으로 받고 싶다]]></title>
         <id>https://www.careet.net/981</id>
