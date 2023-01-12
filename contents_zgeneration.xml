@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/2</id>
     <title>Careet ─ Contents ─ Z세대 최신 근황</title>
-    <updated>2023-01-11T23:18:53.415Z</updated>
+    <updated>2023-01-12T01:27:21.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갓생 트렌드는 올해도 지속될까? Z세대의 2023 버킷리스트 한눈에 보기]]></title>
+        <id>https://www.careet.net/984</id>
+        <link href="https://www.careet.net/984"/>
+        <updated>2023-01-12T01:26:47.457Z</updated>
+        <content type="html"><![CDATA[버킷리스트를 통해 보는 Z세대의 라이프스타일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카타르 월드컵으로 보는 Z세대 월드컵 관람 문화 특이점 4]]></title>
         <id>https://www.careet.net/963</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/884"/>
         <updated>2022-12-02T08:23:21.637Z</updated>
         <content type="html"><![CDATA[인급동 대신 모니터링 해드립니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대식가 먹방의 시대는 갔다? ‘소식(小食) 트렌드’가 뜨는 이유]]></title>
-        <id>https://www.careet.net/876</id>
-        <link href="https://www.careet.net/876"/>
-        <updated>2022-12-02T08:23:21.639Z</updated>
-        <content type="html"><![CDATA[소식좌가 떡상한 흐름부터 Z세대 소식좌가 찾는 제품까지!]]></content>
     </entry>
 </feed>
