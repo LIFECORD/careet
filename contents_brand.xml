@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/3</id>
     <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2023-01-16T03:19:42.801Z</updated>
+    <updated>2023-01-16T04:22:30.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Z세대가 칭찬한 브랜드 캠페인·이벤트]]></title>
+        <id>https://www.careet.net/989</id>
+        <link href="https://www.careet.net/989"/>
+        <updated>2023-01-16T04:22:07.366Z</updated>
+        <content type="html"><![CDATA[친환경 패키징, 소재가 다가 아니다! OOOO 놓치면 말짱 도루묵?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내년을 위해 미리 킵해두는 ‘신년 마케팅’ 레퍼런스]]></title>
         <id>https://www.careet.net/983</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/966"/>
         <updated>2022-12-12T08:24:48.036Z</updated>
         <content type="html"><![CDATA[Z세대가 원하는 연말결산, 크리스마스 이벤트의 디테일 포인트는 무엇일까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[입장 대기만 반나절! 화제의 팝업 스토어 ‘오버워치’ 칭찬 포인트 4]]></title>
-        <id>https://www.careet.net/959</id>
-        <link href="https://www.careet.net/959"/>
-        <updated>2022-12-06T01:24:43.313Z</updated>
-        <content type="html"><![CDATA[혼자 온 사람도 재밌게 놀고가는 팝업 스토어 특징은?]]></content>
     </entry>
 </feed>
