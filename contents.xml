@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-01-17T23:19:07.298Z</updated>
+    <updated>2023-01-18T01:27:44.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신입사원 채용할 때 참고하세요! Z세대가 알려주는 ‘채용 홍보 영상’ 제작 꿀팁]]></title>
+        <id>https://www.careet.net/986</id>
+        <link href="https://www.careet.net/986"/>
+        <updated>2023-01-18T01:27:00.630Z</updated>
+        <content type="html"><![CDATA[핵심 인재 끌어들이는 신입사원 VLOG를 만들고 싶다면, 당장 클릭!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인공지능(AI) 요즘 왜 이렇게 난리야? 맨날 뉴스에 나오는 것 같아!]]></title>
         <id>https://www.careet.net/987</id>
