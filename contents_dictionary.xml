@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-01-20T02:49:05.503Z</updated>
+    <updated>2023-01-20T03:22:32.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[언팔]]></title>
+        <title type="html"><![CDATA[어사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-20T02:48:56.408Z</updated>
-        <content type="html"><![CDATA[‘언팔로우(Unfollow)’의 줄임말. 팔로우를 취소하여 더이상 게시물을 받아보지 않는다는 뜻.]]></content>
+        <updated>2023-01-20T03:22:21.810Z</updated>
+        <content type="html"><![CDATA[어색한 사이의 줄임말↔찐친]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VSCO]]></title>
+        <title type="html"><![CDATA[초멘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-20T02:48:56.408Z</updated>
-        <content type="html"><![CDATA[사진 보정 앱. 포토샵처럼 세세한 조절도 가능하다. 이런 감성을 묶어 부르는 VSCO girl이란 말도 있음.]]></content>
+        <updated>2023-01-20T03:22:21.810Z</updated>
+        <content type="html"><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고독한 채팅방]]></title>
+        <title type="html"><![CDATA[임플로이언서]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-20T02:48:56.409Z</updated>
-        <content type="html"><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content>
+        <updated>2023-01-20T03:22:21.810Z</updated>
+        <content type="html"><![CDATA[Employee+Influencer. 직원으로서 기업의 브랜딩과 이미지에 영향력을 미치는 존재.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서사]]></title>
+        <title type="html"><![CDATA[영끌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-20T02:48:56.412Z</updated>
-        <content type="html"><![CDATA[어떤 인물에게 부여된 스토리.]]></content>
+        <updated>2023-01-20T03:22:21.810Z</updated>
+        <content type="html"><![CDATA[‘영혼까지 끌어모은다’의 줄임말. 있는 돈 없는 돈 다 끌어모을 때 비유적으로 사용하는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FOMO]]></title>
+        <title type="html"><![CDATA[단호박]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-20T02:48:56.414Z</updated>
-        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
+        <updated>2023-01-20T03:22:21.816Z</updated>
+        <content type="html"><![CDATA[단호한 사람, 단호한 상황을 일컫는 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인쇼]]></title>
+        <title type="html"><![CDATA[일코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-20T02:48:56.417Z</updated>
-        <content type="html"><![CDATA[‘인터넷 쇼핑’의 줄임말.]]></content>
+        <updated>2023-01-20T03:22:21.816Z</updated>
+        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
     </entry>
 </feed>
