@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-01-21T18:21:26.480Z</updated>
+    <updated>2023-01-21T19:14:17.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[돈쭐]]></title>
+        <title type="html"><![CDATA[안 고독한 채팅방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-21T18:21:18.712Z</updated>
-        <content type="html"><![CDATA[돈으로 혼쭐을 내주겠다는 뜻. 그만큼 많이 팔아주겠다는 긍정적인 의미로 사용됨.]]></content>
+        <updated>2023-01-21T19:14:08.586Z</updated>
+        <content type="html"><![CDATA[대화가 없는 고독한 채팅방과 달리, 대화도 하며 특정 연예인의 짤(이미지)도 공유하는 카카오톡 오픈 채팅방.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[합방]]></title>
+        <title type="html"><![CDATA[안읽씹]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-21T18:21:18.715Z</updated>
-        <content type="html"><![CDATA[합동방송의 줄임말. 주로 인터넷 방송에서 합동 콘텐츠를 찍는 것을 부르는 말.]]></content>
+        <updated>2023-01-21T19:14:08.588Z</updated>
+        <content type="html"><![CDATA[메시지를 읽지도 않고 답장도 하지 않는 경우를 일컫는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위버스]]></title>
+        <title type="html"><![CDATA[버블]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-21T18:21:18.719Z</updated>
-        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
+        <updated>2023-01-21T19:14:08.589Z</updated>
+        <content type="html"><![CDATA[스타와 마치 1:1 메시지를 주고받는 것처럼 소통할 수 있게 만들어진 프라이빗 메시지 앱. 유료로 이용이 가능하며 아이돌 팬덤이 활발하게 이용하는 서비스로 유명함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[솜뭉치]]></title>
+        <title type="html"><![CDATA[드덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-21T18:21:18.719Z</updated>
-        <content type="html"><![CDATA[MZ세대가 ‘인형’을 부르는 애칭.]]></content>
+        <updated>2023-01-21T19:14:08.590Z</updated>
+        <content type="html"><![CDATA[드라마 덕후의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[현활]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-21T18:21:18.719Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-01-21T19:14:08.590Z</updated>
+        <content type="html"><![CDATA[SNS에서 현재 활동중이라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[찐친]]></title>
+        <title type="html"><![CDATA[호불호]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-21T18:21:18.720Z</updated>
-        <content type="html"><![CDATA[‘진짜 친한 친구’를 뜻함.]]></content>
+        <updated>2023-01-21T19:14:08.591Z</updated>
+        <content type="html"><![CDATA[‘좋음과 좋지 않음’을 의미하는 말. 사람마다 좋고 싫음이 분명하게 나뉘어서 의견이 분분하다는 것을 의미함.]]></content>
     </entry>
 </feed>
