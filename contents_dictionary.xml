@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-01-26T16:24:40.083Z</updated>
+    <updated>2023-01-26T17:17:10.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[스불재]]></title>
+        <title type="html"><![CDATA[갓생]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-26T16:24:32.478Z</updated>
-        <content type="html"><![CDATA[‘스스로 불러온 재앙에 짓눌려’의 준말. 노래 Lazenca, save us에서 탄생한 밈.]]></content>
+        <updated>2023-01-26T17:16:50.591Z</updated>
+        <content type="html"><![CDATA[god(신)과 인생이 합쳐진 단어로, 부지런하고 알찬 삶을 사는 것을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아트 테크]]></title>
+        <title type="html"><![CDATA[갓성비]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-26T16:24:32.480Z</updated>
-        <content type="html"><![CDATA[‘아트’와 ‘재테크’의 합성어. 미술 작품, 음악 저작권 등 다양한 예술 분야에 자산을 투자하는 방식을 말함.]]></content>
+        <updated>2023-01-26T17:16:50.595Z</updated>
+        <content type="html"><![CDATA[대단한 존재를 ‘갓(god)+OO’이라고 부르는 MZ세대의 언어 습관에서 유래된 말로, 가성비를 뛰어넘는 혜택을 느낄 때 쓰는 말.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리셀(resell)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-26T16:24:32.481Z</updated>
+        <updated>2023-01-26T17:16:50.595Z</updated>
         <content type="html"><![CDATA[희소한 제품을 구입해 웃돈을 얹어 되파는 행위. 한정판 스니커즈부터 구하기 힘든 굿즈까지 대상은 다양함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뇌이징]]></title>
+        <title type="html"><![CDATA[움짤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-26T16:24:32.483Z</updated>
-        <content type="html"><![CDATA[‘뇌+에이징’의 합성어. 처음 봤을 때 이상하던 디자인이 보면 볼수록 예뻐 보일 때 사용함.]]></content>
+        <updated>2023-01-26T17:16:50.595Z</updated>
+        <content type="html"><![CDATA[움직이는 짤방의 준말. gif 파일로 제작된 이미지를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[레게노]]></title>
+        <title type="html"><![CDATA[팅글]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-26T16:24:32.484Z</updated>
-        <content type="html"><![CDATA[레전드(Legend)의 D를 O로 잘못 읽은 말. 게임 스트리머 우왁굳의 방송에서 유래한 유행어.]]></content>
+        <updated>2023-01-26T17:16:50.597Z</updated>
+        <content type="html"><![CDATA['기분 좋은 소름'을 뜻하는 ASMR 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신박한]]></title>
+        <title type="html"><![CDATA[멍]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-26T16:24:32.486Z</updated>
-        <content type="html"><![CDATA[‘새롭고 놀랍다’란 뜻으로 신기하면서도 참신한 경우에 사용되는 신조어.]]></content>
+        <updated>2023-01-26T17:16:50.597Z</updated>
+        <content type="html"><![CDATA[불멍, 물멍, 숲멍 등 최근 MZ세대 사이에선 편안한 경관 앞에서 멍을 때리며 휴식을 취하는 것이 트렌드로 떠오름.]]></content>
     </entry>
 </feed>
