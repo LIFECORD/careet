@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-01-29T09:16:53.612Z</updated>
+    <updated>2023-01-29T10:18:16.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[캐릿 1020 자문단]]></title>
+        <title type="html"><![CDATA[에듀테이너]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-29T09:16:44.882Z</updated>
-        <content type="html"><![CDATA[10대 50여 명, 20대(27세 이하) 100여 명으로 구성된 캐릿의 트렌드 자문 그룹. MZ세대만 아는 문화, 유행을 발 빠르게 전하는 역할을 맡고 있음.]]></content>
+        <updated>2023-01-29T10:18:08.811Z</updated>
+        <content type="html"><![CDATA[교육 분야에서 활동하는 연예인 또는 엔터테이너. 에듀케이션(Education)과 엔터테이너(Entertainer)의 합성어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로고 플레이]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-29T09:16:44.883Z</updated>
-        <content type="html"><![CDATA[패션 트렌드 중 하나로, 브랜드 로고를 활용해 의상이나 액세서리를 디자인하는 것을 일컫는 말.]]></content>
+        <updated>2023-01-29T10:18:08.814Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영끌]]></title>
+        <title type="html"><![CDATA[넘사벽]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-29T09:16:44.885Z</updated>
-        <content type="html"><![CDATA[‘영혼까지 끌어모은다’의 줄임말. 있는 돈 없는 돈 다 끌어모을 때 비유적으로 사용하는 표현.]]></content>
+        <updated>2023-01-29T10:18:08.816Z</updated>
+        <content type="html"><![CDATA[넘을 수 없는 4차원의 벽의 줄임말. 대상과 거리감이 많이 느껴질 때 주로 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에타]]></title>
+        <title type="html"><![CDATA[언팔]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-29T09:16:44.886Z</updated>
-        <content type="html"><![CDATA[학교 인증을 거친 재학생들만 이용할 수 있는 익명 커뮤니티 플랫폼 ‘에브리타임’의 줄임말. 과거 학교 커뮤니티와 비슷한 기능을 함.]]></content>
+        <updated>2023-01-29T10:18:08.818Z</updated>
+        <content type="html"><![CDATA[‘언팔로우(Unfollow)’의 줄임말. 팔로우를 취소하여 더이상 게시물을 받아보지 않는다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미디어 파사드]]></title>
+        <title type="html"><![CDATA[가심비]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-29T09:16:44.888Z</updated>
-        <content type="html"><![CDATA[미디어(media)와 건물의 표면을 뜻하는 파사드(facade)가 합성된 용어로, 건물의 외벽에 다양한 콘텐츠 영상을 투사하는 것]]></content>
+        <updated>2023-01-29T10:18:08.819Z</updated>
+        <content type="html"><![CDATA[가격 대비 심리적 만족을 추구하는 소비 트렌드↔가성비]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모바일 네이티브]]></title>
+        <title type="html"><![CDATA[서사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-29T09:16:44.889Z</updated>
-        <content type="html"><![CDATA[어릴 적부터 모바일 기기를 접하고 자유자재로 구사하는 세대. 1990년대 중반 이후 출생자.]]></content>
+        <updated>2023-01-29T10:18:08.822Z</updated>
+        <content type="html"><![CDATA[어떤 인물에게 부여된 스토리.]]></content>
     </entry>
 </feed>
