@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/careet/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-30T05:17:40.543Z</updated>
+    <updated>2023-01-30T06:24:15.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[팝업 스토어를 Only 온라인으로만 열었는데 화제라고? (Careet ─ Contents ─ 전체 보기)]]></title>
+        <id>https://www.careet.net/1000</id>
+        <link href="https://www.careet.net/1000"/>
+        <updated>2023-01-30T06:23:26.414Z</updated>
+        <content type="html"><![CDATA[성공하는 온라인 이벤트 해답, 맹그로브에 다 있다!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[카드뉴스] 공들인 브랜딩 한 방에 무너뜨리는 단어 20 (Careet ─ Contents ─ 전체 보기)]]></title>
         <id>https://www.careet.net/999</id>
@@ -369,6 +376,13 @@
         <content type="html"><![CDATA[인급동 대신 모니터링 해드립니다.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[팝업 스토어를 Only 온라인으로만 열었는데 화제라고? (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
+        <id>https://www.careet.net/1000</id>
+        <link href="https://www.careet.net/1000"/>
+        <updated>2023-01-30T06:23:52.659Z</updated>
+        <content type="html"><![CDATA[성공하는 온라인 이벤트 해답, 맹그로브에 다 있다!]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Z세대가 칭찬한 브랜드 캠페인·이벤트 (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
         <id>https://www.careet.net/989</id>
         <link href="https://www.careet.net/989"/>
@@ -404,13 +418,6 @@
         <content type="html"><![CDATA[카테고리 별 일 잘한 브랜드 레퍼런스로 2022년을 톺아보고, 2023년 준비하기]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연말 시즌 마케팅! 일 잘한 브랜드 2 :네이버&롯데백화점 (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
-        <id>https://www.careet.net/966</id>
-        <link href="https://www.careet.net/966"/>
-        <updated>2022-12-12T08:24:23.013Z</updated>
-        <content type="html"><![CDATA[Z세대가 원하는 연말결산, 크리스마스 이벤트의 디테일 포인트는 무엇일까?]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1000만 돌파 ‘아바타2′… 그중 60%가 체험형 관람 했다 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
         <id>https://www.yna.co.kr/view/AKR20230127073700003?input=1195m</id>
         <link href="https://www.yna.co.kr/view/AKR20230127073700003?input=1195m"/>
@@ -421,129 +428,129 @@
                                                 <a href="https://www.yna.co.kr/view/AKR20230127073700003?input=1195m" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[취준 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[고독한 채팅방 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:32.901Z</updated>
-        <content type="html"><![CDATA[‘취업 준비’의 줄임말.]]></content>
+        <updated>2023-01-30T06:24:07.278Z</updated>
+        <content type="html"><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아트 테크 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[껄무새 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:32.905Z</updated>
-        <content type="html"><![CDATA[‘아트’와 ‘재테크’의 합성어. 미술 작품, 음악 저작권 등 다양한 예술 분야에 자산을 투자하는 방식을 말함.]]></content>
+        <updated>2023-01-30T06:24:07.280Z</updated>
+        <content type="html"><![CDATA[앵무새처럼 ‘~살걸’, ‘~팔걸’을 반복하는 개인 투자자를 뜻함. (EX. 오늘 AA전자 주식 올랐네? 어제 살 걸.)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라방 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[폴꾸 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:32.905Z</updated>
-        <content type="html"><![CDATA[라이브 방송의 줄임말.]]></content>
+        <updated>2023-01-30T06:24:07.282Z</updated>
+        <content type="html"><![CDATA[폴라로이드 꾸미기, 포토카드를 폴라로이드 형태로 인쇄해서 꾸미는 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카공족 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[팔로인 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:32.905Z</updated>
-        <content type="html"><![CDATA[카페에서 공부하는 사람들을 일컫는 말.]]></content>
+        <updated>2023-01-30T06:24:07.283Z</updated>
+        <content type="html"><![CDATA[follow(따르다) + 人(사람)의 합성어로, 신뢰하는 사람을 통해 정보를 얻는 MZ세대를 가리키는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[액괴 유튜버 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[어사 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:32.907Z</updated>
-        <content type="html"><![CDATA[액괴란 액체괴물(슬라임)의 줄임말임. 액괴 유튜버란 ‘슬라임’을 만지고 노는 콘텐츠를 주로 업로드하는 유튜버를 뜻함.]]></content>
+        <updated>2023-01-30T06:24:07.285Z</updated>
+        <content type="html"><![CDATA[어색한 사이의 줄임말↔찐친]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먹금 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[인스타 돋보기 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:32.907Z</updated>
-        <content type="html"><![CDATA[‘먹이 금지’의 줄임말. 대꾸하지 않고 무시하는 것을 의미함.]]></content>
+        <updated>2023-01-30T06:24:07.286Z</updated>
+        <content type="html"><![CDATA[인스타그램 검색 탭을 일컫는 말. 인스타그램 알고리즘을 이용해 검색바 하단에 추천 콘텐츠를 보여줌. MZ세대가 시간 때울 때 주로 이용하는 기능.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 갓생 트렌드는 올해도 지속될까? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:39.980Z</updated>
+        <updated>2023-01-30T06:24:15.033Z</updated>
         <content type="html"><![CDATA[vol.142]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고 포함) 선착순 무나! Z세대 이슈 캘린더 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:39.984Z</updated>
+        <updated>2023-01-30T06:24:15.035Z</updated>
         <content type="html"><![CDATA[vol.141]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“뉴진스의 하입보이요” 밈은 어디서 나온 거야? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:39.985Z</updated>
+        <updated>2023-01-30T06:24:15.037Z</updated>
         <content type="html"><![CDATA[vol.140]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 남들 쉴 때, 미리 보는 신년 트렌드 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:39.986Z</updated>
+        <updated>2023-01-30T06:24:15.039Z</updated>
         <content type="html"><![CDATA[vol.139]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🏆우리 브랜드 2022년 마케팅 성적표 확인하기 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:39.987Z</updated>
+        <updated>2023-01-30T06:24:15.042Z</updated>
         <content type="html"><![CDATA[vol.138]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 뷰잉파티가 뭐야? 나만 모르는 이벤트 레퍼런스 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:39.989Z</updated>
+        <updated>2023-01-30T06:24:15.044Z</updated>
         <content type="html"><![CDATA[vol.137]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카타르 월드컵 밈 총정리 해 드림 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:39.990Z</updated>
+        <updated>2023-01-30T06:24:15.045Z</updated>
         <content type="html"><![CDATA[vol.136]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 역세권, 슬세권 대신 ‘컷세권’이 뜬다? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:39.991Z</updated>
+        <updated>2023-01-30T06:24:15.047Z</updated>
         <content type="html"><![CDATA[vol.135]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나는 트렌디한 사람일까? 2023 트렌드 능력고사 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:39.995Z</updated>
+        <updated>2023-01-30T06:24:15.050Z</updated>
         <content type="html"><![CDATA[vol. 134]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 신입사원 참여율 높은 연말 회식 기획하는 법 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:39.995Z</updated>
+        <updated>2023-01-30T06:24:15.052Z</updated>
         <content type="html"><![CDATA[vol.133]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🥕 2023년 트렌드 예언합니다 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:39.995Z</updated>
+        <updated>2023-01-30T06:24:15.054Z</updated>
         <content type="html"><![CDATA[vol.132]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) ‘먼작귀’는 무엇의 줄임말일까? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-01-30T05:17:39.997Z</updated>
+        <updated>2023-01-30T06:24:15.056Z</updated>
         <content type="html"><![CDATA[vol.131]]></content>
     </entry>
 </feed>
