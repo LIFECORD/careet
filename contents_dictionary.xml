@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-01-30T10:20:32.502Z</updated>
+    <updated>2023-01-30T11:16:19.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[역조공]]></title>
+        <title type="html"><![CDATA[많관부]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-30T10:20:25.115Z</updated>
-        <content type="html"><![CDATA[연예인이 자신의 팬들에게 선물을 주는 행동 혹은 그 선물을 가르키는 말.]]></content>
+        <updated>2023-01-30T11:16:10.476Z</updated>
+        <content type="html"><![CDATA[‘많은 관심 부탁드립니다’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밀프렙]]></title>
+        <title type="html"><![CDATA[미라클 모닝]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-30T10:20:25.119Z</updated>
-        <content type="html"><![CDATA[식사(meal)와 준비(preparation)의 합성어. 최대 일주일치 식사를 미리 준비해뒀다가 식사 때마다 먹는 방법.]]></content>
+        <updated>2023-01-30T11:16:10.476Z</updated>
+        <content type="html"><![CDATA[4시 30분, 6시 등 새벽에 일어나 하루를 시작하는 생활 방식. 미라클 모닝을 실천하는 유튜버들의 영향이 크며, Z세대의 갓생 트렌드와 연관이 깊음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[반모방]]></title>
+        <title type="html"><![CDATA[인소]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-30T10:20:25.120Z</updated>
-        <content type="html"><![CDATA[반말 모드 대화방의 줄임말. 말을 놓고 친해지는 채팅방으로, 주로 유튜브 댓글창에 열림.]]></content>
+        <updated>2023-01-30T11:16:10.479Z</updated>
+        <content type="html"><![CDATA[인터넷 소설의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[GOAT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-30T10:20:25.120Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-01-30T11:16:10.480Z</updated>
+        <content type="html"><![CDATA[‘Greatest Of All Time’의 줄임말. 최근 MZ세대 사이에서 역대급 레전드를 논할 때 자주 쓰이는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저메추]]></title>
+        <title type="html"><![CDATA[쫌쫌따리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-30T10:20:25.122Z</updated>
-        <content type="html"><![CDATA[‘저녁 메뉴 추천’의 줄임말. 뭘 먹으면 좋을지 상대에게 메뉴를 추천 받을 때 사용함. 비슷한 용어로 ‘점메추(점심 메뉴 추천)’가 있음.]]></content>
+        <updated>2023-01-30T11:16:10.482Z</updated>
+        <content type="html"><![CDATA[아주 조금씩 틈틈이를 뜻하는 MZ세대 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[처돌이]]></title>
+        <title type="html"><![CDATA[슈스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-01-30T10:20:25.122Z</updated>
-        <content type="html"><![CDATA[치킨 브랜드 ‘처갓집’의 마스코트 ‘처돌이’에서 유래한 말. 특정 대상을 매우 좋아한다는 뜻.]]></content>
+        <updated>2023-01-30T11:16:10.484Z</updated>
+        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
     </entry>
 </feed>
