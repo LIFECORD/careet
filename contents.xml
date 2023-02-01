@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-02-01T01:43:52.291Z</updated>
+    <updated>2023-02-01T02:57:34.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대세는 힙성비! 적은 예산으로 시도할 수 있는 공간 기획 아이디어]]></title>
+        <id>https://www.careet.net/1001</id>
+        <link href="https://www.careet.net/1001"/>
+        <updated>2023-02-01T02:56:51.184Z</updated>
+        <content type="html"><![CDATA[적은 비용으로 공간에 힙 지수 더하는 방법 5]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐릿이 3년간 분석한 Z세대의 새로운 특징, ‘MZBTI 2.0’]]></title>
         <id>https://www.careet.net/991</id>
@@ -151,152 +158,5 @@
         <link href="https://www.careet.net/978"/>
         <updated>2023-01-02T01:23:19.974Z</updated>
         <content type="html"><![CDATA[Z세대가 칭찬한 콜라보 마케팅]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동대문구 경동시장이 인스타 핫플로 떠오르고 있다고?]]></title>
-        <id>https://www.careet.net/977</id>
-        <link href="https://www.careet.net/977"/>
-        <updated>2022-12-30T01:23:21.797Z</updated>
-        <content type="html"><![CDATA[‘이 사람이랑 광고 콜라보 해주세요!’ 이번주 떡상 인물은 누구?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데이터] Z세대 40.4%, 현재 직업을 선택한 이유 “쉽게 취업할 수 있어서”]]></title>
-        <id>https://www.careet.net/970</id>
-        <link href="https://www.careet.net/970"/>
-        <updated>2022-12-29T01:23:33.480Z</updated>
-        <content type="html"><![CDATA[Z세대 팀원은 어떤 성장을 꿈꿀까요? 데이터로 확인해 보세요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12월 인급동으로 알아보는 ‘2023년에 주목해야 할 채널 5’]]></title>
-        <id>https://www.careet.net/976</id>
-        <link href="https://www.careet.net/976"/>
-        <updated>2022-12-28T01:20:44.391Z</updated>
-        <content type="html"><![CDATA[‘르세라핌’ 사쿠라, 유재석이 유튜브 채널을 운영한다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z세대가 온라인 쇼핑몰의 ‘오프라인 매장’을 찾는 N가지 이유]]></title>
-        <id>https://www.careet.net/971</id>
-        <link href="https://www.careet.net/971"/>
-        <updated>2022-12-27T01:21:05.807Z</updated>
-        <content type="html"><![CDATA[언택트 시대에도 Z세대가 온라인 쇼핑몰의 오프라인 매장을 선호하는 이유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘연말 특별 기획전’으로 MZ세대 눈길 잡기에 성공한 브랜드 3]]></title>
-        <id>https://www.careet.net/974</id>
-        <link href="https://www.careet.net/974"/>
-        <updated>2022-12-26T01:22:37.699Z</updated>
-        <content type="html"><![CDATA[연말을 맞이해 ‘졸업 사진’을 찍어주는 의류 브랜드 팝업 스토어가 있다?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z세대 픽 핫플부터 굿즈까지! 2023 유행템 미리보기]]></title>
-        <id>https://www.careet.net/973</id>
-        <link href="https://www.careet.net/973"/>
-        <updated>2022-12-23T01:20:59.438Z</updated>
-        <content type="html"><![CDATA[핫플X핫플, 힙브랜드X힙브랜드로 요약되는 이주의 떡상템]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z세대 타깃 행사에 섭외할 ‘연사’를 고민 중이시라고요?]]></title>
-        <id>https://www.careet.net/972</id>
-        <link href="https://www.careet.net/972"/>
-        <updated>2022-12-22T01:22:21.480Z</updated>
-        <content type="html"><![CDATA[행사 분위기 하드캐리할 Z세대 PICK 연사 7인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[편의점 왕중왕전: CU와 GS25는 어떻게 Z세대 핫플로 자리 잡게 되었을까?]]></title>
-        <id>https://www.careet.net/935</id>
-        <link href="https://www.careet.net/935"/>
-        <updated>2022-12-20T01:22:35.724Z</updated>
-        <content type="html"><![CDATA[CU와 GS25의 Z세대 타깃 마케팅 포인트 총정리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27만 독자 PICK, 올해의 캐릿 콘텐츠 10]]></title>
-        <id>https://www.careet.net/965</id>
-        <link href="https://www.careet.net/965"/>
-        <updated>2022-12-19T04:21:17.887Z</updated>
-        <content type="html"><![CDATA[2022 캐릿 콘텐츠 완전 요약본(feat. 구독자 투표)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이미지로 보는 2022년 유행템! 맛집·패션·공간·앱·굿즈 다 정리했습니다]]></title>
-        <id>https://www.careet.net/961</id>
-        <link href="https://www.careet.net/961"/>
-        <updated>2022-12-16T01:21:13.353Z</updated>
-        <content type="html"><![CDATA[10분 만에 2022 복습하기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 가장 일 잘한 브랜드는? MZ세대 마케팅 성적표 A+ 모음]]></title>
-        <id>https://www.careet.net/964</id>
-        <link href="https://www.careet.net/964"/>
-        <updated>2022-12-15T01:27:59.960Z</updated>
-        <content type="html"><![CDATA[카테고리 별 일 잘한 브랜드 레퍼런스로 2022년을 톺아보고, 2023년 준비하기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[5분 요약] 2022 F&B 트렌드 모아보기]]></title>
-        <id>https://www.careet.net/962</id>
-        <link href="https://www.careet.net/962"/>
-        <updated>2022-12-14T01:26:18.255Z</updated>
-        <content type="html"><![CDATA[남들 쉴때 올해의 F&amp;B 트렌드 복습하고 똑똑해지기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년을 위해 북마크 하세요! 2022 MZ세대 데이터 총결산]]></title>
-        <id>https://www.careet.net/969</id>
-        <link href="https://www.careet.net/969"/>
-        <updated>2022-12-13T01:36:21.608Z</updated>
-        <content type="html"><![CDATA[1분기 제안 걱정 뚝 그치게 해주는 데이터 모음zip]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말 시즌 마케팅! 일 잘한 브랜드 2 :네이버&롯데백화점]]></title>
-        <id>https://www.careet.net/966</id>
-        <link href="https://www.careet.net/966"/>
-        <updated>2022-12-12T08:24:23.013Z</updated>
-        <content type="html"><![CDATA[Z세대가 원하는 연말결산, 크리스마스 이벤트의 디테일 포인트는 무엇일까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z세대가 연말을 보내는 방법은 다르다? 12월 Z세대 트렌드 4]]></title>
-        <id>https://www.careet.net/968</id>
-        <link href="https://www.careet.net/968"/>
-        <updated>2022-12-09T04:22:19.611Z</updated>
-        <content type="html"><![CDATA[Z세대의 연말정산 문화를 소개합니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카타르 월드컵으로 보는 Z세대 월드컵 관람 문화 특이점 4]]></title>
-        <id>https://www.careet.net/963</id>
-        <link href="https://www.careet.net/963"/>
-        <updated>2022-12-08T01:25:31.278Z</updated>
-        <content type="html"><![CDATA[Z세대가 월드컵을 즐기는 새로운 방법 4]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단체 문자, 어떻게 하면 Z세대에게 ‘안읽씹’ 안 당할 수 있을까?]]></title>
-        <id>https://www.careet.net/960</id>
-        <link href="https://www.careet.net/960"/>
-        <updated>2022-12-07T01:28:09.258Z</updated>
-        <content type="html"><![CDATA[이런 단체 문자는 바로 차단한다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[입장 대기만 반나절! 화제의 팝업 스토어 ‘오버워치’ 칭찬 포인트 4]]></title>
-        <id>https://www.careet.net/959</id>
-        <link href="https://www.careet.net/959"/>
-        <updated>2022-12-06T01:24:14.680Z</updated>
-        <content type="html"><![CDATA[혼자 온 사람도 재밌게 놀고가는 팝업 스토어 특징은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 써도 먹히는 기출 변형 MBTI 밈 “MBTI랑 반응 알려줘”]]></title>
-        <id>https://www.careet.net/958</id>
-        <link href="https://www.careet.net/958"/>
-        <updated>2022-12-05T05:17:36.779Z</updated>
-        <content type="html"><![CDATA[SNS와 커뮤니티 반응 폭발하는 최신 MBTI 밈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜브 웹 예능 전성시대, ‘네고왕’, ‘워크맨’ PD의 후속작은?]]></title>
-        <id>https://www.careet.net/956</id>
-        <link href="https://www.careet.net/956"/>
-        <updated>2022-12-02T02:50:03.683Z</updated>
-        <content type="html"><![CDATA[Z세대의 월드컵 즐기는 방식부터 뜨는 릴스 오디오까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IP 비즈니스 시대, ‘머글’에게도 통한 쿠킹덤 영업비밀]]></title>
-        <id>https://www.careet.net/905</id>
-        <link href="https://www.careet.net/905"/>
-        <updated>2022-12-01T01:49:47.332Z</updated>
-        <content type="html"><![CDATA[디즈니, BTS와 ‘해볼 만하다’고 생각한 이유는?]]></content>
     </entry>
 </feed>
