@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-02-02T04:22:36.207Z</updated>
+    <updated>2023-02-02T05:17:29.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[서이추]]></title>
+        <title type="html"><![CDATA[고독한 채팅방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-02T04:22:28.216Z</updated>
-        <content type="html"><![CDATA[‘서로 이웃 추가’의 줄임말. 네이버 블로그에서 쓰이는 용어.]]></content>
+        <updated>2023-02-02T05:17:21.347Z</updated>
+        <content type="html"><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카공족]]></title>
+        <title type="html"><![CDATA[포토프레스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-02T04:22:28.220Z</updated>
-        <content type="html"><![CDATA[카페에서 공부하는 사람들을 일컫는 말.]]></content>
+        <updated>2023-02-02T05:17:21.348Z</updated>
+        <content type="html"><![CDATA[사진(Photo)으로 자신을 표현하는(Express) Z세대를 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[랩핑지]]></title>
+        <title type="html"><![CDATA[데스크테리어]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-02T04:22:28.223Z</updated>
-        <content type="html"><![CDATA[A4~A5의 사이즈의 배경지. 주로 포장이나 꾸미기에 활용되고 있음.]]></content>
+        <updated>2023-02-02T05:17:21.349Z</updated>
+        <content type="html"><![CDATA[데스크(Desk)+인테리어(Interior)의 합성어. 책상을 꾸미는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[스꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-02T04:22:28.224Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-02-02T05:17:21.352Z</updated>
+        <content type="html"><![CDATA[스티커 꾸미기의 줄임말. 스티커로 무언가를 꾸미는 행위를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불펌]]></title>
+        <title type="html"><![CDATA[인스타그래머]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-02T04:22:28.225Z</updated>
-        <content type="html"><![CDATA[인터넷상에서, 불법으로 다른 사람의 게시물을 그대로 가져오거나 가져가는 일. ‘불법 퍼 옴’의 줄인 말이다.]]></content>
+        <updated>2023-02-02T05:17:21.352Z</updated>
+        <content type="html"><![CDATA[인스타그램을 하는 사람을 일컫는 말. 주로 인스타그램에 트렌디한 게시물을 자주 올리는 사람이라는 의미로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴짤]]></title>
+        <title type="html"><![CDATA[공병템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-02T04:22:28.227Z</updated>
-        <content type="html"><![CDATA[새로 뜬 사진, 새로 뜬 gif]]></content>
+        <updated>2023-02-02T05:17:21.353Z</updated>
+        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
     </entry>
 </feed>
