@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-02-02T03:20:25.801Z</updated>
+    <updated>2023-02-02T04:22:36.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[도른자]]></title>
+        <title type="html"><![CDATA[서이추]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-02T03:20:17.666Z</updated>
-        <content type="html"><![CDATA['돌은 자'를 소리나는 대로 발음한 것. 진짜 웃기다는 뜻의 신조어.]]></content>
+        <updated>2023-02-02T04:22:28.216Z</updated>
+        <content type="html"><![CDATA[‘서로 이웃 추가’의 줄임말. 네이버 블로그에서 쓰이는 용어.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카공족]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-02-02T04:22:28.220Z</updated>
+        <content type="html"><![CDATA[카페에서 공부하는 사람들을 일컫는 말.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[랩핑지]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-02T03:20:17.668Z</updated>
+        <updated>2023-02-02T04:22:28.223Z</updated>
         <content type="html"><![CDATA[A4~A5의 사이즈의 배경지. 주로 포장이나 꾸미기에 활용되고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틱톡]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-02T03:20:17.670Z</updated>
-        <content type="html"><![CDATA[바이트댄스에서 2016년 출시한 숏폼 서비스.]]></content>
+        <updated>2023-02-02T04:22:28.224Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[린스타]]></title>
+        <title type="html"><![CDATA[불펌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-02T03:20:17.672Z</updated>
-        <content type="html"><![CDATA[진짜 계정. ‘Real Instagram’의 줄임말.]]></content>
+        <updated>2023-02-02T04:22:28.225Z</updated>
+        <content type="html"><![CDATA[인터넷상에서, 불법으로 다른 사람의 게시물을 그대로 가져오거나 가져가는 일. ‘불법 퍼 옴’의 줄인 말이다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[키자니아]]></title>
+        <title type="html"><![CDATA[뉴짤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-02T03:20:17.673Z</updated>
-        <content type="html"><![CDATA[어린이들이 직업을 체험할 수 있는 테마파크. 특정 직업을 생생하게 표현하거나 보여주는 콘텐츠를 볼 때 ‘어른들의 키자니아’라는 댓글이 많이 달림.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실트]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-02T03:20:17.676Z</updated>
-        <content type="html"><![CDATA[트위터 ‘실시간 트렌드’라는 뜻. 현재 얘기가 많이 이루어지는 주제를 트위터 프로그램이 인지해 실시간 트렌드로 올리기 때문에 지금 무엇이 화제인지 알 수 있음.]]></content>
+        <updated>2023-02-02T04:22:28.227Z</updated>
+        <content type="html"><![CDATA[새로 뜬 사진, 새로 뜬 gif]]></content>
     </entry>
 </feed>
