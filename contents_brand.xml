@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/3</id>
     <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2023-02-12T23:18:42.624Z</updated>
+    <updated>2023-02-13T01:37:53.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[롯데리아 vs 버거킹! 호평받은 온라인 마케팅 사례]]></title>
+        <id>https://www.careet.net/1014</id>
+        <link href="https://www.careet.net/1014"/>
+        <updated>2023-02-13T01:37:30.432Z</updated>
+        <content type="html"><![CDATA[SNS 잘 활용해서 Z세대의 관심 끌어모은 패스트푸드 브랜드 사례 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그랑핸드는 어떻게 광고 모델도 없이 Z세대의 ‘손민수템’이 되었을까]]></title>
         <id>https://www.careet.net/1004</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/978"/>
         <updated>2023-01-02T01:23:45.372Z</updated>
         <content type="html"><![CDATA[Z세대가 칭찬한 콜라보 마케팅]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘연말 특별 기획전’으로 MZ세대 눈길 잡기에 성공한 브랜드 3]]></title>
-        <id>https://www.careet.net/974</id>
-        <link href="https://www.careet.net/974"/>
-        <updated>2022-12-26T01:23:03.007Z</updated>
-        <content type="html"><![CDATA[연말을 맞이해 ‘졸업 사진’을 찍어주는 의류 브랜드 팝업 스토어가 있다?]]></content>
     </entry>
 </feed>
