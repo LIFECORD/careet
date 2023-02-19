@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-02-19T08:22:40.163Z</updated>
+    <updated>2023-02-19T09:18:20.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[맵부심]]></title>
+        <title type="html"><![CDATA[컨셉러]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-19T08:22:31.834Z</updated>
-        <content type="html"><![CDATA[‘맵(다)’+‘자부심’의 합성어. 매운 것을 잘 먹는 데 자부심이 있음을 뜻하는 말.]]></content>
+        <updated>2023-02-19T09:18:12.699Z</updated>
+        <content type="html"><![CDATA[‘콘셉트(concept)’와 ‘~하는 사람(-er)’의 합성어로, 자신만의 설정을 만들어 행동하는 사람을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폰]]></title>
+        <title type="html"><![CDATA[갓겜]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-19T08:22:31.835Z</updated>
-        <content type="html"><![CDATA[MZ세대가 ‘가짜’를 표현할 때 쓰는 접두어. ex) 폰여행=가짜 여행, 폰콘서트=가짜 콘서트]]></content>
+        <updated>2023-02-19T09:18:12.705Z</updated>
+        <content type="html"><![CDATA[God + Game. 잘 만든 게임을 칭찬할 때 쓰는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈술]]></title>
+        <title type="html"><![CDATA[장비병]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-19T08:22:31.837Z</updated>
-        <content type="html"><![CDATA[집에서 술을 마시는 것. 코로나19 이후 증가한 트렌드.]]></content>
+        <updated>2023-02-19T09:18:12.707Z</updated>
+        <content type="html"><![CDATA[무언가를 시작할 때 필요한 장비부터 구입하는 장비 덕후를 뜻하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[임플로이언서]]></title>
+        <title type="html"><![CDATA[학예사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-19T08:22:31.838Z</updated>
-        <content type="html"><![CDATA[Employee+Influencer. 직원으로서 기업의 브랜딩과 이미지에 영향력을 미치는 존재.]]></content>
+        <updated>2023-02-19T09:18:12.709Z</updated>
+        <content type="html"><![CDATA[박물관, 미술관 등에서 작품 등을 수집, 전시 기획 등을 하는 전문 직업.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[앨범깡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-19T08:22:31.840Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-02-19T09:18:12.711Z</updated>
+        <content type="html"><![CDATA[앨범 언박싱을 부르는 말. 주로 원하는 포토카드를 얻기 위해 연속해서 앨범을 열어보는 것을 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고독한 채팅방]]></title>
+        <title type="html"><![CDATA[연반인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-19T08:22:31.842Z</updated>
-        <content type="html"><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content>
+        <updated>2023-02-19T09:18:12.713Z</updated>
+        <content type="html"><![CDATA[연예인과 일반인을 합친 신조어. 연예인은 아니지만 연예인 만큼의 화제성을 가진 인물을 뜻함. 대표적인 인물로는 SBS 소속 PD 재재가 있음.]]></content>
     </entry>
 </feed>
