@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/3</id>
     <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2023-02-19T23:18:46.008Z</updated>
+    <updated>2023-02-20T01:37:47.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[매월 있는 기념일, 어떻게 챙겨야 주목 받을까?]]></title>
+        <id>https://www.careet.net/1021</id>
+        <link href="https://www.careet.net/1021"/>
+        <updated>2023-02-20T01:37:26.304Z</updated>
+        <content type="html"><![CDATA[Z세대가 꼽은 올해 발렌타인데이 마케팅 승자는?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[롯데리아 vs 버거킹! 호평받은 온라인 마케팅 사례]]></title>
         <id>https://www.careet.net/1014</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/983"/>
         <updated>2023-01-09T01:24:26.310Z</updated>
         <content type="html"><![CDATA[저장해뒀다가 2024년에 유용하게 써먹으세요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타벅스와 LG전자가 콜라보 공간을 기획했다고? 이주의 일 잘한 브랜드 2]]></title>
-        <id>https://www.careet.net/978</id>
-        <link href="https://www.careet.net/978"/>
-        <updated>2023-01-02T01:23:45.372Z</updated>
-        <content type="html"><![CDATA[Z세대가 칭찬한 콜라보 마케팅]]></content>
     </entry>
 </feed>
