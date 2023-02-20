@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-02-20T20:20:29.426Z</updated>
+    <updated>2023-02-20T21:16:54.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[뵤]]></title>
+        <title type="html"><![CDATA[인스타툰]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-20T20:20:21.257Z</updated>
-        <content type="html"><![CDATA[‘햄스터’를 뜻하는 MZ세대 온라인 유행어. 햄스터의 표정에서 유래함.]]></content>
+        <updated>2023-02-20T21:16:46.609Z</updated>
+        <content type="html"><![CDATA[인스타그램에 연재되는 만화(Cartoon)의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사바사]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-20T20:20:21.259Z</updated>
-        <content type="html"><![CDATA[‘사람 by 사람’의 줄임말. 사람마다 다 다르다는 것을 의미함.]]></content>
+        <updated>2023-02-20T21:16:46.610Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[차도남]]></title>
+        <title type="html"><![CDATA[좋댓구알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-20T20:20:21.260Z</updated>
-        <content type="html"><![CDATA[차가운 도시 남자의 줄임말.]]></content>
+        <updated>2023-02-20T21:16:46.614Z</updated>
+        <content type="html"><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[펀슈머]]></title>
+        <title type="html"><![CDATA[임플로이언서]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-20T20:20:21.261Z</updated>
-        <content type="html"><![CDATA[‘Fun(재미)’과 ‘Consumer(소비자)’의 합성어로, 소비 과정에서 재미를 추구하는 소비자를 일컫는 말.]]></content>
+        <updated>2023-02-20T21:16:46.617Z</updated>
+        <content type="html"><![CDATA[Employee+Influencer. 직원으로서 기업의 브랜딩과 이미지에 영향력을 미치는 존재.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[컨포]]></title>
+        <title type="html"><![CDATA[얼죽코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-20T20:20:21.262Z</updated>
-        <content type="html"><![CDATA[‘컨셉 포토’의 줄임말. 아이돌 앨범에 함께 포함되어 있는 사진을 뜻함.]]></content>
+        <updated>2023-02-20T21:16:46.618Z</updated>
+        <content type="html"><![CDATA[‘얼죽코’란 얼어 죽어도 코트의 줄임말로, 날씨가 아주 추워도 코트 입는 것을 고집하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불판]]></title>
+        <title type="html"><![CDATA[좋페]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-20T20:20:21.264Z</updated>
-        <content type="html"><![CDATA[하나의 게시물 안에서 주제를 정해놓고 댓글로 의견을 주고받는 커뮤니티 문화.]]></content>
+        <updated>2023-02-20T21:16:46.620Z</updated>
+        <content type="html"><![CDATA[‘좋아요 누르면 페메(페북 메신저) 보낸다’의 줄임말.]]></content>
     </entry>
 </feed>
