@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-02-22T23:18:34.489Z</updated>
+    <updated>2023-02-23T01:26:41.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넥스트 인생네컷! Z세대의 새로운 문화 ‘프린팅박스’를 소개합니다]]></title>
+        <id>https://www.careet.net/1022</id>
+        <link href="https://www.careet.net/1022"/>
+        <updated>2023-02-23T01:25:47.605Z</updated>
+        <content type="html"><![CDATA[Z세대의 관심을 단번에 사로잡는 이벤트를 기획하고 싶다면?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[N개국에서 앱스토어 차트 1위한 글로벌 Z세대 픽 앱은?]]></title>
         <id>https://www.careet.net/1023</id>
