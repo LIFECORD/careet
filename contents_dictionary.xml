@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-02-26T19:15:13.242Z</updated>
+    <updated>2023-02-26T20:19:58.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[DM]]></title>
+        <title type="html"><![CDATA[어사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-26T19:15:05.404Z</updated>
-        <content type="html"><![CDATA[다이렉트 메시지(Direct Message)의 줄임말.]]></content>
+        <updated>2023-02-26T20:19:50.639Z</updated>
+        <content type="html"><![CDATA[어색한 사이의 줄임말↔찐친]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시그]]></title>
+        <title type="html"><![CDATA[서이추]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-26T19:15:05.406Z</updated>
-        <content type="html"><![CDATA[‘시즌그리팅’의 줄임말. 새해를 맞아 판매되는 달력, 다이어리 등의 굿즈 세트.]]></content>
+        <updated>2023-02-26T20:19:50.641Z</updated>
+        <content type="html"><![CDATA[‘서로 이웃 추가’의 줄임말. 네이버 블로그에서 쓰이는 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카공족]]></title>
+        <title type="html"><![CDATA[대전]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-26T19:15:05.407Z</updated>
-        <content type="html"><![CDATA[카페에서 공부하는 사람들을 일컫는 말.]]></content>
+        <updated>2023-02-26T20:19:50.642Z</updated>
+        <content type="html"><![CDATA[‘대신 전해드립니다’의 줄임말. 학교 등 한 집단의 소식을 제보 받아 대신 전하는 페이스북 페이지들을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어쩔티비]]></title>
+        <title type="html"><![CDATA[어덕행덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-26T19:15:05.413Z</updated>
-        <content type="html"><![CDATA[알파 세대 유행어. ‘어쩌라고, TV나 봐’라는 의미로 추정됨.]]></content>
+        <updated>2023-02-26T20:19:50.644Z</updated>
+        <content type="html"><![CDATA[‘어차피 덕질할 거 행복하게 덕질하자.’를 줄여 이르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OOTD]]></title>
+        <title type="html"><![CDATA[공스타그램]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-26T19:15:05.414Z</updated>
-        <content type="html"><![CDATA[‘Outfit Of The Day’의 줄임말. 당일 또는 특정 상황에서 입은 자신의 옷차림을 촬영하여 소셜미디어에 업로드하는 행위.]]></content>
+        <updated>2023-02-26T20:19:50.647Z</updated>
+        <content type="html"><![CDATA[공부와 인스타그램의 합성어. 공시생이나 수험생들이 공부 관련 콘텐츠를 올리는 인스타그램 계정을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[곰손]]></title>
+        <title type="html"><![CDATA[팔이피플]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-02-26T19:15:05.416Z</updated>
-        <content type="html"><![CDATA[손재주가 영 없는 사람을 비유한 말. ↔ 유행어 ‘금손’]]></content>
+        <updated>2023-02-26T20:19:50.650Z</updated>
+        <content type="html"><![CDATA[팔이+people의 합성어로, SNS나 쇼핑몰에서 물건을 판매하는 사람들을 지칭하는 말.]]></content>
     </entry>
 </feed>
