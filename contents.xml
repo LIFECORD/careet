@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-03-01T23:19:53.669Z</updated>
+    <updated>2023-03-02T01:42:10.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘여러분 너무 보고 싶었어↗’ 어디서 시작된 밈일까? 최신 유행어 뜻 & 유래 모음]]></title>
+        <id>https://www.careet.net/1026</id>
+        <link href="https://www.careet.net/1026"/>
+        <updated>2023-03-02T01:41:21.766Z</updated>
+        <content type="html"><![CDATA[Z세대가 지금 써도 된다고 컨펌해준 밈 모음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2월 인급동 모아보기] 사내뷰공업, 킥서비스 인기 원인 분석해봄]]></title>
         <id>https://www.careet.net/1017</id>
@@ -144,152 +151,5 @@
         <link href="https://www.careet.net/1001"/>
         <updated>2023-02-01T02:56:51.184Z</updated>
         <content type="html"><![CDATA[적은 비용으로 공간에 힙 지수 더하는 방법 5]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐릿이 3년간 분석한 Z세대의 새로운 특징, ‘MZBTI 2.0’]]></title>
-        <id>https://www.careet.net/991</id>
-        <link href="https://www.careet.net/991"/>
-        <updated>2023-01-31T05:16:21.012Z</updated>
-        <content type="html"><![CDATA[다른 곳에서는 볼 수 없는 Z세대의 특징 16가지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팝업 스토어를 Only 온라인으로만 열었는데 화제라고?]]></title>
-        <id>https://www.careet.net/1000</id>
-        <link href="https://www.careet.net/1000"/>
-        <updated>2023-01-30T06:23:26.414Z</updated>
-        <content type="html"><![CDATA[성공하는 온라인 이벤트 해답, 맹그로브에 다 있다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카드뉴스] 공들인 브랜딩 한 방에 무너뜨리는 단어 20]]></title>
-        <id>https://www.careet.net/999</id>
-        <link href="https://www.careet.net/999"/>
-        <updated>2023-01-27T06:22:27.978Z</updated>
-        <content type="html"><![CDATA[[카드뉴스로 보는 캐릿 콘텐츠] 사용에 주의가 필요한 표현 모음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨는 공간부터, 간식, 브이로그 트렌드까지! 이 주의 유행템 4]]></title>
-        <id>https://www.careet.net/995</id>
-        <link href="https://www.careet.net/995"/>
-        <updated>2023-01-27T01:27:42.809Z</updated>
-        <content type="html"><![CDATA[요즘 뜨는 핫플부터 로컬 푸드까지 한 번에 정리함!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z세대가 진짜 원하는 제휴 혜택이 궁금하세요?]]></title>
-        <id>https://www.careet.net/993</id>
-        <link href="https://www.careet.net/993"/>
-        <updated>2023-01-25T10:19:14.010Z</updated>
-        <content type="html"><![CDATA[“이런 멤버십 서비스 있으면 카드도 새로 발급받을 수 있어요”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카드뉴스] 성수 다음은? 삼각지! Z세대가 삼각지에 주목하는 이유]]></title>
-        <id>https://www.careet.net/923</id>
-        <link href="https://www.careet.net/923"/>
-        <updated>2023-02-01T09:18:38.727Z</updated>
-        <content type="html"><![CDATA[[카드뉴스로 보는 캐릿 콘텐츠] 핫플레이스 삼각지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘자낳대’부터 ‘테이프 풍선’까지! 모르고 넘어가면 뒤처지는 이주의 Z세대 트렌드]]></title>
-        <id>https://www.careet.net/992</id>
-        <link href="https://www.careet.net/992"/>
-        <updated>2023-01-20T01:26:20.740Z</updated>
-        <content type="html"><![CDATA[‘자낳괴’는 알겠는데… ‘자낳대’는 처음 들어본다면 클릭!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘폼 미쳤다’의 유래와 뜻은? 요즘 유행하는 밈 총정리]]></title>
-        <id>https://www.careet.net/985</id>
-        <link href="https://www.careet.net/985"/>
-        <updated>2023-01-19T01:29:07.868Z</updated>
-        <content type="html"><![CDATA[유행어 잘 쓰는 담당자가 되고 싶으신가요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신입사원 채용할 때 참고하세요! Z세대가 알려주는 ‘채용 홍보 영상’ 제작 꿀팁]]></title>
-        <id>https://www.careet.net/986</id>
-        <link href="https://www.careet.net/986"/>
-        <updated>2023-01-18T01:27:00.630Z</updated>
-        <content type="html"><![CDATA[핵심 인재 끌어들이는 신입사원 VLOG를 만들고 싶다면, 당장 클릭!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공지능(AI) 요즘 왜 이렇게 난리야? 맨날 뉴스에 나오는 것 같아!]]></title>
-        <id>https://www.careet.net/987</id>
-        <link href="https://www.careet.net/987"/>
-        <updated>2023-01-17T02:41:37.774Z</updated>
-        <content type="html"><![CDATA[일상 대화부터 → 화보 촬영까지 일상에서 AI를 활용하는 Z세대 문화 총정리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z세대가 칭찬한 브랜드 캠페인·이벤트]]></title>
-        <id>https://www.careet.net/989</id>
-        <link href="https://www.careet.net/989"/>
-        <updated>2023-01-16T04:21:40.776Z</updated>
-        <content type="html"><![CDATA[친환경 패키징, 소재가 다가 아니다! OOOO 놓치면 말짱 도루묵?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜브부터 인스타그램까지, 1월 2주차 SNS 트렌드 모음]]></title>
-        <id>https://www.careet.net/988</id>
-        <link href="https://www.careet.net/988"/>
-        <updated>2023-01-13T03:25:34.345Z</updated>
-        <content type="html"><![CDATA[고등학교 트렌드 팔로우 업하기 좋은 10대 인플루언서의 등장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갓생 트렌드는 올해도 지속될까? Z세대의 2023 버킷리스트 한눈에 보기]]></title>
-        <id>https://www.careet.net/984</id>
-        <link href="https://www.careet.net/984"/>
-        <updated>2023-01-12T01:26:27.264Z</updated>
-        <content type="html"><![CDATA[버킷리스트를 통해 보는 Z세대의 라이프스타일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직도 포토부스? 2023년에 유행할 공간 트렌드 4]]></title>
-        <id>https://www.careet.net/980</id>
-        <link href="https://www.careet.net/980"/>
-        <updated>2023-01-11T01:25:34.477Z</updated>
-        <content type="html"><![CDATA[브랜드 공간 담당자라면 주목 하세요. 2023년에 유행할 공간 트렌드를 예측해 드립니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ세대 직장인 10명 중 7명, 명절 선물 ‘온라인’으로 받고 싶다]]></title>
-        <id>https://www.careet.net/981</id>
-        <link href="https://www.careet.net/981"/>
-        <updated>2023-01-10T01:28:14.867Z</updated>
-        <content type="html"><![CDATA[엔데믹 시대에도 여전히 ‘온라인’으로 받는 명절 선물을 선호하는 이유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년을 위해 미리 킵해두는 ‘신년 마케팅’ 레퍼런스]]></title>
-        <id>https://www.careet.net/983</id>
-        <link href="https://www.careet.net/983"/>
-        <updated>2023-01-09T01:24:01.231Z</updated>
-        <content type="html"><![CDATA[저장해뒀다가 2024년에 유용하게 써먹으세요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M세대와 Z세대의 관심을 동시에 사로잡을 수 있는 이주의 트렌드 4]]></title>
-        <id>https://www.careet.net/982</id>
-        <link href="https://www.careet.net/982"/>
-        <updated>2023-01-06T02:45:40.934Z</updated>
-        <content type="html"><![CDATA[강백호, 미피, 아바타, 야채부락리... 지금이 몇 년도야?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해는 ‘웨이팅 마케팅’ 잘하는 브랜드가 뜬다?]]></title>
-        <id>https://www.careet.net/946</id>
-        <link href="https://www.careet.net/946"/>
-        <updated>2023-01-05T01:25:49.013Z</updated>
-        <content type="html"><![CDATA[2023 마케팅 키워드 예측합니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESG 시대, 오해받기 싫다면 절대 놓쳐선 안 될 ‘그린워싱 체크리스트’]]></title>
-        <id>https://www.careet.net/975</id>
-        <link href="https://www.careet.net/975"/>
-        <updated>2023-01-04T05:16:06.452Z</updated>
-        <content type="html"><![CDATA[친환경 마케팅, 디테일 놓치고 MZ세대에게 ‘그린워싱’으로 오해받기 싫다면!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 월별 트렌드 미리 보기 <Z세대 이슈 캘린더>]]></title>
-        <id>https://www.careet.net/979</id>
-        <link href="https://www.careet.net/979"/>
-        <updated>2023-01-03T02:36:59.835Z</updated>
-        <content type="html"><![CDATA[1020이 주목하는 2023년도 이슈를 정리했습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타벅스와 LG전자가 콜라보 공간을 기획했다고? 이주의 일 잘한 브랜드 2]]></title>
-        <id>https://www.careet.net/978</id>
-        <link href="https://www.careet.net/978"/>
-        <updated>2023-01-02T01:23:19.974Z</updated>
-        <content type="html"><![CDATA[Z세대가 칭찬한 콜라보 마케팅]]></content>
     </entry>
 </feed>
