@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-04T05:17:32.968Z</updated>
+    <updated>2023-03-04T06:23:07.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[캐릿 해외 특파원]]></title>
+        <title type="html"><![CDATA[오늘의집]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-04T05:17:25.639Z</updated>
-        <content type="html"><![CDATA[글로벌 Z세대 트렌드 제보를 전담하는 캐릿의 1020 자문단.]]></content>
+        <updated>2023-03-04T06:22:59.910Z</updated>
+        <content type="html"><![CDATA[MZ세대가 푹 빠져 있는 인테리어 플랫폼. ‘오늘의집’에서 자주 보이는 스타일로 꾸민 것을 ‘오늘의집st’라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신박한]]></title>
+        <title type="html"><![CDATA[생정]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-04T05:17:25.639Z</updated>
-        <content type="html"><![CDATA[‘새롭고 놀랍다’란 뜻으로 신기하면서도 참신한 경우에 사용되는 신조어.]]></content>
+        <updated>2023-03-04T06:22:59.910Z</updated>
+        <content type="html"><![CDATA[생활 정보의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[겟레디윗미]]></title>
+        <title type="html"><![CDATA[헤메코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-04T05:17:25.640Z</updated>
-        <content type="html"><![CDATA[쌩얼 상태에서 메이크업을 완성하는 과정을 보여주는 콘텐츠. ‘Get Ready With Me(=나랑 같이 준비하자)’를 그대로 발음한 용어로, 줄여서 ‘GRWM’로도 쓰임.]]></content>
+        <updated>2023-03-04T06:22:59.912Z</updated>
+        <content type="html"><![CDATA[헤어 메이크업 코디를 합쳐 부르는 말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탑로더]]></title>
+        <title type="html"><![CDATA[컨셉러]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-04T05:17:25.640Z</updated>
-        <content type="html"><![CDATA[위로 뚫려있는 입구로 사진이나 카드를 넣어 보관할 수 있는 플라스틱 재질의 보관함]]></content>
+        <updated>2023-03-04T06:22:59.913Z</updated>
+        <content type="html"><![CDATA[‘콘셉트(concept)’와 ‘~하는 사람(-er)’의 합성어로, 자신만의 설정을 만들어 행동하는 사람을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스밍]]></title>
+        <title type="html"><![CDATA[젠더 뉴트럴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-04T05:17:25.641Z</updated>
-        <content type="html"><![CDATA[스트리밍의 줄임말. 아이돌 팬들이 음원 사이트에서 응원하는 가수의 노래를 차트 1위로 만들어주기 위해 반복해서 듣는 것을 ‘스밍 돌린다’고 표현함.]]></content>
+        <updated>2023-03-04T06:22:59.915Z</updated>
+        <content type="html"><![CDATA[남녀를 구분짓지 않는 성 중립적인 패션을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무나]]></title>
+        <title type="html"><![CDATA[긱 이코노미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-04T05:17:25.642Z</updated>
-        <content type="html"><![CDATA[무료 나눔의 준말]]></content>
+        <updated>2023-03-04T06:22:59.916Z</updated>
+        <content type="html"><![CDATA[Gig Economy. 기업들이 필요에 따라 단기 계약직이나 임시직으로 인력을 충원하고 그 대가를 지불하는 형태의 경제.]]></content>
     </entry>
 </feed>
