@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-08T01:41:51.994Z</updated>
+    <updated>2023-03-08T02:55:21.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[밥약]]></title>
+        <title type="html"><![CDATA[인스타그래머]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T01:41:43.504Z</updated>
-        <content type="html"><![CDATA[밥 약속의 줄임 말.]]></content>
+        <updated>2023-03-08T02:55:13.142Z</updated>
+        <content type="html"><![CDATA[인스타그램을 하는 사람을 일컫는 말. 주로 인스타그램에 트렌디한 게시물을 자주 올리는 사람이라는 의미로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[즈즈즈]]></title>
+        <title type="html"><![CDATA[불판]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T01:41:43.504Z</updated>
-        <content type="html"><![CDATA[아이돌 그룹 ‘더보이즈’, ‘스트레이키즈’, ‘에이티즈’를 합쳐 부르는 말.]]></content>
+        <updated>2023-03-08T02:55:13.147Z</updated>
+        <content type="html"><![CDATA[하나의 게시물 안에서 주제를 정해놓고 댓글로 의견을 주고받는 커뮤니티 문화.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고독한 채팅방]]></title>
+        <title type="html"><![CDATA[위꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T01:41:43.505Z</updated>
-        <content type="html"><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content>
+        <updated>2023-03-08T02:55:13.149Z</updated>
+        <content type="html"><![CDATA[위장 꾸미기. 맛있는 식사를 하는 것을 꾸미기에 빗대어 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언팔]]></title>
+        <title type="html"><![CDATA[디지털 네이티브]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T01:41:43.506Z</updated>
-        <content type="html"><![CDATA[‘언팔로우(Unfollow)’의 줄임말. 팔로우를 취소하여 더이상 게시물을 받아보지 않는다는 뜻.]]></content>
+        <updated>2023-03-08T02:55:13.152Z</updated>
+        <content type="html"><![CDATA[어린 시절부터 디지털 환경에서 성장한 세대를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트롤]]></title>
+        <title type="html"><![CDATA[블챌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T01:41:43.507Z</updated>
-        <content type="html"><![CDATA[온라인에서 사람들의 관심을 끌기 위해 일부러 진행에 방해되는 행동을 하는 것. 또는 그런 사람을 뜻함.]]></content>
+        <updated>2023-03-08T02:55:13.155Z</updated>
+        <content type="html"><![CDATA[‘블로그 챌린지’의 줄임말. 6월부터 12월까지 6개월간 진행되는 장기 프로젝트로 매주 지정된 카테고리에 한 건 이상의 일기를 작성해야 챌린지를 이어갈 수 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웃참]]></title>
+        <title type="html"><![CDATA[다꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-08T01:41:43.510Z</updated>
-        <content type="html"><![CDATA[‘웃음 참기’의 줄임말. 웃기지만 웃어서 안되는 일이 있을 때 ‘웃음 참기 챌린지’를 한다고 표현하기도 함.]]></content>
+        <updated>2023-03-08T02:55:13.157Z</updated>
+        <content type="html"><![CDATA[다이어리 꾸미기의 줄임말.]]></content>
     </entry>
 </feed>
