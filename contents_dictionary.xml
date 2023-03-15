@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-15T17:18:03.587Z</updated>
+    <updated>2023-03-15T18:23:37.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[입틀막]]></title>
+        <title type="html"><![CDATA[취뽀]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-15T17:17:56.271Z</updated>
-        <content type="html"><![CDATA[‘입을 틀어 막다’의 줄임말. 주로 감정이 복받쳐 오를 때 사용함.]]></content>
+        <updated>2023-03-15T18:23:29.548Z</updated>
+        <content type="html"><![CDATA[‘취업 뽀개기’의 줄임말. 취업에 성공했을 때 ‘취뽀했다’라고 함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[블친]]></title>
+        <title type="html"><![CDATA[국룰]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-15T17:17:56.272Z</updated>
-        <content type="html"><![CDATA[블로그 친구의 줄임말.]]></content>
+        <updated>2023-03-15T18:23:29.549Z</updated>
+        <content type="html"><![CDATA[국민 룰의 줄임말. 보편적으로 통용되는 규칙 혹은 유행이라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시드 머니]]></title>
+        <title type="html"><![CDATA[가상 데스크톱 서비스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-15T17:17:56.273Z</updated>
-        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
+        <updated>2023-03-15T18:23:29.552Z</updated>
+        <content type="html"><![CDATA[PC 환경을 온라인에 구축해 어디서든 접속할 수 있게 하는 서비스.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[눈팅]]></title>
+        <title type="html"><![CDATA[삼현슼엘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-15T17:17:56.274Z</updated>
-        <content type="html"><![CDATA[온라인 커뮤니티 등에서 게시글을 쓰거나 댓글을 달지 않고 오직 게시물을 읽기만 하는 것을 의미함.]]></content>
+        <updated>2023-03-15T18:23:29.554Z</updated>
+        <content type="html"><![CDATA[국내 굴지의 대기업인 삼성, 현대, SK, LG를 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 꼽히는 기업들.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동슈501]]></title>
+        <title type="html"><![CDATA[탑꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-15T17:17:56.275Z</updated>
-        <content type="html"><![CDATA[2000년대 중후반, 당시 최고 인기 아이돌이었던 동방신기, 슈퍼주니어, SS501을 합쳐 부르는 말.]]></content>
+        <updated>2023-03-15T18:23:29.555Z</updated>
+        <content type="html"><![CDATA[탑로더 꾸미기의 줄임말. 포토 카드 케이스를 꾸미는 걸 말함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화력]]></title>
+        <title type="html"><![CDATA[댈컴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-15T17:17:56.277Z</updated>
-        <content type="html"><![CDATA[단체의 행동력. 머릿수로 결정되기 때문에 ‘화력을 모으자’는 말은 참여 인원을 최대한 모으자는 것과 같은 의미.]]></content>
+        <updated>2023-03-15T18:23:29.555Z</updated>
+        <content type="html"><![CDATA[‘대리 커스터마이징’의 줄임말. 대리로 남의 아바타를 디자인해주는 것을 뜻함.]]></content>
     </entry>
 </feed>
