@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-15T03:19:53.282Z</updated>
+    <updated>2023-03-15T04:23:01.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[국그릇핑크퐁]]></title>
+        <title type="html"><![CDATA[준등기깡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-15T03:19:45.515Z</updated>
-        <content type="html"><![CDATA[웃음 소리를 나타낸 유행어 ‘ㅋㅋ루삥뽕’을 변형해서 쓰는 말.]]></content>
+        <updated>2023-03-15T04:22:52.977Z</updated>
+        <content type="html"><![CDATA[준등기로 배송된 우편물을 뜯어보는 것. 10~20대는 포토 카드 등 소형 굿즈를 준등기로 거래하는 경우가 많아 생긴 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코끝모]]></title>
+        <title type="html"><![CDATA[파이프라인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-15T03:19:45.517Z</updated>
-        <content type="html"><![CDATA[코로나 끝나면 모이자를 줄인 신조어.]]></content>
+        <updated>2023-03-15T04:22:52.979Z</updated>
+        <content type="html"><![CDATA[돈이 들어오는 시스템, 수입원.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[멍]]></title>
+        <title type="html"><![CDATA[레게노]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-15T03:19:45.518Z</updated>
-        <content type="html"><![CDATA[불멍, 물멍, 숲멍 등 최근 MZ세대 사이에선 편안한 경관 앞에서 멍을 때리며 휴식을 취하는 것이 트렌드로 떠오름.]]></content>
+        <updated>2023-03-15T04:22:52.981Z</updated>
+        <content type="html"><![CDATA[레전드(Legend)의 D를 O로 잘못 읽은 말. 게임 스트리머 우왁굳의 방송에서 유래한 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[짠테크]]></title>
+        <title type="html"><![CDATA[공구]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-15T03:19:45.520Z</updated>
-        <content type="html"><![CDATA[단순히 안 써서 아끼는 것이 아니라 불필요한 소비를 줄이고 낭비를 최소화하여 재물을 모으는 것.]]></content>
+        <updated>2023-03-15T04:22:52.982Z</updated>
+        <content type="html"><![CDATA[공동구매의 줄임말. 비용 절감 등을 이유로 특정 물건을 단체로 사는 구매 방식.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내적 친밀감]]></title>
+        <title type="html"><![CDATA[솔플러]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-15T03:19:45.521Z</updated>
-        <content type="html"><![CDATA[실제로 알지는 못하지만 온라인 상에서 자주 소식을 접해서 내적으로 친밀감이 쌓였다는 뜻.]]></content>
+        <updated>2023-03-15T04:22:52.988Z</updated>
+        <content type="html"><![CDATA[혼자 활동을 즐기는 사람을 부르는 말. 주로 게임과 관련해서 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트친소]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-15T03:19:45.523Z</updated>
-        <content type="html"><![CDATA[‘트위터 친구를 소개 받습니다’의 줄임말. 트위터에서 공개적으로 친구를 모집하는 일을 뜻함.]]></content>
+        <updated>2023-03-15T04:22:52.990Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
 </feed>
