@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-22T03:18:55.247Z</updated>
+    <updated>2023-03-22T04:21:48.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[광공]]></title>
+        <title type="html"><![CDATA[스낵커블(snackable)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-22T03:18:46.860Z</updated>
-        <content type="html"><![CDATA[~에 대해 집착이 있는 사람을 뜻하는 MZ세대의 신조어.]]></content>
+        <updated>2023-03-22T04:21:40.121Z</updated>
+        <content type="html"><![CDATA[‘쉽고 빠르게 소비할 수 있는’이란 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[직관]]></title>
+        <title type="html"><![CDATA[뉴짤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-22T03:18:46.862Z</updated>
-        <content type="html"><![CDATA[직접 현장에 찾아가 운동 경기 등을 관람하는 일 ↔집관(집에서 관람)]]></content>
+        <updated>2023-03-22T04:21:40.123Z</updated>
+        <content type="html"><![CDATA[새로 뜬 사진, 새로 뜬 gif]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맞춤형 광고]]></title>
+        <title type="html"><![CDATA[에듀테이너]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-22T03:18:46.863Z</updated>
-        <content type="html"><![CDATA[이용자의 검색 기록, 구매 정보 등을 기반으로 노출되는 타깃 광고,]]></content>
+        <updated>2023-03-22T04:21:40.125Z</updated>
+        <content type="html"><![CDATA[교육 분야에서 활동하는 연예인 또는 엔터테이너. 에듀케이션(Education)과 엔터테이너(Entertainer)의 합성어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위버스]]></title>
+        <title type="html"><![CDATA[블챌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-22T03:18:46.865Z</updated>
-        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
+        <updated>2023-03-22T04:21:40.130Z</updated>
+        <content type="html"><![CDATA[‘블로그 챌린지’의 줄임말. 6월부터 12월까지 6개월간 진행되는 장기 프로젝트로 매주 지정된 카테고리에 한 건 이상의 일기를 작성해야 챌린지를 이어갈 수 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[떡밥]]></title>
+        <title type="html"><![CDATA[탑로더]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-22T03:18:46.868Z</updated>
-        <content type="html"><![CDATA[이야깃거리, 특히 덕질할 거리를 뜻하는 MZ세대 용어.]]></content>
+        <updated>2023-03-22T04:21:40.132Z</updated>
+        <content type="html"><![CDATA[위로 뚫려있는 입구로 사진이나 카드를 넣어 보관할 수 있는 플라스틱 재질의 보관함]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안읽씹]]></title>
+        <title type="html"><![CDATA[RT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-22T03:18:46.871Z</updated>
-        <content type="html"><![CDATA[메시지를 읽지도 않고 답장도 하지 않는 경우를 일컫는 표현.]]></content>
+        <updated>2023-03-22T04:21:40.136Z</updated>
+        <content type="html"><![CDATA[‘리트윗(ReTweet)’의 약자. 트위터에서 다른 계정의 게시물을 자신의 계정에 공유하는 기능을 의미함.]]></content>
     </entry>
 </feed>
