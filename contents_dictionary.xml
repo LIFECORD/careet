@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-30T20:19:14.573Z</updated>
+    <updated>2023-03-30T21:15:18.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[카공]]></title>
+        <title type="html"><![CDATA[상플]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-30T20:19:05.689Z</updated>
-        <content type="html"><![CDATA[카페에서 공부하는 것의 줄임말.]]></content>
+        <updated>2023-03-30T21:15:10.587Z</updated>
+        <content type="html"><![CDATA[‘상상 플레이’의 줄임말. MZ세대가 썰을 풀고 노는 문화를 칭하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프박]]></title>
+        <title type="html"><![CDATA[OOTD]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-30T20:19:05.691Z</updated>
-        <content type="html"><![CDATA[‘프린팅박스’의 줄임말.]]></content>
+        <updated>2023-03-30T21:15:10.588Z</updated>
+        <content type="html"><![CDATA[‘Outfit Of The Day’의 줄임말. 당일 또는 특정 상황에서 입은 자신의 옷차림을 촬영하여 소셜미디어에 업로드하는 행위.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[찐텐]]></title>
+        <title type="html"><![CDATA[시즈니]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-30T20:19:05.693Z</updated>
-        <content type="html"><![CDATA[‘진짜 텐션’의 줄임말. 꾸미지 않은 솔직한 분위기와 기분이 느껴진다는 뜻. 반대말은 ‘억텐(=억지 텐션)’.]]></content>
+        <updated>2023-03-30T21:15:10.589Z</updated>
+        <content type="html"><![CDATA[SM엔터테인먼트 보이그룹 NCT의 팬 ncitizen의 애칭.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나심비]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-30T20:19:05.695Z</updated>
-        <content type="html"><![CDATA[‘나’, ‘마음(心)’, ‘소비’의 합성어. 내 마음에 들면 지갑을 여는 소비 심리를 뜻함.]]></content>
+        <updated>2023-03-30T21:15:10.590Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[멍]]></title>
+        <title type="html"><![CDATA[얼죽코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-30T20:19:05.696Z</updated>
-        <content type="html"><![CDATA[불멍, 물멍, 숲멍 등 최근 MZ세대 사이에선 편안한 경관 앞에서 멍을 때리며 휴식을 취하는 것이 트렌드로 떠오름.]]></content>
+        <updated>2023-03-30T21:15:10.591Z</updated>
+        <content type="html"><![CDATA[‘얼죽코’란 얼어 죽어도 코트의 줄임말로, 날씨가 아주 추워도 코트 입는 것을 고집하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쫌쫌따리]]></title>
+        <title type="html"><![CDATA[오픈런]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-30T20:19:05.698Z</updated>
-        <content type="html"><![CDATA[아주 조금씩 틈틈이를 뜻하는 MZ세대 신조어.]]></content>
+        <updated>2023-03-30T21:15:10.592Z</updated>
+        <content type="html"><![CDATA[특정 상품을 구하기 위해 매장 오픈 시간 전에 줄을 서서 대기하는 행위. 공연계에서 쓰는 ‘오픈런’과는 다른 뜻.]]></content>
     </entry>
 </feed>
