@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-03-31T06:30:39.159Z</updated>
+    <updated>2023-03-31T07:16:41.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[안읽씹]]></title>
+        <title type="html"><![CDATA[웃음 벨]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-31T06:30:29.767Z</updated>
-        <content type="html"><![CDATA[메시지를 읽지도 않고 답장도 하지 않는 경우를 일컫는 표현.]]></content>
+        <updated>2023-03-31T07:16:33.443Z</updated>
+        <content type="html"><![CDATA[벨을 누르면 종소리가 나는 것처럼, 보기만 하면 웃음이 터지는 밈이나 짤을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어그로(aggro)]]></title>
+        <title type="html"><![CDATA[입덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-31T06:30:29.771Z</updated>
-        <content type="html"><![CDATA[상대의 관심을 끌거나 도발하기 위해 자극적인 행동을 하는 것을 뜻하는 인터넷 용어.]]></content>
+        <updated>2023-03-31T07:16:33.444Z</updated>
+        <content type="html"><![CDATA[入(들어갈 입) + 덕질의 합성어. ‘어떤 포인트에 반해서 덕질을 시작하게 되다’라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[솔플러]]></title>
+        <title type="html"><![CDATA[샤라웃]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-31T06:30:29.773Z</updated>
-        <content type="html"><![CDATA[혼자 활동을 즐기는 사람을 부르는 말. 주로 게임과 관련해서 쓰임.]]></content>
+        <updated>2023-03-31T07:16:33.446Z</updated>
+        <content type="html"><![CDATA[‘Shout Out’의 한국식 발음. 주로 &lt;쇼미더머니&gt; 같은 힙합 경연 프로그램에서 존중의 의미를 담아 상대를 언급하는 행위를 말함. 요즘엔 ‘널리 알리다’라는 뜻으로도 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쇼츠]]></title>
+        <title type="html"><![CDATA[잘알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-31T06:30:29.777Z</updated>
-        <content type="html"><![CDATA[유튜브에서 2021년 베타 출시한 숏폼 서비스.]]></content>
+        <updated>2023-03-31T07:16:33.447Z</updated>
+        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플로깅]]></title>
+        <title type="html"><![CDATA[망붕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-31T06:30:29.779Z</updated>
-        <content type="html"><![CDATA[줍다라는 뜻의 스웨덴어 ‘plocka upp’과  영단어 ‘jogging(조깅)’의 합성어. 조깅을 하면서 쓰레기를 줍는 운동을 뜻함. 최근 MZ세대 사이의 새로운 취미로 떠올랐음.]]></content>
+        <updated>2023-03-31T07:16:33.448Z</updated>
+        <content type="html"><![CDATA[‘망상 분자’를 ‘망상 붕자’로 발음을 뭉갠 것의 줄임말. 사실이 아니지만 믿고 싶어 하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈쿡]]></title>
+        <title type="html"><![CDATA[저메추]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-03-31T06:30:29.782Z</updated>
-        <content type="html"><![CDATA[집에서 하는 요리.]]></content>
+        <updated>2023-03-31T07:16:33.450Z</updated>
+        <content type="html"><![CDATA[‘저녁 메뉴 추천’의 줄임말. 뭘 먹으면 좋을지 상대에게 메뉴를 추천 받을 때 사용함. 비슷한 용어로 ‘점메추(점심 메뉴 추천)’가 있음.]]></content>
     </entry>
 </feed>
