@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-01T18:19:51.558Z</updated>
+    <updated>2023-04-01T19:13:13.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[엄빠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-01T18:19:43.713Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-04-01T19:13:05.300Z</updated>
+        <content type="html"><![CDATA[엄마 아빠를 함께 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코스프레]]></title>
+        <title type="html"><![CDATA[모먼트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-01T18:19:43.714Z</updated>
-        <content type="html"><![CDATA[‘코스튬 플레이(costume play)’의 줄임말. 게임·만화 속 캐릭터로 분장하고, 그들과 비슷한 행동을 흉내내는 것을 뜻함. 일종의 퍼포먼스라고 볼 수 있음.]]></content>
+        <updated>2023-04-01T19:13:05.304Z</updated>
+        <content type="html"><![CDATA[‘순간’을 뜻하는 영어 단어인 ‘moment’를 그대로 발음한 말. 특정한 모습이나 행동을 보여주는 순간들을 강조할 때 사용함. [용례] ‘OO적 모먼트’]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼빡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-01T18:19:43.715Z</updated>
+        <updated>2023-04-01T19:13:05.304Z</updated>
         <content type="html"><![CDATA[얼굴이 한 프레임에 가득 찼다는 뜻. 이렇게 나온 사진을 ‘얼빡샷’이라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알파세대]]></title>
+        <title type="html"><![CDATA[인플루언서블 세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-01T18:19:43.719Z</updated>
-        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
+        <updated>2023-04-01T19:13:05.304Z</updated>
+        <content type="html"><![CDATA[Influenceable + 世代 = 영향력 있는 세대라는 뜻. 대학내일20대연구소가 선정한 2021년 트렌드 키워드로, 자신의 영향력을 알고 행동하는 MZ세대를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[음성 도네이션]]></title>
+        <title type="html"><![CDATA[프롬]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-01T18:19:43.720Z</updated>
-        <content type="html"><![CDATA[주로 트위치 등 라이브 플랫폼에서 음성을 함께 보내는 후원 방식.]]></content>
+        <updated>2023-04-01T19:13:05.306Z</updated>
+        <content type="html"><![CDATA[미국 고등학교에서 학년의 마지막에 열리는 공식적인 댄스 파티. 서양 하이틴이 유행하면서 &lt;클루리스&gt; 등 하이틴 영화에 나오는 ‘프롬파티’ 소재가 Z세대의 뜨거운 관심을 받았음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디깅]]></title>
+        <title type="html"><![CDATA[드볼]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-01T18:19:43.722Z</updated>
-        <content type="html"><![CDATA[digging, 한글로 직역하면 ‘발굴’이라는 뜻. MZ세대 사이에선 흥미 있는 분야의 정보를 얻기 위해 이것저것 검색해보는 일을 의미함.]]></content>
+        <updated>2023-04-01T19:13:05.308Z</updated>
+        <content type="html"><![CDATA[포카, 스티커 등 여러 종으로 나온 굿즈를 모두 모으는 것을 만화 &lt;드래곤 볼&gt;에 빗대어 부르는 말.]]></content>
     </entry>
 </feed>
