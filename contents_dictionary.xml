@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-01T17:14:43.971Z</updated>
+    <updated>2023-04-01T18:19:51.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[스카]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-01T17:14:35.875Z</updated>
-        <content type="html"><![CDATA[스터디 카페의 줄임말.]]></content>
+        <updated>2023-04-01T18:19:43.713Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[필환경]]></title>
+        <title type="html"><![CDATA[코스프레]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-01T17:14:35.876Z</updated>
-        <content type="html"><![CDATA[필(必)과 환경의 합성어로 환경을 필수로 생각해야 한다는 뜻.]]></content>
+        <updated>2023-04-01T18:19:43.714Z</updated>
+        <content type="html"><![CDATA[‘코스튬 플레이(costume play)’의 줄임말. 게임·만화 속 캐릭터로 분장하고, 그들과 비슷한 행동을 흉내내는 것을 뜻함. 일종의 퍼포먼스라고 볼 수 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공스타그램]]></title>
+        <title type="html"><![CDATA[얼빡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-01T17:14:35.876Z</updated>
-        <content type="html"><![CDATA[공부와 인스타그램의 합성어. 공시생이나 수험생들이 공부 관련 콘텐츠를 올리는 인스타그램 계정을 일컫는 말.]]></content>
+        <updated>2023-04-01T18:19:43.715Z</updated>
+        <content type="html"><![CDATA[얼굴이 한 프레임에 가득 찼다는 뜻. 이렇게 나온 사진을 ‘얼빡샷’이라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[판 플레이]]></title>
+        <title type="html"><![CDATA[알파세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-01T17:14:35.877Z</updated>
-        <content type="html"><![CDATA[대학내일20대연구소가 정의한 2020 MZ세대 특징 중 하나. MZ세대가 스스로 참여할 수 있는 놀이 ‘판’을 만들어 즐기는 것을 의미함.]]></content>
+        <updated>2023-04-01T18:19:43.719Z</updated>
+        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트잘알]]></title>
+        <title type="html"><![CDATA[음성 도네이션]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-01T17:14:35.879Z</updated>
-        <content type="html"><![CDATA[‘잘 안다’, ‘잘 아는 사람’이라는 뜻의 신조어인 ‘잘알’ 앞에 ‘트렌드’의 앞 글자인 ‘트’가 붙은 형태. 즉, 트렌드를 잘 안다는 뜻.]]></content>
+        <updated>2023-04-01T18:19:43.720Z</updated>
+        <content type="html"><![CDATA[주로 트위치 등 라이브 플랫폼에서 음성을 함께 보내는 후원 방식.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갑분싸]]></title>
+        <title type="html"><![CDATA[디깅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-01T17:14:35.880Z</updated>
-        <content type="html"><![CDATA[‘갑자기 분위기 싸해짐’의 줄임말.]]></content>
+        <updated>2023-04-01T18:19:43.722Z</updated>
+        <content type="html"><![CDATA[digging, 한글로 직역하면 ‘발굴’이라는 뜻. MZ세대 사이에선 흥미 있는 분야의 정보를 얻기 위해 이것저것 검색해보는 일을 의미함.]]></content>
     </entry>
 </feed>
