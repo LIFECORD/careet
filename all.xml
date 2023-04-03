@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/careet/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-03T01:17:12.100Z</updated>
+    <updated>2023-04-03T02:33:09.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[요즘 가장 트렌디한 홍보 방식이 전단지라고? (Careet ─ Contents ─ 전체 보기)]]></title>
+        <id>https://www.careet.net/1055</id>
+        <link href="https://www.careet.net/1055"/>
+        <updated>2023-04-03T02:32:22.150Z</updated>
+        <content type="html"><![CDATA[이주의 일 잘한 브랜드: 클룹, 덴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한눈에 쏙! 이미지로 보는 분야별 1분기 트렌드 (Careet ─ Contents ─ 전체 보기)]]></title>
         <id>https://www.careet.net/1053</id>
@@ -159,146 +166,6 @@
         <content type="html"><![CDATA[Z세대가 지금 써도 된다고 컨펌해준 밈 모음]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2월 인급동 모아보기] 사내뷰공업, 킥서비스 인기 원인 분석해봄 (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1017</id>
-        <link href="https://www.careet.net/1017"/>
-        <updated>2023-02-28T01:28:15.332Z</updated>
-        <content type="html"><![CDATA[영상 콘텐츠 전문가가 분석한 유튜브 콘텐츠 트렌드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 뜨는 브랜드는 전시회를 한다? ‘전시 마케팅’ 레퍼런스 모음! (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1025</id>
-        <link href="https://www.careet.net/1025"/>
-        <updated>2023-02-27T03:23:43.278Z</updated>
-        <content type="html"><![CDATA[하리보부터 러쉬까지! Z세대가 브랜드 전시를 찾는 이유는?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이주의 유행템] 웹예능부터 숏폼까지, 요즘 Z세대가 보는 콘텐츠는? (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1024</id>
-        <link href="https://www.careet.net/1024"/>
-        <updated>2023-02-24T01:28:04.339Z</updated>
-        <content type="html"><![CDATA[캐릿이 대신 크리에이터 트렌드 모니터링해드립니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥스트 인생네컷! Z세대의 새로운 문화 ‘프린팅박스’를 소개합니다 (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1022</id>
-        <link href="https://www.careet.net/1022"/>
-        <updated>2023-02-23T01:25:47.605Z</updated>
-        <content type="html"><![CDATA[Z세대의 관심을 단번에 사로잡는 이벤트를 기획하고 싶다면?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N개국에서 앱스토어 차트 1위한 글로벌 Z세대 픽 앱은? (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1023</id>
-        <link href="https://www.careet.net/1023"/>
-        <updated>2023-02-22T01:26:34.137Z</updated>
-        <content type="html"><![CDATA[소셜 미디어부터 사진 앱까지 지금 뜨는 앱 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z세대 64.3% 메타버스 온라인 행사 불편하다고 느낀다 (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1019</id>
-        <link href="https://www.careet.net/1019"/>
-        <updated>2023-02-21T01:38:28.168Z</updated>
-        <content type="html"><![CDATA[메타버스 온라인 행사를 기획하신다면 필독!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매월 있는 기념일, 어떻게 챙겨야 주목 받을까? (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1021</id>
-        <link href="https://www.careet.net/1021"/>
-        <updated>2023-02-20T01:37:01.366Z</updated>
-        <content type="html"><![CDATA[Z세대가 꼽은 올해 발렌타인데이 마케팅 승자는?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 Z세대 여가 시간엔 다들 ‘이거’ 한대! 이주의 유행템 3 (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1020</id>
-        <link href="https://www.careet.net/1020"/>
-        <updated>2023-02-17T01:38:33.506Z</updated>
-        <content type="html"><![CDATA[온·오프라인을 망라한 Z세대 취미 유행템 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉿 여기서만 보세요! 14세 이하, 알파세대만 쓰는 앱 15 (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1016</id>
-        <link href="https://www.careet.net/1016"/>
-        <updated>2023-02-16T05:17:54.696Z</updated>
-        <content type="html"><![CDATA[Z세대 다음은 알파세대! 이제 알파세대 트렌드도 놓치면 안 됩니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 팀 막내는 잡무 시키는 걸 진짜 싫어할까? (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1018</id>
-        <link href="https://www.careet.net/1018"/>
-        <updated>2023-02-15T02:51:26.650Z</updated>
-        <content type="html"><![CDATA[Z세대 신입사원·인턴에게 적절한 잡무를 시키는 방법]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘토스’가 고객 데이터로 분석한 10대의 경제생활 (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1008</id>
-        <link href="https://www.careet.net/1008"/>
-        <updated>2023-02-14T01:37:00.354Z</updated>
-        <content type="html"><![CDATA[Z세대가 처음 돈을 벌기 시작한 나이는? 돈을 버는 방법은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롯데리아 vs 버거킹! 호평받은 온라인 마케팅 사례 (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1014</id>
-        <link href="https://www.careet.net/1014"/>
-        <updated>2023-02-13T01:37:03.513Z</updated>
-        <content type="html"><![CDATA[SNS 잘 활용해서 Z세대의 관심 끌어모은 패스트푸드 브랜드 사례 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘본디’가 뭐길래? 1020도 진짜 본디를 쓰는 걸까? (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1015</id>
-        <link href="https://www.careet.net/1015"/>
-        <updated>2023-02-10T02:54:34.951Z</updated>
-        <content type="html"><![CDATA[핫플로 떠오른 김밥집이 있다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z세대 20인 심층 인터뷰 “폰에서 절대 지우지 않는 자사앱 공통점은?” (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1002</id>
-        <link href="https://www.careet.net/1002"/>
-        <updated>2023-02-09T02:49:11.705Z</updated>
-        <content type="html"><![CDATA[자사앱·자사몰 유입 포인트 알려드립니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카드뉴스] 이미지로 한눈에 보는 분야별 MZ세대 데이터 모음.zip (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1011</id>
-        <link href="https://www.careet.net/1011"/>
-        <updated>2023-02-08T07:18:15.849Z</updated>
-        <content type="html"><![CDATA[취미여가·메타버스·반려동물 등 총 5가지 분야의 데이터를 엄선했습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그랑핸드는 어떻게 광고 모델도 없이 Z세대의 ‘손민수템’이 되었을까 (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1004</id>
-        <link href="https://www.careet.net/1004"/>
-        <updated>2023-02-07T01:24:53.513Z</updated>
-        <content type="html"><![CDATA[제품 소개 페이지부터→오프라인 장치까지, 뉴 힙 브랜드의 인기 비결은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“요즘 신입사원 정말 이래? 내가 꼰대인 건가?” Z세대가 답해드립니다. (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1007</id>
-        <link href="https://www.careet.net/1007"/>
-        <updated>2023-02-06T01:23:48.110Z</updated>
-        <content type="html"><![CDATA[출근 시간, 회식 등 각종 사내 세대 갈등에 대한 Z세대의 생각은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘공포 스마일 필터’부터 ‘메이브’까지! 이번 주 Z세대 이슈 1분 만에 훑기 (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1005</id>
-        <link href="https://www.careet.net/1005"/>
-        <updated>2023-02-03T01:36:37.588Z</updated>
-        <content type="html"><![CDATA[Z세대는 과연 어떤 유행템에 반응했을까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광고주 주목! 2023 라이징 유튜브 채널, 캐릿이 예언해드립니다 (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/990</id>
-        <link href="https://www.careet.net/990"/>
-        <updated>2023-02-02T02:46:17.093Z</updated>
-        <content type="html"><![CDATA[Z세대 소비자의 관심을 받고 싶다면? ‘이 채널’에 PPL 하세요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대세는 힙성비! 적은 예산으로 시도할 수 있는 공간 기획 아이디어 (Careet ─ Contents ─ 전체 보기)]]></title>
-        <id>https://www.careet.net/1001</id>
-        <link href="https://www.careet.net/1001"/>
-        <updated>2023-02-01T02:56:51.184Z</updated>
-        <content type="html"><![CDATA[적은 비용으로 공간에 힙 지수 더하는 방법 5]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[요즘 밈 7개 속성 과외! 퀴즈 풀면서 재미있게 유행어 공부하기 (Careet ─ Contents ─ 요즘 뜨는 밈)]]></title>
         <id>https://www.careet.net/1048</id>
         <link href="https://www.careet.net/1048"/>
@@ -383,6 +250,13 @@
         <content type="html"><![CDATA[사회적인 편견을 깨는 가사에 주목하는 Z세대]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[요즘 가장 트렌디한 홍보 방식이 전단지라고? (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
+        <id>https://www.careet.net/1055</id>
+        <link href="https://www.careet.net/1055"/>
+        <updated>2023-04-03T02:32:47.935Z</updated>
+        <content type="html"><![CDATA[이주의 일 잘한 브랜드: 클룹, 덴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[레퍼런스로 킵! 참고하기 좋은 영화 마케팅 사례 모음 (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
         <id>https://www.careet.net/1050</id>
         <link href="https://www.careet.net/1050"/>
@@ -418,13 +292,6 @@
         <content type="html"><![CDATA[하리보부터 러쉬까지! Z세대가 브랜드 전시를 찾는 이유는?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매월 있는 기념일, 어떻게 챙겨야 주목 받을까? (Careet ─ Contents ─ 이주의 일 잘한 브랜드)]]></title>
-        <id>https://www.careet.net/1021</id>
-        <link href="https://www.careet.net/1021"/>
-        <updated>2023-02-20T01:37:01.366Z</updated>
-        <content type="html"><![CDATA[Z세대가 꼽은 올해 발렌타인데이 마케팅 승자는?]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오비맥주, 카스화이트X번개장터 팝업 오픈 (Careet ─ Contents ─ 캐릿픽 오늘의 뉴스)]]></title>
         <id>https://biz.chosun.com/distribution/food/2023/03/31/7KGQHR7Z4RHF5BMDLACLAHR3P4/?utm_source=naver&amp;utm_medium=original&amp;utm_campaign=biz</id>
         <link href="https://biz.chosun.com/distribution/food/2023/03/31/7KGQHR7Z4RHF5BMDLACLAHR3P4/?utm_source=naver&amp;utm_medium=original&amp;utm_campaign=biz"/>
@@ -435,129 +302,129 @@
                                                 <a href="https://biz.chosun.com/distribution/food/2023/03/31/7KGQHR7Z4RHF5BMDLACLAHR3P4/?utm_source=naver&amp;utm_medium=original&amp;utm_campaign=biz" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소취 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[짬바 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:03.262Z</updated>
-        <content type="html"><![CDATA[소원 성취의 줄임말. ‘바라다’라는 뜻의 신조어.]]></content>
+        <updated>2023-04-03T02:33:01.332Z</updated>
+        <content type="html"><![CDATA[짬에서 나오는 바이브의 줄임말. 연륜과 비슷한 의미로 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탭꾸 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[인플루언서블 세대 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:03.264Z</updated>
-        <content type="html"><![CDATA[태블릿 pc 화면 꾸미기]]></content>
+        <updated>2023-04-03T02:33:01.333Z</updated>
+        <content type="html"><![CDATA[Influenceable + 世代 = 영향력 있는 세대라는 뜻. 대학내일20대연구소가 선정한 2021년 트렌드 키워드로, 자신의 영향력을 알고 행동하는 MZ세대를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팅글 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[ㄱㅇㅇ (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:03.266Z</updated>
-        <content type="html"><![CDATA['기분 좋은 소름'을 뜻하는 ASMR 용어.]]></content>
+        <updated>2023-04-03T02:33:01.335Z</updated>
+        <content type="html"><![CDATA[‘귀여워’를 초성만으로 표현한 단어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[롤드컵 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[알못 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:03.268Z</updated>
-        <content type="html"><![CDATA[게임 ‘리그오브레전드(LoL) 월드 챔피언십’을 가리키는 말.  ‘리그오브레전드’로 펼치는 e스포츠 대회를 뜻함.]]></content>
+        <updated>2023-04-03T02:33:01.337Z</updated>
+        <content type="html"><![CDATA[어떤 분야에 대해 잘 알지 못하는 사람을 부르는 말↔잘알]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다꾸 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[까방 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:03.271Z</updated>
-        <content type="html"><![CDATA[다이어리 꾸미기의 줄임말.]]></content>
+        <updated>2023-04-03T02:33:01.339Z</updated>
+        <content type="html"><![CDATA[까임방지의 줄임말. 타인이나 사회의 비난을 미리 피하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서사 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[파티원 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:03.271Z</updated>
-        <content type="html"><![CDATA[어떤 인물에게 부여된 스토리.]]></content>
+        <updated>2023-04-03T02:33:01.341Z</updated>
+        <content type="html"><![CDATA[게임 용어로 함께 퀘스트를 깨러 갈 팀원이라는 의미.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[요즘엔 띠부띠부씰 대신 부적 모은다고? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:11.140Z</updated>
+        <updated>2023-04-03T02:33:08.466Z</updated>
         <content type="html"><![CDATA[vol.151]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 캐릿은 아이템 어떻게 찾는지 썰푼다 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:11.141Z</updated>
+        <updated>2023-04-03T02:33:08.469Z</updated>
         <content type="html"><![CDATA[vol.150]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디토·오쏘몰·분모자의 공통점은? 힌트. 최신 밈 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:11.142Z</updated>
+        <updated>2023-04-03T02:33:08.470Z</updated>
         <content type="html"><![CDATA[vol.149]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 반말 선배 vs 존댓말 선배 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:11.142Z</updated>
+        <updated>2023-04-03T02:33:08.471Z</updated>
         <content type="html"><![CDATA[vol.148]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넥스트 인생네컷은 뭘까? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:11.142Z</updated>
+        <updated>2023-04-03T02:33:08.472Z</updated>
         <content type="html"><![CDATA[vol.147]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 10대 청소년 경제력의 비밀은 OO? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:11.144Z</updated>
+        <updated>2023-04-03T02:33:08.474Z</updated>
         <content type="html"><![CDATA[vol.146]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🥕 한정판🥕 Z세대 특징 MBTI처럼 정리함 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:11.145Z</updated>
+        <updated>2023-04-03T02:33:08.475Z</updated>
         <content type="html"><![CDATA[vol.145]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 힙한 기획하고 싶은데 예산이 없어 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:11.146Z</updated>
+        <updated>2023-04-03T02:33:08.476Z</updated>
         <content type="html"><![CDATA[vol.144]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🙋 Z세대 "이런 제휴 혜택 있으면 서비스 갈아탐" (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:11.148Z</updated>
+        <updated>2023-04-03T02:33:08.477Z</updated>
         <content type="html"><![CDATA[vol.143]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 갓생 트렌드는 올해도 지속될까? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:11.149Z</updated>
+        <updated>2023-04-03T02:33:08.480Z</updated>
         <content type="html"><![CDATA[vol.142]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고 포함) 선착순 무나! Z세대 이슈 캘린더 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:11.150Z</updated>
+        <updated>2023-04-03T02:33:08.480Z</updated>
         <content type="html"><![CDATA[vol.141]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“뉴진스의 하입보이요” 밈은 어디서 나온 거야? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-04-03T01:17:11.151Z</updated>
+        <updated>2023-04-03T02:33:08.481Z</updated>
         <content type="html"><![CDATA[vol.140]]></content>
     </entry>
 </feed>
