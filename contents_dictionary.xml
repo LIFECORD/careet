@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-04T23:16:43.742Z</updated>
+    <updated>2023-04-05T01:07:44.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[MZ세대]]></title>
+        <title type="html"><![CDATA[구독팟]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-04T23:16:35.540Z</updated>
-        <content type="html"><![CDATA[1980년 초반부터 2000년대 중반 사이에 태어난 밀레니얼 세대와 Z세대를 통칭하는 말.]]></content>
+        <updated>2023-04-05T01:07:35.833Z</updated>
+        <content type="html"><![CDATA[‘구독 파티원’의 줄임말. 구독료를 1/N 내고 사용하기 위해 여러 명이서 구독 서비스를 신청하는 MZ세대 문화를 나타냄.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실사]]></title>
+        <title type="html"><![CDATA[액괴 유튜버]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-04T23:16:35.540Z</updated>
-        <content type="html"><![CDATA[‘실제 사진’의 줄임말]]></content>
+        <updated>2023-04-05T01:07:35.834Z</updated>
+        <content type="html"><![CDATA[액괴란 액체괴물(슬라임)의 줄임말임. 액괴 유튜버란 ‘슬라임’을 만지고 노는 콘텐츠를 주로 업로드하는 유튜버를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초멘]]></title>
+        <title type="html"><![CDATA[손민수]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-04T23:16:35.540Z</updated>
-        <content type="html"><![CDATA[안면이 없다는 뜻의 ‘초면’과 ‘멘션을 합친 트위터 용어.]]></content>
+        <updated>2023-04-05T01:07:35.834Z</updated>
+        <content type="html"><![CDATA[웹툰 &lt;치즈인더트랩&gt;의 등장인물로 주인공 홍설을 몰래 따라하는 캐릭터. MZ세대 사이에서 ‘따라한다’ = ‘손민수 한다’로 통함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[필환경]]></title>
+        <title type="html"><![CDATA[킹받는다]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-04T23:16:35.540Z</updated>
-        <content type="html"><![CDATA[필(必)과 환경의 합성어로 환경을 필수로 생각해야 한다는 뜻.]]></content>
+        <updated>2023-04-05T01:07:35.837Z</updated>
+        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사바사]]></title>
+        <title type="html"><![CDATA[PTSD]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-04T23:16:35.542Z</updated>
-        <content type="html"><![CDATA[‘사람 by 사람’의 줄임말. 사람마다 다 다르다는 것을 의미함.]]></content>
+        <updated>2023-04-05T01:07:35.840Z</updated>
+        <content type="html"><![CDATA[외상 후 스트레스 장애의 약자. 일상에서는 “과거의 (안 좋은) 경험이 떠올라서 소름 돋는다.”라는 뉘앙스로 활용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[망붕]]></title>
+        <title type="html"><![CDATA[하이라이트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-04T23:16:35.544Z</updated>
-        <content type="html"><![CDATA[‘망상 분자’를 ‘망상 붕자’로 발음을 뭉갠 것의 줄임말. 사실이 아니지만 믿고 싶어 하는 것을 의미함.]]></content>
+        <updated>2023-04-05T01:07:35.843Z</updated>
+        <content type="html"><![CDATA[인스타 스토리를 프로필란에 고정할 수 있는 기능.]]></content>
     </entry>
 </feed>
