@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-06T20:17:43.408Z</updated>
+    <updated>2023-04-06T21:13:49.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[컨포]]></title>
+        <title type="html"><![CDATA[좋댓공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-06T20:17:35.162Z</updated>
-        <content type="html"><![CDATA[‘컨셉 포토’의 줄임말. 아이돌 앨범에 함께 포함되어 있는 사진을 뜻함.]]></content>
+        <updated>2023-04-06T21:13:41.495Z</updated>
+        <content type="html"><![CDATA[SNS 게시물에 좋아요 누르고, 공유하고, 댓글을 달아 달라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비상이다]]></title>
+        <title type="html"><![CDATA[P2P]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-06T20:17:35.163Z</updated>
-        <content type="html"><![CDATA[MZ세대가 감동적인 상황에서 사용하는 유행어. 한 익명게시판의 썰에서 유래됨.]]></content>
+        <updated>2023-04-06T21:13:41.495Z</updated>
+        <content type="html"><![CDATA[금융기관을 거치지 않고 개인과 개인이 온라인 플랫폼을 통해 자금을 빌려주고 이에 대한 이자를 받는 방식.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웃참]]></title>
+        <title type="html"><![CDATA[FOMO]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-06T20:17:35.163Z</updated>
-        <content type="html"><![CDATA[‘웃음 참기’의 줄임말. 웃기지만 웃어서 안되는 일이 있을 때 ‘웃음 참기 챌린지’를 한다고 표현하기도 함.]]></content>
+        <updated>2023-04-06T21:13:41.496Z</updated>
+        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[샤라웃]]></title>
+        <title type="html"><![CDATA[갓성비]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-06T20:17:35.168Z</updated>
-        <content type="html"><![CDATA[‘Shout Out’의 한국식 발음. 주로 &lt;쇼미더머니&gt; 같은 힙합 경연 프로그램에서 존중의 의미를 담아 상대를 언급하는 행위를 말함. 요즘엔 ‘널리 알리다’라는 뜻으로도 사용됨.]]></content>
+        <updated>2023-04-06T21:13:41.496Z</updated>
+        <content type="html"><![CDATA[대단한 존재를 ‘갓(god)+OO’이라고 부르는 MZ세대의 언어 습관에서 유래된 말로, 가성비를 뛰어넘는 혜택을 느낄 때 쓰는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[0차]]></title>
+        <title type="html"><![CDATA[프사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-06T20:17:35.168Z</updated>
-        <content type="html"><![CDATA[1차로 방문할 예정인 핫플레이스에 웨이팅이 길 경우, 대기를 걸어두고 방문하는 주변 공간을 가리킴.]]></content>
+        <updated>2023-04-06T21:13:41.497Z</updated>
+        <content type="html"><![CDATA[‘프로필 사진’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[릴스]]></title>
+        <title type="html"><![CDATA[알파 세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-06T20:17:35.168Z</updated>
-        <content type="html"><![CDATA[인스타그램에서 2021년 출시한 숏폼 서비스.]]></content>
+        <updated>2023-04-06T21:13:41.499Z</updated>
+        <content type="html"><![CDATA[2010년 이후 출생자, 즉 Z세대 이후 세대를 부르는 말.]]></content>
     </entry>
 </feed>
