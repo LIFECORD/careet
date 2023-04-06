@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-06T21:13:49.529Z</updated>
+    <updated>2023-04-06T22:16:21.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[좋댓공]]></title>
+        <title type="html"><![CDATA[플래그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-06T21:13:41.495Z</updated>
-        <content type="html"><![CDATA[SNS 게시물에 좋아요 누르고, 공유하고, 댓글을 달아 달라는 뜻.]]></content>
+        <updated>2023-04-06T22:16:13.645Z</updated>
+        <content type="html"><![CDATA[앞날을 암시하는 복선의 의미로 사용됨. (용례: 가지 말라는 데 꼭 가네? 사망 플래그다!)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[P2P]]></title>
+        <title type="html"><![CDATA[일잘러]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-06T21:13:41.495Z</updated>
-        <content type="html"><![CDATA[금융기관을 거치지 않고 개인과 개인이 온라인 플랫폼을 통해 자금을 빌려주고 이에 대한 이자를 받는 방식.]]></content>
+        <updated>2023-04-06T22:16:13.647Z</updated>
+        <content type="html"><![CDATA[일 잘하는 사람을 뜻하는 신조어]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FOMO]]></title>
+        <title type="html"><![CDATA[금손]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-06T21:13:41.496Z</updated>
-        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
+        <updated>2023-04-06T22:16:13.655Z</updated>
+        <content type="html"><![CDATA[손재주가 좋은 사람을 일컫는 말. 반대말은 똥손.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갓성비]]></title>
+        <title type="html"><![CDATA[그라폴리오]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-06T21:13:41.496Z</updated>
-        <content type="html"><![CDATA[대단한 존재를 ‘갓(god)+OO’이라고 부르는 MZ세대의 언어 습관에서 유래된 말로, 가성비를 뛰어넘는 혜택을 느낄 때 쓰는 말.]]></content>
+        <updated>2023-04-06T22:16:13.657Z</updated>
+        <content type="html"><![CDATA[네이버의 웹서비스 중 하나로 전 세계 크리에이터들의 작품을 발견, 공유하고 사고팔 수 있는 창작 콘텐츠 커뮤니티.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프사]]></title>
+        <title type="html"><![CDATA[컨셉러]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-06T21:13:41.497Z</updated>
-        <content type="html"><![CDATA[‘프로필 사진’의 줄임말.]]></content>
+        <updated>2023-04-06T22:16:13.659Z</updated>
+        <content type="html"><![CDATA[‘콘셉트(concept)’와 ‘~하는 사람(-er)’의 합성어로, 자신만의 설정을 만들어 행동하는 사람을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알파 세대]]></title>
+        <title type="html"><![CDATA[근자감]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-06T21:13:41.499Z</updated>
-        <content type="html"><![CDATA[2010년 이후 출생자, 즉 Z세대 이후 세대를 부르는 말.]]></content>
+        <updated>2023-04-06T22:16:13.661Z</updated>
+        <content type="html"><![CDATA[근거 없는 자신감의 줄임말.]]></content>
     </entry>
 </feed>
