@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-10T06:22:07.466Z</updated>
+    <updated>2023-04-10T07:16:10.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[탭꾸]]></title>
+        <title type="html"><![CDATA[플래그]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-10T06:21:58.943Z</updated>
-        <content type="html"><![CDATA[태블릿 pc 화면 꾸미기]]></content>
+        <updated>2023-04-10T07:16:01.938Z</updated>
+        <content type="html"><![CDATA[앞날을 암시하는 복선의 의미로 사용됨. (용례: 가지 말라는 데 꼭 가네? 사망 플래그다!)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코 세 글자]]></title>
+        <title type="html"><![CDATA[불펌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-10T06:21:58.944Z</updated>
-        <content type="html"><![CDATA[MZ세대가 코로나19를 일컫는 말. 트위터에서 ‘코로나’라는 단어를 사용하면 계정이 잠기는 일이 발생해 코로나를 대체하는 표현으로 사용되기 시작함.]]></content>
+        <updated>2023-04-10T07:16:01.939Z</updated>
+        <content type="html"><![CDATA[인터넷상에서, 불법으로 다른 사람의 게시물을 그대로 가져오거나 가져가는 일. ‘불법 퍼 옴’의 줄인 말이다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[솜뭉치]]></title>
+        <title type="html"><![CDATA[스낵커블(snackable)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-10T06:21:58.946Z</updated>
-        <content type="html"><![CDATA[MZ세대가 ‘인형’을 부르는 애칭.]]></content>
+        <updated>2023-04-10T07:16:01.939Z</updated>
+        <content type="html"><![CDATA[‘쉽고 빠르게 소비할 수 있는’이란 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[씽크빅]]></title>
+        <title type="html"><![CDATA[판 플레이]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-10T06:21:58.946Z</updated>
-        <content type="html"><![CDATA[학습지 이름 ‘씽크빅’에서 유래한 표현. 창의력이 뛰어난 대상을 칭찬할 때 쓰인다. “어릴 때 씽크빅 좀 했나 봐?”라는 문장에서 파생돼 “오, 씽크빅!”같은 감탄사로도 쓰임.]]></content>
+        <updated>2023-04-10T07:16:01.941Z</updated>
+        <content type="html"><![CDATA[대학내일20대연구소가 정의한 2020 MZ세대 특징 중 하나. MZ세대가 스스로 참여할 수 있는 놀이 ‘판’을 만들어 즐기는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알파세대]]></title>
+        <title type="html"><![CDATA[불판]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-10T06:21:58.949Z</updated>
-        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
+        <updated>2023-04-10T07:16:01.944Z</updated>
+        <content type="html"><![CDATA[하나의 게시물 안에서 주제를 정해놓고 댓글로 의견을 주고받는 커뮤니티 문화.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[본캐]]></title>
+        <title type="html"><![CDATA[세포마켓]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-10T06:21:58.950Z</updated>
-        <content type="html"><![CDATA[‘본래의 캐릭터’의 줄임말.]]></content>
+        <updated>2023-04-10T07:16:01.944Z</updated>
+        <content type="html"><![CDATA[1인 미디어 시대에서 SNS를 통해 이뤄지는 1인 마켓. 기업 단위가 아닌 1인 사업자가 주를 이뤄 세포가 분열하는 것처럼 개인 단위로 발전하는 현상을 뜻함.]]></content>
     </entry>
 </feed>
