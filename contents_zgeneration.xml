@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/2</id>
     <title>Careet ─ Contents ─ Z세대 최신 근황</title>
-    <updated>2023-04-12T23:17:01.899Z</updated>
+    <updated>2023-04-13T01:17:02.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넥스트 틱톡 등장! 10대 10명 중 10명이 사용한다는 앱, ‘캡컷’이 뭐야?]]></title>
+        <id>https://www.careet.net/1061</id>
+        <link href="https://www.careet.net/1061"/>
+        <updated>2023-04-13T01:16:31.644Z</updated>
+        <content type="html"><![CDATA[틱톡을 제치고 성장 중이라는 앱, 캡컷에 대한 모든 것]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고등학교 인기 동아리를 보면 10대 트렌드가 보인다! 인기 동아리.list]]></title>
         <id>https://www.careet.net/1056</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/963"/>
         <updated>2022-12-08T01:25:47.859Z</updated>
         <content type="html"><![CDATA[Z세대가 월드컵을 즐기는 새로운 방법 4]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컷세권부터 햇세권까지. Z세대가 지갑 여는 O세권은?]]></title>
-        <id>https://www.careet.net/943</id>
-        <link href="https://www.careet.net/943"/>
-        <updated>2022-12-02T08:23:21.633Z</updated>
-        <content type="html"><![CDATA[편세권 킥세권에 이은 Z세대 필수 인프라 정리해드림]]></content>
     </entry>
 </feed>
