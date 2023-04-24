@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-24T04:21:18.918Z</updated>
+    <updated>2023-04-24T05:17:15.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[실사]]></title>
+        <title type="html"><![CDATA[POV]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-24T04:21:10.804Z</updated>
-        <content type="html"><![CDATA[‘실제 사진’의 줄임말]]></content>
+        <updated>2023-04-24T05:17:07.166Z</updated>
+        <content type="html"><![CDATA[시점이라는 뜻의 ‘Point of View’의 약어. 주로 틱톡에서 상황극을 부르는 말로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안읽씹]]></title>
+        <title type="html"><![CDATA[사바사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-24T04:21:10.806Z</updated>
-        <content type="html"><![CDATA[메시지를 읽지도 않고 답장도 하지 않는 경우를 일컫는 표현.]]></content>
+        <updated>2023-04-24T05:17:07.166Z</updated>
+        <content type="html"><![CDATA[‘사람 by 사람’의 줄임말. 사람마다 다 다르다는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈쿡]]></title>
+        <title type="html"><![CDATA[관종]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-24T04:21:10.807Z</updated>
-        <content type="html"><![CDATA[집에서 하는 요리.]]></content>
+        <updated>2023-04-24T05:17:07.166Z</updated>
+        <content type="html"><![CDATA['관심 종자'의 줄임말. 유난히 튀는 행동이나 말을 많이 하는 사람을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혼사]]></title>
+        <title type="html"><![CDATA[짠테크]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-24T04:21:10.809Z</updated>
-        <content type="html"><![CDATA[‘혼자 사진 찍는다’의 줄임말. 인생네컷, 포토이즘 등의 포토부스에서 혼자 N컷 사진을 촬영하는 것을 뜻함.]]></content>
+        <updated>2023-04-24T05:17:07.167Z</updated>
+        <content type="html"><![CDATA[단순히 안 써서 아끼는 것이 아니라 불필요한 소비를 줄이고 낭비를 최소화하여 재물을 모으는 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도믿맨]]></title>
+        <title type="html"><![CDATA[나심비]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-24T04:21:10.813Z</updated>
-        <content type="html"><![CDATA[‘도를 아십니까’라는 말과 함께 전도하려는 사람들을 뜻하는 말.]]></content>
+        <updated>2023-04-24T05:17:07.169Z</updated>
+        <content type="html"><![CDATA[‘나’, ‘마음(心)’, ‘소비’의 합성어. 내 마음에 들면 지갑을 여는 소비 심리를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[찐친]]></title>
+        <title type="html"><![CDATA[안 고독한 채팅방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-24T04:21:10.813Z</updated>
-        <content type="html"><![CDATA[‘진짜 친한 친구’를 뜻함.]]></content>
+        <updated>2023-04-24T05:17:07.171Z</updated>
+        <content type="html"><![CDATA[대화가 없는 고독한 채팅방과 달리, 대화도 하며 특정 연예인의 짤(이미지)도 공유하는 카카오톡 오픈 채팅방.]]></content>
     </entry>
 </feed>
