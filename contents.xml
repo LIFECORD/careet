@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-04-26T23:18:34.987Z</updated>
+    <updated>2023-04-27T01:20:29.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Z세대 81.6%는 팝업스토어 여는 브랜드를 긍정적으로 평가한다. 왜일까?]]></title>
+        <id>https://www.careet.net/1070</id>
+        <link href="https://www.careet.net/1070"/>
+        <updated>2023-04-27T01:19:37.079Z</updated>
+        <content type="html"><![CDATA[이제 Z세대 외출 코스는 ‘밥-팝업스토어-카페-영화관’입니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Z세대 취업 준비생이 현직자에게 궁금한 것 5가지]]></title>
         <id>https://www.careet.net/1067</id>
