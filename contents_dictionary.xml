@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-29T22:15:20.732Z</updated>
+    <updated>2023-04-29T23:16:33.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[인싸]]></title>
+        <title type="html"><![CDATA[쫌쫌따리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-29T22:15:12.416Z</updated>
-        <content type="html"><![CDATA[‘인사이더(insider)’를 줄인 한국식 영어 표현. 사람들과 잘 어울리며 발이 넓은 사람을 뜻함.]]></content>
+        <updated>2023-04-29T23:16:25.369Z</updated>
+        <content type="html"><![CDATA[아주 조금씩 틈틈이를 뜻하는 MZ세대 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포카]]></title>
+        <title type="html"><![CDATA[민경버스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-29T22:15:12.425Z</updated>
-        <content type="html"><![CDATA[포토 카드의 줄임말. 얼굴이 인쇄 된 명함 사이즈의 카드를 의미한다. 요즘 아이돌 앨범에 필수로 들어있는 굿즈임.]]></content>
+        <updated>2023-04-29T23:16:25.370Z</updated>
+        <content type="html"><![CDATA[개그우먼 ‘김민경’과 ‘유니버스’의 합성어. ‘하하버스’의 뒤를 잇는 세계관으로 ‘그냥 하면 다 잘하는데, 정작 본인은 모르는 채로 살아온 세계관’을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브이라이브]]></title>
+        <title type="html"><![CDATA[프롬]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-29T22:15:12.426Z</updated>
-        <content type="html"><![CDATA[네이버의 실시간 방송 플랫폼. 스타와 팬과 소통하는 창구로 쓰임.]]></content>
+        <updated>2023-04-29T23:16:25.372Z</updated>
+        <content type="html"><![CDATA[미국 고등학교에서 학년의 마지막에 열리는 공식적인 댄스 파티. 서양 하이틴이 유행하면서 &lt;클루리스&gt; 등 하이틴 영화에 나오는 ‘프롬파티’ 소재가 Z세대의 뜨거운 관심을 받았음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원툴]]></title>
+        <title type="html"><![CDATA[실친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-29T22:15:12.426Z</updated>
-        <content type="html"><![CDATA[(one tool) 한 가지만 잘 한다는 말.]]></content>
+        <updated>2023-04-29T23:16:25.373Z</updated>
+        <content type="html"><![CDATA[실제 친구의 줄임말. 온라인에서 사귄 친구가 아니라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[일코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-29T22:15:12.427Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+        <updated>2023-04-29T23:16:25.374Z</updated>
+        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리퍼브]]></title>
+        <title type="html"><![CDATA[팔로인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-29T22:15:12.429Z</updated>
-        <content type="html"><![CDATA[반품됐거나, 외관상 약간의 흠집 또는 하자가 있어 정상가로 판매하지 못하는 제품.]]></content>
+        <updated>2023-04-29T23:16:25.376Z</updated>
+        <content type="html"><![CDATA[follow(따르다) + 人(사람)의 합성어로, 신뢰하는 사람을 통해 정보를 얻는 MZ세대를 가리키는 말.]]></content>
     </entry>
 </feed>
