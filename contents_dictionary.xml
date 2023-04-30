@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-04-30T18:19:44.507Z</updated>
+    <updated>2023-04-30T19:13:41.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[서이추]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-30T18:19:36.454Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+        <updated>2023-04-30T19:13:33.120Z</updated>
+        <content type="html"><![CDATA[‘서로 이웃 추가’의 줄임말. 네이버 블로그에서 쓰이는 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FOMO]]></title>
+        <title type="html"><![CDATA[껄무새]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-30T18:19:36.455Z</updated>
-        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
+        <updated>2023-04-30T19:13:33.121Z</updated>
+        <content type="html"><![CDATA[앵무새처럼 ‘~살걸’, ‘~팔걸’을 반복하는 개인 투자자를 뜻함. (EX. 오늘 AA전자 주식 올랐네? 어제 살 걸.)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프사]]></title>
+        <title type="html"><![CDATA[취뽀]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-30T18:19:36.456Z</updated>
-        <content type="html"><![CDATA[‘프로필 사진’의 줄임말.]]></content>
+        <updated>2023-04-30T19:13:33.122Z</updated>
+        <content type="html"><![CDATA[‘취업 뽀개기’의 줄임말. 취업에 성공했을 때 ‘취뽀했다’라고 함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[킹받는다]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-30T18:19:36.458Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-04-30T19:13:33.124Z</updated>
+        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공스타그램]]></title>
+        <title type="html"><![CDATA[뇌이징]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-30T18:19:36.459Z</updated>
-        <content type="html"><![CDATA[공부와 인스타그램의 합성어. 공시생이나 수험생들이 공부 관련 콘텐츠를 올리는 인스타그램 계정을 일컫는 말.]]></content>
+        <updated>2023-04-30T19:13:33.125Z</updated>
+        <content type="html"><![CDATA[‘뇌+에이징’의 합성어. 처음 봤을 때 이상하던 디자인이 보면 볼수록 예뻐 보일 때 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사이다 서사]]></title>
+        <title type="html"><![CDATA[혼사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-04-30T18:19:36.461Z</updated>
-        <content type="html"><![CDATA[기승전결을 빠르게 진행하는 서사 전개 형식. 독자가 보기에 답답하거나 전개가 느린 구간이 최소화되었음을 탄산음료의 시원함에 비유한 용어.]]></content>
+        <updated>2023-04-30T19:13:33.127Z</updated>
+        <content type="html"><![CDATA[‘혼자 사진 찍는다’의 줄임말. 인생네컷, 포토이즘 등의 포토부스에서 혼자 N컷 사진을 촬영하는 것을 뜻함.]]></content>
     </entry>
 </feed>
