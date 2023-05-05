@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-05-05T16:22:19.124Z</updated>
+    <updated>2023-05-05T17:15:17.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[최애]]></title>
+        <title type="html"><![CDATA[오늘의집]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-05T16:22:11.110Z</updated>
-        <content type="html"><![CDATA[MZ세대가 최고로 사랑하는 대상, 1순위를 부르는 말.]]></content>
+        <updated>2023-05-05T17:15:10.039Z</updated>
+        <content type="html"><![CDATA[MZ세대가 푹 빠져 있는 인테리어 플랫폼. ‘오늘의집’에서 자주 보이는 스타일로 꾸민 것을 ‘오늘의집st’라고 부름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군백기]]></title>
+        <title type="html"><![CDATA[유튜브 프리미엄]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-05T16:22:11.112Z</updated>
-        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
+        <updated>2023-05-05T17:15:10.041Z</updated>
+        <content type="html"><![CDATA[유튜브 유료 요금제. 광고 제거, 동영상 다운로드 등의 서비스를 제공함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[껄무새]]></title>
+        <title type="html"><![CDATA[원툴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-05T16:22:11.113Z</updated>
-        <content type="html"><![CDATA[앵무새처럼 ‘~살걸’, ‘~팔걸’을 반복하는 개인 투자자를 뜻함. (EX. 오늘 AA전자 주식 올랐네? 어제 살 걸.)]]></content>
+        <updated>2023-05-05T17:15:10.042Z</updated>
+        <content type="html"><![CDATA[(one tool) 한 가지만 잘 한다는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[덕메]]></title>
+        <title type="html"><![CDATA[빙의글]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-05T16:22:11.115Z</updated>
-        <content type="html"><![CDATA[덕질 메이트의 줄임말. 덕질을 함께 하는 친구를 뜻함.]]></content>
+        <updated>2023-05-05T17:15:10.043Z</updated>
+        <content type="html"><![CDATA[좋아하는 연예인을 대상으로 특정 상황을 설정해 작성한 글.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈쿡]]></title>
+        <title type="html"><![CDATA[현활]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-05T16:22:11.117Z</updated>
-        <content type="html"><![CDATA[집에서 하는 요리.]]></content>
+        <updated>2023-05-05T17:15:10.047Z</updated>
+        <content type="html"><![CDATA[SNS에서 현재 활동중이라는 뜻.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[캐릿 1020 해외 특파원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-05T16:22:11.118Z</updated>
+        <updated>2023-05-05T17:15:10.048Z</updated>
         <content type="html"><![CDATA[1020으로 구성된 캐릿의 해외 트렌드 자문 그룹. 해외 각국의 Z세대 트렌드를 발 빠르게 전하는 역할을 맡고 있음.]]></content>
     </entry>
 </feed>
