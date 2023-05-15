@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-05-15T01:23:46.397Z</updated>
+    <updated>2023-05-15T02:37:13.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Z세대가 뽑았다! 기억에 남은 팝업스토어 13]]></title>
+        <id>https://www.careet.net/1072</id>
+        <link href="https://www.careet.net/1072"/>
+        <updated>2023-05-15T02:36:21.522Z</updated>
+        <content type="html"><![CDATA[‘팝업스토어에 방문한 후에 이 브랜드 이미지가 긍정적으로 변했어요.’ 특징 5가지를 모았습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 10대가 인스타보다 많이 쓴다는 익명 칭찬 앱, ‘하입(HYPE)’ 아세요?]]></title>
         <id>https://www.careet.net/1081</id>
