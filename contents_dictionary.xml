@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-05-15T04:21:54.035Z</updated>
+    <updated>2023-05-15T05:16:11.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[가상 데스크톱 서비스]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-15T04:21:45.924Z</updated>
-        <content type="html"><![CDATA[PC 환경을 온라인에 구축해 어디서든 접속할 수 있게 하는 서비스.]]></content>
+        <updated>2023-05-15T05:16:02.900Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[셧다운제]]></title>
+        <title type="html"><![CDATA[고인 물]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-15T04:21:45.925Z</updated>
-        <content type="html"><![CDATA[청소년의 온라인 게임 중독을 막기 위한 심야 게임 규제로, 만 16세 미만 청소년은 밤 12시부터 다음 날 오전 6시까지 온라인 게임에 접속할 수 없도록 하는 내용의 규제.]]></content>
+        <updated>2023-05-15T05:16:02.900Z</updated>
+        <content type="html"><![CDATA[특정 분야에 막대한 시간과 정성을 투자하여 경지에 이른 사람을 뜻함. ‘고수’, ‘헤비 유저’와 비슷한 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알티]]></title>
+        <title type="html"><![CDATA[언어 감수성]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-15T04:21:45.927Z</updated>
-        <content type="html"><![CDATA[다른 트위터리안의 트윗을 리트윗하는 걸 말함(rt).]]></content>
+        <updated>2023-05-15T05:16:02.900Z</updated>
+        <content type="html"><![CDATA[언어에 대한 민감성, 언어에 대한 이해와 지식을 갖추어 일상 언어 속에 담긴 차별, 불평등, 반인권, 비민주적 요소를 감시해 내는 민감성.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사바사]]></title>
+        <title type="html"><![CDATA[스낵커블(snackable)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-15T04:21:45.929Z</updated>
-        <content type="html"><![CDATA[‘사람 by 사람’의 줄임말. 사람마다 다 다르다는 것을 의미함.]]></content>
+        <updated>2023-05-15T05:16:02.900Z</updated>
+        <content type="html"><![CDATA[‘쉽고 빠르게 소비할 수 있는’이란 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밀레니얼]]></title>
+        <title type="html"><![CDATA[무배]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-15T04:21:45.931Z</updated>
-        <content type="html"><![CDATA[1981년~1996년에 출생한 세대를 가리키는 말. 대학내일20대연구소에선 심리적, 사회적 동질성을 고려해 1989년 이전 출생자는 전기 밀레니얼, 1989년 출생자부터는 후기 밀레니얼로 구분하고 있음.]]></content>
+        <updated>2023-05-15T05:16:02.900Z</updated>
+        <content type="html"><![CDATA[무료배송의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인용 알티]]></title>
+        <title type="html"><![CDATA[달글]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-15T04:21:45.932Z</updated>
-        <content type="html"><![CDATA[트위터에서 다른 사람의 트윗 위에 자신의 의견을 덧붙여서 공유하는 기능.]]></content>
+        <updated>2023-05-15T05:16:02.903Z</updated>
+        <content type="html"><![CDATA[‘달리는 글’의 줄임말. 한 가지 주제가 정해지면 그 주제에 대해서만 얘기하는 글을 뜻함. 유사한 커뮤니티 문화로는 ‘불판’이 있음.]]></content>
     </entry>
 </feed>
