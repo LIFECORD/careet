@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-05-19T08:20:51.478Z</updated>
+    <updated>2023-05-19T09:16:36.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[트위터 예절]]></title>
+        <title type="html"><![CDATA[찐후기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-19T08:20:43.355Z</updated>
-        <content type="html"><![CDATA[최애 포토카드와 함께 음식 사진을 찍는 것. 이때 사용하는 포토카드를 ‘예절 포카’라고 부름.]]></content>
+        <updated>2023-05-19T09:16:29.362Z</updated>
+        <content type="html"><![CDATA[MZ세대가 정말 믿을 만하다고 평가하는 ‘진짜 후기’를 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마상]]></title>
+        <title type="html"><![CDATA[블챌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-19T08:20:43.357Z</updated>
-        <content type="html"><![CDATA[‘마음에 상처가 났다’는 뜻 .]]></content>
+        <updated>2023-05-19T09:16:29.363Z</updated>
+        <content type="html"><![CDATA[‘블로그 챌린지’의 줄임말. 6월부터 12월까지 6개월간 진행되는 장기 프로젝트로 매주 지정된 카테고리에 한 건 이상의 일기를 작성해야 챌린지를 이어갈 수 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먼치킨]]></title>
+        <title type="html"><![CDATA[반모]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-19T08:20:43.358Z</updated>
-        <content type="html"><![CDATA[비상식적으로 강한 캐릭터를 가르키는 용어. ‘세계관 최강자’와 비슷하게 의미로 사용할 수 있음.]]></content>
+        <updated>2023-05-19T09:16:29.364Z</updated>
+        <content type="html"><![CDATA[반말로 말하는 것. '반말 모드'의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[학예사]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-19T08:20:43.359Z</updated>
-        <content type="html"><![CDATA[박물관, 미술관 등에서 작품 등을 수집, 전시 기획 등을 하는 전문 직업.]]></content>
+        <updated>2023-05-19T09:16:29.366Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구독팟]]></title>
+        <title type="html"><![CDATA[멍]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-19T08:20:43.361Z</updated>
-        <content type="html"><![CDATA[‘구독 파티원’의 줄임말. 구독료를 1/N 내고 사용하기 위해 여러 명이서 구독 서비스를 신청하는 MZ세대 문화를 나타냄.]]></content>
+        <updated>2023-05-19T09:16:29.367Z</updated>
+        <content type="html"><![CDATA[불멍, 물멍, 숲멍 등 최근 MZ세대 사이에선 편안한 경관 앞에서 멍을 때리며 휴식을 취하는 것이 트렌드로 떠오름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[반모방]]></title>
+        <title type="html"><![CDATA[미슐랭]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-19T08:20:43.365Z</updated>
-        <content type="html"><![CDATA[반말 모드 대화방의 줄임말. 말을 놓고 친해지는 채팅방으로, 주로 유튜브 댓글창에 열림.]]></content>
+        <updated>2023-05-19T09:16:29.367Z</updated>
+        <content type="html"><![CDATA[특정 대상을 칭찬할 때 쓰이는 ‘OO 맛집이다’라는 표현이 변형된 버전. ex) “캐릿 트렌드 미슐랭이네”]]></content>
     </entry>
 </feed>
