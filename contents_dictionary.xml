@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-05-23T22:16:36.948Z</updated>
+    <updated>2023-05-23T23:16:55.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[블챌]]></title>
+        <title type="html"><![CDATA[퍼블리시티권]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-23T22:16:27.898Z</updated>
-        <content type="html"><![CDATA[‘블로그 챌린지’의 줄임말. 6월부터 12월까지 6개월간 진행되는 장기 프로젝트로 매주 지정된 카테고리에 한 건 이상의 일기를 작성해야 챌린지를 이어갈 수 있음.]]></content>
+        <updated>2023-05-23T23:16:47.276Z</updated>
+        <content type="html"><![CDATA[유명인이 자신의 성명이나 초상을 상품 등의 선전에 이용하는 것을 허락하는 권리.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연반인]]></title>
+        <title type="html"><![CDATA[가챠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-23T22:16:27.900Z</updated>
-        <content type="html"><![CDATA[연예인과 일반인을 합친 신조어. 연예인은 아니지만 연예인 만큼의 화제성을 가진 인물을 뜻함. 대표적인 인물로는 SBS 소속 PD 재재가 있음.]]></content>
+        <updated>2023-05-23T23:16:47.278Z</updated>
+        <content type="html"><![CDATA[확률형 아이템 뽑기 시스템을 지칭하는 게임 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아트 테크]]></title>
+        <title type="html"><![CDATA[빛삭]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-23T22:16:27.901Z</updated>
-        <content type="html"><![CDATA[‘아트’와 ‘재테크’의 합성어. 미술 작품, 음악 저작권 등 다양한 예술 분야에 자산을 투자하는 방식을 말함.]]></content>
+        <updated>2023-05-23T23:16:47.278Z</updated>
+        <content type="html"><![CDATA[‘빛의 속도로 삭제한다’의 줄임말로 인터넷상에 올린 게시물을 매우 빠르게 지운다는 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[떡메]]></title>
+        <title type="html"><![CDATA[음식 예절샷]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-23T22:16:27.902Z</updated>
-        <content type="html"><![CDATA[떡메모지의 줄임말. 상단이 본드로 제본된 메모지를 뜻함.]]></content>
+        <updated>2023-05-23T23:16:47.281Z</updated>
+        <content type="html"><![CDATA[맛있는 음식을 먹을 때 포토카드를 들고 사진을 찍어 SNS에 공유하는 Z세대 온라인 문화를 부르는 말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인쇼]]></title>
+        <title type="html"><![CDATA[프사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-23T22:16:27.903Z</updated>
-        <content type="html"><![CDATA[‘인터넷 쇼핑’의 줄임말.]]></content>
+        <updated>2023-05-23T23:16:47.282Z</updated>
+        <content type="html"><![CDATA[‘프로필 사진’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맛집]]></title>
+        <title type="html"><![CDATA[위버스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-23T22:16:27.904Z</updated>
-        <content type="html"><![CDATA[‘이 집 잘한다’는 칭찬의 표현. ‘엔딩 맛집’, ‘케미(합) 맛집’ 등 다양한 단어 뒤에 붙임.]]></content>
+        <updated>2023-05-23T23:16:47.285Z</updated>
+        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
     </entry>
 </feed>
