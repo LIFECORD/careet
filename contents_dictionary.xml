@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-05-26T18:20:07.682Z</updated>
+    <updated>2023-05-26T19:13:51.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[마크정식]]></title>
+        <title type="html"><![CDATA[가심비]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-26T18:19:59.504Z</updated>
-        <content type="html"><![CDATA[아이돌 그룹 갓세븐의 팬이 멤버인 ‘마크’를 대중들에게 알리기 위해 직접 편의점 레시피를 개발하고, 해당 레시피에 ‘마크’라는 이름을 붙여 유행시킨 것.]]></content>
+        <updated>2023-05-26T19:13:43.011Z</updated>
+        <content type="html"><![CDATA[가격 대비 심리적 만족을 추구하는 소비 트렌드↔가성비]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실트]]></title>
+        <title type="html"><![CDATA[쫌쫌따리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-26T18:19:59.505Z</updated>
-        <content type="html"><![CDATA[트위터 ‘실시간 트렌드’라는 뜻. 현재 얘기가 많이 이루어지는 주제를 트위터 프로그램이 인지해 실시간 트렌드로 올리기 때문에 지금 무엇이 화제인지 알 수 있음.]]></content>
+        <updated>2023-05-26T19:13:43.015Z</updated>
+        <content type="html"><![CDATA[아주 조금씩 틈틈이를 뜻하는 MZ세대 신조어.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알못]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-05-26T19:13:43.015Z</updated>
+        <content type="html"><![CDATA[어떤 분야에 대해 잘 알지 못하는 사람을 부르는 말↔잘알]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-05-26T19:13:43.019Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[떡밥]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-26T18:19:59.507Z</updated>
+        <updated>2023-05-26T19:13:43.022Z</updated>
         <content type="html"><![CDATA[이야깃거리, 특히 덕질할 거리를 뜻하는 MZ세대 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자캐]]></title>
+        <title type="html"><![CDATA[Z세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-26T18:19:59.508Z</updated>
-        <content type="html"><![CDATA[자신이 직접 그리거나 만든 캐릭터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답정너]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-26T18:19:59.510Z</updated>
-        <content type="html"><![CDATA[‘답은 정해져 있고 너는 대답만 하면 돼’의 줄임말.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코 세 글자]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-05-26T18:19:59.511Z</updated>
-        <content type="html"><![CDATA[MZ세대가 코로나19를 일컫는 말. 트위터에서 ‘코로나’라는 단어를 사용하면 계정이 잠기는 일이 발생해 코로나를 대체하는 표현으로 사용되기 시작함.]]></content>
+        <updated>2023-05-26T19:13:43.022Z</updated>
+        <content type="html"><![CDATA[1996년 이후 출생~2010년대 초반 출생자.]]></content>
     </entry>
 </feed>
