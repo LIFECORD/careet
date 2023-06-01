@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-01T16:25:27.060Z</updated>
+    <updated>2023-06-01T17:15:07.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[쫌쫌따리]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-01T16:25:19.532Z</updated>
-        <content type="html"><![CDATA[아주 조금씩 틈틈이를 뜻하는 MZ세대 신조어.]]></content>
+        <updated>2023-06-01T17:14:59.497Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쇼츠]]></title>
+        <title type="html"><![CDATA[여름이었다]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-01T16:25:19.533Z</updated>
-        <content type="html"><![CDATA[유튜브에서 2021년 베타 출시한 숏폼 서비스.]]></content>
+        <updated>2023-06-01T17:14:59.499Z</updated>
+        <content type="html"><![CDATA[트위터에서 시작된 유행어. 아무 말이나 해놓고, 뒤에 '여름이었다'라는 문구만 붙이면 감성적으로 보인다는 한 트윗에서 유래해 커뮤니티로 퍼짐.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폴꾸]]></title>
+        <title type="html"><![CDATA[가심비]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-01T16:25:19.534Z</updated>
-        <content type="html"><![CDATA[폴라로이드 꾸미기, 포토카드를 폴라로이드 형태로 인쇄해서 꾸미는 것.]]></content>
+        <updated>2023-06-01T17:14:59.500Z</updated>
+        <content type="html"><![CDATA[가격 대비 심리적 만족을 추구하는 소비 트렌드↔가성비]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트롤]]></title>
+        <title type="html"><![CDATA[생정]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-01T16:25:19.535Z</updated>
-        <content type="html"><![CDATA[온라인에서 사람들의 관심을 끌기 위해 일부러 진행에 방해되는 행동을 하는 것. 또는 그런 사람을 뜻함.]]></content>
+        <updated>2023-06-01T17:14:59.501Z</updated>
+        <content type="html"><![CDATA[생활 정보의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스]]></title>
+        <title type="html"><![CDATA[ㄱㅇㅇ]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-01T16:25:19.537Z</updated>
-        <content type="html"><![CDATA[인쇄 스티커의 줄임말. 인쇄소에 원하는 도안을 보내면 스티커를 소량으로 제작할 수 있음.]]></content>
+        <updated>2023-06-01T17:14:59.503Z</updated>
+        <content type="html"><![CDATA[‘귀여워’를 초성만으로 표현한 단어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화력]]></title>
+        <title type="html"><![CDATA[인용 알티]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-01T16:25:19.538Z</updated>
-        <content type="html"><![CDATA[단체의 행동력. 머릿수로 결정되기 때문에 ‘화력을 모으자’는 말은 참여 인원을 최대한 모으자는 것과 같은 의미.]]></content>
+        <updated>2023-06-01T17:14:59.504Z</updated>
+        <content type="html"><![CDATA[트위터에서 다른 사람의 트윗 위에 자신의 의견을 덧붙여서 공유하는 기능.]]></content>
     </entry>
 </feed>
