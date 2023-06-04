@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-04T22:15:10.197Z</updated>
+    <updated>2023-06-04T23:17:24.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[나심비]]></title>
+        <title type="html"><![CDATA[현질]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T22:15:00.830Z</updated>
-        <content type="html"><![CDATA[‘나’, ‘마음(心)’, ‘소비’의 합성어. 내 마음에 들면 지갑을 여는 소비 심리를 뜻함.]]></content>
+        <updated>2023-06-04T23:17:15.617Z</updated>
+        <content type="html"><![CDATA[유료 게임 아이템을 사는 행위를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[앱테크]]></title>
+        <title type="html"><![CDATA[넘사벽]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T22:15:00.833Z</updated>
-        <content type="html"><![CDATA[앱+재테크의 합성어. 앱 안에서 특정 활동을 해 포인트를 쌓는 것]]></content>
+        <updated>2023-06-04T23:17:15.620Z</updated>
+        <content type="html"><![CDATA[넘을 수 없는 4차원의 벽의 줄임말. 대상과 거리감이 많이 느껴질 때 주로 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쩝쩝박사]]></title>
+        <title type="html"><![CDATA[FOMO]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T22:15:00.834Z</updated>
-        <content type="html"><![CDATA[음식에 대해 식견이 높거나, 맛있는 음식 조합을 잘 아는 사람들을 뜻하는 말]]></content>
+        <updated>2023-06-04T23:17:15.622Z</updated>
+        <content type="html"><![CDATA[‘Fear Of Missing Out’의 약자로 소외되거나 뒤처지는 것에 대한 두려움을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플미]]></title>
+        <title type="html"><![CDATA[셀프캐해]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T22:15:00.836Z</updated>
-        <content type="html"><![CDATA[‘프리미엄’의 줄임말. 주로 희소성있는 제품이 판매가보다 비싸게 거래될 때 ‘플미붙었다’고 표현함.]]></content>
+        <updated>2023-06-04T23:17:15.624Z</updated>
+        <content type="html"><![CDATA[셀프로 나의 캐릭터를 해석한다는 뜻으로, 스스로의 특징을 분석해 나의 이미지를 설정하는 것을 말함. MBTI 테스트가 대표적인 셀프캐해 콘텐츠.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[일코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T22:15:00.839Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-06-04T23:17:15.626Z</updated>
+        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뇌절]]></title>
+        <title type="html"><![CDATA[음성 도네이션]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-04T22:15:00.840Z</updated>
-        <content type="html"><![CDATA[똑같은 말이나 행동을 반복해 상대를 질리게 하는 것을 지칭.]]></content>
+        <updated>2023-06-04T23:17:15.629Z</updated>
+        <content type="html"><![CDATA[주로 트위치 등 라이브 플랫폼에서 음성을 함께 보내는 후원 방식.]]></content>
     </entry>
 </feed>
