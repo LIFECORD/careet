@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/3</id>
     <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2023-06-04T23:17:24.468Z</updated>
+    <updated>2023-06-05T01:41:59.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[담당자 누굴까? 요즘 비주얼 트렌드 잘 파악한 브랜드]]></title>
+        <id>https://www.careet.net/1097</id>
+        <link href="https://www.careet.net/1097"/>
+        <updated>2023-06-05T01:41:35.246Z</updated>
+        <content type="html"><![CDATA[이 주의 일 잘한 브랜드: BBQ, 농심, 에스파, 삼성전자 갤럭시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이주의 일 잘한 브랜드] Z세대는 어떤 메시지가 담긴 광고에 호감을 가질까?]]></title>
         <id>https://www.careet.net/1087</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/367"/>
         <updated>2023-04-17T01:19:33.285Z</updated>
         <content type="html"><![CDATA[다른 브랜드들은 지구의 날 이렇게 챙겼대요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네컷사진, AI 필터 말고! Z세대 공략한 ‘NEW 포토 마케팅’]]></title>
-        <id>https://www.careet.net/1060</id>
-        <link href="https://www.careet.net/1060"/>
-        <updated>2023-04-10T02:31:43.207Z</updated>
-        <content type="html"><![CDATA[조회 수 1000만, 해시태그 1만! 부러운 결과 자랑하는 온라인 마케팅 3]]></content>
     </entry>
 </feed>
