@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-10T14:14:55.589Z</updated>
+    <updated>2023-06-10T15:16:10.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[브이라이브]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-10T14:14:46.944Z</updated>
-        <content type="html"><![CDATA[네이버의 실시간 방송 플랫폼. 스타와 팬과 소통하는 창구로 쓰임.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서이추]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-10T14:14:46.945Z</updated>
-        <content type="html"><![CDATA[‘서로 이웃 추가’의 줄임말. 네이버 블로그에서 쓰이는 용어.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인스타 돋보기]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-10T14:14:46.946Z</updated>
-        <content type="html"><![CDATA[인스타그램 검색 탭을 일컫는 말. 인스타그램 알고리즘을 이용해 검색바 하단에 추천 콘텐츠를 보여줌. MZ세대가 시간 때울 때 주로 이용하는 기능.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세포마켓]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-10T14:14:46.948Z</updated>
-        <content type="html"><![CDATA[1인 미디어 시대에서 SNS를 통해 이뤄지는 1인 마켓. 기업 단위가 아닌 1인 사업자가 주를 이뤄 세포가 분열하는 것처럼 개인 단위로 발전하는 현상을 뜻함.]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[판 플레이]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-10T14:14:46.951Z</updated>
+        <updated>2023-06-10T15:16:01.309Z</updated>
         <content type="html"><![CDATA[대학내일20대연구소가 정의한 2020 MZ세대 특징 중 하나. MZ세대가 스스로 참여할 수 있는 놀이 ‘판’을 만들어 즐기는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어드벤트 캘린더]]></title>
+        <title type="html"><![CDATA[스카]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-10T14:14:46.955Z</updated>
-        <content type="html"><![CDATA[12월 1일부터 24일까지 크리스마스를 기다리면서 하나씩 선물을 열어보는 형식의 달력.]]></content>
+        <updated>2023-06-10T15:16:01.315Z</updated>
+        <content type="html"><![CDATA[스터디 카페의 줄임말.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사바사]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-06-10T15:16:01.315Z</updated>
+        <content type="html"><![CDATA[‘사람 by 사람’의 줄임말. 사람마다 다 다르다는 것을 의미함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[액괴]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-06-10T15:16:01.315Z</updated>
+        <content type="html"><![CDATA[액체 괴물의 줄임말. 알파 세대에게 인기 있는 장난감인 ‘슬라임’을 지칭하는 용어이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소확성]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-06-10T15:16:01.315Z</updated>
+        <content type="html"><![CDATA[‘소소하지만 확실한 성취감’의 줄임말.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[킬포]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-06-10T15:16:01.316Z</updated>
+        <content type="html"><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content>
     </entry>
 </feed>
