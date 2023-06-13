@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-12T23:17:02.975Z</updated>
+    <updated>2023-06-13T01:37:46.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[POV]]></title>
+        <title type="html"><![CDATA[억텐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-12T23:16:53.230Z</updated>
-        <content type="html"><![CDATA[시점이라는 뜻의 ‘Point of View’의 약어. 주로 틱톡에서 상황극을 부르는 말로 쓰임.]]></content>
+        <updated>2023-06-13T01:37:38.343Z</updated>
+        <content type="html"><![CDATA[‘억지 텐션’의 줄임말로, 자신의 기분은 전혀 그렇지 않은데도 상대의 말이나 행동에 억지로 재미있는 척하거나 격한 반응을 보여주는 것을 의미함. 반대말은 ‘찐텐(=진짜 텐션)’]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소확성]]></title>
+        <title type="html"><![CDATA[띵 소비]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-12T23:16:53.231Z</updated>
-        <content type="html"><![CDATA[‘소소하지만 확실한 성취감’의 줄임말.]]></content>
+        <updated>2023-06-13T01:37:38.344Z</updated>
+        <content type="html"><![CDATA[이미 소분된 제품을 구매하거나, 대용량 제품을 구입해서 여러 사람과 셀프로 나누는 소비 방식.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마상]]></title>
+        <title type="html"><![CDATA[톤그로]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-12T23:16:53.235Z</updated>
-        <content type="html"><![CDATA[‘마음에 상처가 났다’는 뜻 .]]></content>
+        <updated>2023-06-13T01:37:38.349Z</updated>
+        <content type="html"><![CDATA[색을 뜻하는 ‘Tone’과 분쟁를 뜻하는 ‘aggro’의 합성어. 본인의 피부 톤에 맞지 않는 색상으로 메이크업해서 어색하다는 뜻으로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포토 카드]]></title>
+        <title type="html"><![CDATA[플리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-12T23:16:53.236Z</updated>
-        <content type="html"><![CDATA[아이돌 멤버의 사진으로 만든 카드로, 주로 앨범 당 한 장씩 들어있는 굿즈. 줄여서 ‘포카’라고 부름.]]></content>
+        <updated>2023-06-13T01:37:38.349Z</updated>
+        <content type="html"><![CDATA[‘플레이리스트’의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인급동]]></title>
+        <title type="html"><![CDATA[신박한]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-12T23:16:53.238Z</updated>
-        <content type="html"><![CDATA[‘인기 급상승 동영상’의 줄임말. 유튜브에서 단시간에 높은 조회 수를 기록하고, 화제가 된 영상을 일컬음.]]></content>
+        <updated>2023-06-13T01:37:38.350Z</updated>
+        <content type="html"><![CDATA[‘새롭고 놀랍다’란 뜻으로 신기하면서도 참신한 경우에 사용되는 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포카 슬리브]]></title>
+        <title type="html"><![CDATA[맛잘알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-12T23:16:53.242Z</updated>
-        <content type="html"><![CDATA[포토카드 사이즈로 제작된 얇은 포장용 비닐.]]></content>
+        <updated>2023-06-13T01:37:38.352Z</updated>
+        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어인 '잘알' 앞에 '맛'이 붙은 형태. 즉, 맛을 잘 아는 사람이라는 뜻]]></content>
     </entry>
 </feed>

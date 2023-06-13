@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/3</id>
     <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2023-06-12T23:17:02.966Z</updated>
+    <updated>2023-06-13T01:37:46.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[또 나만 몰랐지, ‘인생네컷 채용’이 뭐야?]]></title>
+        <id>https://www.careet.net/1101</id>
+        <link href="https://www.careet.net/1101"/>
+        <updated>2023-06-13T01:37:23.887Z</updated>
+        <content type="html"><![CDATA[이주의 일 잘한 브랜드: 해태아이스, 하이브, 한국맥도날드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[담당자 누굴까? 요즘 비주얼 트렌드 잘 파악한 브랜드]]></title>
         <id>https://www.careet.net/1097</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/1068"/>
         <updated>2023-04-24T01:21:00.667Z</updated>
         <content type="html"><![CDATA[이벤트와 광고 영상에 참고할 디테일 포인트 캐기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년엔 반드시 챙겨야 할 기념일! 지구의 날 레퍼런스 모음.zip]]></title>
-        <id>https://www.careet.net/367</id>
-        <link href="https://www.careet.net/367"/>
-        <updated>2023-04-17T01:19:33.285Z</updated>
-        <content type="html"><![CDATA[다른 브랜드들은 지구의 날 이렇게 챙겼대요!]]></content>
     </entry>
 </feed>
