@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/1</id>
     <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
-    <updated>2023-06-15T04:20:25.698Z</updated>
+    <updated>2023-06-15T05:16:23.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캐릿 1020 자문단 제보! 지금 쓰면 센스 있다고 칭찬받을 최신 밈 6]]></title>
+        <id>https://www.careet.net/1105</id>
+        <link href="https://www.careet.net/1105"/>
+        <updated>2023-06-15T05:15:41.533Z</updated>
+        <content type="html"><![CDATA[캐릿이 검증했으니까 안심하고 쓰셔도 됩니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘추구미’부터 ‘오우예 씨몬’까지! Z세대가 인증한 찐으로 자주 사용하는 밈 5]]></title>
         <id>https://www.careet.net/1075</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/958"/>
         <updated>2023-02-27T20:20:35.078Z</updated>
         <content type="html"><![CDATA[SNS와 커뮤니티 반응 폭발하는 최신 MBTI 밈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“중요한 건 꺾이지 않는 마음” 어디서 나온 말이야?]]></title>
-        <id>https://www.careet.net/936</id>
-        <link href="https://www.careet.net/936"/>
-        <updated>2023-02-27T20:20:35.079Z</updated>
-        <content type="html"><![CDATA[롤드컵 우승팀 선수가 한 인터뷰가 화제가 됐다고?]]></content>
     </entry>
 </feed>
