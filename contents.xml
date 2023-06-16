@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-06-15T23:17:32.955Z</updated>
+    <updated>2023-06-16T01:29:25.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누가 먼저 콜라보할까? 제2의 최고심, 대박난 캐릭터의 등장]]></title>
+        <id>https://www.careet.net/1104</id>
+        <link href="https://www.careet.net/1104"/>
+        <updated>2023-06-16T01:28:32.128Z</updated>
+        <content type="html"><![CDATA[바로 써 먹을 수 있는 사진 트렌드 알려드림]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐릿 1020 자문단 제보! 지금 쓰면 센스 있다고 칭찬받을 최신 밈 6]]></title>
         <id>https://www.careet.net/1105</id>
