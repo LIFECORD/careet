@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-17T04:19:33.795Z</updated>
+    <updated>2023-06-17T05:15:45.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[술터뷰]]></title>
+        <title type="html"><![CDATA[혜자]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-17T04:19:24.631Z</updated>
-        <content type="html"><![CDATA[‘술을 마시면서 진행하는 인터뷰’라는 뜻.]]></content>
+        <updated>2023-06-17T05:15:36.881Z</updated>
+        <content type="html"><![CDATA[가성비가 좋다, 넉넉하고 인심이 후하다는 뜻. 배우 김혜자가 모델이었던 편의점 도시락이 가성비가 좋았던 것에서 유래함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밖순이]]></title>
+        <title type="html"><![CDATA[래플]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-17T04:19:24.632Z</updated>
-        <content type="html"><![CDATA[집순이의 반대말로, 밖에서 노는 걸 좋아하는 사람을 일컫는 말.]]></content>
+        <updated>2023-06-17T05:15:36.881Z</updated>
+        <content type="html"><![CDATA[당첨자에게 한정판 상품을 구매할 권리를 주는 판매 방식. 이 방식을 활용하는 브랜드로는 대표적으로 나이키가 있음.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시고르자브종]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-06-17T05:15:36.884Z</updated>
+        <content type="html"><![CDATA[‘시골 잡종’에서 받침을 길게 늘려 외국어처럼 들리는 형태의 신조어. 뚜렷한 견종을 가지고 있지 않는 믹스견을 뜻함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인스타 스토리]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-06-17T05:15:36.884Z</updated>
+        <content type="html"><![CDATA[인스타그램에서 24시간 동안만 공개되는 게시물. 개인의 피드에도 게시되지 않는 것이 특징.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뵤]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-06-17T05:15:36.886Z</updated>
+        <content type="html"><![CDATA[‘햄스터’를 뜻하는 MZ세대 온라인 유행어. 햄스터의 표정에서 유래함.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[옾챗]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-17T04:19:24.633Z</updated>
+        <updated>2023-06-17T05:15:36.887Z</updated>
         <content type="html"><![CDATA[오픈채팅방의 Z세대식 줄임말. Z세대는 오픈채팅방을 커뮤니티처럼 이용함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알계]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-17T04:19:24.635Z</updated>
-        <content type="html"><![CDATA[트위터 계정 최초 생성 시 기본 프로필 사진인 알 그림을 프로필 사진으로 하고 있는 계정. 주로 본계를 숨기고 새로 계정을 만들어, 익명 뒤에 숨고 싶은 사람들이 이용함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마상]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-17T04:19:24.636Z</updated>
-        <content type="html"><![CDATA[‘마음에 상처가 났다’는 뜻 .]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알파 세대]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-17T04:19:24.640Z</updated>
-        <content type="html"><![CDATA[2010년 이후 출생자, 즉 Z세대 이후 세대를 부르는 말.]]></content>
     </entry>
 </feed>
