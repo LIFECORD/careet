@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/3</id>
     <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2023-06-18T23:17:29.245Z</updated>
+    <updated>2023-06-19T01:29:57.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브랜드 팬, 일반 소비자 모두 만족시킨 브랜드 공간 2]]></title>
+        <id>https://www.careet.net/1106</id>
+        <link href="https://www.careet.net/1106"/>
+        <updated>2023-06-19T01:29:33.138Z</updated>
+        <content type="html"><![CDATA[성수, 홍대 말고 어디에 팝업스토어 열지 고민된다면 클릭!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[또 나만 몰랐지, ‘인생네컷 채용’이 뭐야?]]></title>
         <id>https://www.careet.net/1101</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/1074"/>
         <updated>2023-05-09T01:20:06.050Z</updated>
         <content type="html"><![CDATA[오프라인 포토존부터 → 틱톡 계정 운영법까지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번 주, Z세대에게 주목 받은 브랜드 이벤트, 영상 광고는?]]></title>
-        <id>https://www.careet.net/1068</id>
-        <link href="https://www.careet.net/1068"/>
-        <updated>2023-04-24T01:21:00.667Z</updated>
-        <content type="html"><![CDATA[이벤트와 광고 영상에 참고할 디테일 포인트 캐기]]></content>
     </entry>
 </feed>
