@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-19T01:29:57.568Z</updated>
+    <updated>2023-06-19T02:44:33.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[생일 카페]]></title>
+        <title type="html"><![CDATA[언박싱]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-19T01:29:47.938Z</updated>
-        <content type="html"><![CDATA[유명인이나 캐릭터의 생일을 기념하기 위해 열리는 오프라인 이벤트를 총칭하는 말.]]></content>
+        <updated>2023-06-19T02:44:24.307Z</updated>
+        <content type="html"><![CDATA[구매한 물건의 상자를 개봉하는 과정을 담은 유튜브 영상 포맷.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[반모]]></title>
+        <title type="html"><![CDATA[근자감]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-19T01:29:47.938Z</updated>
-        <content type="html"><![CDATA[반말로 말하는 것. '반말 모드'의 줄임말.]]></content>
+        <updated>2023-06-19T02:44:24.309Z</updated>
+        <content type="html"><![CDATA[근거 없는 자신감의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쇼츠]]></title>
+        <title type="html"><![CDATA[옾챗]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-19T01:29:47.938Z</updated>
-        <content type="html"><![CDATA[유튜브에서 2021년 베타 출시한 숏폼 서비스.]]></content>
+        <updated>2023-06-19T02:44:24.311Z</updated>
+        <content type="html"><![CDATA[오픈채팅방의 Z세대식 줄임말. Z세대는 오픈채팅방을 커뮤니티처럼 이용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브이앱]]></title>
+        <title type="html"><![CDATA[마스킹 테이프]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-19T01:29:47.938Z</updated>
-        <content type="html"><![CDATA[네이버가 제공하는 연예인 라이브 방송 서비스.]]></content>
+        <updated>2023-06-19T02:44:24.312Z</updated>
+        <content type="html"><![CDATA[손으로 찢어 사용할 수 있는 종이 테이프. 다양한 디자인으로, 다이어리를 꾸미는 MZ세대에게 필수템으로 통함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밥친구]]></title>
+        <title type="html"><![CDATA[커미션(commission)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-19T01:29:47.938Z</updated>
-        <content type="html"><![CDATA[밥 먹을 때 보는 유튜브 영상, 콘텐츠 등을 의미함.]]></content>
+        <updated>2023-06-19T02:44:24.314Z</updated>
+        <content type="html"><![CDATA[보수를 받고 어떤 일을 처리해주는 행위. 주로 돈을 받고 원하는 콘텐츠(그림, 글)를 제작해줄 때 사용하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[반캉스]]></title>
+        <title type="html"><![CDATA[삼현슼엘]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-19T01:29:47.940Z</updated>
-        <content type="html"><![CDATA[숙박이 아닌 다른 목적으로 낮 시간 호캉스를 즐기는 문화.]]></content>
+        <updated>2023-06-19T02:44:24.316Z</updated>
+        <content type="html"><![CDATA[국내 굴지의 대기업인 삼성, 현대, SK, LG를 통칭하는 말. MZ세대 취업 준비생들이 입사하고 싶어하는 꿈의 직장으로 꼽히는 기업들.]]></content>
     </entry>
 </feed>
