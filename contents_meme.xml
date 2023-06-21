@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/1</id>
     <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
-    <updated>2023-06-20T23:18:02.126Z</updated>
+    <updated>2023-06-21T01:35:27.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.careet.net/1105"/>
         <updated>2023-06-15T05:15:41.533Z</updated>
         <content type="html"><![CDATA[캐릿이 검증했으니까 안심하고 쓰셔도 됩니다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🥕 SNS 콘텐츠 제작할 때 참고하세요! Z세대는 다 아는 전단지 밈]]></title>
+        <id>https://www.careet.net/1103</id>
+        <link href="https://www.careet.net/1103"/>
+        <updated>2023-06-21T01:34:44.132Z</updated>
+        <content type="html"><![CDATA[“치악산 복숭아 당도최고”가 왜 밈이야?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘추구미’부터 ‘오우예 씨몬’까지! Z세대가 인증한 찐으로 자주 사용하는 밈 5]]></title>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/985"/>
         <updated>2023-02-27T20:20:35.076Z</updated>
         <content type="html"><![CDATA[유행어 잘 쓰는 담당자가 되고 싶으신가요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 써도 먹히는 기출 변형 MBTI 밈 “MBTI랑 반응 알려줘”]]></title>
-        <id>https://www.careet.net/958</id>
-        <link href="https://www.careet.net/958"/>
-        <updated>2023-02-27T20:20:35.078Z</updated>
-        <content type="html"><![CDATA[SNS와 커뮤니티 반응 폭발하는 최신 MBTI 밈]]></content>
     </entry>
 </feed>

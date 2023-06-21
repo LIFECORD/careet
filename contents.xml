@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-06-20T23:18:02.128Z</updated>
+    <updated>2023-06-21T01:35:27.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://www.careet.net/1105"/>
         <updated>2023-06-15T05:15:31.254Z</updated>
         <content type="html"><![CDATA[캐릿이 검증했으니까 안심하고 쓰셔도 됩니다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🥕 SNS 콘텐츠 제작할 때 참고하세요! Z세대는 다 아는 전단지 밈]]></title>
+        <id>https://www.careet.net/1103</id>
+        <link href="https://www.careet.net/1103"/>
+        <updated>2023-06-21T01:34:34.117Z</updated>
+        <content type="html"><![CDATA[“치악산 복숭아 당도최고”가 왜 밈이야?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[힙한 MZ 취미! 등산, 골프 가고 ‘여자 축구’가 뜬다고?]]></title>
