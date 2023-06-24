@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-24T22:17:45.503Z</updated>
+    <updated>2023-06-24T23:18:32.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[갓성비]]></title>
+        <title type="html"><![CDATA[스불재]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-24T22:17:37.091Z</updated>
-        <content type="html"><![CDATA[대단한 존재를 ‘갓(god)+OO’이라고 부르는 MZ세대의 언어 습관에서 유래된 말로, 가성비를 뛰어넘는 혜택을 느낄 때 쓰는 말.]]></content>
+        <updated>2023-06-24T23:18:25.117Z</updated>
+        <content type="html"><![CDATA[‘스스로 불러온 재앙에 짓눌려’의 준말. 노래 Lazenca, save us에서 탄생한 밈.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아트 테크]]></title>
+        <title type="html"><![CDATA[정권 지르기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-24T22:17:37.095Z</updated>
-        <content type="html"><![CDATA[‘아트’와 ‘재테크’의 합성어. 미술 작품, 음악 저작권 등 다양한 예술 분야에 자산을 투자하는 방식을 말함.]]></content>
+        <updated>2023-06-24T23:18:25.118Z</updated>
+        <content type="html"><![CDATA[Z세대에게 일종의 소취(소원성취)와 비슷한 의미로 쓰임. 휴재 중인 일본 만화 &lt;헌터x헌터&gt;의 연재 재개를 기원하는 유튜버가 매일 정권 지르기 천 번 라이브 방송을 한 데서 유래.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언택트]]></title>
+        <title type="html"><![CDATA[넘사벽]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-24T22:17:37.095Z</updated>
-        <content type="html"><![CDATA[접촉하다라는 뜻의 '콘택트(contact)'와 부정어 '언(un-)'을 합성한 말.  비대면 방식을 뜻함.]]></content>
+        <updated>2023-06-24T23:18:25.119Z</updated>
+        <content type="html"><![CDATA[넘을 수 없는 4차원의 벽의 줄임말. 대상과 거리감이 많이 느껴질 때 주로 사용함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캘박]]></title>
+        <title type="html"><![CDATA[오픈런]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-24T22:17:37.095Z</updated>
-        <content type="html"><![CDATA[‘캘린더’와 ‘박제’의 줄임말. 중요한 일정을 캘린더에 저장해둔다는 뜻임.]]></content>
+        <updated>2023-06-24T23:18:25.121Z</updated>
+        <content type="html"><![CDATA[특정 상품을 구하기 위해 매장 오픈 시간 전에 줄을 서서 대기하는 행위. 공연계에서 쓰는 ‘오픈런’과는 다른 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퍼블리시티권]]></title>
+        <title type="html"><![CDATA[위꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-24T22:17:37.096Z</updated>
-        <content type="html"><![CDATA[유명인이 자신의 성명이나 초상을 상품 등의 선전에 이용하는 것을 허락하는 권리.]]></content>
+        <updated>2023-06-24T23:18:25.122Z</updated>
+        <content type="html"><![CDATA[위장 꾸미기. 맛있는 식사를 하는 것을 꾸미기에 빗대어 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포카]]></title>
+        <title type="html"><![CDATA[준등기깡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-24T22:17:37.097Z</updated>
-        <content type="html"><![CDATA[포토 카드의 줄임말. 얼굴이 인쇄 된 명함 사이즈의 카드를 의미한다. 요즘 아이돌 앨범에 필수로 들어있는 굿즈임.]]></content>
+        <updated>2023-06-24T23:18:25.124Z</updated>
+        <content type="html"><![CDATA[준등기로 배송된 우편물을 뜯어보는 것. 10~20대는 포토 카드 등 소형 굿즈를 준등기로 거래하는 경우가 많아 생긴 신조어.]]></content>
     </entry>
 </feed>
