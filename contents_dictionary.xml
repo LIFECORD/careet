@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-06-29T17:16:52.261Z</updated>
+    <updated>2023-06-29T18:26:40.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[실친]]></title>
+        <title type="html"><![CDATA[RT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-29T17:16:44.329Z</updated>
-        <content type="html"><![CDATA[실제 친구의 줄임말. 온라인에서 사귄 친구가 아니라는 뜻.]]></content>
+        <updated>2023-06-29T18:26:31.925Z</updated>
+        <content type="html"><![CDATA[‘리트윗(ReTweet)’의 약자. 트위터에서 다른 계정의 게시물을 자신의 계정에 공유하는 기능을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마테]]></title>
+        <title type="html"><![CDATA[페메]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-29T17:16:44.330Z</updated>
-        <content type="html"><![CDATA[마스킹테이프의 준말. 주로 다이어리 등을 꾸밀 때 이용됨]]></content>
+        <updated>2023-06-29T18:26:31.931Z</updated>
+        <content type="html"><![CDATA[페이스북 메시지의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[음식 예절샷]]></title>
+        <title type="html"><![CDATA[국뽕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-29T17:16:44.333Z</updated>
-        <content type="html"><![CDATA[맛있는 음식을 먹을 때 포토카드를 들고 사진을 찍어 SNS에 공유하는 Z세대 온라인 문화를 부르는 말]]></content>
+        <updated>2023-06-29T18:26:31.933Z</updated>
+        <content type="html"><![CDATA[부정적 어감으로 들리지만, 요즘 MZ세대가 쓰는 국뽕은 K팝과 한류의 성공으로 ‘국가에 대한 자긍심에 푹 빠짐’을 뜻하는 긍정적인 표현으로 쓰이고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[먹금]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-29T17:16:44.335Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-06-29T18:26:31.934Z</updated>
+        <content type="html"><![CDATA[‘먹이 금지’의 줄임말. 대꾸하지 않고 무시하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[필환경]]></title>
+        <title type="html"><![CDATA[디깅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-29T17:16:44.336Z</updated>
-        <content type="html"><![CDATA[필(必)과 환경의 합성어로 환경을 필수로 생각해야 한다는 뜻.]]></content>
+        <updated>2023-06-29T18:26:31.935Z</updated>
+        <content type="html"><![CDATA[digging, 한글로 직역하면 ‘발굴’이라는 뜻. MZ세대 사이에선 흥미 있는 분야의 정보를 얻기 위해 이것저것 검색해보는 일을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빠던]]></title>
+        <title type="html"><![CDATA[맞춤형 광고]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-06-29T17:16:44.337Z</updated>
-        <content type="html"><![CDATA[배트 플립(bat flip)의 한국식 표기. 일명 ‘빠따 던지기’의 줄임말. 타자가 홈런이 짐작되는 타격을 한 뒤, 야구 방망이를 던지는 행위를 말함.]]></content>
+        <updated>2023-06-29T18:26:31.936Z</updated>
+        <content type="html"><![CDATA[이용자의 검색 기록, 구매 정보 등을 기반으로 노출되는 타깃 광고,]]></content>
     </entry>
 </feed>
