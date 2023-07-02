@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-02T11:15:01.120Z</updated>
+    <updated>2023-07-02T12:33:43.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[폰]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-02T11:14:52.825Z</updated>
-        <content type="html"><![CDATA[MZ세대가 ‘가짜’를 표현할 때 쓰는 접두어. ex) 폰여행=가짜 여행, 폰콘서트=가짜 콘서트]]></content>
+        <updated>2023-07-02T12:33:35.078Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트친소]]></title>
+        <title type="html"><![CDATA[국뽕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-02T11:14:52.825Z</updated>
-        <content type="html"><![CDATA[‘트위터 친구를 소개 받습니다’의 줄임말. 트위터에서 공개적으로 친구를 모집하는 일을 뜻함.]]></content>
+        <updated>2023-07-02T12:33:35.082Z</updated>
+        <content type="html"><![CDATA[부정적 어감으로 들리지만, 요즘 MZ세대가 쓰는 국뽕은 K팝과 한류의 성공으로 ‘국가에 대한 자긍심에 푹 빠짐’을 뜻하는 긍정적인 표현으로 쓰이고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[눈팅]]></title>
+        <title type="html"><![CDATA[인스타 스토리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-02T11:14:52.828Z</updated>
-        <content type="html"><![CDATA[온라인 커뮤니티 등에서 게시글을 쓰거나 댓글을 달지 않고 오직 게시물을 읽기만 하는 것을 의미함.]]></content>
+        <updated>2023-07-02T12:33:35.083Z</updated>
+        <content type="html"><![CDATA[인스타그램에서 24시간 동안만 공개되는 게시물. 개인의 피드에도 게시되지 않는 것이 특징.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웃참]]></title>
+        <title type="html"><![CDATA[현활]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-02T11:14:52.828Z</updated>
-        <content type="html"><![CDATA[‘웃음 참기’의 줄임말. 웃기지만 웃어서 안되는 일이 있을 때 ‘웃음 참기 챌린지’를 한다고 표현하기도 함.]]></content>
+        <updated>2023-07-02T12:33:35.084Z</updated>
+        <content type="html"><![CDATA[SNS에서 현재 활동중이라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[예쁜 쓰레기]]></title>
+        <title type="html"><![CDATA[비상이다]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-02T11:14:52.829Z</updated>
-        <content type="html"><![CDATA[실용성은 없을지라도 감성을 충족시켜주는 물건들을 일컫는 말.]]></content>
+        <updated>2023-07-02T12:33:35.086Z</updated>
+        <content type="html"><![CDATA[MZ세대가 감동적인 상황에서 사용하는 유행어. 한 익명게시판의 썰에서 유래됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알잘딱깔센]]></title>
+        <title type="html"><![CDATA[원툴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-02T11:14:52.830Z</updated>
-        <content type="html"><![CDATA[‘알아서 잘 딱 깔끔하고 센스있게’의 줄임말. 게임 스트리머 우왁굳이 사용하며 널리 쓰이기 시작함.]]></content>
+        <updated>2023-07-02T12:33:35.087Z</updated>
+        <content type="html"><![CDATA[(one tool) 한 가지만 잘 한다는 말.]]></content>
     </entry>
 </feed>
