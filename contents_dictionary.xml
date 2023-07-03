@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-02T23:18:17.241Z</updated>
+    <updated>2023-07-03T01:47:12.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[캐릿 1020 해외 특파원]]></title>
+        <title type="html"><![CDATA[도믿맨]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-02T23:18:07.786Z</updated>
-        <content type="html"><![CDATA[1020으로 구성된 캐릿의 해외 트렌드 자문 그룹. 해외 각국의 Z세대 트렌드를 발 빠르게 전하는 역할을 맡고 있음.]]></content>
+        <updated>2023-07-03T01:47:03.797Z</updated>
+        <content type="html"><![CDATA[‘도를 아십니까’라는 말과 함께 전도하려는 사람들을 뜻하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[0차]]></title>
+        <title type="html"><![CDATA[킬포]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-02T23:18:07.788Z</updated>
-        <content type="html"><![CDATA[1차로 방문할 예정인 핫플레이스에 웨이팅이 길 경우, 대기를 걸어두고 방문하는 주변 공간을 가리킴.]]></content>
+        <updated>2023-07-03T01:47:03.797Z</updated>
+        <content type="html"><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[인스타 스토리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-02T23:18:07.790Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-07-03T01:47:03.798Z</updated>
+        <content type="html"><![CDATA[인스타그램에서 24시간 동안만 공개되는 게시물. 개인의 피드에도 게시되지 않는 것이 특징.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폰꾸]]></title>
+        <title type="html"><![CDATA[쩝쩝박사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-02T23:18:07.792Z</updated>
-        <content type="html"><![CDATA[폰꾸미기의 줄임말. 주로 휴대폰 배경화면이나 앱 아이콘을 커스텀 하는 것을 뜻함.]]></content>
+        <updated>2023-07-03T01:47:03.799Z</updated>
+        <content type="html"><![CDATA[음식에 대해 식견이 높거나, 맛있는 음식 조합을 잘 아는 사람들을 뜻하는 말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포토 카드]]></title>
+        <title type="html"><![CDATA[군백기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-02T23:18:07.794Z</updated>
-        <content type="html"><![CDATA[아이돌 멤버의 사진으로 만든 카드로, 주로 앨범 당 한 장씩 들어있는 굿즈. 줄여서 ‘포카’라고 부름.]]></content>
+        <updated>2023-07-03T01:47:03.801Z</updated>
+        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현활]]></title>
+        <title type="html"><![CDATA[세포마켓]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-02T23:18:07.796Z</updated>
-        <content type="html"><![CDATA[SNS에서 현재 활동중이라는 뜻.]]></content>
+        <updated>2023-07-03T01:47:03.802Z</updated>
+        <content type="html"><![CDATA[1인 미디어 시대에서 SNS를 통해 이뤄지는 1인 마켓. 기업 단위가 아닌 1인 사업자가 주를 이뤄 세포가 분열하는 것처럼 개인 단위로 발전하는 현상을 뜻함.]]></content>
     </entry>
 </feed>
