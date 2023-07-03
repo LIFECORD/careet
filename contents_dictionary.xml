@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-03T12:39:16.366Z</updated>
+    <updated>2023-07-03T13:28:40.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[광클]]></title>
+        <title type="html"><![CDATA[폰꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-03T12:39:08.284Z</updated>
-        <content type="html"><![CDATA[‘狂+click’의 줄임말. 아주 빠른 속도로 클릭하는 것을 의미함.]]></content>
+        <updated>2023-07-03T13:28:31.779Z</updated>
+        <content type="html"><![CDATA[폰꾸미기의 줄임말. 주로 휴대폰 배경화면이나 앱 아이콘을 커스텀 하는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에타]]></title>
+        <title type="html"><![CDATA[입덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-03T12:39:08.285Z</updated>
-        <content type="html"><![CDATA[학교 인증을 거친 재학생들만 이용할 수 있는 익명 커뮤니티 플랫폼 ‘에브리타임’의 줄임말. 과거 학교 커뮤니티와 비슷한 기능을 함.]]></content>
+        <updated>2023-07-03T13:28:31.780Z</updated>
+        <content type="html"><![CDATA[入(들어갈 입) + 덕질의 합성어. ‘어떤 포인트에 반해서 덕질을 시작하게 되다’라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[케미]]></title>
+        <title type="html"><![CDATA[극호]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-03T12:39:08.287Z</updated>
-        <content type="html"><![CDATA[서로 간의 궁합이나 호흡을 부르는 데 쓰이는 말. ‘chemistry’에서 유래.]]></content>
+        <updated>2023-07-03T13:28:31.782Z</updated>
+        <content type="html"><![CDATA[‘극도로 호감’의 줄임말. 비슷한 의미의 표현으로는 ‘최애(=가장 사랑함)’가 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어드벤트 캘린더]]></title>
+        <title type="html"><![CDATA[군백기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-03T12:39:08.288Z</updated>
-        <content type="html"><![CDATA[12월 1일부터 24일까지 크리스마스를 기다리면서 하나씩 선물을 열어보는 형식의 달력.]]></content>
+        <updated>2023-07-03T13:28:31.784Z</updated>
+        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언택트]]></title>
+        <title type="html"><![CDATA[스불재]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-03T12:39:08.290Z</updated>
-        <content type="html"><![CDATA[접촉하다라는 뜻의 '콘택트(contact)'와 부정어 '언(un-)'을 합성한 말.  비대면 방식을 뜻함.]]></content>
+        <updated>2023-07-03T13:28:31.786Z</updated>
+        <content type="html"><![CDATA[‘스스로 불러온 재앙에 짓눌려’의 준말. 노래 Lazenca, save us에서 탄생한 밈.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TMT]]></title>
+        <title type="html"><![CDATA[젠더 뉴트럴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-03T12:39:08.291Z</updated>
-        <content type="html"><![CDATA[Too Much Talker의 줄임말로, 말이 많은 사람이라는 뜻.]]></content>
+        <updated>2023-07-03T13:28:31.790Z</updated>
+        <content type="html"><![CDATA[남녀를 구분짓지 않는 성 중립적인 패션을 일컫는 말.]]></content>
     </entry>
 </feed>
