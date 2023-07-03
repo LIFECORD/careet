@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-07-03T01:47:12.564Z</updated>
+    <updated>2023-07-03T03:00:14.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 대학생들은 MT 어디로 가요? 가서 뭐 하고 노나요?]]></title>
+        <id>https://www.careet.net/1115</id>
+        <link href="https://www.careet.net/1115"/>
+        <updated>2023-07-03T02:59:21.657Z</updated>
+        <content type="html"><![CDATA[파티룸으로 MT 가고, 밀키트로 안주 만들어 먹는 2023 MT 문화 최신 버전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이미지로 보는 2023 상반기 유행템 총정리]]></title>
         <id>https://www.careet.net/1113</id>
@@ -151,152 +158,5 @@
         <link href="https://www.careet.net/1096"/>
         <updated>2023-06-01T01:59:23.918Z</updated>
         <content type="html"><![CDATA[요즘 Z세대가 SNS로 썸타는 법 알려드림!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z세대 핀터레스트 털어왔습니다. Next Y2K 비주얼 레퍼런스 7]]></title>
-        <id>https://www.careet.net/1094</id>
-        <link href="https://www.careet.net/1094"/>
-        <updated>2023-05-31T01:39:50.069Z</updated>
-        <content type="html"><![CDATA[요즘 Z세대는 이런 콘셉트로 화보 찍고 영상 편집하고 있어요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H.O.T 코스프레가 인기라고? 중고등학생 졸업사진 인기 콘셉트 TOP 6]]></title>
-        <id>https://www.careet.net/1084</id>
-        <link href="https://www.careet.net/1084"/>
-        <updated>2023-05-30T02:39:49.966Z</updated>
-        <content type="html"><![CDATA[10대가 꼽은 2023 상반기 이슈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘젤다 휴가’가 뭐야? 요즘 Z세대는 이거 하려고 휴가 내는 중!]]></title>
-        <id>https://www.careet.net/1091</id>
-        <link href="https://www.careet.net/1091"/>
-        <updated>2023-05-26T01:20:00.678Z</updated>
-        <content type="html"><![CDATA[요즘 화제인 AI 서비스, 게임, 굿즈, 유튜브 채널 총정리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[캐릿 서베이] Z세대 63.8%는 ‘인플루언서’가 되고 싶어 한다, 그 이유는?]]></title>
-        <id>https://www.careet.net/1089</id>
-        <link href="https://www.careet.net/1089"/>
-        <updated>2023-05-25T02:36:26.945Z</updated>
-        <content type="html"><![CDATA[Z세대 34.1%, ‘셀프 브랜딩’을 위해 인플루언서가 되고 싶다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카드뉴스] 최신 급상승 데이터에 숨은 분야별 MZ세대 트렌드]]></title>
-        <id>https://www.careet.net/1090</id>
-        <link href="https://www.careet.net/1090"/>
-        <updated>2023-05-24T01:22:44.330Z</updated>
-        <content type="html"><![CDATA[소비·패션·F&amp;B 등 각 카테고리별 급상승 데이터 모음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20만 원짜리 브랜드 키링이 인기? NEW 패션 트렌드]]></title>
-        <id>https://www.careet.net/1080</id>
-        <link href="https://www.careet.net/1080"/>
-        <updated>2023-05-23T02:34:56.383Z</updated>
-        <content type="html"><![CDATA[인형 키링 브랜드랑 콜라보하는 기업도 많아지고 있음!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이주의 일 잘한 브랜드] Z세대는 어떤 메시지가 담긴 광고에 호감을 가질까?]]></title>
-        <id>https://www.careet.net/1087</id>
-        <link href="https://www.careet.net/1087"/>
-        <updated>2023-05-22T01:23:37.800Z</updated>
-        <content type="html"><![CDATA[팬덤 문화, 이벤트 속의 이벤트 활용해 입소문 얻은 마케팅 사례 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 쇼츠, 릴스에 자주 보이는 기싸움좌 ‘에디’가 대체 누구야?]]></title>
-        <id>https://www.careet.net/1086</id>
-        <link href="https://www.careet.net/1086"/>
-        <updated>2023-05-19T01:20:19.449Z</updated>
-        <content type="html"><![CDATA[한 시간에 30개 이상 팔리는 유행템 알려드림!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘o99’가 뭔지 아세요? 해외 Z세대의 최신 유행 모음]]></title>
-        <id>https://www.careet.net/1082</id>
-        <link href="https://www.careet.net/1082"/>
-        <updated>2023-05-18T06:21:04.350Z</updated>
-        <content type="html"><![CDATA[곧 국내에서도 유행할 예정인 트렌드 4]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 초등학생은 용돈 어디에 쓸까? 학교 끝나고 뭐 할까?]]></title>
-        <id>https://www.careet.net/1083</id>
-        <link href="https://www.careet.net/1083"/>
-        <updated>2023-05-17T08:22:11.083Z</updated>
-        <content type="html"><![CDATA[무인문구점 굿즈부터 모바일 피파까지, 초등학교 인기 아이템을 모았습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z세대가 요즘 뜨는 행사·이벤트·핫플 찾을 때 참고하는 계정 13]]></title>
-        <id>https://www.careet.net/1078</id>
-        <link href="https://www.careet.net/1078"/>
-        <updated>2023-05-16T01:20:03.045Z</updated>
-        <content type="html"><![CDATA[일프로클럽, 블림프, POPS 모르는 사람은 클릭!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z세대가 뽑았다! 기억에 남은 팝업스토어 13]]></title>
-        <id>https://www.careet.net/1072</id>
-        <link href="https://www.careet.net/1072"/>
-        <updated>2023-05-15T02:36:21.522Z</updated>
-        <content type="html"><![CDATA[‘팝업스토어에 방문한 후에 이 브랜드 이미지가 긍정적으로 변했어요.’ 특징 5가지를 모았습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 10대가 인스타보다 많이 쓴다는 익명 칭찬 앱, ‘하입(HYPE)’ 아세요?]]></title>
-        <id>https://www.careet.net/1081</id>
-        <link href="https://www.careet.net/1081"/>
-        <updated>2023-05-12T02:31:59.071Z</updated>
-        <content type="html"><![CDATA[Z세대가 체감상 전교생이 쓰는 것 같다고 전한 익명 칭찬 앱은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 팔로워 6만 마케터 ‘제레박’이 알려주는 MZ 타깃 커뮤니티 운영법]]></title>
-        <id>https://www.careet.net/1077</id>
-        <link href="https://www.careet.net/1077"/>
-        <updated>2023-05-11T03:16:57.172Z</updated>
-        <content type="html"><![CDATA[6천여 명이 활발하게 참여 중인 커뮤니티를 만든 비밀!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐릿이 Z세대 스마트폰 털어옴! 관심사별 인기 앱 TOP 22]]></title>
-        <id>https://www.careet.net/1079</id>
-        <link href="https://www.careet.net/1079"/>
-        <updated>2023-05-10T01:17:18.097Z</updated>
-        <content type="html"><![CDATA[‘인스타그램’, ‘에브리타임’ 말고 요즘 Z세대가 쓰는 앱이 뭐야?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 자꾸 노잼이래? Z세대 반응 뜨거운 공공 마케팅.zip]]></title>
-        <id>https://www.careet.net/1074</id>
-        <link href="https://www.careet.net/1074"/>
-        <updated>2023-05-09T01:19:38.804Z</updated>
-        <content type="html"><![CDATA[오프라인 포토존부터 → 틱톡 계정 운영법까지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘추구미’부터 ‘오우예 씨몬’까지! Z세대가 인증한 찐으로 자주 사용하는 밈 5]]></title>
-        <id>https://www.careet.net/1075</id>
-        <link href="https://www.careet.net/1075"/>
-        <updated>2023-05-08T01:17:42.163Z</updated>
-        <content type="html"><![CDATA[Z세대 픽 최신 유행어 알려드립니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이주의 유행템] 주말이면 3시간 웨이팅, 요즘 뜨는 셀프 스튜디오의 비밀은?]]></title>
-        <id>https://www.careet.net/1076</id>
-        <link href="https://www.careet.net/1076"/>
-        <updated>2023-05-04T01:18:01.694Z</updated>
-        <content type="html"><![CDATA[이주의 유행템: 유튜브 채널부터 굿즈까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최신 유튜브 콘텐츠 흐름 분석]]></title>
-        <id>https://www.careet.net/1071</id>
-        <link href="https://www.careet.net/1071"/>
-        <updated>2023-05-03T01:19:36.204Z</updated>
-        <content type="html"><![CDATA[4월 유튜브 인급동에서 찾은 트렌드는?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X세대와 Z세대의 마음을 동시에 사로잡으려면? ‘#엄빠랑’에 주목하세요]]></title>
-        <id>https://www.careet.net/1069</id>
-        <link href="https://www.careet.net/1069"/>
-        <updated>2023-05-02T01:19:01.829Z</updated>
-        <content type="html"><![CDATA[‘가정의 달’ 이벤트 준비 전 필독!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가정의 달 이벤트 준비 중이시죠? 레퍼런스 모아 왔어요]]></title>
-        <id>https://www.careet.net/731</id>
-        <link href="https://www.careet.net/731"/>
-        <updated>2023-05-02T01:19:01.859Z</updated>
-        <content type="html"><![CDATA[어린이날부터 성년의 날까지!]]></content>
     </entry>
 </feed>
