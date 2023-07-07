@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-07T11:16:05.730Z</updated>
+    <updated>2023-07-07T12:38:14.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[좋댓구알]]></title>
+        <title type="html"><![CDATA[트시피]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-07T11:15:56.401Z</updated>
-        <content type="html"><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content>
+        <updated>2023-07-07T12:38:05.804Z</updated>
+        <content type="html"><![CDATA[트위터+레시피를 합친 말. 트위터에서 유행하는 레시피를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킹받는]]></title>
+        <title type="html"><![CDATA[떡밥]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-07T11:15:56.401Z</updated>
-        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
+        <updated>2023-07-07T12:38:05.808Z</updated>
+        <content type="html"><![CDATA[이야깃거리, 특히 덕질할 거리를 뜻하는 MZ세대 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[합방]]></title>
+        <title type="html"><![CDATA[취뽀]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-07T11:15:56.402Z</updated>
-        <content type="html"><![CDATA[합동방송의 줄임말. 주로 인터넷 방송에서 합동 콘텐츠를 찍는 것을 부르는 말.]]></content>
+        <updated>2023-07-07T12:38:05.810Z</updated>
+        <content type="html"><![CDATA[‘취업 뽀개기’의 줄임말. 취업에 성공했을 때 ‘취뽀했다’라고 함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시드 머니]]></title>
+        <title type="html"><![CDATA[스낵커블(snackable)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-07T11:15:56.402Z</updated>
-        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
+        <updated>2023-07-07T12:38:05.812Z</updated>
+        <content type="html"><![CDATA[‘쉽고 빠르게 소비할 수 있는’이란 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팅글]]></title>
+        <title type="html"><![CDATA[갑툭튀]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-07T11:15:56.404Z</updated>
-        <content type="html"><![CDATA['기분 좋은 소름'을 뜻하는 ASMR 용어.]]></content>
+        <updated>2023-07-07T12:38:05.816Z</updated>
+        <content type="html"><![CDATA[‘갑자기 툭 튀어나오다’의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아묻따]]></title>
+        <title type="html"><![CDATA[공병템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-07T11:15:56.405Z</updated>
-        <content type="html"><![CDATA[‘아무 것도 묻지도 따지지도 않고’의 줄임 말. 유명 광고에서 유래한 Z세대 유행어.]]></content>
+        <updated>2023-07-07T12:38:05.818Z</updated>
+        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
     </entry>
 </feed>
