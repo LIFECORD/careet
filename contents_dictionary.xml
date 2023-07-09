@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-09T13:23:03.480Z</updated>
+    <updated>2023-07-09T14:15:58.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[시그]]></title>
+        <title type="html"><![CDATA[크루얼티 프리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-09T13:22:54.756Z</updated>
-        <content type="html"><![CDATA[‘시즌그리팅’의 줄임말. 새해를 맞아 판매되는 달력, 다이어리 등의 굿즈 세트.]]></content>
+        <updated>2023-07-09T14:15:50.768Z</updated>
+        <content type="html"><![CDATA[‘학대(cruelty)가 없다(free)’는 의미로, 동물 실험을 하지 않거나 동물 유래 원료를 사용하지 않은 제품을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코시국]]></title>
+        <title type="html"><![CDATA[쓸디계]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-09T13:22:54.757Z</updated>
-        <content type="html"><![CDATA[코로나 시국의 줄임말.]]></content>
+        <updated>2023-07-09T14:15:50.770Z</updated>
+        <content type="html"><![CDATA[3D 계정의 줄임말. 2D 애니메이션 캐릭터가 아닌, 실제 인물을 덕질하는 계정을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생일 카페]]></title>
+        <title type="html"><![CDATA[캐릿 해외 특파원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-09T13:22:54.758Z</updated>
-        <content type="html"><![CDATA[유명인이나 캐릭터의 생일을 기념하기 위해 열리는 오프라인 이벤트를 총칭하는 말.]]></content>
+        <updated>2023-07-09T14:15:50.771Z</updated>
+        <content type="html"><![CDATA[글로벌 Z세대 트렌드 제보를 전담하는 캐릿의 1020 자문단.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[합방]]></title>
+        <title type="html"><![CDATA[어드벤트 캘린더]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-09T13:22:54.764Z</updated>
-        <content type="html"><![CDATA[합동방송의 줄임말. 주로 인터넷 방송에서 합동 콘텐츠를 찍는 것을 부르는 말.]]></content>
+        <updated>2023-07-09T14:15:50.772Z</updated>
+        <content type="html"><![CDATA[12월 1일부터 24일까지 크리스마스를 기다리면서 하나씩 선물을 열어보는 형식의 달력.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[손민수]]></title>
+        <title type="html"><![CDATA[이모지(Emoji)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-09T13:22:54.764Z</updated>
-        <content type="html"><![CDATA[웹툰 &lt;치즈인더트랩&gt;의 등장인물로 주인공 홍설을 몰래 따라하는 캐릭터. MZ세대 사이에서 ‘따라한다’ = ‘손민수 한다’로 통함.]]></content>
+        <updated>2023-07-09T14:15:50.773Z</updated>
+        <content type="html"><![CDATA[스마트폰에서 사용하는 그림 형태의 문자.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킹리적 갓심]]></title>
+        <title type="html"><![CDATA[긱 이코노미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-09T13:22:54.766Z</updated>
-        <content type="html"><![CDATA[‘합리적 의심’에 접두어 ‘킹’과 ‘갓’을 붙여 강조한 신조어.]]></content>
+        <updated>2023-07-09T14:15:50.775Z</updated>
+        <content type="html"><![CDATA[Gig Economy. 기업들이 필요에 따라 단기 계약직이나 임시직으로 인력을 충원하고 그 대가를 지불하는 형태의 경제.]]></content>
     </entry>
 </feed>
