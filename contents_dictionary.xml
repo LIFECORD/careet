@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-14T18:23:01.003Z</updated>
+    <updated>2023-07-14T19:15:39.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[좋페]]></title>
+        <title type="html"><![CDATA[미슐랭]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-14T18:22:50.939Z</updated>
-        <content type="html"><![CDATA[‘좋아요 누르면 페메(페북 메신저) 보낸다’의 줄임말.]]></content>
+        <updated>2023-07-14T19:15:30.181Z</updated>
+        <content type="html"><![CDATA[특정 대상을 칭찬할 때 쓰이는 ‘OO 맛집이다’라는 표현이 변형된 버전. ex) “캐릿 트렌드 미슐랭이네”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[트수]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-14T18:22:50.940Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-07-14T19:15:30.185Z</updated>
+        <content type="html"><![CDATA[스트리밍 플랫폼 ‘트위치’와 ‘백수’가 결합된 단어. 트위치를 시청하는 데 많은 시간을 보낸다는 뜻으로, 트위치 애청자를 상징하는 말로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[본캐]]></title>
+        <title type="html"><![CDATA[짤털]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-14T18:22:50.941Z</updated>
-        <content type="html"><![CDATA[‘본래의 캐릭터’의 줄임말.]]></content>
+        <updated>2023-07-14T19:15:30.187Z</updated>
+        <content type="html"><![CDATA[‘짤 털기’의 줄임말. 주로 한 주제의 사진 여러 장을 한꺼번에 올리는 일을 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[깡]]></title>
+        <title type="html"><![CDATA[겟레디윗미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-14T18:22:50.942Z</updated>
-        <content type="html"><![CDATA[덕질 용어에서 처음 시작된 단어로 깡은 깐다의 줄임말. 원하는 제품을 깐다는 말로 해석할 수 있다. 비슷한 단어로는 언박싱이 있다.]]></content>
+        <updated>2023-07-14T19:15:30.190Z</updated>
+        <content type="html"><![CDATA[쌩얼 상태에서 메이크업을 완성하는 과정을 보여주는 콘텐츠. ‘Get Ready With Me(=나랑 같이 준비하자)’를 그대로 발음한 용어로, 줄여서 ‘GRWM’로도 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[찐텐]]></title>
+        <title type="html"><![CDATA[장비병]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-14T18:22:50.943Z</updated>
-        <content type="html"><![CDATA[‘진짜 텐션’의 줄임말. 꾸미지 않은 솔직한 분위기와 기분이 느껴진다는 뜻. 반대말은 ‘억텐(=억지 텐션)’.]]></content>
+        <updated>2023-07-14T19:15:30.193Z</updated>
+        <content type="html"><![CDATA[무언가를 시작할 때 필요한 장비부터 구입하는 장비 덕후를 뜻하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[액괴]]></title>
+        <title type="html"><![CDATA[하이라이트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-14T18:22:50.945Z</updated>
-        <content type="html"><![CDATA[액체 괴물의 줄임말. 알파 세대에게 인기 있는 장난감인 ‘슬라임’을 지칭하는 용어이다.]]></content>
+        <updated>2023-07-14T19:15:30.195Z</updated>
+        <content type="html"><![CDATA[인스타 스토리를 프로필란에 고정할 수 있는 기능.]]></content>
     </entry>
 </feed>
