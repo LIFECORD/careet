@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-15T22:17:20.812Z</updated>
+    <updated>2023-07-15T23:17:55.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[알계]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-15T22:17:10.395Z</updated>
-        <content type="html"><![CDATA[트위터 계정 최초 생성 시 기본 프로필 사진인 알 그림을 프로필 사진으로 하고 있는 계정. 주로 본계를 숨기고 새로 계정을 만들어, 익명 뒤에 숨고 싶은 사람들이 이용함.]]></content>
+        <updated>2023-07-15T23:17:45.536Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타 스토리]]></title>
+        <title type="html"><![CDATA[그라폴리오]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-15T22:17:10.398Z</updated>
-        <content type="html"><![CDATA[인스타그램에서 24시간 동안만 공개되는 게시물. 개인의 피드에도 게시되지 않는 것이 특징.]]></content>
+        <updated>2023-07-15T23:17:45.539Z</updated>
+        <content type="html"><![CDATA[네이버의 웹서비스 중 하나로 전 세계 크리에이터들의 작품을 발견, 공유하고 사고팔 수 있는 창작 콘텐츠 커뮤니티.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뽀시래기]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-07-15T23:17:45.547Z</updated>
+        <content type="html"><![CDATA[부스러기처럼 작고 귀엽다는 뜻의 MZ세대식 표현.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디지털 네이티브]]></title>
+        <id>https://www.careet.net/Dictionary</id>
+        <link href="https://www.careet.net/Dictionary"/>
+        <updated>2023-07-15T23:17:45.550Z</updated>
+        <content type="html"><![CDATA[어린 시절부터 디지털 환경에서 성장한 세대를 뜻함.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하이라이트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-15T22:17:10.400Z</updated>
+        <updated>2023-07-15T23:17:45.552Z</updated>
         <content type="html"><![CDATA[인스타 스토리를 프로필란에 고정할 수 있는 기능.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐릿 해외 특파원]]></title>
+        <title type="html"><![CDATA[스불재]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-15T22:17:10.402Z</updated>
-        <content type="html"><![CDATA[글로벌 Z세대 트렌드 제보를 전담하는 캐릿의 1020 자문단.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ㅈㅂㅈㅇ]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-15T22:17:10.404Z</updated>
-        <content type="html"><![CDATA[정보좀요의 초성을 따서 만든 MZ세대 신조어. 패션 앱 스타일쉐어에서 상대방에게 제품 정보를 물어볼 때 사용했던 것에서 유래함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사바사]]></title>
-        <id>https://www.careet.net/Dictionary</id>
-        <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-15T22:17:10.407Z</updated>
-        <content type="html"><![CDATA[‘사람 by 사람’의 줄임말. 사람마다 다 다르다는 것을 의미함.]]></content>
+        <updated>2023-07-15T23:17:45.555Z</updated>
+        <content type="html"><![CDATA[‘스스로 불러온 재앙에 짓눌려’의 준말. 노래 Lazenca, save us에서 탄생한 밈.]]></content>
     </entry>
 </feed>
