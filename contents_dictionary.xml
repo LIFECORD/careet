@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-18T17:16:21.134Z</updated>
+    <updated>2023-07-18T18:23:20.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[VSCO]]></title>
+        <title type="html"><![CDATA[억텐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-18T17:16:11.887Z</updated>
-        <content type="html"><![CDATA[사진 보정 앱. 포토샵처럼 세세한 조절도 가능하다. 이런 감성을 묶어 부르는 VSCO girl이란 말도 있음.]]></content>
+        <updated>2023-07-18T18:23:09.646Z</updated>
+        <content type="html"><![CDATA[‘억지 텐션’의 줄임말로, 자신의 기분은 전혀 그렇지 않은데도 상대의 말이나 행동에 억지로 재미있는 척하거나 격한 반응을 보여주는 것을 의미함. 반대말은 ‘찐텐(=진짜 텐션)’]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[곰손]]></title>
+        <title type="html"><![CDATA[망상]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-18T17:16:11.887Z</updated>
-        <content type="html"><![CDATA[손재주가 영 없는 사람을 비유한 말. ↔ 유행어 ‘금손’]]></content>
+        <updated>2023-07-18T18:23:09.649Z</updated>
+        <content type="html"><![CDATA[좋아하는 연예인을 가지고 특정 상황을 설정해 상상하며 노는 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라라라러브송]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-18T17:16:11.889Z</updated>
-        <content type="html"><![CDATA[일본인 가수 ‘쿠보타 토시노부’의 ‘La La La Love Song’. 시티팝 특유의 감성이 그대로 녹아 있는 유명곡 중 하나로 국내에서 많은 아티스트가 커버함]]></content>
+        <updated>2023-07-18T18:23:09.652Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혼코노]]></title>
+        <title type="html"><![CDATA[액괴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-18T17:16:11.890Z</updated>
-        <content type="html"><![CDATA[‘혼자서 코인 노래방 가는 사람(or 행위)’의 줄임말.]]></content>
+        <updated>2023-07-18T18:23:09.655Z</updated>
+        <content type="html"><![CDATA[액체 괴물의 줄임말. 알파 세대에게 인기 있는 장난감인 ‘슬라임’을 지칭하는 용어이다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시고르자브종]]></title>
+        <title type="html"><![CDATA[모먼트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-18T17:16:11.893Z</updated>
-        <content type="html"><![CDATA[‘시골 잡종’에서 받침을 길게 늘려 외국어처럼 들리는 형태의 신조어. 뚜렷한 견종을 가지고 있지 않는 믹스견을 뜻함.]]></content>
+        <updated>2023-07-18T18:23:09.658Z</updated>
+        <content type="html"><![CDATA[‘순간’을 뜻하는 영어 단어인 ‘moment’를 그대로 발음한 말. 특정한 모습이나 행동을 보여주는 순간들을 강조할 때 사용함. [용례] ‘OO적 모먼트’]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디지털 굿즈]]></title>
+        <title type="html"><![CDATA[구독계]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-18T17:16:11.894Z</updated>
-        <content type="html"><![CDATA[휴대폰·아이패드 배경화면, 카카오톡 테마 등 모바일 환경에 적용해서 사용할 수 있는 템플릿. 실물 굿즈가 아닌 온라인에서 배포할 수 있다는 점이 특징.]]></content>
+        <updated>2023-07-18T18:23:09.660Z</updated>
+        <content type="html"><![CDATA[아무 말도 걸지 않고 그냥 상대방을 팔로해서 상대방이 쓰는 글을 보거나 리트윗만 하기 위해 이용하는 계정.]]></content>
     </entry>
 </feed>
