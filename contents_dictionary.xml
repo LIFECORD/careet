@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-19T16:22:40.536Z</updated>
+    <updated>2023-07-19T17:15:48.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[PTSD]]></title>
+        <title type="html"><![CDATA[임플로이언서]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-19T16:22:30.730Z</updated>
-        <content type="html"><![CDATA[외상 후 스트레스 장애의 약자. 일상에서는 “과거의 (안 좋은) 경험이 떠올라서 소름 돋는다.”라는 뉘앙스로 활용됨.]]></content>
+        <updated>2023-07-19T17:15:40.446Z</updated>
+        <content type="html"><![CDATA[Employee+Influencer. 직원으로서 기업의 브랜딩과 이미지에 영향력을 미치는 존재.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[본캐]]></title>
+        <title type="html"><![CDATA[맛잘알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-19T16:22:30.733Z</updated>
-        <content type="html"><![CDATA[‘본래의 캐릭터’의 줄임말.]]></content>
+        <updated>2023-07-19T17:15:40.448Z</updated>
+        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어인 '잘알' 앞에 '맛'이 붙은 형태. 즉, 맛을 잘 아는 사람이라는 뜻]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OOTD]]></title>
+        <title type="html"><![CDATA[돈쭐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-19T16:22:30.736Z</updated>
-        <content type="html"><![CDATA[‘Outfit Of The Day’의 줄임말. 당일 또는 특정 상황에서 입은 자신의 옷차림을 촬영하여 소셜미디어에 업로드하는 행위.]]></content>
+        <updated>2023-07-19T17:15:40.450Z</updated>
+        <content type="html"><![CDATA[돈으로 혼쭐을 내주겠다는 뜻. 그만큼 많이 팔아주겠다는 긍정적인 의미로 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플미]]></title>
+        <title type="html"><![CDATA[Z세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-19T16:22:30.739Z</updated>
-        <content type="html"><![CDATA[‘프리미엄’의 줄임말. 주로 희소성있는 제품이 판매가보다 비싸게 거래될 때 ‘플미붙었다’고 표현함.]]></content>
+        <updated>2023-07-19T17:15:40.453Z</updated>
+        <content type="html"><![CDATA[1996년 이후 출생~2010년대 초반 출생자.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스트리머]]></title>
+        <title type="html"><![CDATA[브이앱]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-19T16:22:30.742Z</updated>
-        <content type="html"><![CDATA[유튜브, 트위치, 아프리카 같은 플랫폼에서 실시간 인터넷 방송을 하는 사람.]]></content>
+        <updated>2023-07-19T17:15:40.454Z</updated>
+        <content type="html"><![CDATA[네이버가 제공하는 연예인 라이브 방송 서비스.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카공족]]></title>
+        <title type="html"><![CDATA[트수]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-19T16:22:30.745Z</updated>
-        <content type="html"><![CDATA[카페에서 공부하는 사람들을 일컫는 말.]]></content>
+        <updated>2023-07-19T17:15:40.456Z</updated>
+        <content type="html"><![CDATA[스트리밍 플랫폼 ‘트위치’와 ‘백수’가 결합된 단어. 트위치를 시청하는 데 많은 시간을 보낸다는 뜻으로, 트위치 애청자를 상징하는 말로 쓰임.]]></content>
     </entry>
 </feed>
