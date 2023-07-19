@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/2</id>
     <title>Careet ─ Contents ─ Z세대 최신 근황</title>
-    <updated>2023-07-18T23:16:55.782Z</updated>
+    <updated>2023-07-19T02:47:15.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그거 아세요? Z세대는 유튜브 뮤직 TOP 100 듣는대요]]></title>
+        <id>https://www.careet.net/1132</id>
+        <link href="https://www.careet.net/1132"/>
+        <updated>2023-07-19T02:46:41.088Z</updated>
+        <content type="html"><![CDATA[올 상반기, 눈에 띄는 음악 트렌드 총정리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[힙한 MZ 취미! 등산, 골프 가고 ‘여자 축구’가 뜬다고?]]></title>
         <id>https://www.careet.net/1098</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/1069"/>
         <updated>2023-05-02T01:19:20.167Z</updated>
         <content type="html"><![CDATA[‘가정의 달’ 이벤트 준비 전 필독!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[23학번 간접 체험하실래요? 달라진 캠퍼스 풍경 5]]></title>
-        <id>https://www.careet.net/1063</id>
-        <link href="https://www.careet.net/1063"/>
-        <updated>2023-04-20T02:35:05.590Z</updated>
-        <content type="html"><![CDATA[‘블루투스 출튀’가 뭐야?]]></content>
     </entry>
 </feed>
