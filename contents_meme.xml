@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/1</id>
     <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
-    <updated>2023-07-25T23:14:41.484Z</updated>
+    <updated>2023-07-26T01:25:05.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기획에 영감을 주는 ‘레전드 썰’ 모음]]></title>
+        <id>https://www.careet.net/1118</id>
+        <link href="https://www.careet.net/1118"/>
+        <updated>2023-07-26T01:24:21.128Z</updated>
+        <content type="html"><![CDATA[1020은 고사성어처럼 외우고 있다는 썰 13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SNS 콘텐츠 제작할 때 참고하세요! Z세대는 다 아는 전단지 밈]]></title>
         <id>https://www.careet.net/1103</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/1026"/>
         <updated>2023-03-02T01:41:31.052Z</updated>
         <content type="html"><![CDATA[Z세대가 지금 써도 된다고 컨펌해준 밈 모음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘폼 미쳤다’의 유래와 뜻은? 요즘 유행하는 밈 총정리]]></title>
-        <id>https://www.careet.net/985</id>
-        <link href="https://www.careet.net/985"/>
-        <updated>2023-02-27T20:20:35.076Z</updated>
-        <content type="html"><![CDATA[유행어 잘 쓰는 담당자가 되고 싶으신가요?]]></content>
     </entry>
 </feed>
