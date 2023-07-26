@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-07-26T12:33:00.723Z</updated>
+    <updated>2023-07-26T13:22:42.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[리젠]]></title>
+        <title type="html"><![CDATA[언택트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-26T12:32:51.376Z</updated>
-        <content type="html"><![CDATA[‘regeneration(부활)’의 줄임말로, 게임에서 몬스터가 죽고난 뒤 다시 나타나는 것을 뜻한다. 통상적으로는 ‘새로운 게시물이 업로드 되었다’라는 의미로 쓰임.]]></content>
+        <updated>2023-07-26T13:22:33.652Z</updated>
+        <content type="html"><![CDATA[접촉하다라는 뜻의 '콘택트(contact)'와 부정어 '언(un-)'을 합성한 말.  비대면 방식을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밥약]]></title>
+        <title type="html"><![CDATA[캘박]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-26T12:32:51.378Z</updated>
-        <content type="html"><![CDATA[밥 약속의 줄임 말.]]></content>
+        <updated>2023-07-26T13:22:33.652Z</updated>
+        <content type="html"><![CDATA[‘캘린더’와 ‘박제’의 줄임말. 중요한 일정을 캘린더에 저장해둔다는 뜻임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[진대]]></title>
+        <title type="html"><![CDATA[재주행]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-26T12:32:51.382Z</updated>
-        <content type="html"><![CDATA[‘진지한 대화’의 줄임말.]]></content>
+        <updated>2023-07-26T13:22:33.653Z</updated>
+        <content type="html"><![CDATA[이미 본 작품을 다시 반복해서 보는 것을 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[레딧]]></title>
+        <title type="html"><![CDATA[디깅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-26T12:32:51.384Z</updated>
-        <content type="html"><![CDATA[미국에서 만들어진 커뮤니티 사이트로 해외 MZ세대가 즐겨찾음. 주제별 게시판인 ‘서브레딧’이 따로 있는 것이 특징.]]></content>
+        <updated>2023-07-26T13:22:33.657Z</updated>
+        <content type="html"><![CDATA[digging, 한글로 직역하면 ‘발굴’이라는 뜻. MZ세대 사이에선 흥미 있는 분야의 정보를 얻기 위해 이것저것 검색해보는 일을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소확성]]></title>
+        <title type="html"><![CDATA[떡상]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-26T12:32:51.387Z</updated>
-        <content type="html"><![CDATA[‘소소하지만 확실한 성취감’의 줄임말.]]></content>
+        <updated>2023-07-26T13:22:33.659Z</updated>
+        <content type="html"><![CDATA[원래는 주식이나 비트코인 등의 가격이 급등하는 것을 의미하지만, 무언가의 인기가 갑자기 높아졌다는 뜻으로도 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쫌쫌따리]]></title>
+        <title type="html"><![CDATA[가챠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-07-26T12:32:51.389Z</updated>
-        <content type="html"><![CDATA[아주 조금씩 틈틈이를 뜻하는 MZ세대 신조어.]]></content>
+        <updated>2023-07-26T13:22:33.661Z</updated>
+        <content type="html"><![CDATA[확률형 아이템 뽑기 시스템을 지칭하는 게임 용어.]]></content>
     </entry>
 </feed>
