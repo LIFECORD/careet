@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/1</id>
     <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
-    <updated>2023-08-01T04:22:51.550Z</updated>
+    <updated>2023-08-01T05:18:56.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이중 몇 개나 아세요? 요즘 뜨는 밈 6개 속성 과외]]></title>
+        <id>https://www.careet.net/1142</id>
+        <link href="https://www.careet.net/1142"/>
+        <updated>2023-08-01T05:18:09.594Z</updated>
+        <content type="html"><![CDATA[SNS 밈, 또 생겼습니다!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기획에 영감을 주는 ‘레전드 썰’ 모음]]></title>
         <id>https://www.careet.net/1118</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/1048"/>
         <updated>2023-03-27T01:19:15.035Z</updated>
         <content type="html"><![CDATA[캐릿 구독자가 내 오쏘몰이다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘여러분 너무 보고 싶었어↗’ 어디서 시작된 밈일까? 최신 유행어 뜻 & 유래 모음]]></title>
-        <id>https://www.careet.net/1026</id>
-        <link href="https://www.careet.net/1026"/>
-        <updated>2023-03-02T01:41:31.052Z</updated>
-        <content type="html"><![CDATA[Z세대가 지금 써도 된다고 컨펌해준 밈 모음]]></content>
     </entry>
 </feed>
