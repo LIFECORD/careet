@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/3</id>
     <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2023-08-06T23:15:53.423Z</updated>
+    <updated>2023-08-07T01:19:15.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[역대급 폭염에도 Z세대 오프라인으로 불러낸 이벤트 3]]></title>
+        <id>https://www.careet.net/1151</id>
+        <link href="https://www.careet.net/1151"/>
+        <updated>2023-08-07T01:18:49.151Z</updated>
+        <content type="html"><![CDATA[대기 인원만 1800명 몰린 상영회 이벤트가 있다고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 화제가 된 영상 광고의 공통점은? 캐릿이 대신 요약해드림]]></title>
         <id>https://www.careet.net/1146</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/1107"/>
         <updated>2023-06-29T03:30:45.023Z</updated>
         <content type="html"><![CDATA[캐릿 1020 자문단이 뽑은 2023년 상반기 일 잘한 브랜드 18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웨이팅만 30분, 향수 뿌린 책으로 MZ 불러 모은 ‘문학 마케팅’]]></title>
-        <id>https://www.careet.net/1112</id>
-        <link href="https://www.careet.net/1112"/>
-        <updated>2023-06-26T01:50:20.515Z</updated>
-        <content type="html"><![CDATA[책 안 읽을 것 같은 MZ세대가 소설가와 브랜드의 콜라보를 반기는 이유는?]]></content>
     </entry>
 </feed>
