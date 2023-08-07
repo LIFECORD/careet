@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-07T08:27:14.653Z</updated>
+    <updated>2023-08-07T09:16:57.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[GOAT]]></title>
+        <title type="html"><![CDATA[커뮤니케이션 코스트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-07T08:27:05.093Z</updated>
-        <content type="html"><![CDATA[‘Greatest Of All Time’의 줄임말. 최근 MZ세대 사이에서 역대급 레전드를 논할 때 자주 쓰이는 표현.]]></content>
+        <updated>2023-08-07T09:16:47.220Z</updated>
+        <content type="html"><![CDATA[조직에서 구성원들끼리 소통하기 위해 투입되는 시간, 비용, 노력 등을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리셀(resell)]]></title>
+        <title type="html"><![CDATA[밖순이]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-07T08:27:05.104Z</updated>
-        <content type="html"><![CDATA[희소한 제품을 구입해 웃돈을 얹어 되파는 행위. 한정판 스니커즈부터 구하기 힘든 굿즈까지 대상은 다양함.]]></content>
+        <updated>2023-08-07T09:16:47.223Z</updated>
+        <content type="html"><![CDATA[집순이의 반대말로, 밖에서 노는 걸 좋아하는 사람을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[짤털]]></title>
+        <title type="html"><![CDATA[액괴 유튜버]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-07T08:27:05.104Z</updated>
-        <content type="html"><![CDATA[‘짤 털기’의 줄임말. 주로 한 주제의 사진 여러 장을 한꺼번에 올리는 일을 부르는 말.]]></content>
+        <updated>2023-08-07T09:16:47.225Z</updated>
+        <content type="html"><![CDATA[액괴란 액체괴물(슬라임)의 줄임말임. 액괴 유튜버란 ‘슬라임’을 만지고 노는 콘텐츠를 주로 업로드하는 유튜버를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최애]]></title>
+        <title type="html"><![CDATA[군백기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-07T08:27:05.105Z</updated>
-        <content type="html"><![CDATA[MZ세대가 최고로 사랑하는 대상, 1순위를 부르는 말.]]></content>
+        <updated>2023-08-07T09:16:47.228Z</updated>
+        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[컨셉러]]></title>
+        <title type="html"><![CDATA[인스타툰]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-07T08:27:05.106Z</updated>
-        <content type="html"><![CDATA[‘콘셉트(concept)’와 ‘~하는 사람(-er)’의 합성어로, 자신만의 설정을 만들어 행동하는 사람을 일컫는 말.]]></content>
+        <updated>2023-08-07T09:16:47.230Z</updated>
+        <content type="html"><![CDATA[인스타그램에 연재되는 만화(Cartoon)의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스꾸]]></title>
+        <title type="html"><![CDATA[미공포]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-07T08:27:05.108Z</updated>
-        <content type="html"><![CDATA[스티커 꾸미기의 줄임말. 스티커로 무언가를 꾸미는 행위를 뜻함.]]></content>
+        <updated>2023-08-07T09:16:47.233Z</updated>
+        <content type="html"><![CDATA[‘미공개 포토카드’의 줄임말. 앨범에 수록된 ‘공식 포토카드’를 제외한 포토카드를 일컬음. 보통 아이돌 팬들이 각종 이벤트에 참여해서 받게 되는 경우가 많음.]]></content>
     </entry>
 </feed>
