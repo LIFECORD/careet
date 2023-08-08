@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-08T15:17:34.830Z</updated>
+    <updated>2023-08-08T16:28:16.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[반모]]></title>
+        <title type="html"><![CDATA[시강]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-08T15:17:25.523Z</updated>
-        <content type="html"><![CDATA[반말로 말하는 것. '반말 모드'의 줄임말.]]></content>
+        <updated>2023-08-08T16:28:07.251Z</updated>
+        <content type="html"><![CDATA[‘시선 강탈’의 줄임말. 유독 남들의 시선(이목)을 끄는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파이프라인]]></title>
+        <title type="html"><![CDATA[에타]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-08T15:17:25.526Z</updated>
-        <content type="html"><![CDATA[돈이 들어오는 시스템, 수입원.]]></content>
+        <updated>2023-08-08T16:28:07.262Z</updated>
+        <content type="html"><![CDATA[학교 인증을 거친 재학생들만 이용할 수 있는 익명 커뮤니티 플랫폼 ‘에브리타임’의 줄임말. 과거 학교 커뮤니티와 비슷한 기능을 함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코시국]]></title>
+        <title type="html"><![CDATA[존버]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-08T15:17:25.531Z</updated>
-        <content type="html"><![CDATA[코로나 시국의 줄임말.]]></content>
+        <updated>2023-08-08T16:28:07.262Z</updated>
+        <content type="html"><![CDATA[엄청나게 버티다라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도파민]]></title>
+        <title type="html"><![CDATA[여덕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-08T15:17:25.534Z</updated>
-        <content type="html"><![CDATA[인체에 분비되는 신경전달물질로 쾌락을 느끼게 해주는 것으로 알려져 있음.]]></content>
+        <updated>2023-08-08T16:28:07.262Z</updated>
+        <content type="html"><![CDATA[여자 덕후의 줄임말. 여덕 몰이 멤버 = 여성 팬이 많다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영끌]]></title>
+        <title type="html"><![CDATA[킹정]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-08T15:17:25.536Z</updated>
-        <content type="html"><![CDATA[‘영혼까지 끌어모은다’의 줄임말. 있는 돈 없는 돈 다 끌어모을 때 비유적으로 사용하는 표현.]]></content>
+        <updated>2023-08-08T16:28:07.262Z</updated>
+        <content type="html"><![CDATA[King +‘인정’의 합성어. 강한 인정을 의미함]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공병템]]></title>
+        <title type="html"><![CDATA[인용 알티]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-08T15:17:25.540Z</updated>
-        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
+        <updated>2023-08-08T16:28:07.263Z</updated>
+        <content type="html"><![CDATA[트위터에서 다른 사람의 트윗 위에 자신의 의견을 덧붙여서 공유하는 기능.]]></content>
     </entry>
 </feed>
