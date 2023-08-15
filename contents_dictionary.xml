@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-15T09:15:52.129Z</updated>
+    <updated>2023-08-15T10:17:31.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[트잘알]]></title>
+        <title type="html"><![CDATA[뽀시래기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-15T09:15:42.966Z</updated>
-        <content type="html"><![CDATA[‘잘 안다’, ‘잘 아는 사람’이라는 뜻의 신조어인 ‘잘알’ 앞에 ‘트렌드’의 앞 글자인 ‘트’가 붙은 형태. 즉, 트렌드를 잘 안다는 뜻.]]></content>
+        <updated>2023-08-15T10:17:07.001Z</updated>
+        <content type="html"><![CDATA[부스러기처럼 작고 귀엽다는 뜻의 MZ세대식 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맛잘알]]></title>
+        <title type="html"><![CDATA[술터뷰]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-15T09:15:42.974Z</updated>
-        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어인 '잘알' 앞에 '맛'이 붙은 형태. 즉, 맛을 잘 아는 사람이라는 뜻]]></content>
+        <updated>2023-08-15T10:17:07.003Z</updated>
+        <content type="html"><![CDATA[‘술을 마시면서 진행하는 인터뷰’라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킬포]]></title>
+        <title type="html"><![CDATA[플리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-15T09:15:42.976Z</updated>
-        <content type="html"><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content>
+        <updated>2023-08-15T10:17:07.009Z</updated>
+        <content type="html"><![CDATA[‘플레이리스트’의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안 고독한 채팅방]]></title>
+        <title type="html"><![CDATA[맛집]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-15T09:15:42.978Z</updated>
-        <content type="html"><![CDATA[대화가 없는 고독한 채팅방과 달리, 대화도 하며 특정 연예인의 짤(이미지)도 공유하는 카카오톡 오픈 채팅방.]]></content>
+        <updated>2023-08-15T10:17:07.011Z</updated>
+        <content type="html"><![CDATA[‘이 집 잘한다’는 칭찬의 표현. ‘엔딩 맛집’, ‘케미(합) 맛집’ 등 다양한 단어 뒤에 붙임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[굿즈]]></title>
+        <title type="html"><![CDATA[위버스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-15T09:15:42.981Z</updated>
-        <content type="html"><![CDATA[원래 연예인과 관련된 사진, 포토카드, 응원봉 등의 제품을 뜻했으나, 최근엔 ‘한정판으로 출시되는 매력적인 아이템’을 통칭하는 단어로 자리잡음.]]></content>
+        <updated>2023-08-15T10:17:07.012Z</updated>
+        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자강두천]]></title>
+        <title type="html"><![CDATA[0차]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-15T09:15:42.983Z</updated>
-        <content type="html"><![CDATA[‘자존심 강한 두 천재의 대결’을 줄여 부르는 말. 사소한 일로 투닥이는 것을 뜻함.]]></content>
+        <updated>2023-08-15T10:17:07.014Z</updated>
+        <content type="html"><![CDATA[1차로 방문할 예정인 핫플레이스에 웨이팅이 길 경우, 대기를 걸어두고 방문하는 주변 공간을 가리킴.]]></content>
     </entry>
 </feed>
