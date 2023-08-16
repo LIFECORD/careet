@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/2</id>
     <title>Careet ─ Contents ─ Z세대 최신 근황</title>
-    <updated>2023-08-16T03:17:25.043Z</updated>
+    <updated>2023-08-16T04:19:44.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 대학생들은 무인 편의점에서 공부한다? 대학가 무인 매장 근황 5]]></title>
+        <id>https://www.careet.net/1159</id>
+        <link href="https://www.careet.net/1159"/>
+        <updated>2023-08-16T04:19:09.499Z</updated>
+        <content type="html"><![CDATA[취준생은 면접 보러 회사 말고 ‘무인 면접 스튜디오’ 감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 틱톡에서 ‘고딩 둘이 브랜드 만들기’ 챌린지가 유행 중?]]></title>
         <id>https://www.careet.net/1126</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/1094"/>
         <updated>2023-05-31T01:40:11.125Z</updated>
         <content type="html"><![CDATA[요즘 Z세대는 이런 콘셉트로 화보 찍고 영상 편집하고 있어요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20만 원짜리 브랜드 키링이 인기? NEW 패션 트렌드]]></title>
-        <id>https://www.careet.net/1080</id>
-        <link href="https://www.careet.net/1080"/>
-        <updated>2023-05-23T02:35:15.996Z</updated>
-        <content type="html"><![CDATA[인형 키링 브랜드랑 콜라보하는 기업도 많아지고 있음!]]></content>
     </entry>
 </feed>
