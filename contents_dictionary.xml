@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-23T12:31:13.536Z</updated>
+    <updated>2023-08-23T13:19:58.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[예쁜 쓰레기]]></title>
+        <title type="html"><![CDATA[로고 플레이]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-23T12:31:03.962Z</updated>
-        <content type="html"><![CDATA[실용성은 없을지라도 감성을 충족시켜주는 물건들을 일컫는 말.]]></content>
+        <updated>2023-08-23T13:19:47.547Z</updated>
+        <content type="html"><![CDATA[패션 트렌드 중 하나로, 브랜드 로고를 활용해 의상이나 액세서리를 디자인하는 것을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페메]]></title>
+        <title type="html"><![CDATA[킹받는다]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-23T12:31:03.968Z</updated>
-        <content type="html"><![CDATA[페이스북 메시지의 줄임말.]]></content>
+        <updated>2023-08-23T13:19:47.554Z</updated>
+        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[진대]]></title>
+        <title type="html"><![CDATA[퍼블리시티권]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-23T12:31:03.969Z</updated>
-        <content type="html"><![CDATA[‘진지한 대화’의 줄임말.]]></content>
+        <updated>2023-08-23T13:19:47.558Z</updated>
+        <content type="html"><![CDATA[유명인이 자신의 성명이나 초상을 상품 등의 선전에 이용하는 것을 허락하는 권리.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서사]]></title>
+        <title type="html"><![CDATA[알티]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-23T12:31:03.970Z</updated>
-        <content type="html"><![CDATA[어떤 인물에게 부여된 스토리.]]></content>
+        <updated>2023-08-23T13:19:47.562Z</updated>
+        <content type="html"><![CDATA[다른 트위터리안의 트윗을 리트윗하는 걸 말함(rt).]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[드볼]]></title>
+        <title type="html"><![CDATA[공병템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-23T12:31:03.972Z</updated>
-        <content type="html"><![CDATA[포카, 스티커 등 여러 종으로 나온 굿즈를 모두 모으는 것을 만화 &lt;드래곤 볼&gt;에 빗대어 부르는 말.]]></content>
+        <updated>2023-08-23T13:19:47.565Z</updated>
+        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이모지(Emoji)]]></title>
+        <title type="html"><![CDATA[위버스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-23T12:31:03.973Z</updated>
-        <content type="html"><![CDATA[스마트폰에서 사용하는 그림 형태의 문자.]]></content>
+        <updated>2023-08-23T13:19:47.571Z</updated>
+        <content type="html"><![CDATA[좋아하는 아티스트에게 글을 쓰고 사진을 남길 수 있는 소셜 네트워킹 앱.]]></content>
     </entry>
 </feed>
