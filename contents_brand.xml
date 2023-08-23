@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/3</id>
     <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2023-08-23T05:15:34.339Z</updated>
+    <updated>2023-08-23T06:21:06.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Z세대에게 먹히는 AI 마케팅의 비밀은? 일 잘한 레퍼런스 2]]></title>
+        <id>https://www.careet.net/1161</id>
+        <link href="https://www.careet.net/1161"/>
+        <updated>2023-08-23T06:20:39.436Z</updated>
+        <content type="html"><![CDATA[지금 주목할 키워드 ‘AI’, 마케팅엔 어떻게 적용할 수 있을까?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이벤트, 이렇게 하면 잘할 수 있다! 스탠드오일, 빽다방, 롯데ON]]></title>
         <id>https://www.careet.net/1155</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/1130"/>
         <updated>2023-07-17T01:52:25.978Z</updated>
         <content type="html"><![CDATA[아이돌, 인플루언서 없이도 Z세대 주목 받은 영상 광고 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출시 전부터 주목 받으려면? ‘스포 마케팅’을 하셔야 합니다]]></title>
-        <id>https://www.careet.net/1120</id>
-        <link href="https://www.careet.net/1120"/>
-        <updated>2023-07-10T03:03:02.964Z</updated>
-        <content type="html"><![CDATA[QR 코드부터 암호까지 스포 마케팅 잘하는 방법 5가지]]></content>
     </entry>
 </feed>
