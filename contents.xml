@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-08-24T23:16:18.681Z</updated>
+    <updated>2023-08-25T01:07:31.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오픈 3일 전부터 텐트치고 기다리는 핫플레이스! 이주의 유행템 3]]></title>
+        <id>https://www.careet.net/1168</id>
+        <link href="https://www.careet.net/1168"/>
+        <updated>2023-08-25T01:06:33.182Z</updated>
+        <content type="html"><![CDATA[한 달 만에 500만 명이 다운 받은 갓생 앱이 있다고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탕후루 왜 이렇게 유행이야? Z세대 F&B 트렌드 최신판 정리해드림]]></title>
         <id>https://www.careet.net/1163</id>
