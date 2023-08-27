@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-27T15:15:03.571Z</updated>
+    <updated>2023-08-27T16:19:07.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[일잘러]]></title>
+        <title type="html"><![CDATA[인스타 돋보기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T15:14:53.895Z</updated>
-        <content type="html"><![CDATA[일 잘하는 사람을 뜻하는 신조어]]></content>
+        <updated>2023-08-27T16:18:57.003Z</updated>
+        <content type="html"><![CDATA[인스타그램 검색 탭을 일컫는 말. 인스타그램 알고리즘을 이용해 검색바 하단에 추천 콘텐츠를 보여줌. MZ세대가 시간 때울 때 주로 이용하는 기능.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커미션(commission)]]></title>
+        <title type="html"><![CDATA[갓기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T15:14:53.898Z</updated>
-        <content type="html"><![CDATA[보수를 받고 어떤 일을 처리해주는 행위. 주로 돈을 받고 원하는 콘텐츠(그림, 글)를 제작해줄 때 사용하는 말.]]></content>
+        <updated>2023-08-27T16:18:57.006Z</updated>
+        <content type="html"><![CDATA[God + 아기. 나이가 어리면서 뛰어난 실력을 가진 사람을 칭찬하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[먼치킨]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T15:14:53.899Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-08-27T16:18:57.008Z</updated>
+        <content type="html"><![CDATA[비상식적으로 강한 캐릭터를 가르키는 용어. ‘세계관 최강자’와 비슷하게 의미로 사용할 수 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팅글]]></title>
+        <title type="html"><![CDATA[어사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T15:14:53.900Z</updated>
-        <content type="html"><![CDATA['기분 좋은 소름'을 뜻하는 ASMR 용어.]]></content>
+        <updated>2023-08-27T16:18:57.011Z</updated>
+        <content type="html"><![CDATA[어색한 사이의 줄임말↔찐친]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내수 밈]]></title>
+        <title type="html"><![CDATA[세포마켓]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T15:14:53.902Z</updated>
-        <content type="html"><![CDATA[온라인에서 널리 쓰이는 밈이 아닌, 특정 트위치 스트리머가 진행하는 방송에서만 사용되는 밈. 마치 내수(국내 수요, Domestic)용 제품처럼 특정한 사람들만 사용하고 외부로 확장되지 않는다는 뜻에서 붙여진 말.]]></content>
+        <updated>2023-08-27T16:18:57.014Z</updated>
+        <content type="html"><![CDATA[1인 미디어 시대에서 SNS를 통해 이뤄지는 1인 마켓. 기업 단위가 아닌 1인 사업자가 주를 이뤄 세포가 분열하는 것처럼 개인 단위로 발전하는 현상을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코덕]]></title>
+        <title type="html"><![CDATA[지비츠]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-27T15:14:53.906Z</updated>
-        <content type="html"><![CDATA[화장품(Cosmetic) 덕후를 부르는 말.]]></content>
+        <updated>2023-08-27T16:18:57.016Z</updated>
+        <content type="html"><![CDATA[신발 ‘크록스’를 장식하는 아이템. 각종 캐릭터 모양 등 알파세대와 Z세대의 트렌드를 반영한 형태가 많음.]]></content>
     </entry>
 </feed>
