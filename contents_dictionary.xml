@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-08-28T08:21:15.943Z</updated>
+    <updated>2023-08-28T09:17:04.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[K 패치]]></title>
+        <title type="html"><![CDATA[불펌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-28T08:21:07.400Z</updated>
-        <content type="html"><![CDATA[외국에서 온 물건이나 문화가 한국의 특성을 반영해 변형된 것을 뜻함.]]></content>
+        <updated>2023-08-28T09:16:55.621Z</updated>
+        <content type="html"><![CDATA[인터넷상에서, 불법으로 다른 사람의 게시물을 그대로 가져오거나 가져가는 일. ‘불법 퍼 옴’의 줄인 말이다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신박한]]></title>
+        <title type="html"><![CDATA[캘박]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-28T08:21:07.402Z</updated>
-        <content type="html"><![CDATA[‘새롭고 놀랍다’란 뜻으로 신기하면서도 참신한 경우에 사용되는 신조어.]]></content>
+        <updated>2023-08-28T09:16:55.623Z</updated>
+        <content type="html"><![CDATA[‘캘린더’와 ‘박제’의 줄임말. 중요한 일정을 캘린더에 저장해둔다는 뜻임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[근자감]]></title>
+        <title type="html"><![CDATA[움짤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-28T08:21:07.403Z</updated>
-        <content type="html"><![CDATA[근거 없는 자신감의 줄임말.]]></content>
+        <updated>2023-08-28T09:16:55.625Z</updated>
+        <content type="html"><![CDATA[움직이는 짤방의 준말. gif 파일로 제작된 이미지를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[광클]]></title>
+        <title type="html"><![CDATA[팬싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-28T08:21:07.405Z</updated>
-        <content type="html"><![CDATA[‘狂+click’의 줄임말. 아주 빠른 속도로 클릭하는 것을 의미함.]]></content>
+        <updated>2023-08-28T09:16:55.627Z</updated>
+        <content type="html"><![CDATA[팬 사인회의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저메추]]></title>
+        <title type="html"><![CDATA[찐친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-28T08:21:07.406Z</updated>
-        <content type="html"><![CDATA[‘저녁 메뉴 추천’의 줄임말. 뭘 먹으면 좋을지 상대에게 메뉴를 추천 받을 때 사용함. 비슷한 용어로 ‘점메추(점심 메뉴 추천)’가 있음.]]></content>
+        <updated>2023-08-28T09:16:55.628Z</updated>
+        <content type="html"><![CDATA[‘진짜 친한 친구’를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[케미]]></title>
+        <title type="html"><![CDATA[RT]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-08-28T08:21:07.408Z</updated>
-        <content type="html"><![CDATA[서로 간의 궁합이나 호흡을 부르는 데 쓰이는 말. ‘chemistry’에서 유래.]]></content>
+        <updated>2023-08-28T09:16:55.630Z</updated>
+        <content type="html"><![CDATA[‘리트윗(ReTweet)’의 약자. 트위터에서 다른 계정의 게시물을 자신의 계정에 공유하는 기능을 의미함.]]></content>
     </entry>
 </feed>
