@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/3</id>
     <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2023-09-04T04:19:40.580Z</updated>
+    <updated>2023-09-04T05:16:02.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘뉴진스X스포티파이’ 팝업 담당자 등판! Z세대가 칭찬한 콜라보 캠페인 2]]></title>
+        <id>https://www.careet.net/1173</id>
+        <link href="https://www.careet.net/1173"/>
+        <updated>2023-09-04T05:15:36.236Z</updated>
+        <content type="html"><![CDATA[Z세대가 샤라웃한 콜라보의 비결]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팝업스토어만 아셨나요? 요즘 오프라인 마케팅 트렌드는 ‘게릴라 이벤트’]]></title>
         <id>https://www.careet.net/1166</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/1146"/>
         <updated>2023-07-31T01:20:45.949Z</updated>
         <content type="html"><![CDATA[Z세대가 샤라웃하는 영상 광고의 비결]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주의 일 잘한 브랜드: 롯데웰푸드, 하나금융그룹]]></title>
-        <id>https://www.careet.net/1137</id>
-        <link href="https://www.careet.net/1137"/>
-        <updated>2023-07-24T02:37:08.333Z</updated>
-        <content type="html"><![CDATA[Z세대 반응이 좋아서 이벤트 기간을 연장했다고?]]></content>
     </entry>
 </feed>
