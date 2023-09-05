@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/2</id>
     <title>Careet ─ Contents ─ Z세대 최신 근황</title>
-    <updated>2023-09-05T02:20:52.355Z</updated>
+    <updated>2023-09-05T03:17:30.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벤치마킹하기 좋은 업사이클링 굿즈 레퍼런스 8]]></title>
+        <id>https://www.careet.net/1165</id>
+        <link href="https://www.careet.net/1165"/>
+        <updated>2023-09-05T03:16:56.662Z</updated>
+        <content type="html"><![CDATA[굿즈 트렌드! 업사이클링 제품이 이렇게 다양해졌어?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탕후루 왜 이렇게 유행이야? Z세대 F&B 트렌드 최신판 정리해드림]]></title>
         <id>https://www.careet.net/1163</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/1098"/>
         <updated>2023-06-14T01:28:06.843Z</updated>
         <content type="html"><![CDATA[#혼풋 트렌드, 들어보셨나요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT가 바꾼 캠퍼스 풍경, 대학생 100인에게 물었습니다]]></title>
-        <id>https://www.careet.net/1095</id>
-        <link href="https://www.careet.net/1095"/>
-        <updated>2023-06-07T09:22:38.312Z</updated>
-        <content type="html"><![CDATA[대학생 76%, ChatGPT 이용해본 적 있다]]></content>
     </entry>
 </feed>
