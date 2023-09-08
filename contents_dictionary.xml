@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-09-08T18:20:08.584Z</updated>
+    <updated>2023-09-08T19:13:21.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[마스킹 테이프]]></title>
+        <title type="html"><![CDATA[실친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-08T18:19:59.610Z</updated>
-        <content type="html"><![CDATA[손으로 찢어 사용할 수 있는 종이 테이프. 다양한 디자인으로, 다이어리를 꾸미는 MZ세대에게 필수템으로 통함.]]></content>
+        <updated>2023-09-08T19:13:11.229Z</updated>
+        <content type="html"><![CDATA[실제 친구의 줄임말. 온라인에서 사귄 친구가 아니라는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[와드]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-08T18:19:59.612Z</updated>
-        <content type="html"><![CDATA[관심 있는 정보의 업데이트 내용을 실시간으로 확인하기 위해서 댓글을 남겨두는 행위.]]></content>
+        <updated>2023-09-08T19:13:11.231Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모먼트]]></title>
+        <title type="html"><![CDATA[발레코어]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-08T18:19:59.614Z</updated>
-        <content type="html"><![CDATA[‘순간’을 뜻하는 영어 단어인 ‘moment’를 그대로 발음한 말. 특정한 모습이나 행동을 보여주는 순간들을 강조할 때 사용함. [용례] ‘OO적 모먼트’]]></content>
+        <updated>2023-09-08T19:13:11.233Z</updated>
+        <content type="html"><![CDATA[발레복에서 파생된 스타일을 부르는 말. 리본 장식이 대표적인 요소.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[짠테크]]></title>
+        <title type="html"><![CDATA[현질]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-08T18:19:59.616Z</updated>
-        <content type="html"><![CDATA[단순히 안 써서 아끼는 것이 아니라 불필요한 소비를 줄이고 낭비를 최소화하여 재물을 모으는 것.]]></content>
+        <updated>2023-09-08T19:13:11.236Z</updated>
+        <content type="html"><![CDATA[유료 게임 아이템을 사는 행위를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미공포]]></title>
+        <title type="html"><![CDATA[프박]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-08T18:19:59.618Z</updated>
-        <content type="html"><![CDATA[‘미공개 포토카드’의 줄임말. 앨범에 수록된 ‘공식 포토카드’를 제외한 포토카드를 일컬음. 보통 아이돌 팬들이 각종 이벤트에 참여해서 받게 되는 경우가 많음.]]></content>
+        <updated>2023-09-08T19:13:11.238Z</updated>
+        <content type="html"><![CDATA[‘프린팅박스’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[랜덤깡]]></title>
+        <title type="html"><![CDATA[비건]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-08T18:19:59.620Z</updated>
-        <content type="html"><![CDATA[랜덤 상품을 여러 개 구입해 열어보는 일을 부르는 말. ‘언박싱’과 비슷한 의미.]]></content>
+        <updated>2023-09-08T19:13:11.242Z</updated>
+        <content type="html"><![CDATA[원래는 채식주의 중에서도 가장 엄격한 단계를 뜻하는 단어지만, 요즘은 철학적인 이유로 동물성 식품을 섭취하지 않는 사람들을 통칭해 ‘비건’이라고 부르는 경우가 많음.]]></content>
     </entry>
 </feed>
