@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-09-10T01:12:10.979Z</updated>
+    <updated>2023-09-10T02:24:24.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[공병템]]></title>
+        <title type="html"><![CDATA[블챌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-10T01:12:02.135Z</updated>
-        <content type="html"><![CDATA[공병이 될 때까지 싹싹 긁어 쓸 정도로 잘 맞는 아이템이라는 뜻. 뷰티 카테고리에서 주로 쓰이는 표현.]]></content>
+        <updated>2023-09-10T02:24:15.583Z</updated>
+        <content type="html"><![CDATA[‘블로그 챌린지’의 줄임말. 6월부터 12월까지 6개월간 진행되는 장기 프로젝트로 매주 지정된 카테고리에 한 건 이상의 일기를 작성해야 챌린지를 이어갈 수 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이스터에그]]></title>
+        <title type="html"><![CDATA[광공]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-10T01:12:02.137Z</updated>
-        <content type="html"><![CDATA[콘텐츠나 이벤트 등에 숨겨진 메시지나 기능]]></content>
+        <updated>2023-09-10T02:24:15.587Z</updated>
+        <content type="html"><![CDATA[~에 대해 집착이 있는 사람을 뜻하는 MZ세대의 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[텅장]]></title>
+        <title type="html"><![CDATA[캐릿 해외 특파원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-10T01:12:02.142Z</updated>
-        <content type="html"><![CDATA[잔고가 없어 텅 빈 통장을 뜻함.]]></content>
+        <updated>2023-09-10T02:24:15.589Z</updated>
+        <content type="html"><![CDATA[글로벌 Z세대 트렌드 제보를 전담하는 캐릿의 1020 자문단.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팬싸]]></title>
+        <title type="html"><![CDATA[하울(haul)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-10T01:12:02.143Z</updated>
-        <content type="html"><![CDATA[팬 사인회의 줄임말.]]></content>
+        <updated>2023-09-10T02:24:15.590Z</updated>
+        <content type="html"><![CDATA[구매한 물건을 보여주면서 품평하는 유튜브 콘텐츠 포맷.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팔로인]]></title>
+        <title type="html"><![CDATA[게이미피케이션(Gamification)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-10T01:12:02.146Z</updated>
-        <content type="html"><![CDATA[follow(따르다) + 人(사람)의 합성어로, 신뢰하는 사람을 통해 정보를 얻는 MZ세대를 가리키는 말.]]></content>
+        <updated>2023-09-10T02:24:15.592Z</updated>
+        <content type="html"><![CDATA[게임적 사고와 게임 기법을 활용해 사용자를 몰입시키는 기법.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스]]></title>
+        <title type="html"><![CDATA[언택트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-10T01:12:02.148Z</updated>
-        <content type="html"><![CDATA[인쇄 스티커의 줄임말. 인쇄소에 원하는 도안을 보내면 스티커를 소량으로 제작할 수 있음.]]></content>
+        <updated>2023-09-10T02:24:15.594Z</updated>
+        <content type="html"><![CDATA[접촉하다라는 뜻의 '콘택트(contact)'와 부정어 '언(un-)'을 합성한 말.  비대면 방식을 뜻함.]]></content>
     </entry>
 </feed>
