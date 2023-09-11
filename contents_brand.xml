@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/3</id>
     <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2023-09-11T02:23:22.030Z</updated>
+    <updated>2023-09-11T03:16:58.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘체리피커’는 가라! Z세대가 찐으로 참여하게 만든 온/오프라인 이벤트 2]]></title>
+        <id>https://www.careet.net/1178</id>
+        <link href="https://www.careet.net/1178"/>
+        <updated>2023-09-11T03:16:33.194Z</updated>
+        <content type="html"><![CDATA[앱 다운로드 이벤트부터 유튜브 콘텐츠 팝업까지. 이 주의 일 잘한 사례 모음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘뉴진스X스포티파이’ 팝업 담당자 등판! Z세대가 칭찬한 콜라보 캠페인 2]]></title>
         <id>https://www.careet.net/1173</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/1151"/>
         <updated>2023-08-07T01:18:49.151Z</updated>
         <content type="html"><![CDATA[대기 인원만 1800명 몰린 상영회 이벤트가 있다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 화제가 된 영상 광고의 공통점은? 캐릿이 대신 요약해드림]]></title>
-        <id>https://www.careet.net/1146</id>
-        <link href="https://www.careet.net/1146"/>
-        <updated>2023-07-31T01:20:45.949Z</updated>
-        <content type="html"><![CDATA[Z세대가 샤라웃하는 영상 광고의 비결]]></content>
     </entry>
 </feed>
