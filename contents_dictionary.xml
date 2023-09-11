@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-09-11T16:21:49.014Z</updated>
+    <updated>2023-09-11T17:15:52.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[어사]]></title>
+        <title type="html"><![CDATA[안 고독한 채팅방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-11T16:21:39.446Z</updated>
-        <content type="html"><![CDATA[어색한 사이의 줄임말↔찐친]]></content>
+        <updated>2023-09-11T17:15:43.069Z</updated>
+        <content type="html"><![CDATA[대화가 없는 고독한 채팅방과 달리, 대화도 하며 특정 연예인의 짤(이미지)도 공유하는 카카오톡 오픈 채팅방.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[병약미]]></title>
+        <title type="html"><![CDATA[불펌]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-11T16:21:39.448Z</updated>
-        <content type="html"><![CDATA[‘병약하다’의 어근인 ‘병약’과 아름다움을 뜻하는 한자 ‘美’의 합성어.  ‘약하고 수척해 보여서 보호 본능을 자극하는 매력이 있다’는 뜻.]]></content>
+        <updated>2023-09-11T17:15:43.071Z</updated>
+        <content type="html"><![CDATA[인터넷상에서, 불법으로 다른 사람의 게시물을 그대로 가져오거나 가져가는 일. ‘불법 퍼 옴’의 줄인 말이다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타툰]]></title>
+        <title type="html"><![CDATA[웃음 벨]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-11T16:21:39.449Z</updated>
-        <content type="html"><![CDATA[인스타그램에 연재되는 만화(Cartoon)의 줄임말.]]></content>
+        <updated>2023-09-11T17:15:43.073Z</updated>
+        <content type="html"><![CDATA[벨을 누르면 종소리가 나는 것처럼, 보기만 하면 웃음이 터지는 밈이나 짤을 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알못]]></title>
+        <title type="html"><![CDATA[안읽씹]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-11T16:21:39.451Z</updated>
-        <content type="html"><![CDATA[어떤 분야에 대해 잘 알지 못하는 사람을 부르는 말↔잘알]]></content>
+        <updated>2023-09-11T17:15:43.076Z</updated>
+        <content type="html"><![CDATA[메시지를 읽지도 않고 답장도 하지 않는 경우를 일컫는 표현.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[입덕]]></title>
+        <title type="html"><![CDATA[코스프레]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-11T16:21:39.455Z</updated>
-        <content type="html"><![CDATA[入(들어갈 입) + 덕질의 합성어. ‘어떤 포인트에 반해서 덕질을 시작하게 되다’라는 뜻.]]></content>
+        <updated>2023-09-11T17:15:43.078Z</updated>
+        <content type="html"><![CDATA[‘코스튬 플레이(costume play)’의 줄임말. 게임·만화 속 캐릭터로 분장하고, 그들과 비슷한 행동을 흉내내는 것을 뜻함. 일종의 퍼포먼스라고 볼 수 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋댓구알]]></title>
+        <title type="html"><![CDATA[엄카]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-11T16:21:39.457Z</updated>
-        <content type="html"><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content>
+        <updated>2023-09-11T17:15:43.080Z</updated>
+        <content type="html"><![CDATA[‘엄마 카드’ 등 부모님의 카드를 부르는 말.]]></content>
     </entry>
 </feed>
