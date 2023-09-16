@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-09-16T05:14:57.221Z</updated>
+    <updated>2023-09-16T06:20:06.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[언택트]]></title>
+        <title type="html"><![CDATA[타임 스탬프]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-16T05:14:47.617Z</updated>
-        <content type="html"><![CDATA[접촉하다라는 뜻의 '콘택트(contact)'와 부정어 '언(un-)'을 합성한 말.  비대면 방식을 뜻함.]]></content>
+        <updated>2023-09-16T06:19:56.502Z</updated>
+        <content type="html"><![CDATA[유튜브 영상에서 특정 구간으로 바로 이동할 수 있도록 설명 란이나 댓글에 시간을 표시해 두는 기능.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트수]]></title>
+        <title type="html"><![CDATA[징검다리 소비]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-16T05:14:47.620Z</updated>
-        <content type="html"><![CDATA[스트리밍 플랫폼 ‘트위치’와 ‘백수’가 결합된 단어. 트위치를 시청하는 데 많은 시간을 보낸다는 뜻으로, 트위치 애청자를 상징하는 말로 쓰임.]]></content>
+        <updated>2023-09-16T06:19:56.503Z</updated>
+        <content type="html"><![CDATA[징검다리에 돌 하나를 추가하듯, 물건을 저렴하게 사기 위해 하나 이상의 사전 절차를 밟는 소비 패턴]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도믿맨]]></title>
+        <title type="html"><![CDATA[레딧]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-16T05:14:47.625Z</updated>
-        <content type="html"><![CDATA[‘도를 아십니까’라는 말과 함께 전도하려는 사람들을 뜻하는 말.]]></content>
+        <updated>2023-09-16T06:19:56.505Z</updated>
+        <content type="html"><![CDATA[미국에서 만들어진 커뮤니티 사이트로 해외 MZ세대가 즐겨찾음. 주제별 게시판인 ‘서브레딧’이 따로 있는 것이 특징.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[K 패치]]></title>
+        <title type="html"><![CDATA[멍]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-16T05:14:47.629Z</updated>
-        <content type="html"><![CDATA[외국에서 온 물건이나 문화가 한국의 특성을 반영해 변형된 것을 뜻함.]]></content>
+        <updated>2023-09-16T06:19:56.507Z</updated>
+        <content type="html"><![CDATA[불멍, 물멍, 숲멍 등 최근 MZ세대 사이에선 편안한 경관 앞에서 멍을 때리며 휴식을 취하는 것이 트렌드로 떠오름.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먹금]]></title>
+        <title type="html"><![CDATA[상플]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-16T05:14:47.632Z</updated>
-        <content type="html"><![CDATA[‘먹이 금지’의 줄임말. 대꾸하지 않고 무시하는 것을 의미함.]]></content>
+        <updated>2023-09-16T06:19:56.509Z</updated>
+        <content type="html"><![CDATA[‘상상 플레이’의 줄임말. MZ세대가 썰을 풀고 노는 문화를 칭하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알잘딱깔센]]></title>
+        <title type="html"><![CDATA[킹받는다]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-09-16T05:14:47.634Z</updated>
-        <content type="html"><![CDATA[‘알아서 잘 딱 깔끔하고 센스있게’의 줄임말. 게임 스트리머 우왁굳이 사용하며 널리 쓰이기 시작함.]]></content>
+        <updated>2023-09-16T06:19:56.512Z</updated>
+        <content type="html"><![CDATA[King +‘열받네’의 합성어. 기본적으로 열받는다는 의미지만, Z세대 사이에선 다양한 의미로 활용됨.]]></content>
     </entry>
 </feed>
