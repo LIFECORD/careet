@@ -2,49 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/1</id>
     <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
-    <updated>2023-09-17T18:19:26.117Z</updated>
+    <updated>2023-09-17T19:13:36.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.careet.net/content/images/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Z세대가 요즘 자주 쓴다고 검증해 준 밈 3]]></title>
-        <id>https://www.careet.net/1164</id>
-        <link href="https://www.careet.net/1164"/>
-        <updated>2023-09-08T02:22:38.005Z</updated>
-        <content type="html"><![CDATA[3분만 투자하면 최신 유행 드립 마스터 가능!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이중 몇 개나 아세요? 요즘 뜨는 밈 6개 속성 과외]]></title>
-        <id>https://www.careet.net/1142</id>
-        <link href="https://www.careet.net/1142"/>
-        <updated>2023-08-01T05:18:09.594Z</updated>
-        <content type="html"><![CDATA[SNS 밈, 또 생겼습니다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기획에 영감을 주는 ‘레전드 썰’ 모음]]></title>
-        <id>https://www.careet.net/1118</id>
-        <link href="https://www.careet.net/1118"/>
-        <updated>2023-07-26T01:24:21.128Z</updated>
-        <content type="html"><![CDATA[1020은 고사성어처럼 외우고 있다는 썰 13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNS 콘텐츠 제작할 때 참고하세요! Z세대는 다 아는 전단지 밈]]></title>
-        <id>https://www.careet.net/1103</id>
-        <link href="https://www.careet.net/1103"/>
-        <updated>2023-06-21T01:34:44.132Z</updated>
-        <content type="html"><![CDATA[“치악산 복숭아 당도최고”가 왜 밈이야?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐릿 1020 자문단 제보! 지금 쓰면 센스 있다고 칭찬받을 최신 밈 6]]></title>
-        <id>https://www.careet.net/1105</id>
-        <link href="https://www.careet.net/1105"/>
-        <updated>2023-06-15T05:15:41.533Z</updated>
-        <content type="html"><![CDATA[캐릿이 검증했으니까 안심하고 쓰셔도 됩니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘추구미’부터 ‘오우예 씨몬’까지! Z세대가 인증한 찐으로 자주 사용하는 밈 5]]></title>
-        <id>https://www.careet.net/1075</id>
-        <link href="https://www.careet.net/1075"/>
-        <updated>2023-05-08T01:17:50.916Z</updated>
-        <content type="html"><![CDATA[Z세대 픽 최신 유행어 알려드립니다]]></content>
-    </entry>
+    <icon>https://www.careet.net/Content/Series/favicon.ico</icon>
 </feed>
