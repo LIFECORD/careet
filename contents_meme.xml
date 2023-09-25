@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/1</id>
     <title>Careet ─ Contents ─ 요즘 뜨는 밈</title>
-    <updated>2023-09-24T23:15:43.769Z</updated>
+    <updated>2023-09-25T01:08:46.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘승훈이 됨’이 무슨 뜻? 유튜브 댓글에 자주 보이는 최신 밈 3]]></title>
+        <id>https://www.careet.net/1185</id>
+        <link href="https://www.careet.net/1185"/>
+        <updated>2023-09-25T01:08:06.307Z</updated>
+        <content type="html"><![CDATA[‘승훈이 됨=잘 모르겠어요’라는 뜻이라고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Z세대가 요즘 자주 쓴다고 검증해 준 밈 3]]></title>
         <id>https://www.careet.net/1164</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/1105"/>
         <updated>2023-09-17T20:17:09.326Z</updated>
         <content type="html"><![CDATA[캐릿이 검증했으니까 안심하고 쓰셔도 됩니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘추구미’부터 ‘오우예 씨몬’까지! Z세대가 인증한 찐으로 자주 사용하는 밈 5]]></title>
-        <id>https://www.careet.net/1075</id>
-        <link href="https://www.careet.net/1075"/>
-        <updated>2023-09-17T20:17:09.328Z</updated>
-        <content type="html"><![CDATA[Z세대 픽 최신 유행어 알려드립니다]]></content>
     </entry>
 </feed>
