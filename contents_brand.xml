@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/3</id>
     <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2023-10-04T07:16:34.831Z</updated>
+    <updated>2023-10-04T08:21:34.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Z세대 사이에서 ‘섭외 미쳤다!’는 반응을 얻고 싶다면? 섭외 마케팅 2]]></title>
+        <id>https://www.careet.net/1188</id>
+        <link href="https://www.careet.net/1188"/>
+        <updated>2023-10-04T08:21:10.040Z</updated>
+        <content type="html"><![CDATA[섭외부터 활용까지 Z세대 반응 좋았던 포인트는?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지하 주차장을 동굴로 바꿨다고? 콘셉트 잘 살린 마케팅 사례 3]]></title>
         <id>https://www.careet.net/1182</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/1161"/>
         <updated>2023-09-17T20:17:27.761Z</updated>
         <content type="html"><![CDATA[지금 주목할 키워드 ‘AI’, 마케팅엔 어떻게 적용할 수 있을까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이벤트, 이렇게 하면 잘할 수 있다! 스탠드오일, 빽다방, 롯데ON]]></title>
-        <id>https://www.careet.net/1155</id>
-        <link href="https://www.careet.net/1155"/>
-        <updated>2023-09-17T20:17:27.761Z</updated>
-        <content type="html"><![CDATA[온라인 이벤트 잘해서 커뮤니티 바이럴까지 되는 방법]]></content>
     </entry>
 </feed>
