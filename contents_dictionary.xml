@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-10-12T11:14:36.417Z</updated>
+    <updated>2023-10-12T12:32:23.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[갑분싸]]></title>
+        <title type="html"><![CDATA[인싸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-12T11:14:27.346Z</updated>
-        <content type="html"><![CDATA[‘갑자기 분위기 싸해짐’의 줄임말.]]></content>
+        <updated>2023-10-12T12:32:14.295Z</updated>
+        <content type="html"><![CDATA[‘인사이더(insider)’를 줄인 한국식 영어 표현. 사람들과 잘 어울리며 발이 넓은 사람을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생카]]></title>
+        <title type="html"><![CDATA[킬포]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-12T11:14:27.349Z</updated>
-        <content type="html"><![CDATA[생일 카페의 줄임말. 주로 아이돌의 생일을 기념하기 위해 열리며, 카페를 대관해 컵홀더 및 카페 내부를 아이돌 사진으로 꾸밈.]]></content>
+        <updated>2023-10-12T12:32:14.295Z</updated>
+        <content type="html"><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고독한 채팅방]]></title>
+        <title type="html"><![CDATA[홈쿡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-12T11:14:27.350Z</updated>
-        <content type="html"><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content>
+        <updated>2023-10-12T12:32:14.295Z</updated>
+        <content type="html"><![CDATA[집에서 하는 요리.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에브리타임]]></title>
+        <title type="html"><![CDATA[얼죽코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-12T11:14:27.350Z</updated>
-        <content type="html"><![CDATA[학교별 게시판이 운영되는 대학교 커뮤니티 서비스.]]></content>
+        <updated>2023-10-12T12:32:14.296Z</updated>
+        <content type="html"><![CDATA[‘얼죽코’란 얼어 죽어도 코트의 줄임말로, 날씨가 아주 추워도 코트 입는 것을 고집하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도믿맨]]></title>
+        <title type="html"><![CDATA[시참]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-12T11:14:27.350Z</updated>
-        <content type="html"><![CDATA[‘도를 아십니까’라는 말과 함께 전도하려는 사람들을 뜻하는 말.]]></content>
+        <updated>2023-10-12T12:32:14.298Z</updated>
+        <content type="html"><![CDATA[‘시청자 참여’의 줄임말. 게임 스트리머의 실시간 게임 방송에 시청자들이 직·간접적으로 함께 참여하는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킹리적 갓심]]></title>
+        <title type="html"><![CDATA[쩝쩝 박사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-12T11:14:27.358Z</updated>
-        <content type="html"><![CDATA[‘합리적 의심’에 접두어 ‘킹’과 ‘갓’을 붙여 강조한 신조어.]]></content>
+        <updated>2023-10-12T12:32:14.299Z</updated>
+        <content type="html"><![CDATA[척척 박사를 변형한 신조어. 먹는 것에 진심인 사람들을 일컬음.]]></content>
     </entry>
 </feed>
