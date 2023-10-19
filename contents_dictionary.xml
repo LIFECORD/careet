@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-10-19T06:22:21.763Z</updated>
+    <updated>2023-10-19T07:15:30.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[프사]]></title>
+        <title type="html"><![CDATA[짠테크]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-19T06:22:13.084Z</updated>
-        <content type="html"><![CDATA[‘프로필 사진’의 줄임말.]]></content>
+        <updated>2023-10-19T07:15:21.052Z</updated>
+        <content type="html"><![CDATA[단순히 안 써서 아끼는 것이 아니라 불필요한 소비를 줄이고 낭비를 최소화하여 재물을 모으는 것.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[댈컴]]></title>
+        <title type="html"><![CDATA[랜봉]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-19T06:22:13.084Z</updated>
-        <content type="html"><![CDATA[‘대리 커스터마이징’의 줄임말. 대리로 남의 아바타를 디자인해주는 것을 뜻함.]]></content>
+        <updated>2023-10-19T07:15:21.054Z</updated>
+        <content type="html"><![CDATA[판매하는 아이템을 랜덤하게 봉투에 담았다는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[콜렉트북]]></title>
+        <title type="html"><![CDATA[눈팅]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-19T06:22:13.090Z</updated>
-        <content type="html"><![CDATA[포토카드나 사진을 모아두는 앨범]]></content>
+        <updated>2023-10-19T07:15:21.057Z</updated>
+        <content type="html"><![CDATA[온라인 커뮤니티 등에서 게시글을 쓰거나 댓글을 달지 않고 오직 게시물을 읽기만 하는 것을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐릿 알파세대 자문단]]></title>
+        <title type="html"><![CDATA[인스타그래머블]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-19T06:22:13.096Z</updated>
-        <content type="html"><![CDATA[1020으로 구성된 캐릿의 알파세대 자문단 그룹. 동생, 과외 학생 등 알파세대와 접점이 있는 이들로 구성되어 있으며 알파세대 트렌드를 발 빠르게 전하는 역할을 맡고 있음.]]></content>
+        <updated>2023-10-19T07:15:21.059Z</updated>
+        <content type="html"><![CDATA[인스타그램(Instagram)에 올릴만 하다(able)는 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트수]]></title>
+        <title type="html"><![CDATA[다꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-19T06:22:13.096Z</updated>
-        <content type="html"><![CDATA[스트리밍 플랫폼 ‘트위치’와 ‘백수’가 결합된 단어. 트위치를 시청하는 데 많은 시간을 보낸다는 뜻으로, 트위치 애청자를 상징하는 말로 쓰임.]]></content>
+        <updated>2023-10-19T07:15:21.062Z</updated>
+        <content type="html"><![CDATA[다이어리 꾸미기의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[헤르미온느]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-19T06:22:13.097Z</updated>
-        <content type="html"><![CDATA[&lt;해리 포터&gt; 시리즈에 나오는 해리의 친구이자 모범생 캐릭터. 시간을 돌릴 수 있는 시계를 이용해 많은 수업을 듣는다. 시간 관리를 잘 하거나 열심히 사는 사람을 일컬어 헤르미온느라고 부름.]]></content>
+        <updated>2023-10-19T07:15:21.064Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
 </feed>
