@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-10-19T11:14:22.452Z</updated>
+    <updated>2023-10-19T12:33:00.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[밥약]]></title>
+        <title type="html"><![CDATA[샤라웃]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-19T11:14:14.384Z</updated>
-        <content type="html"><![CDATA[밥 약속의 줄임 말.]]></content>
+        <updated>2023-10-19T12:32:51.408Z</updated>
+        <content type="html"><![CDATA[‘Shout Out’의 한국식 발음. 주로 &lt;쇼미더머니&gt; 같은 힙합 경연 프로그램에서 존중의 의미를 담아 상대를 언급하는 행위를 말함. 요즘엔 ‘널리 알리다’라는 뜻으로도 사용됨.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[헤메코]]></title>
+        <title type="html"><![CDATA[프박]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-19T11:14:14.386Z</updated>
-        <content type="html"><![CDATA[헤어 메이크업 코디를 합쳐 부르는 말]]></content>
+        <updated>2023-10-19T12:32:51.409Z</updated>
+        <content type="html"><![CDATA[‘프린팅박스’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[버튜버]]></title>
+        <title type="html"><![CDATA[징검다리 소비]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-19T11:14:14.388Z</updated>
-        <content type="html"><![CDATA[버추얼 유튜버의 줄임말. 가상의 아바타를 내세워 인터넷 방송을 하는 유튜버를 뜻함.]]></content>
+        <updated>2023-10-19T12:32:51.411Z</updated>
+        <content type="html"><![CDATA[징검다리에 돌 하나를 추가하듯, 물건을 저렴하게 사기 위해 하나 이상의 사전 절차를 밟는 소비 패턴]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[입틀막]]></title>
+        <title type="html"><![CDATA[미슐랭]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-19T11:14:14.393Z</updated>
-        <content type="html"><![CDATA[‘입을 틀어 막다’의 줄임말. 주로 감정이 복받쳐 오를 때 사용함.]]></content>
+        <updated>2023-10-19T12:32:51.415Z</updated>
+        <content type="html"><![CDATA[특정 대상을 칭찬할 때 쓰이는 ‘OO 맛집이다’라는 표현이 변형된 버전. ex) “캐릿 트렌드 미슐랭이네”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혜자]]></title>
+        <title type="html"><![CDATA[별다꾸]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-19T11:14:14.394Z</updated>
-        <content type="html"><![CDATA[가성비가 좋다, 넉넉하고 인심이 후하다는 뜻. 배우 김혜자가 모델이었던 편의점 도시락이 가성비가 좋았던 것에서 유래함.]]></content>
+        <updated>2023-10-19T12:32:51.417Z</updated>
+        <content type="html"><![CDATA[다이어리부터 폴라로이드, 신발, 스마트폰 배경화면까지 별걸 다 꾸미는 MZ세대의 특징을 나타내는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TMI]]></title>
+        <title type="html"><![CDATA[어그로(aggro)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-19T11:14:14.396Z</updated>
-        <content type="html"><![CDATA[너무 많은 정보, 굳이 알려주지 않아도 될 정보를 일컫는 말(Too Much Information).]]></content>
+        <updated>2023-10-19T12:32:51.423Z</updated>
+        <content type="html"><![CDATA[상대의 관심을 끌거나 도발하기 위해 자극적인 행동을 하는 것을 뜻하는 인터넷 용어.]]></content>
     </entry>
 </feed>
