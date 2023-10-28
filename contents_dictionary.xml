@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-10-28T19:13:03.956Z</updated>
+    <updated>2023-10-28T20:16:14.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[킬포]]></title>
+        <title type="html"><![CDATA[펀슈머]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-28T19:12:55.312Z</updated>
-        <content type="html"><![CDATA[‘킬링 포인트’의 줄임말. ‘하이라이트’와 비슷한 의미로 사용됨.]]></content>
+        <updated>2023-10-28T20:16:06.055Z</updated>
+        <content type="html"><![CDATA[‘Fun(재미)’과 ‘Consumer(소비자)’의 합성어로, 소비 과정에서 재미를 추구하는 소비자를 일컫는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[빛삭]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-28T19:12:55.316Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-10-28T20:16:06.057Z</updated>
+        <content type="html"><![CDATA[‘빛의 속도로 삭제한다’의 줄임말로 인터넷상에 올린 게시물을 매우 빠르게 지운다는 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먼치킨]]></title>
+        <title type="html"><![CDATA[연반인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-28T19:12:55.318Z</updated>
-        <content type="html"><![CDATA[비상식적으로 강한 캐릭터를 가르키는 용어. ‘세계관 최강자’와 비슷하게 의미로 사용할 수 있음.]]></content>
+        <updated>2023-10-28T20:16:06.060Z</updated>
+        <content type="html"><![CDATA[연예인과 일반인을 합친 신조어. 연예인은 아니지만 연예인 만큼의 화제성을 가진 인물을 뜻함. 대표적인 인물로는 SBS 소속 PD 재재가 있음.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[도파민]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-28T19:12:55.320Z</updated>
+        <updated>2023-10-28T20:16:06.065Z</updated>
         <content type="html"><![CDATA[인체에 분비되는 신경전달물질로 쾌락을 느끼게 해주는 것으로 알려져 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언더붑]]></title>
+        <title type="html"><![CDATA[본캐]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-28T19:12:55.322Z</updated>
-        <content type="html"><![CDATA[총장이 짧아서 가슴 아래 부분이 드러나는 상의를 부르는 말.]]></content>
+        <updated>2023-10-28T20:16:06.068Z</updated>
+        <content type="html"><![CDATA[‘본래의 캐릭터’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위꾸]]></title>
+        <title type="html"><![CDATA[밀키트(meal kit)]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-10-28T19:12:55.324Z</updated>
-        <content type="html"><![CDATA[위장 꾸미기. 맛있는 식사를 하는 것을 꾸미기에 빗대어 부르는 말.]]></content>
+        <updated>2023-10-28T20:16:06.073Z</updated>
+        <content type="html"><![CDATA[레시피에 따라 미리 손질된 식재료가 팩에 들어있는 제품.]]></content>
     </entry>
 </feed>
