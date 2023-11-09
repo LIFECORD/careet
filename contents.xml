@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-11-08T23:16:24.075Z</updated>
+    <updated>2023-11-09T01:10:37.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다이소, 두끼, 아이브의 공통점은? 초통령! 알파세대 픽 브랜드·인물 리스트업]]></title>
+        <id>https://www.careet.net/1217</id>
+        <link href="https://www.careet.net/1217"/>
+        <updated>2023-11-09T01:09:39.822Z</updated>
+        <content type="html"><![CDATA[알파세대가 좋아하는 브랜드와 인물을 정리했습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘공간 경험’도 스펙이 된다? 공간이 곧 정체성인 ‘스페이스덴티티’ 세대]]></title>
         <id>https://www.careet.net/1218</id>
