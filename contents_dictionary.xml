@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-11-17T18:21:36.791Z</updated>
+    <updated>2023-11-17T19:13:55.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[직찍]]></title>
+        <title type="html"><![CDATA[커뮤니케이션 코스트]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-17T18:21:30.083Z</updated>
-        <content type="html"><![CDATA[(공식적으로 촬영된 것이 아닌) 팬이 직접 찍은 사진.]]></content>
+        <updated>2023-11-17T19:13:48.981Z</updated>
+        <content type="html"><![CDATA[조직에서 구성원들끼리 소통하기 위해 투입되는 시간, 비용, 노력 등을 의미함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[터프팅]]></title>
+        <title type="html"><![CDATA[병약미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-17T18:21:30.084Z</updated>
-        <content type="html"><![CDATA[천에 ‘터프팅 건’으로 실을 심어서 만드는 섬유 공예. 요즘 MZ세대 사이에서 인기를 얻고 있는 취미 활동임.]]></content>
+        <updated>2023-11-17T19:13:48.981Z</updated>
+        <content type="html"><![CDATA[‘병약하다’의 어근인 ‘병약’과 아름다움을 뜻하는 한자 ‘美’의 합성어.  ‘약하고 수척해 보여서 보호 본능을 자극하는 매력이 있다’는 뜻.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미공포]]></title>
+        <title type="html"><![CDATA[파티원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-17T18:21:30.086Z</updated>
-        <content type="html"><![CDATA[‘미공개 포토카드’의 줄임말. 앨범에 수록된 ‘공식 포토카드’를 제외한 포토카드를 일컬음. 보통 아이돌 팬들이 각종 이벤트에 참여해서 받게 되는 경우가 많음.]]></content>
+        <updated>2023-11-17T19:13:48.983Z</updated>
+        <content type="html"><![CDATA[게임 용어로 함께 퀘스트를 깨러 갈 팀원이라는 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[컨포]]></title>
+        <title type="html"><![CDATA[올드머니룩]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-17T18:21:30.088Z</updated>
-        <content type="html"><![CDATA[‘컨셉 포토’의 줄임말. 아이돌 앨범에 함께 포함되어 있는 사진을 뜻함.]]></content>
+        <updated>2023-11-17T19:13:48.984Z</updated>
+        <content type="html"><![CDATA[전통적인 부자들이 즐겨 입는 패션이라는 의미. 로고가 돋보이지 않고, 심플한 컬러와 단정한 디자인이 특징.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[하지만꽃]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-17T18:21:30.090Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-11-17T19:13:48.986Z</updated>
+        <content type="html"><![CDATA[벚꽃을 다르게 부르는 말. '벚꽃 = But꽃 = 하지만꽃'으로 바꿔 부른 카카오톡 짤에서 유래.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가심비]]></title>
+        <title type="html"><![CDATA[폰]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-17T18:21:30.091Z</updated>
-        <content type="html"><![CDATA[가격 대비 심리적 만족을 추구하는 소비 트렌드↔가성비]]></content>
+        <updated>2023-11-17T19:13:48.987Z</updated>
+        <content type="html"><![CDATA[MZ세대가 ‘가짜’를 표현할 때 쓰는 접두어. ex) 폰여행=가짜 여행, 폰콘서트=가짜 콘서트]]></content>
     </entry>
 </feed>
