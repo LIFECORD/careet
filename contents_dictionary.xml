@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-11-17T09:17:18.197Z</updated>
+    <updated>2023-11-17T10:18:24.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[드롭]]></title>
+        <title type="html"><![CDATA[소취]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-17T09:17:10.861Z</updated>
-        <content type="html"><![CDATA[특정 날짜, 특정 시간에 소량의 상품을 기습적으로 판매하는 방식. MZ세대 타깃 브랜드가 ‘래플’과 함께 자주 사용하는 판매 방식.]]></content>
+        <updated>2023-11-17T10:18:17.729Z</updated>
+        <content type="html"><![CDATA[소원 성취의 줄임말. ‘바라다’라는 뜻의 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스트리머]]></title>
+        <title type="html"><![CDATA[저메추]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-17T09:17:10.862Z</updated>
-        <content type="html"><![CDATA[유튜브, 트위치, 아프리카 같은 플랫폼에서 실시간 인터넷 방송을 하는 사람.]]></content>
+        <updated>2023-11-17T10:18:17.730Z</updated>
+        <content type="html"><![CDATA[‘저녁 메뉴 추천’의 줄임말. 뭘 먹으면 좋을지 상대에게 메뉴를 추천 받을 때 사용함. 비슷한 용어로 ‘점메추(점심 메뉴 추천)’가 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[슈스]]></title>
+        <title type="html"><![CDATA[좋댓구알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-17T09:17:10.863Z</updated>
-        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
+        <updated>2023-11-17T10:18:17.731Z</updated>
+        <content type="html"><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알계]]></title>
+        <title type="html"><![CDATA[힙성비]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-17T09:17:10.865Z</updated>
-        <content type="html"><![CDATA[트위터 계정 최초 생성 시 기본 프로필 사진인 알 그림을 프로필 사진으로 하고 있는 계정. 주로 본계를 숨기고 새로 계정을 만들어, 익명 뒤에 숨고 싶은 사람들이 이용함.]]></content>
+        <updated>2023-11-17T10:18:17.734Z</updated>
+        <content type="html"><![CDATA[비용 대비 트렌디하고 힙한 느낌을 극대화한 마케팅 방식]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일코]]></title>
+        <title type="html"><![CDATA[웃참]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-17T09:17:10.867Z</updated>
-        <content type="html"><![CDATA[‘일반인 코스프레’의 줄임말. 덕후라는 것을 타인에게 들키지 않도록 행동하는 것을 의미함.]]></content>
+        <updated>2023-11-17T10:18:17.736Z</updated>
+        <content type="html"><![CDATA[‘웃음 참기’의 줄임말. 웃기지만 웃어서 안되는 일이 있을 때 ‘웃음 참기 챌린지’를 한다고 표현하기도 함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[끌올]]></title>
+        <title type="html"><![CDATA[텅장]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-17T09:17:10.868Z</updated>
-        <content type="html"><![CDATA[이전에 있었던 일을 다시 끌어 올려 화제로 삼는 일을 부르는 말.]]></content>
+        <updated>2023-11-17T10:18:17.737Z</updated>
+        <content type="html"><![CDATA[잔고가 없어 텅 빈 통장을 뜻함.]]></content>
     </entry>
 </feed>
