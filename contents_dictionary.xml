@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-11-18T05:15:29.092Z</updated>
+    <updated>2023-11-18T06:20:30.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[예쁜 쓰레기]]></title>
+        <title type="html"><![CDATA[손댄스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-18T05:15:20.978Z</updated>
-        <content type="html"><![CDATA[실용성은 없을지라도 감성을 충족시켜주는 물건들을 일컫는 말.]]></content>
+        <updated>2023-11-18T06:20:22.462Z</updated>
+        <content type="html"><![CDATA[노래에 맞춰 손 모양으로 안무하는 것을 말함. 주로 ‘틱톡’에서 유행하고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언박싱]]></title>
+        <title type="html"><![CDATA[알잘딱깔센]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-18T05:15:20.978Z</updated>
-        <content type="html"><![CDATA[구매한 물건의 상자를 개봉하는 과정을 담은 유튜브 영상 포맷.]]></content>
+        <updated>2023-11-18T06:20:22.464Z</updated>
+        <content type="html"><![CDATA[‘알아서 잘 딱 깔끔하고 센스있게’의 줄임말. 게임 스트리머 우왁굳이 사용하며 널리 쓰이기 시작함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[찐텐]]></title>
+        <title type="html"><![CDATA[안 고독한 채팅방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-18T05:15:20.978Z</updated>
-        <content type="html"><![CDATA[‘진짜 텐션’의 줄임말. 꾸미지 않은 솔직한 분위기와 기분이 느껴진다는 뜻. 반대말은 ‘억텐(=억지 텐션)’.]]></content>
+        <updated>2023-11-18T06:20:22.466Z</updated>
+        <content type="html"><![CDATA[대화가 없는 고독한 채팅방과 달리, 대화도 하며 특정 연예인의 짤(이미지)도 공유하는 카카오톡 오픈 채팅방.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[헤메코]]></title>
+        <title type="html"><![CDATA[찐친]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-18T05:15:20.978Z</updated>
-        <content type="html"><![CDATA[헤어 메이크업 코디를 합쳐 부르는 말]]></content>
+        <updated>2023-11-18T06:20:22.467Z</updated>
+        <content type="html"><![CDATA[‘진짜 친한 친구’를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[손민수]]></title>
+        <title type="html"><![CDATA[생카]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-18T05:15:20.980Z</updated>
-        <content type="html"><![CDATA[웹툰 &lt;치즈인더트랩&gt;의 등장인물로 주인공 홍설을 몰래 따라하는 캐릭터. MZ세대 사이에서 ‘따라한다’ = ‘손민수 한다’로 통함.]]></content>
+        <updated>2023-11-18T06:20:22.468Z</updated>
+        <content type="html"><![CDATA[생일 카페의 줄임말. 주로 아이돌의 생일을 기념하기 위해 열리며, 카페를 대관해 컵홀더 및 카페 내부를 아이돌 사진으로 꾸밈.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OOTD]]></title>
+        <title type="html"><![CDATA[교복템]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-18T05:15:20.981Z</updated>
-        <content type="html"><![CDATA[‘Outfit Of The Day’의 줄임말. 당일 또는 특정 상황에서 입은 자신의 옷차림을 촬영하여 소셜미디어에 업로드하는 행위.]]></content>
+        <updated>2023-11-18T06:20:22.470Z</updated>
+        <content type="html"><![CDATA[마치 교복처럼 자주 입는(쓰는) 물건이라는 뜻.]]></content>
     </entry>
 </feed>
