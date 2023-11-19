@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-11-19T03:17:25.925Z</updated>
+    <updated>2023-11-19T04:20:11.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[떡메]]></title>
+        <title type="html"><![CDATA[짤털]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-19T03:17:18.750Z</updated>
-        <content type="html"><![CDATA[떡메모지의 줄임말. 상단이 본드로 제본된 메모지를 뜻함.]]></content>
+        <updated>2023-11-19T04:20:04.336Z</updated>
+        <content type="html"><![CDATA[‘짤 털기’의 줄임말. 온라인 게시판이나 SNS에 대량의 사진을 한꺼번에 올리는 일을 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포토 카드]]></title>
+        <title type="html"><![CDATA[좋댓구알]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-19T03:17:18.750Z</updated>
-        <content type="html"><![CDATA[아이돌 멤버의 사진으로 만든 카드로, 주로 앨범 당 한 장씩 들어있는 굿즈. 줄여서 ‘포카’라고 부름.]]></content>
+        <updated>2023-11-19T04:20:04.337Z</updated>
+        <content type="html"><![CDATA[좋아요, 댓글, 구독, 알림설정의 줄임말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오픈런]]></title>
+        <title type="html"><![CDATA[라방]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-19T03:17:18.751Z</updated>
-        <content type="html"><![CDATA[특정 상품을 구하기 위해 매장 오픈 시간 전에 줄을 서서 대기하는 행위. 공연계에서 쓰는 ‘오픈런’과는 다른 뜻.]]></content>
+        <updated>2023-11-19T04:20:04.338Z</updated>
+        <content type="html"><![CDATA[라이브 방송의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맛잘알]]></title>
+        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-19T03:17:18.752Z</updated>
-        <content type="html"><![CDATA['잘 안다', '잘 아는 사람'이라는 뜻의 신조어인 '잘알' 앞에 '맛'이 붙은 형태. 즉, 맛을 잘 아는 사람이라는 뜻]]></content>
+        <updated>2023-11-19T04:20:04.340Z</updated>
+        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타 돋보기]]></title>
+        <title type="html"><![CDATA[마음함]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-19T03:17:18.753Z</updated>
-        <content type="html"><![CDATA[인스타그램 검색 탭을 일컫는 말. 인스타그램 알고리즘을 이용해 검색바 하단에 추천 콘텐츠를 보여줌. MZ세대가 시간 때울 때 주로 이용하는 기능.]]></content>
+        <updated>2023-11-19T04:20:04.341Z</updated>
+        <content type="html"><![CDATA[트위터에서 하트 버튼을 누르면 ‘마음에 들어요’ 카테고리에 보관되는데, 이를 뜻하는 트위터 용어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생정]]></title>
+        <title type="html"><![CDATA[플미]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-11-19T03:17:18.758Z</updated>
-        <content type="html"><![CDATA[생활 정보의 줄임말.]]></content>
+        <updated>2023-11-19T04:20:04.342Z</updated>
+        <content type="html"><![CDATA[‘프리미엄’의 줄임말. 주로 희소성있는 제품이 판매가보다 비싸게 거래될 때 ‘플미붙었다’고 표현함.]]></content>
     </entry>
 </feed>
