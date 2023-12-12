@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-12T07:16:20.966Z</updated>
+    <updated>2023-12-12T08:22:05.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[까방]]></title>
+        <title type="html"><![CDATA[원툴]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-12T07:16:13.785Z</updated>
-        <content type="html"><![CDATA[까임방지의 줄임말. 타인이나 사회의 비난을 미리 피하는 것을 의미함.]]></content>
+        <updated>2023-12-12T08:21:58.973Z</updated>
+        <content type="html"><![CDATA[(one tool) 한 가지만 잘 한다는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도무송]]></title>
+        <title type="html"><![CDATA[헤메코]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-12T07:16:13.786Z</updated>
-        <content type="html"><![CDATA[칼선이 들어가 모양대로 뗄 수 있는 스티커. 일반적으로 한 장에 스티커 하나씩 들어가 있는 형태가 많음.]]></content>
+        <updated>2023-12-12T08:21:58.974Z</updated>
+        <content type="html"><![CDATA[헤어 메이크업 코디를 합쳐 부르는 말]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쇼츠]]></title>
+        <title type="html"><![CDATA[언어 감수성]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-12T07:16:13.788Z</updated>
-        <content type="html"><![CDATA[유튜브에서 2021년 베타 출시한 숏폼 서비스.]]></content>
+        <updated>2023-12-12T08:21:58.976Z</updated>
+        <content type="html"><![CDATA[언어에 대한 민감성, 언어에 대한 이해와 지식을 갖추어 일상 언어 속에 담긴 차별, 불평등, 반인권, 비민주적 요소를 감시해 내는 민감성.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코덕]]></title>
+        <title type="html"><![CDATA[공구]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-12T07:16:13.790Z</updated>
-        <content type="html"><![CDATA[화장품(Cosmetic) 덕후를 부르는 말.]]></content>
+        <updated>2023-12-12T08:21:58.977Z</updated>
+        <content type="html"><![CDATA[공동구매의 줄임말. 비용 절감 등을 이유로 특정 물건을 단체로 사는 구매 방식.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤]]></title>
+        <title type="html"><![CDATA[극호]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-12T07:16:13.791Z</updated>
-        <content type="html"><![CDATA[‘왜 이래’를 과장한 주접 유행어.]]></content>
+        <updated>2023-12-12T08:21:58.980Z</updated>
+        <content type="html"><![CDATA[‘극도로 호감’의 줄임말. 비슷한 의미의 표현으로는 ‘최애(=가장 사랑함)’가 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알파세대]]></title>
+        <title type="html"><![CDATA[파이프라인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-12T07:16:13.792Z</updated>
-        <content type="html"><![CDATA[2010~2024년 사이 출생한 세대. 호주의 사회학자 마크 맥크린이 수년간 여러 세대를 연구하다가, Z세대를 잇는 새로운 세대를 부르는 이름이 없다는 것을 느껴 붙인 이름.]]></content>
+        <updated>2023-12-12T08:21:58.982Z</updated>
+        <content type="html"><![CDATA[돈이 들어오는 시스템, 수입원.]]></content>
     </entry>
 </feed>
