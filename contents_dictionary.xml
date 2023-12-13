@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2023-12-13T19:14:34.880Z</updated>
+    <updated>2023-12-13T20:18:06.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[돈쭐]]></title>
+        <title type="html"><![CDATA[알티]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T19:14:27.478Z</updated>
-        <content type="html"><![CDATA[돈으로 혼쭐을 내주겠다는 뜻. 그만큼 많이 팔아주겠다는 긍정적인 의미로 사용됨.]]></content>
+        <updated>2023-12-13T20:17:58.789Z</updated>
+        <content type="html"><![CDATA[다른 트위터리안의 트윗을 리트윗하는 걸 말함(rt).]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실감세대]]></title>
+        <title type="html"><![CDATA[POV]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T19:14:27.481Z</updated>
-        <content type="html"><![CDATA[실감나는 경험을 선호하고 소비함으로써, 내가 지금 이곳에 존재하고 있음을 실감하는 세대.]]></content>
+        <updated>2023-12-13T20:17:58.791Z</updated>
+        <content type="html"><![CDATA[시점이라는 뜻의 ‘Point of View’의 약어. 주로 틱톡에서 상황극을 부르는 말로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도파민]]></title>
+        <title type="html"><![CDATA[뉴짤]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T19:14:27.483Z</updated>
-        <content type="html"><![CDATA[인체에 분비되는 신경전달물질로 쾌락을 느끼게 해주는 것으로 알려져 있음.]]></content>
+        <updated>2023-12-13T20:17:58.793Z</updated>
+        <content type="html"><![CDATA[새로 뜬 사진, 새로 뜬 gif]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넘사벽]]></title>
+        <title type="html"><![CDATA[학예사]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T19:14:27.484Z</updated>
-        <content type="html"><![CDATA[넘을 수 없는 4차원의 벽의 줄임말. 대상과 거리감이 많이 느껴질 때 주로 사용함.]]></content>
+        <updated>2023-12-13T20:17:58.795Z</updated>
+        <content type="html"><![CDATA[박물관, 미술관 등에서 작품 등을 수집, 전시 기획 등을 하는 전문 직업.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[그린워싱(Green washing)]]></title>
+        <title type="html"><![CDATA[쫌쫌따리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T19:14:27.485Z</updated>
-        <content type="html"><![CDATA[실제론 친환경이 아닌데 친환경인 척 광고하는 것.]]></content>
+        <updated>2023-12-13T20:17:58.796Z</updated>
+        <content type="html"><![CDATA[아주 조금씩 틈틈이를 뜻하는 MZ세대 신조어.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빙의글]]></title>
+        <title type="html"><![CDATA[준등기깡]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2023-12-13T19:14:27.486Z</updated>
-        <content type="html"><![CDATA[좋아하는 연예인을 대상으로 특정 상황을 설정해 작성한 글.]]></content>
+        <updated>2023-12-13T20:17:58.797Z</updated>
+        <content type="html"><![CDATA[준등기로 배송된 우편물을 뜯어보는 것. 10~20대는 포토 카드 등 소형 굿즈를 준등기로 거래하는 경우가 많아 생긴 신조어.]]></content>
     </entry>
 </feed>
