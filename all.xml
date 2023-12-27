@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/careet/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-27T17:14:20.448Z</updated>
+    <updated>2023-12-27T18:20:10.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[굿즈, 캐릭터까지! 국내에서도 곧 유행할 해외 트렌드 모음 (Careet ─ Contents ─ 전체 보기)]]></title>
@@ -421,129 +421,129 @@
                                                 <a href="https://www.yna.co.kr/view/AKR20231220130600017?input=1195m " class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서이추 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
-        <id>https://LIFECORD.github.io/careet/all.xml</id>
-        <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:12.745Z</updated>
-        <content type="html"><![CDATA[‘서로 이웃 추가’의 줄임말. 네이버 블로그에서 쓰이는 용어.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버실 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
-        <id>https://LIFECORD.github.io/careet/all.xml</id>
-        <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:12.746Z</updated>
-        <content type="html"><![CDATA[버전 실시간의 줄임말. 슬라임 영상에 상황극 음성이나 자막을 입힌 콘텐츠를 말함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[농놀 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
-        <id>https://LIFECORD.github.io/careet/all.xml</id>
-        <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:12.747Z</updated>
-        <content type="html"><![CDATA[‘농구 놀이’의 줄임말. 영화 &lt;더 퍼스트 슬램덩크&gt; 개봉으로 만들어진 농구 붐을 부르는 Z세대 유행어.]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[힙(hip) (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:12.753Z</updated>
+        <updated>2023-12-27T18:20:02.106Z</updated>
         <content type="html"><![CDATA[유행에 민감하고 인기가 많음을 의미하는 단어. ‘힙하다’, ‘힙한 OO’로 쓰임. (유사어: 트렌디하다)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플래그 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[코 세 글자 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:12.759Z</updated>
-        <content type="html"><![CDATA[앞날을 암시하는 복선의 의미로 사용됨. (용례: 가지 말라는 데 꼭 가네? 사망 플래그다!)]]></content>
+        <updated>2023-12-27T18:20:02.110Z</updated>
+        <content type="html"><![CDATA[MZ세대가 코로나19를 일컫는 말. 트위터에서 ‘코로나’라는 단어를 사용하면 계정이 잠기는 일이 발생해 코로나를 대체하는 표현으로 사용되기 시작함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뽀시래기 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[빌드업 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:12.761Z</updated>
-        <content type="html"><![CDATA[부스러기처럼 작고 귀엽다는 뜻의 MZ세대식 표현.]]></content>
+        <updated>2023-12-27T18:20:02.111Z</updated>
+        <content type="html"><![CDATA[‘쌓아 올린다’는 뜻의 건축 용어 ‘빌드업(Build-up)’에서 유래한 표현. SNS에서는 ‘말하고자 하는 내용=결론을 강조하기 위해 앞단에 설명을 쌓는 것’이라는 뜻으로 쓰인다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뷰잉파티 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <id>https://LIFECORD.github.io/careet/all.xml</id>
+        <link href="https://LIFECORD.github.io/careet/all.xml"/>
+        <updated>2023-12-27T18:20:02.113Z</updated>
+        <content type="html"><![CDATA[여러 사람들과 한 공간에서 경기 중계 방송을 시청하는 실내 응원전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실트 총공 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <id>https://LIFECORD.github.io/careet/all.xml</id>
+        <link href="https://LIFECORD.github.io/careet/all.xml"/>
+        <updated>2023-12-27T18:20:02.114Z</updated>
+        <content type="html"><![CDATA[원하는 메시지를 트위터 실시간 트렌드에 올리기 위해 해당 메시지가 포함된 트윗을 일제히 작성하는 것. 주로 아이돌 팬들이 최애의 생일을 축하할 때 벌임.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼죽코 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <id>https://LIFECORD.github.io/careet/all.xml</id>
+        <link href="https://LIFECORD.github.io/careet/all.xml"/>
+        <updated>2023-12-27T18:20:02.115Z</updated>
+        <content type="html"><![CDATA[‘얼죽코’란 얼어 죽어도 코트의 줄임말로, 날씨가 아주 추워도 코트 입는 것을 고집하는 것을 의미함.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 내년에도 이어질 트렌드 vs 끝물인 트렌드 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:19.855Z</updated>
+        <updated>2023-12-27T18:20:09.762Z</updated>
         <content type="html"><![CDATA[vol.186]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RE: (내부용) 요즘 10대 연애 트렌드 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:19.855Z</updated>
+        <updated>2023-12-27T18:20:09.762Z</updated>
         <content type="html"><![CDATA[vol.185]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) Z세대는 다 안다는 이건안, 이지예는 누구? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:19.855Z</updated>
+        <updated>2023-12-27T18:20:09.762Z</updated>
         <content type="html"><![CDATA[vol.184]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Z세대 30만 명이 반응한 영감 기록법이 있다? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:19.856Z</updated>
+        <updated>2023-12-27T18:20:09.762Z</updated>
         <content type="html"><![CDATA[vol.183]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 30대는 모르는 중고등학생 문화 5 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:19.857Z</updated>
+        <updated>2023-12-27T18:20:09.764Z</updated>
         <content type="html"><![CDATA[vol.182]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트렌드 원조 맛집! 캐릿이 2024년 예언함 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:19.858Z</updated>
+        <updated>2023-12-27T18:20:09.770Z</updated>
         <content type="html"><![CDATA[vol.181]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 초등학생 인기 장래희망이 버튜버라고? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:19.859Z</updated>
+        <updated>2023-12-27T18:20:09.772Z</updated>
         <content type="html"><![CDATA[vol.180]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슬릭백 챌린지는 왜 유행하게 됐을까? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:19.862Z</updated>
+        <updated>2023-12-27T18:20:09.774Z</updated>
         <content type="html"><![CDATA[vol.179]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) Z세대 야구팬 화력이 아이돌 팬덤 급이라고? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:19.863Z</updated>
+        <updated>2023-12-27T18:20:09.775Z</updated>
         <content type="html"><![CDATA[vol.178]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[요즘 트렌드 찾기 너무 어렵죠? 다 OO 때문! (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:19.865Z</updated>
+        <updated>2023-12-27T18:20:09.779Z</updated>
         <content type="html"><![CDATA[vol.177]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 낭만은 왜 Z세대의 화두가 되었을까? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:19.866Z</updated>
+        <updated>2023-12-27T18:20:09.780Z</updated>
         <content type="html"><![CDATA[vol.176]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“구독하면 뭐 해주실 건데요?” 알파세대의 소통법 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2023-12-27T17:14:19.868Z</updated>
+        <updated>2023-12-27T18:20:09.781Z</updated>
         <content type="html"><![CDATA[vol. 175]]></content>
     </entry>
 </feed>
