@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-12-26T23:19:00.221Z</updated>
+    <updated>2023-12-27T01:09:32.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🥕굿즈, 캐릭터까지! 국내에서도 곧 유행할 해외 트렌드 모음]]></title>
+        <id>https://www.careet.net/1257</id>
+        <link href="https://www.careet.net/1257"/>
+        <updated>2023-12-27T01:08:46.165Z</updated>
+        <content type="html"><![CDATA[해외에서는 지금 ‘이것’ 만들기가 대유행 중!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Z세대 3명 중 1명은 국내 프로스포츠 리그 시청 중? 주요 스포츠 데이터 모음]]></title>
         <id>https://www.careet.net/1254</id>
