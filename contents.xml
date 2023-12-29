@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2023-12-29T01:00:37.418Z</updated>
+    <updated>2023-12-29T01:51:52.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[회의·미팅 가기 전 읽고 가세요! 내가 놓친 트렌드 3]]></title>
+        <id>https://www.careet.net/1259</id>
+        <link href="https://www.careet.net/1259"/>
+        <updated>2023-12-29T01:51:11.939Z</updated>
+        <content type="html"><![CDATA[하버드에서 연락왔다고 주접 떠는 게 유행이라고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이디어 싸움 어떻게 하면 이길 수 있을까? 일잘러의 영감 디깅법]]></title>
         <id>https://www.careet.net/1258</id>
