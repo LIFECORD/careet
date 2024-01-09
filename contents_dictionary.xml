@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2024-01-09T13:27:11.216Z</updated>
+    <updated>2024-01-09T14:16:31.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[착붙]]></title>
+        <title type="html"><![CDATA[슈스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-09T13:27:03.467Z</updated>
-        <content type="html"><![CDATA[‘착 달라붙는다’의 줄임말. 잘 어울린다는 의미로 쓰임.]]></content>
+        <updated>2024-01-09T14:16:23.248Z</updated>
+        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타 스토리]]></title>
+        <title type="html"><![CDATA[파티원]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-09T13:27:03.468Z</updated>
-        <content type="html"><![CDATA[인스타그램에서 24시간 동안만 공개되는 게시물. 개인의 피드에도 게시되지 않는 것이 특징.]]></content>
+        <updated>2024-01-09T14:16:23.249Z</updated>
+        <content type="html"><![CDATA[게임 용어로 함께 퀘스트를 깨러 갈 팀원이라는 의미.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잘파세대]]></title>
+        <title type="html"><![CDATA[국뽕]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-09T13:27:03.470Z</updated>
-        <content type="html"><![CDATA[Z세대와 알파세대를 묶어 부르는 말. 1996년 이후 출생자를 가리킴.]]></content>
+        <updated>2024-01-09T14:16:23.251Z</updated>
+        <content type="html"><![CDATA[부정적 어감으로 들리지만, 요즘 MZ세대가 쓰는 국뽕은 K팝과 한류의 성공으로 ‘국가에 대한 자긍심에 푹 빠짐’을 뜻하는 긍정적인 표현으로 쓰이고 있음.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시드 머니]]></title>
+        <title type="html"><![CDATA[밥약]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-09T13:27:03.472Z</updated>
-        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
+        <updated>2024-01-09T14:16:23.253Z</updated>
+        <content type="html"><![CDATA[밥 약속의 줄임 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현질]]></title>
+        <title type="html"><![CDATA[군백기]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-09T13:27:03.474Z</updated>
-        <content type="html"><![CDATA[유료 게임 아이템을 사는 행위를 뜻함.]]></content>
+        <updated>2024-01-09T14:16:23.255Z</updated>
+        <content type="html"><![CDATA[군대와 공백기의 합성어. 군 복무로 인한 연예인의 공백기를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[랜봉]]></title>
+        <title type="html"><![CDATA[걍생]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-09T13:27:03.475Z</updated>
-        <content type="html"><![CDATA[판매하는 아이템을 랜덤하게 봉투에 담았다는 뜻.]]></content>
+        <updated>2024-01-09T14:16:23.256Z</updated>
+        <content type="html"><![CDATA[‘그냥 생’의 준말. 갓생에 반대되는 말로 부지런하고 알찬 삶을 살지 말고 그냥 있는대로 살자는 뜻.]]></content>
     </entry>
 </feed>
