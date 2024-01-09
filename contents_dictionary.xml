@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2024-01-09T12:33:30.248Z</updated>
+    <updated>2024-01-09T13:27:11.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[버튜버]]></title>
+        <title type="html"><![CDATA[착붙]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-09T12:33:23.337Z</updated>
-        <content type="html"><![CDATA[버추얼 유튜버의 줄임말. 가상의 아바타를 내세워 인터넷 방송을 하는 유튜버를 뜻함.]]></content>
+        <updated>2024-01-09T13:27:03.467Z</updated>
+        <content type="html"><![CDATA[‘착 달라붙는다’의 줄임말. 잘 어울린다는 의미로 쓰임.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[젠더 뉴트럴]]></title>
+        <title type="html"><![CDATA[인스타 스토리]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-09T12:33:23.338Z</updated>
-        <content type="html"><![CDATA[남녀를 구분짓지 않는 성 중립적인 패션을 일컫는 말.]]></content>
+        <updated>2024-01-09T13:27:03.468Z</updated>
+        <content type="html"><![CDATA[인스타그램에서 24시간 동안만 공개되는 게시물. 개인의 피드에도 게시되지 않는 것이 특징.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[임플로이언서]]></title>
+        <title type="html"><![CDATA[잘파세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-09T12:33:23.343Z</updated>
-        <content type="html"><![CDATA[Employee+Influencer. 직원으로서 기업의 브랜딩과 이미지에 영향력을 미치는 존재.]]></content>
+        <updated>2024-01-09T13:27:03.470Z</updated>
+        <content type="html"><![CDATA[Z세대와 알파세대를 묶어 부르는 말. 1996년 이후 출생자를 가리킴.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국그릇핑크퐁]]></title>
+        <title type="html"><![CDATA[시드 머니]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-09T12:33:23.344Z</updated>
-        <content type="html"><![CDATA[웃음 소리를 나타낸 유행어 ‘ㅋㅋ루삥뽕’을 변형해서 쓰는 말.]]></content>
+        <updated>2024-01-09T13:27:03.472Z</updated>
+        <content type="html"><![CDATA[초기 자본, 종잣돈을 의미하는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금손]]></title>
+        <title type="html"><![CDATA[현질]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-09T12:33:23.346Z</updated>
-        <content type="html"><![CDATA[손재주가 좋은 사람을 일컫는 말. 반대말은 똥손.]]></content>
+        <updated>2024-01-09T13:27:03.474Z</updated>
+        <content type="html"><![CDATA[유료 게임 아이템을 사는 행위를 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[게임 시네마틱 트레일러]]></title>
+        <title type="html"><![CDATA[랜봉]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-09T12:33:23.347Z</updated>
-        <content type="html"><![CDATA[게임의 핵심이 되는 세계관과 스토리를 ‘영화 예고편’처럼 풀어낸 영상을 뜻함.]]></content>
+        <updated>2024-01-09T13:27:03.475Z</updated>
+        <content type="html"><![CDATA[판매하는 아이템을 랜덤하게 봉투에 담았다는 뜻.]]></content>
     </entry>
 </feed>
