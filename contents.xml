@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2024-01-09T23:17:13.967Z</updated>
+    <updated>2024-01-10T01:13:19.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘에이티즈 소속사 미쳤다’ MZ세대가 극찬한 아이돌 마케팅팀이 일하는 법]]></title>
+        <id>https://www.careet.net/1269</id>
+        <link href="https://www.careet.net/1269"/>
+        <updated>2024-01-10T01:12:28.077Z</updated>
+        <content type="html"><![CDATA[아이돌 컴백 프로모션 맛집! '에이티즈' 마케팅팀의 업무 노하우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성수 말고 어디서 놀아? Z세대가 생각하는 서울 핫플별 이미지]]></title>
         <id>https://www.careet.net/1265</id>
