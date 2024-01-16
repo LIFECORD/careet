@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/careet/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-15T23:17:52.999Z</updated>
+    <updated>2024-01-16T01:12:49.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[저장하세요! 2024년 마케팅에 설득력을 더하는 분야별 MZ세대 데이터 (Careet ─ Contents ─ 전체 보기)]]></title>
+        <id>https://www.careet.net/1272</id>
+        <link href="https://www.careet.net/1272"/>
+        <updated>2024-01-16T01:12:00.092Z</updated>
+        <content type="html"><![CDATA[인구, 라이프 스타일, 소비, 엔데믹, 가치관, 직장생활, AI/기술 데이터 모음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 오프라인 마케팅 트렌드 ‘장터 콘셉트’가 대세야? (Careet ─ Contents ─ 전체 보기)]]></title>
         <id>https://www.careet.net/1271</id>
@@ -351,129 +358,129 @@
                                                 <a href="https://www.donga.com/news/Culture/article/all/20240115/123051162/1" class="h-light fw700" title="해당 콘텐츠로 이동" target="_blank">기사 바로보기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인쇼 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[메타버스 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:45.347Z</updated>
-        <content type="html"><![CDATA[‘인터넷 쇼핑’의 줄임말.]]></content>
+        <updated>2024-01-16T01:12:42.157Z</updated>
+        <content type="html"><![CDATA[가상 세계와 현실 세계의 경계가 허물어진 3차원 가상 세계를 뜻함. 이용자는 아바타를 이용하여 메타버스 세계관 아래서 사회, 경제, 문화 활동을 함.  이를 활용한 대표적인 콘텐츠로는 게임 ‘로블록스’, ‘마인크래프트’, 증강현실 아바타 서비스 ‘제페토’등이 있다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소확성 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[폰꾸 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:45.348Z</updated>
-        <content type="html"><![CDATA[‘소소하지만 확실한 성취감’의 줄임말.]]></content>
+        <updated>2024-01-16T01:12:42.158Z</updated>
+        <content type="html"><![CDATA[폰꾸미기의 줄임말. 주로 휴대폰 배경화면이나 앱 아이콘을 커스텀 하는 것을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[떡상 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[버블 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:45.349Z</updated>
-        <content type="html"><![CDATA[원래는 주식이나 비트코인 등의 가격이 급등하는 것을 의미하지만, 무언가의 인기가 갑자기 높아졌다는 뜻으로도 사용됨.]]></content>
+        <updated>2024-01-16T01:12:42.160Z</updated>
+        <content type="html"><![CDATA[스타와 마치 1:1 메시지를 주고받는 것처럼 소통할 수 있게 만들어진 프라이빗 메시지 앱. 유료로 이용이 가능하며 아이돌 팬덤이 활발하게 이용하는 서비스로 유명함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[컨포 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[실감세대 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:45.352Z</updated>
-        <content type="html"><![CDATA[‘컨셉 포토’의 줄임말. 아이돌 앨범에 함께 포함되어 있는 사진을 뜻함.]]></content>
+        <updated>2024-01-16T01:12:42.161Z</updated>
+        <content type="html"><![CDATA[실감나는 경험을 선호하고 소비함으로써, 내가 지금 이곳에 존재하고 있음을 실감하는 세대.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고독한 채팅방 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[즈즈즈 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:45.354Z</updated>
-        <content type="html"><![CDATA[대화 없이 특정 연예인의 짤(이미지)만 공유하는 카카오톡 오픈 채팅방]]></content>
+        <updated>2024-01-16T01:12:42.164Z</updated>
+        <content type="html"><![CDATA[아이돌 그룹 ‘더보이즈’, ‘스트레이키즈’, ‘에이티즈’를 합쳐 부르는 말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하지만꽃 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
+        <title type="html"><![CDATA[인장 (Careet ─ Contents ─ MZ 용어 사전)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:45.355Z</updated>
-        <content type="html"><![CDATA[벚꽃을 다르게 부르는 말. '벚꽃 = But꽃 = 하지만꽃'으로 바꿔 부른 카카오톡 짤에서 유래.]]></content>
+        <updated>2024-01-16T01:12:42.165Z</updated>
+        <content type="html"><![CDATA[트위터에서 ‘프로필 사진’을 일컫는 말. 프로필 사진이 올라가는 템플릿이 도장처럼 동그란 데서 유래한 별칭.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Z세대가 생각하는 서울 핫플별 이미지 9 (캐릿 ─ Trend letter)]]></title>
+        <id>https://LIFECORD.github.io/careet/all.xml</id>
+        <link href="https://LIFECORD.github.io/careet/all.xml"/>
+        <updated>2024-01-16T01:12:49.214Z</updated>
+        <content type="html"><![CDATA[vol.189]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 캐릿이 만든 한정판 ‘Z세대 캘린더’ 나눔 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:52.424Z</updated>
+        <updated>2024-01-16T01:12:49.216Z</updated>
         <content type="html"><![CDATA[vol.188]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일잘러 특: 뉴스레터 안 밀림 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:52.426Z</updated>
+        <updated>2024-01-16T01:12:49.217Z</updated>
         <content type="html"><![CDATA[vol.187]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 내년에도 이어질 트렌드 vs 끝물인 트렌드 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:52.427Z</updated>
+        <updated>2024-01-16T01:12:49.219Z</updated>
         <content type="html"><![CDATA[vol.186]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RE: (내부용) 요즘 10대 연애 트렌드 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:52.429Z</updated>
+        <updated>2024-01-16T01:12:49.220Z</updated>
         <content type="html"><![CDATA[vol.185]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) Z세대는 다 안다는 이건안, 이지예는 누구? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:52.430Z</updated>
+        <updated>2024-01-16T01:12:49.223Z</updated>
         <content type="html"><![CDATA[vol.184]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Z세대 30만 명이 반응한 영감 기록법이 있다? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:52.432Z</updated>
+        <updated>2024-01-16T01:12:49.224Z</updated>
         <content type="html"><![CDATA[vol.183]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 30대는 모르는 중고등학생 문화 5 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:52.433Z</updated>
+        <updated>2024-01-16T01:12:49.226Z</updated>
         <content type="html"><![CDATA[vol.182]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트렌드 원조 맛집! 캐릿이 2024년 예언함 (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:52.435Z</updated>
+        <updated>2024-01-16T01:12:49.228Z</updated>
         <content type="html"><![CDATA[vol.181]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) 초등학생 인기 장래희망이 버튜버라고? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:52.436Z</updated>
+        <updated>2024-01-16T01:12:49.229Z</updated>
         <content type="html"><![CDATA[vol.180]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슬릭백 챌린지는 왜 유행하게 됐을까? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:52.437Z</updated>
+        <updated>2024-01-16T01:12:49.231Z</updated>
         <content type="html"><![CDATA[vol.179]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광고) Z세대 야구팬 화력이 아이돌 팬덤 급이라고? (캐릿 ─ Trend letter)]]></title>
         <id>https://LIFECORD.github.io/careet/all.xml</id>
         <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:52.439Z</updated>
+        <updated>2024-01-16T01:12:49.232Z</updated>
         <content type="html"><![CDATA[vol.178]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 트렌드 찾기 너무 어렵죠? 다 OO 때문! (캐릿 ─ Trend letter)]]></title>
-        <id>https://LIFECORD.github.io/careet/all.xml</id>
-        <link href="https://LIFECORD.github.io/careet/all.xml"/>
-        <updated>2024-01-15T23:17:52.440Z</updated>
-        <content type="html"><![CDATA[vol.177]]></content>
     </entry>
 </feed>
