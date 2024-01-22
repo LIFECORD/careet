@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/Series/3</id>
     <title>Careet ─ Contents ─ 이주의 일 잘한 브랜드</title>
-    <updated>2024-01-21T23:17:02.536Z</updated>
+    <updated>2024-01-22T01:16:16.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SNS 운영부터 굿즈 출시까지, 소비자와 소통 잘해서 칭찬 받은 브랜드 2]]></title>
+        <id>https://www.careet.net/1279</id>
+        <link href="https://www.careet.net/1279"/>
+        <updated>2024-01-22T01:15:55.482Z</updated>
+        <content type="html"><![CDATA[이주의 주목할 레퍼런스는?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 오프라인 마케팅 트렌드 ‘장터 콘셉트’가 대세야?]]></title>
         <id>https://www.careet.net/1271</id>
@@ -39,12 +46,5 @@
         <link href="https://www.careet.net/1239"/>
         <updated>2023-12-04T01:12:04.126Z</updated>
         <content type="html"><![CDATA[웨이팅만 평균 150팀! Z세대에게 호평받은 캠페인은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팝업스토어에서 배를 탈 수 있다? 역대급 스케일로 주목받은 이주의 일 잘한 브랜드]]></title>
-        <id>https://www.careet.net/1233</id>
-        <link href="https://www.careet.net/1233"/>
-        <updated>2023-11-27T03:17:34.726Z</updated>
-        <content type="html"><![CDATA[팝업부터 굿즈까지! 영감을 얻을 수 있는 레퍼런스 4]]></content>
     </entry>
 </feed>

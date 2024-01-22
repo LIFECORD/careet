@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Content/All</id>
     <title>Careet ─ Contents ─ 전체 보기</title>
-    <updated>2024-01-21T23:17:02.546Z</updated>
+    <updated>2024-01-22T01:16:16.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SNS 운영부터 굿즈 출시까지, 소비자와 소통 잘해서 칭찬 받은 브랜드 2]]></title>
+        <id>https://www.careet.net/1279</id>
+        <link href="https://www.careet.net/1279"/>
+        <updated>2024-01-22T01:15:29.473Z</updated>
+        <content type="html"><![CDATA[이주의 주목할 레퍼런스는?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이어리 대신 쓴다! 품절 대란 일어난 ‘신년 필수템’은? 이주의 유행템 4]]></title>
         <id>https://www.careet.net/1275</id>
