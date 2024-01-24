@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.careet.net/Dictionary</id>
     <title>Careet ─ Contents ─ MZ 용어 사전</title>
-    <updated>2024-01-24T21:15:45.222Z</updated>
+    <updated>2024-01-24T22:16:29.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.careet.net/content/images/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[컨셉러]]></title>
+        <title type="html"><![CDATA[세포마켓]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-24T21:15:37.066Z</updated>
-        <content type="html"><![CDATA[‘콘셉트(concept)’와 ‘~하는 사람(-er)’의 합성어로, 자신만의 설정을 만들어 행동하는 사람을 일컫는 말.]]></content>
+        <updated>2024-01-24T22:16:21.537Z</updated>
+        <content type="html"><![CDATA[1인 미디어 시대에서 SNS를 통해 이뤄지는 1인 마켓. 기업 단위가 아닌 1인 사업자가 주를 이뤄 세포가 분열하는 것처럼 개인 단위로 발전하는 현상을 뜻함.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자컨]]></title>
+        <title type="html"><![CDATA[파이프라인]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-24T21:15:37.067Z</updated>
-        <content type="html"><![CDATA[‘자체 제작 컨텐츠’의 줄임말. 방송사가 아닌 소속사가 직접 제작하는 아티스트 관련 콘텐츠를 말함.]]></content>
+        <updated>2024-01-24T22:16:21.541Z</updated>
+        <content type="html"><![CDATA[돈이 들어오는 시스템, 수입원.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온콘]]></title>
+        <title type="html"><![CDATA[크리에이터 세대]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-24T21:15:37.068Z</updated>
-        <content type="html"><![CDATA[온라인 콘서트의 줄임말.]]></content>
+        <updated>2024-01-24T22:16:21.541Z</updated>
+        <content type="html"><![CDATA[콘텐츠를 직접 만드는 것이 익숙한 세대. 크리에이터 자아를 중요한 정체성으로 여김.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에타]]></title>
+        <title type="html"><![CDATA[가심비]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-24T21:15:37.070Z</updated>
-        <content type="html"><![CDATA[학교 인증을 거친 재학생들만 이용할 수 있는 익명 커뮤니티 플랫폼 ‘에브리타임’의 줄임말. 과거 학교 커뮤니티와 비슷한 기능을 함.]]></content>
+        <updated>2024-01-24T22:16:21.543Z</updated>
+        <content type="html"><![CDATA[가격 대비 심리적 만족을 추구하는 소비 트렌드↔가성비]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[별다꾸]]></title>
+        <title type="html"><![CDATA[취준]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-24T21:15:37.072Z</updated>
-        <content type="html"><![CDATA[다이어리부터 폴라로이드, 신발, 스마트폰 배경화면까지 별걸 다 꾸미는 MZ세대의 특징을 나타내는 말.]]></content>
+        <updated>2024-01-24T22:16:21.545Z</updated>
+        <content type="html"><![CDATA[‘취업 준비’의 줄임말.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴노멀(New normal)]]></title>
+        <title type="html"><![CDATA[슈스]]></title>
         <id>https://www.careet.net/Dictionary</id>
         <link href="https://www.careet.net/Dictionary"/>
-        <updated>2024-01-24T21:15:37.073Z</updated>
-        <content type="html"><![CDATA[상황 변화에 따라 과거의 표준이 더 이상 통하지 않고 새로운 가치 표준이 세상 변화를 주도하는 상태.]]></content>
+        <updated>2024-01-24T22:16:21.546Z</updated>
+        <content type="html"><![CDATA[슈퍼스타의 줄임말.]]></content>
     </entry>
 </feed>
